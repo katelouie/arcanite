@@ -1,0 +1,683 @@
+{
+  "card_id": "ace_of_cups",
+  "card_name": "Ace of Cups",
+  "card_number": 1,
+  "suit": "cups",
+  "archetype": "the_healer",
+  "core_meanings": {
+    "upright": {
+      "essence": "Overpouring love, compassion, and emotional renewal. A fountain of feelings flowing freely and filling the heart with joy.",
+      "keywords": [
+        "new emotional beginning",
+        "compassion",
+        "love",
+        "joy",
+        "spiritual awakening",
+        "intuition",
+        "openness",
+        "healing"
+      ],
+      "psychological": "Represents the heart opening to vulnerability and empathy, allowing a deeper connection with self and others.",
+      "spiritual": "A spiritual renewal that aligns the heart with universal love and divine inspiration, creating a profound sense of connection.",
+      "practical": "Encourages you to embrace new relationships or creative projects with an open heart. Be receptive to love and inspiration.",
+      "shadow": "Being overwhelmed by emotions or getting lost in daydreams, neglecting reality in favor of idealized visions of love."
+    },
+    "reversed": {
+      "essence": "Blocked emotions and suppressed feelings. A need to uncover and heal emotional wounds that prevent the flow of love.",
+      "keywords": [
+        "emotional blockage",
+        "repression",
+        "disconnection",
+        "missed opportunities",
+        "fear of vulnerability",
+        "unresolved issues"
+      ],
+      "psychological": "Indicates emotional barriers that prevent true intimacy or self-love, often caused by past hurts or fears.",
+      "spiritual": "A spiritual drought where disconnection from divine love leads to feelings of emptiness or unfulfilled longing.",
+      "practical": "Time to explore and heal emotional wounds. Don't shy away from seeking help or opening up to others.",
+      "shadow": "Avoiding deep emotional work, leading to shallow relationships and unfulfilled desires. Ignoring the heart's whispers."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A past emotional awakening or loving relationship that continues to influence your present life in beautiful ways.",
+        "reversed": "Unhealed emotional wounds or missed opportunities for connection that still linger in your psyche.",
+        "keywords": [
+          "past love",
+          "emotional awakening",
+          "unresolved issues",
+          "missed connection"
+        ]
+      },
+      "distant_past": {
+        "upright": "An early experience of love or compassion that established a base of emotional richness in your life.",
+        "reversed": "Long-standing emotional neglect or pain from childhood still impacting your ability to connect.",
+        "keywords": [
+          "early love",
+          "compassion",
+          "childhood wounds",
+          "emotional foundation"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent outpouring of emotion or start of a heartfelt connection that has charged your life with joy.",
+        "reversed": "Recent emotional setbacks or feelings of disconnection from yourself or others affecting your current state.",
+        "keywords": [
+          "recent connection",
+          "heartfelt moment",
+          "emotional setback",
+          "recent disconnection"
+        ]
+      },
+      "present": {
+        "upright": "You are amid a powerful flow of emotions and connections. Embrace the love and open your heart fully.",
+        "reversed": "Current emotional walls may prevent new experiences. Time to focus on healing and opening up again.",
+        "keywords": [
+          "emotional flow",
+          "open heart",
+          "emotional walls",
+          "new experiences"
+        ]
+      },
+      "present_situation": {
+        "upright": "Your present is filled with the richness of emotions. Allow the beauty of love to guide your steps.",
+        "reversed": "The core issue involves emotional blockages that require attention and healing to find fulfillment.",
+        "keywords": [
+          "emotional richness",
+          "core beauty",
+          "emotional blockage",
+          "heart's center"
+        ]
+      },
+      "future": {
+        "upright": "A forthcoming experience will overflow with love and compassion, offering a deeply fulfilling connection.",
+        "reversed": "Future emotional challenges may stem from unresolved issues today. Healing is vital for upcoming joy.",
+        "keywords": [
+          "future love",
+          "overflowing emotion",
+          "emotional challenges",
+          "unresolved healing"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, an opportunity to connect or express emotions will present itself. Be open to receive and give.",
+        "reversed": "Imminent emotional hurdles requiring you to confront blocks and seek deeper understanding of your needs.",
+        "keywords": [
+          "upcoming connection",
+          "express feelings",
+          "emotional hurdle",
+          "deeper understanding"
+        ]
+      },
+      "distant_future": {
+        "upright": "The future holds a life brimming with love and creativity as a result of nurturing today's emotional garden.",
+        "reversed": "Long-term emotional stagnation unless current blockages are genuinely addressed and healed.",
+        "keywords": [
+          "love abundance",
+          "creative future",
+          "long-term stagnation",
+          "emotional healing"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge lies in allowing yourself to feel deeply and express emotions without fear of judgment or rejection.",
+        "reversed": "Facing and healing emotional scars that create defensive barriers to genuine connection and joy.",
+        "keywords": [
+          "emotional expression",
+          "fear of judgment",
+          "emotional scars",
+          "defensive barriers"
+        ]
+      },
+      "cross": {
+        "upright": "Fear of vulnerability prevents you from fully opening to love or creative inspiration. Trust the flow.",
+        "reversed": "Emotional blockages from past betrayals or disappointments are crossing your ability to connect openly.",
+        "keywords": [
+          "fear of vulnerability",
+          "inspiration block",
+          "past betrayals",
+          "emotional cross"
+        ]
+      },
+      "obstacle": {
+        "upright": "Cynicism and fear may stand in the way of your natural capacity for empathy and emotional generosity.",
+        "reversed": "An unwillingness to confront emotional truths prevents you from moving forward in heart matters.",
+        "keywords": [
+          "cynicism",
+          "fear of empathy",
+          "emotional truths",
+          "progress prevention"
+        ]
+      },
+      "lesson": {
+        "upright": "Learning to flow with your emotions and let love guide your actions without restraining authentic feelings.",
+        "reversed": "Need to learn the value of emotional honesty and vulnerability, allowing healing and growth.",
+        "keywords": [
+          "emotional flow",
+          "love guidance",
+          "emotional honesty",
+          "vulnerability growth"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow self hides fears of deep intimacy and emotional vulnerability, needing integration for harmony.",
+        "reversed": "Shadow involves ignoring internal cries for healing and authentic connection, leading to superficiality.",
+        "keywords": [
+          "intimacy fears",
+          "hidden emotions",
+          "inward cries",
+          "superficial connections"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Old patterns of emotional suppression or doubt hinder your ability to experience true joy and connection.",
+        "reversed": "A reluctance to seek emotional healing or explore deep feelings keeps you trapped in emotional shallowness.",
+        "keywords": [
+          "emotional suppression",
+          "doubt",
+          "emotional healing",
+          "emotional shallowness"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Invite the new. Be open-hearted and willing to see beauty in yourself and the world. Embrace vulnerability.",
+        "reversed": "Courageously confront and heal emotional wounds. Allow yourself and others the gift of your truth.",
+        "keywords": [
+          "open heart",
+          "embrace vulnerability",
+          "heal wounds",
+          "gift of truth"
+        ]
+      },
+      "action": {
+        "upright": "Seek experiences that fill your heart. Share your feelings openly. Create beauty and art from your emotions.",
+        "reversed": "Begin introspective practices like journaling or therapy to understand and unblock emotional barriers.",
+        "keywords": [
+          "heartfelt experiences",
+          "open sharing",
+          "create beauty",
+          "introspective practice"
+        ]
+      },
+      "your_approach": {
+        "upright": "You perceive yourself as emotionally rich, open to love, and guided by your heart's wisdom.",
+        "reversed": "You might see yourself as closed-off or overly protective, perpetually guarding against potential hurt.",
+        "keywords": [
+          "emotionally rich",
+          "open to love",
+          "heart's wisdom",
+          "protective approach"
+        ]
+      },
+      "what_helps": {
+        "upright": "Nurturing relationships and creative pursuits fortify your emotional health and spiritual growth.",
+        "reversed": "Healing modalities and emotional support systems can aid greatly in overcoming emotional blocks.",
+        "keywords": [
+          "nurturing relationships",
+          "creative pursuits",
+          "healing modalities",
+          "support systems"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust in love's healing power. Allow feelings to flow naturally, connecting deeply to spiritual insights.",
+        "reversed": "Encouragement to engage with therapies or practices that unveil and heal subconscious emotional patterns.",
+        "keywords": [
+          "healing power",
+          "natural flow",
+          "spiritual insights",
+          "emotional therapies"
+        ]
+      },
+      "best_course": {
+        "upright": "Follow the path of love and emotional expression, open to experiences that fully engage the heart.",
+        "reversed": "Commit to addressing and releasing emotional stagnation, embracing vulnerability as a strength.",
+        "keywords": [
+          "love's path",
+          "emotional expression",
+          "release stagnation",
+          "embrace vulnerability"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for profound love, connection, and understanding. Fear of emotional overwhelm or losing self in others.",
+        "reversed": "Fear of opening emotional floodgates, overwhelmed by the potential depth of uncovered feelings.",
+        "keywords": [
+          "profound love",
+          "connection",
+          "emotional overwhelm",
+          "depth of feelings"
+        ]
+      },
+      "hopes": {
+        "upright": "To find and nurture deep love, both for self and others, creating a life filled with meaningful connections.",
+        "reversed": "Hoping emotional pain will disappear without confronting it. Dream of effortless love without depth.",
+        "keywords": [
+          "nurturing love",
+          "meaningful connections",
+          "effortless love",
+          "emotional pain"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of being vulnerable or getting hurt by those you open your heart to. Loss of emotional control.",
+        "reversed": "Afraid of the intensity of emotions that might surface if you allow yourself to truly feel them.",
+        "keywords": [
+          "fear of vulnerability",
+          "getting hurt",
+          "emotional control",
+          "intense emotions"
+        ]
+      },
+      "subconscious": {
+        "upright": "Beneath the surface, a wellspring of love and openness seeks to nourish your life and relationships.",
+        "reversed": "Hidden emotions and unresolved issues create unseen barriers that restrict your emotional freedom.",
+        "keywords": [
+          "wellspring of love",
+          "emotional freedom",
+          "hidden emotions",
+          "unresolved issues"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you are aware of your desire to connect and express emotions freely, creating warmth and joy.",
+        "reversed": "Conscious fear of emotional vulnerability, leading to guarded interactions or suppression of feelings.",
+        "keywords": [
+          "desire to connect",
+          "warmth",
+          "joy",
+          "emotional vulnerability"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally open and ready to experience the full spectrum of feelings, both joyful and transformative.",
+        "reversed": "Feeling disconnected or emotionally reserved, struggling to open up or engage deeply in relationships.",
+        "keywords": [
+          "open emotions",
+          "full spectrum",
+          "disconnected",
+          "emotionally reserved"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart craves deep connection, affection, and emotional authenticity. Ready to love and be loved.",
+        "reversed": "Heart may be guarding against perceived threats, resulting in a closed-off or distant demeanor.",
+        "keywords": [
+          "deep connection",
+          "emotional authenticity",
+          "guarded heart",
+          "closed-off"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally attuned to perceiving love's subtle cues and synchronizing thoughts with heart-felt wisdom.",
+        "reversed": "Mind focused on defending against emotional risks instead of embracing potential for deeper understanding.",
+        "keywords": [
+          "love's cues",
+          "heart wisdom",
+          "emotional risks",
+          "deeper understanding"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Your life is surrounded by opportunities for love and emotional enrichment. Others see you as open-hearted.",
+        "reversed": "Perceived as emotionally closed off or distant, impacting how others relate and respond to your presence.",
+        "keywords": [
+          "love opportunities",
+          "emotional enrichment",
+          "closed-off perception",
+          "emotional distance"
+        ]
+      },
+      "others": {
+        "upright": "Others are drawn to your loving energy, finding comfort in your ability to empathize and nurture.",
+        "reversed": "People may feel unwelcome in developing deeper connections, sensing barriers or emotional distance.",
+        "keywords": [
+          "loving energy",
+          "empathy",
+          "comfort",
+          "emotional distances"
+        ]
+      },
+      "environment": {
+        "upright": "You're in an environment rich with emotional support and potential for meaningful connections.",
+        "reversed": "Surrounded by emotional coldness or negativity that hinders your ability to connect fully.",
+        "keywords": [
+          "emotional support",
+          "meaningful connections",
+          "emotional coldness",
+          "negativity"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as emotionally generous and deeply empathetic, able to inspire with your heartfelt presence.",
+        "reversed": "Perceived as emotionally aloof, possibly due to defenses or fears that others may misinterpret.",
+        "keywords": [
+          "emotionally generous",
+          "empathetic",
+          "aloof perception",
+          "misinterpretation"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Invisible forces are guiding you towards emotional healing and connections that enrich your spirit.",
+        "reversed": "Hidden patterns or unresolved emotions are silently impacting your relationships and self-love.",
+        "keywords": [
+          "invisible guidance",
+          "emotional healing",
+          "hidden patterns",
+          "self-love"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success in forming deeply satisfying emotional connections and personal growth through embracing love.",
+        "reversed": "Stagnation or unfulfillment if emotional issues remain unaddressed, limiting joy and connection.",
+        "keywords": [
+          "satisfying connections",
+          "personal growth",
+          "emotional stagnation",
+          "unfulfillment"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, a life enriched by love, compassion, and creative expression, achieved through emotional openness.",
+        "reversed": "Persisting in avoidance of emotional work may lead to feelings of isolation and missed fulfillment.",
+        "keywords": [
+          "life enriched",
+          "emotional openness",
+          "isolation",
+          "missed fulfillment"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possibilities include profound joy and many rewarding relationships formed from genuine emotional articulation.",
+        "reversed": "Potential for persistent emotional blockages and missed opportunities for healing and connection.",
+        "keywords": [
+          "profound joy",
+          "rewarding relationships",
+          "emotional blockages",
+          "missed opportunities"
+        ]
+      },
+      "best_case": {
+        "upright": "Ideal scenario involves deep, heartfelt connections and an abundance of love freely exchanged with others.",
+        "reversed": "Best case in addressing and working through internal barriers leads to newfound emotional freedom.",
+        "keywords": [
+          "heartfelt connections",
+          "abundance of love",
+          "emotional freedom",
+          "working through"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves being overwhelmed by unprocessed emotions, not allowing experiences to shine through.",
+        "reversed": "Continued avoidance or suppression leads to emotional stagnation and disconnected relationships.",
+        "keywords": [
+          "overwhelmed emotions",
+          "unprocessed feelings",
+          "avoidance",
+          "disconnected relationships"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic overflows with new emotional experiences and spiritual connection. Between you exists pure love, intuitive understanding, and the opening of hearts to deeper intimacy. This connection brings emotional renewal and soul-level bonding.",
+        "reversed": "The emotional connection may be blocked, shallow, or one-sided. Love might be conditional or emotionally manipulative. The relationship could involve closed hearts, spiritual disconnection, or fear of emotional vulnerability.",
+        "keywords": [
+          "love",
+          "emotion",
+          "spirituality",
+          "intimacy"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "An opportunity for deep affection and a new romantic beginning. Open your heart and heed love’s call.",
+      "reversed": "Emotional barriers may prevent connection. Healing past wounds is crucial to allow love to flourish.",
+      "keywords": [
+        "deep affection",
+        "new romance",
+        "emotional barriers",
+        "healing past wounds"
+      ]
+    },
+    "career": {
+      "upright": "Start of a fulfilling project or role that emotionally resonates. Follow your passion and empathy at work.",
+      "reversed": "Discontent may stem from emotional disconnection with your work. Seek roles that nourish your soul.",
+      "keywords": [
+        "fulfilling project",
+        "career passion",
+        "emotional disconnection",
+        "nourishing role"
+      ]
+    },
+    "spiritual": {
+      "upright": "Awakening to the divine love within and around you, enriching your spiritual journey and practices.",
+      "reversed": "Spiritual stagnation due to unresolved emotional issues. Prioritize healing to renew spiritual depth.",
+      "keywords": [
+        "divine love",
+        "spiritual journey",
+        "spiritual stagnation",
+        "emotional healing"
+      ]
+    },
+    "financial": {
+      "upright": "Emotional satisfaction guiding financial decisions. Investing in what aligns with values and heart’s desires.",
+      "reversed": "Financial neglect due to emotional despondency. Take care to balance emotions with practical management.",
+      "keywords": [
+        "financial satisfaction",
+        "value-driven investment",
+        "emotional despondency",
+        "practical management"
+      ]
+    },
+    "health": {
+      "upright": "Physical well-being boosted by emotional healing and openness. Listen to your body’s emotional messages.",
+      "reversed": "Unresolved emotions manifesting as health issues. Seek holistic practices to regain balance.",
+      "keywords": [
+        "emotional healing",
+        "well-being",
+        "unresolved emotions",
+        "holistic health"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "cancer",
+    "hebrew_letter": "heh",
+    "numerology": 1,
+    "planet": "moon",
+    "season": "summer",
+    "time_of_day": "dawn",
+    "colors": [
+      "blue",
+      "silver",
+      "white"
+    ],
+    "crystals": [
+      "rose quartz",
+      "aquamarine",
+      "moonstone"
+    ],
+    "herbs": [
+      "lotus",
+      "willow",
+      "chamomile"
+    ]
+  },
+  "symbols": {
+    "overflowing_cup": "abundance of emotions and love",
+    "dove": "divine peace and spiritual connection",
+    "lotus_blossom": "spiritual awakening and purity",
+    "five_streams": "emotional flow and richness",
+    "water": "universal love and healing"
+  },
+  "affirmations": [
+    "I open my heart to the flow of love and healing.",
+    "My emotions are a source of joy and creative inspiration.",
+    "I embrace my deep connection to the world around me.",
+    "With every breath, I release past pain and invite love in."
+  ],
+  "journaling_prompts": [
+    "What emotions am I ready to embrace and express?",
+    "How can I welcome more love into my life?",
+    "What past emotional wounds need my attention and healing?",
+    "Where can I create space for new emotional beginnings?"
+  ],
+  "meditation_focus": "Meditate on the heart chakra, visualizing love flowing freely and abundantly, empowering emotional healing and renewal.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:35:06.671261",
+    "card_info": {
+      "name": "Ace of Cups",
+      "number": 1,
+      "suit": "cups"
+    },
+    "filename": "c01.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_star": {
+        "interpretation": "Doubles emotional and spiritual fulfillment - endless hope and renewal flowing into your life.",
+        "keywords": [
+          "doubles",
+          "emotional",
+          "spiritual",
+          "fulfillment"
+        ]
+      },
+      "ten_of_cups": {
+        "interpretation": "Deepens family and community harmony, bringing joy and lasting emotional contentment.",
+        "keywords": [
+          "deepens",
+          "family",
+          "community",
+          "harmony"
+        ]
+      },
+      "queen_of_cups": {
+        "interpretation": "Enhances intuitive and nurturing qualities, leading to profound emotional insights and support.",
+        "keywords": [
+          "enhances",
+          "intuitive",
+          "nurturing",
+          "qualities"
+        ]
+      }
+    },
+    "challenges": {
+      "three_of_swords": {
+        "interpretation": "Complicates heartbreak with deep emotional wounds, highlighting undealt pain and need for healing.",
+        "keywords": [
+          "complicates",
+          "heartbreak",
+          "deep",
+          "emotional"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Exacerbates feelings of loss and regret, urging emotional healing and turning towards healing waters.",
+        "keywords": [
+          "exacerbates",
+          "feelings",
+          "loss",
+          "regret"
+        ]
+      },
+      "nine_of_swords": {
+        "interpretation": "Intensifies anxiety rooted in emotional issues, creating a need to address unresolved fears.",
+        "keywords": [
+          "intensifies",
+          "anxiety",
+          "rooted",
+          "emotional"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_empress": {
+        "interpretation": "Clarifies nurturing instincts and creative potential, bringing emotional abundance and fertility.",
+        "keywords": [
+          "clarifies",
+          "nurturing",
+          "instincts",
+          "creative"
+        ]
+      },
+      "two_of_cups": {
+        "interpretation": "Defines partnership harmony, emphasizing mutual emotional exchange and deep connection.",
+        "keywords": [
+          "defines",
+          "partnership",
+          "harmony",
+          "emphasizing"
+        ]
+      },
+      "the_high_priestess": {
+        "interpretation": "Sheds light on hidden emotions, enhancing intuitive understanding and emotional wisdom.",
+        "keywords": [
+          "sheds",
+          "light",
+          "hidden",
+          "emotions"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "ace_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

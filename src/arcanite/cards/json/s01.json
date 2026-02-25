@@ -1,0 +1,681 @@
+{
+  "card_id": "ace_of_swords",
+  "card_name": "Ace of Swords",
+  "card_number": 1,
+  "suit": "swords",
+  "archetype": "the_clarifier",
+  "core_meanings": {
+    "upright": {
+      "essence": "A sharp breakthrough of truth and clarity. The mind wielding its power with precision and insight to cut through confusion.",
+      "keywords": [
+        "clarity",
+        "truth",
+        "intellectual power",
+        "breakthrough",
+        "justice",
+        "new ideas",
+        "analytical clarity"
+      ],
+      "psychological": "Represents the mind's ability to pierce illusions, bringing insights and intellectual breakthroughs that transform perception.",
+      "spiritual": "A moment of divine clarity where higher truth aligns with inner knowing, cutting through spiritual confusion.",
+      "practical": "Time to analyze your situation with logic, gathering facts and seeing things with fresh perspectives.",
+      "shadow": "Detached rationality that cuts too sharply, leading to harsh judgments or overly critical perfectionism."
+    },
+    "reversed": {
+      "essence": "Confusion and mental chaos. Difficulty in seeing the truth due to internal or external distortions.",
+      "keywords": [
+        "confusion",
+        "lack of clarity",
+        "misinformation",
+        "mental blocks",
+        "overthinking",
+        "chaotic energy"
+      ],
+      "psychological": "A mind clouded by doubt or denial, struggling to find clarity or make decisions amidst mental clutter.",
+      "spiritual": "Disconnected from higher discernment, spiritual truths are obscured by ego-driven perceptions.",
+      "practical": "Need to pause and clear mental clutter before making decisions. Avoid impulsivity in analysis.",
+      "shadow": "Overanalyzing or intellectual arrogance that ignores emotional and intuitive intelligence."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A decisive moment of clarity in your past provided the truth needed to move forward. A mental breakthrough set your path.",
+        "reversed": "Confusion or misinformation in the past has affected your current situation, still lingering as unresolved misunderstandings.",
+        "keywords": [
+          "past insight",
+          "clarity moment",
+          "misguidance",
+          "unresolved confusion"
+        ]
+      },
+      "distant_past": {
+        "upright": "A foundational realization long ago shaped your logical mindset and approach to truth-seeking.",
+        "reversed": "Old patterns of confusion or mental blocks that developed early could still influence your thinking today.",
+        "keywords": [
+          "foundational truth",
+          "early clarity",
+          "ancient confusion",
+          "mental pattern"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent intellectual breakthrough has brought you to this moment of understanding. Clarity has defined your recent choices.",
+        "reversed": "Recent challenges in clarity or communication have created uncertainty or misunderstandings in your current state.",
+        "keywords": [
+          "recent truth",
+          "mental clarity",
+          "communication challenges",
+          "recent uncertainty"
+        ]
+      },
+      "present": {
+        "upright": "Now is the time for clear thinking and truth-seeking. Embrace intellectual power to cut through confusion.",
+        "reversed": "Present mental fog or indecision calls for stepping back to find clarity. Avoid hasty judgments.",
+        "keywords": [
+          "current clarity",
+          "truth-seeking",
+          "mental fog",
+          "clear thinking"
+        ]
+      },
+      "present_situation": {
+        "upright": "The core of your present experience involves insight and the strong, decisive energy of mental clarity.",
+        "reversed": "Your core challenge is the chaos within your thoughts, needing peace and order to emerge through clarity.",
+        "keywords": [
+          "core insight",
+          "decisive energy",
+          "mental chaos",
+          "core challenge"
+        ]
+      },
+      "future": {
+        "upright": "A future breakthrough will bring significant clarity and truth. Prepare for mental insights to unfold.",
+        "reversed": "Future confusion or misinformation could arise. Ground yourself now to avoid these pitfalls.",
+        "keywords": [
+          "future insight",
+          "mental breakthrough",
+          "upcoming clarity",
+          "prevent confusion"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a moment of clarity will provide the truth needed to advance or resolve current matters.",
+        "reversed": "In the immediate future, be aware of potential confusion or overthinking impacting decisions.",
+        "keywords": [
+          "imminent truth",
+          "clarity moment",
+          "impending insight",
+          "potential confusion"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, your quest for truth will lead to deep understanding and transformational clarity over time.",
+        "reversed": "Without addressing current mental chaos, confusion may persist into the future as a limiting factor.",
+        "keywords": [
+          "ultimate truth",
+          "transformational clarity",
+          "future confusion",
+          "long-term insight"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to wield your clarity with compassion, ensuring truth doesn't become a weapon.",
+        "reversed": "Navigating mental chaos and discerning truth from illusion or misinformation is key to growth.",
+        "keywords": [
+          "compassionate clarity",
+          "truth discernment",
+          "navigating chaos",
+          "growth in truth"
+        ]
+      },
+      "cross": {
+        "upright": "Societal or external pressures may challenge your newfound clarity. Stand firm in your truth.",
+        "reversed": "Your own denial or avoidance of truth crosses your path, needing acknowledgment and resolution.",
+        "keywords": [
+          "external pressure",
+          "truth challenge",
+          "denial",
+          "acknowledgment"
+        ]
+      },
+      "obstacle": {
+        "upright": "Overthinking or seeking perfection may obstruct the natural flow of insight and understanding.",
+        "reversed": "Mental blocks and unnecessary complexity are obstacles on your path to clarity.",
+        "keywords": [
+          "overthinking",
+          "perfectionism",
+          "mental blocks",
+          "complexity"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to fuse intellectual rigor with empathy, allowing truth to guide with wisdom.",
+        "reversed": "The lesson involves opening the mind to simplicity and allowing clarity to emerge naturally.",
+        "keywords": [
+          "intellectual empathy",
+          "wisdom in truth",
+          "simplicity",
+          "natural clarity"
+        ]
+      },
+      "shadow": {
+        "upright": "Hidden within is the razor's edge that destroys illusions, yet it needs balance to avoid isolation.",
+        "reversed": "Your shadow contains the potential for chaotic thinking or mental blocks, requiring integration.",
+        "keywords": [
+          "hidden clarity",
+          "illusion destruction",
+          "chaos potential",
+          "mental integration"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Prevailing doubts or judgments from self or others hinder clear vision and decision-making.",
+        "reversed": "Assumptions or internally held beliefs hinder your ability to see truth as it is.",
+        "keywords": [
+          "doubt",
+          "judgment",
+          "assumptions",
+          "beliefs"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace your intellectual power. Let truth cut through doubt and act with clarity and purpose.",
+        "reversed": "Pause before acting on confused thoughts. Seek clarity through meditation or counsel.",
+        "keywords": [
+          "intellectual embrace",
+          "purposeful clarity",
+          "pause",
+          "seek counsel"
+        ]
+      },
+      "action": {
+        "upright": "Take decisive actions based on newfound clarity. Use your mind as a precise tool for progress.",
+        "reversed": "Step back from emotional entanglements to gain perspective before proceeding.",
+        "keywords": [
+          "decisive action",
+          "mind as tool",
+          "regain perspective",
+          "thoughtful action"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as a seeker of truth who values intellect and precision in thinking.",
+        "reversed": "You might struggle with indecision or doubt, questioning your ability to see things clearly.",
+        "keywords": [
+          "truth seeker",
+          "intellectual value",
+          "indecision",
+          "self-doubt"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your ability to think clearly and objectively aids your path toward truth and understanding.",
+        "reversed": "Seeking simplicity and releasing unnecessary thoughts help transcend confusion.",
+        "keywords": [
+          "clear thinking",
+          "objectivity",
+          "simplicity",
+          "transcending confusion"
+        ]
+      },
+      "guidance": {
+        "upright": "Divine guidance suggests aligning your mind with higher truth, where clarity flows effortlessly.",
+        "reversed": "Spiritual guidance calls for detaching from chaotic thoughts to rediscover inner peace.",
+        "keywords": [
+          "divine alignment",
+          "effortless clarity",
+          "detachment",
+          "inner peace"
+        ]
+      },
+      "best_course": {
+        "upright": "Stay true to your insights and use them to navigate challenges with integrity and precision.",
+        "reversed": "Focus on simplifying your thoughts and allowing clarity to emerge through mindful patience.",
+        "keywords": [
+          "true insight",
+          "integrity",
+          "thought simplification",
+          "mindful patience"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for mental clarity and fearlessness. Fear of misjudgment and harsh truths.",
+        "reversed": "Fear of mental fog or misunderstanding. Hope for a return to clarity and insight.",
+        "keywords": [
+          "mental clarity",
+          "fearlessness",
+          "misjudgment",
+          "return to insight"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to wield truth with wisdom, seeing things as they truly are without illusion.",
+        "reversed": "Hope lies in finding calmness and returning to clarity amidst mental clutter.",
+        "keywords": [
+          "truth with wisdom",
+          "clear vision",
+          "calmness",
+          "clarity amidst clutter"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of facing truths you would rather avoid, causing internal conflict.",
+        "reversed": "Paralysis from overthinking or being entangled in misinformation.",
+        "keywords": [
+          "facing truths",
+          "internal conflict",
+          "overthinking",
+          "misinformation"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously, clarity is your guiding light, directing unconscious understanding and perceptions.",
+        "reversed": "Unconscious influences of doubt interfere with your ability to see truth purely.",
+        "keywords": [
+          "guiding clarity",
+          "unconscious understanding",
+          "doubt interference",
+          "pure truth"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of your focus on truth and intellectual depth, driving your actions and decisions.",
+        "reversed": "Conscious mind struggles with confusion, needing resolution to return to clarity.",
+        "keywords": [
+          "truth focus",
+          "intellectual depth",
+          "confusion struggle",
+          "resolution need"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally detached and clear-minded, ready to engage with reality as it is.",
+        "reversed": "Emotional turbulence caused by uncertainty or cognitive disarray.",
+        "keywords": [
+          "emotional detachment",
+          "clear-mindedness",
+          "uncertainty",
+          "cognitive disarray"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart wants truth and intellectual clarity to guide you in life's decisions.",
+        "reversed": "Burdened by doubt, the heart seeks reassurance and clarity to find peace.",
+        "keywords": [
+          "truth in heart",
+          "intellectual guidance",
+          "heart's burden",
+          "reassurance"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally sharp and focused, the mind cuts through unnecessary distractions to find truth.",
+        "reversed": "Mind clouded by confusion or doubt, needing clarity to realign thoughts.",
+        "keywords": [
+          "mental sharpness",
+          "focus",
+          "clouded mind",
+          "realigned thoughts"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "You're seen as wise and perceptive, often turned to for clarity and sound reasoning.",
+        "reversed": "Perceptions of unpredictability or confusion are influencing how others interact with you.",
+        "keywords": [
+          "wise perception",
+          "sound reasoning",
+          "unpredictability",
+          "external perception"
+        ]
+      },
+      "others": {
+        "upright": "Others rely on you for truth and clarity, your insights appreciated and sought after.",
+        "reversed": "Others may confuse or mislead, complicating your perceptions and draining your clarity.",
+        "keywords": [
+          "relied on for truth",
+          "appreciated insights",
+          "misleading others",
+          "clarity drain"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment is ripe for insights, supporting clarity and intellectual breakthroughs.",
+        "reversed": "Chaotic surroundings may hinder clear thinking, needing refuge for mental peace.",
+        "keywords": [
+          "insightful environment",
+          "intellectual breakthrough",
+          "chaotic surroundings",
+          "mental refuge"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as an embodiment of truth and clarity, inspiring those around you.",
+        "reversed": "Perceived as indecisive or confused, potentially affecting credibility.",
+        "keywords": [
+          "truth embodiment",
+          "inspiration",
+          "indecisive perception",
+          "credibility risk"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces are aligning with your quest for clarity, aiding your intellectual endeavors.",
+        "reversed": "Hidden influences of doubt or misinformation challenge your mental clarity and focus.",
+        "keywords": [
+          "alignment",
+          "hidden clarity",
+          "doubt",
+          "mental challenge"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Achieving clarity and insight leads to success and understanding. Your truth pierces through complexity.",
+        "reversed": "Continued confusion or missteps can lead to missed opportunities or unresolved conflicts.",
+        "keywords": [
+          "clarity success",
+          "insight understanding",
+          "missed opportunities",
+          "unresolved conflict"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Eventually, your commitment to truth results in profound understanding and mental mastery.",
+        "reversed": "Final outcomes may include prolonged struggle with understanding or continuous internal turmoil.",
+        "keywords": [
+          "profound understanding",
+          "mental mastery",
+          "prolonged struggle",
+          "internal turmoil"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possible benefits include unforeseen insights that pave new paths and opportunities.",
+        "reversed": "Misinformation or unresolved confusion might hinder potential paths or opportunities.",
+        "keywords": [
+          "unforeseen insights",
+          "new paths",
+          "misinformation",
+          "hindered opportunities"
+        ]
+      },
+      "best_case": {
+        "upright": "Truth and clarity prevail, resulting in wise decisions and successful endeavors.",
+        "reversed": "Avoidance of chaos through patience and clarity leads to resolution.",
+        "keywords": [
+          "prevailing truth",
+          "wise decisions",
+          "chaos avoidance",
+          "resolution"
+        ]
+      },
+      "worst_case": {
+        "upright": "Harsh truths or critical judgments may hinder progress without compassion.",
+        "reversed": "Unaddressed confusion or misinformation results in unresolved issues or stagnation.",
+        "keywords": [
+          "harsh truths",
+          "critical judgment",
+          "unresolved issues",
+          "stagnation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic is characterized by new ideas, clear communication, and intellectual breakthrough. Between you exists mental clarity, the power of truth, and the ability to cut through confusion with honest dialogue and sharp thinking.",
+        "reversed": "Communication may be harsh, hurtful, or used as a weapon. New ideas might be forced or aggressive. The relationship could involve mental cruelty, miscommunication, or using intelligence to dominate rather than illuminate.",
+        "keywords": [
+          "clarity",
+          "communication",
+          "truth",
+          "breakthrough"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Clarity in communication fosters honesty and strengthens bonds. Truth illuminating love's path.",
+      "reversed": "Misunderstandings or lack of clarity leading to relational tension. Need for open dialogue.",
+      "keywords": [
+        "communication clarity",
+        "honesty",
+        "misunderstandings",
+        "open dialogue"
+      ]
+    },
+    "career": {
+      "upright": "Intellectual insights bring career breakthroughs and new opportunities for success.",
+      "reversed": "Confusion or lack of direction causing career stagnation. Seek guidance or a fresh outlook.",
+      "keywords": [
+        "career breakthroughs",
+        "intellectual insights",
+        "career stagnation",
+        "guidance"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual clarity connects you with higher truths, illuminating your spiritual path.",
+      "reversed": "Spiritual uncertainty or lack of direction. Find clarity within through meditation or reflection.",
+      "keywords": [
+        "spiritual clarity",
+        "higher truths",
+        "spiritual uncertainty",
+        "reflection"
+      ]
+    },
+    "financial": {
+      "upright": "Clear financial planning leads to successful investments and material prosperity.",
+      "reversed": "Financial confusion or ill-advised risks. Reevaluate goals for clarity and stability.",
+      "keywords": [
+        "financial planning",
+        "material prosperity",
+        "financial confusion",
+        "goal reevaluation"
+      ]
+    },
+    "health": {
+      "upright": "Mental clarity supports holistic wellness and informed health decisions.",
+      "reversed": "Cluttered thoughts creating stress. Clear the mind to foster better health.",
+      "keywords": [
+        "mental clarity",
+        "holistic wellness",
+        "stress",
+        "clear mind"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "libra",
+    "hebrew_letter": "aleph",
+    "numerology": 1,
+    "planet": "mercury",
+    "season": "spring",
+    "time_of_day": "morning",
+    "colors": [
+      "light blue",
+      "white",
+      "silver"
+    ],
+    "crystals": [
+      "clear quartz",
+      "sapphire",
+      "lapis lazuli"
+    ],
+    "herbs": [
+      "sage",
+      "rosemary",
+      "gingko"
+    ]
+  },
+  "symbols": {
+    "sword": "cutting through illusions",
+    "crown": "triumph of truth and insight",
+    "clouds": "piercing confusion to reveal clarity",
+    "mountains": "challenges faced with intellect"
+  },
+  "affirmations": [
+    "I embrace clarity and truth in all aspects of my life.",
+    "My mind is a tool of insight, cutting through confusion.",
+    "I welcome breakthroughs that guide me to understanding.",
+    "I am open to new ideas and perspectives."
+  ],
+  "journaling_prompts": [
+    "What truths am I ready to see clearly?",
+    "How can I use my intellectual power to overcome challenges?",
+    "Where do I need to cut through confusion in my life?",
+    "What insights are waiting to emerge in my current situation?"
+  ],
+  "meditation_focus": "Visualizing a clear, open sky where insights can flow freely, removing all clouds of confusion, embracing the sharpness of truth.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:17:41.586740",
+    "card_info": {
+      "name": "Ace of Swords",
+      "number": 1,
+      "suit": "swords"
+    },
+    "filename": "s01.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_magician": {
+        "interpretation": "Mental clarity enhances manifestation power, turning visions into reality with precision.",
+        "keywords": [
+          "mental",
+          "clarity",
+          "enhances",
+          "manifestation"
+        ]
+      },
+      "the_justice": {
+        "interpretation": "Keen intellect aligns with fairness, ensuring decisions and outcomes are just and wise.",
+        "keywords": [
+          "keen",
+          "intellect",
+          "aligns",
+          "fairness"
+        ]
+      },
+      "ace_of_wands": {
+        "interpretation": "Intellectual insight fuels creative endeavors, bringing new ideas to life with vigor.",
+        "keywords": [
+          "intellectual",
+          "insight",
+          "fuels",
+          "creative"
+        ]
+      }
+    },
+    "challenges": {
+      "the_moon": {
+        "interpretation": "Challenging illusions with stark truth, cutting through complexities with reason.",
+        "keywords": [
+          "challenging",
+          "illusions",
+          "stark",
+          "truth"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Clarifying confusion and focusing scattered emotions into clear directions.",
+        "keywords": [
+          "clarifying",
+          "confusion",
+          "focusing",
+          "scattered"
+        ]
+      },
+      "three_of_swords": {
+        "interpretation": "Facing painful truths honestly, ready to mend through understanding.",
+        "keywords": [
+          "facing",
+          "painful",
+          "truths",
+          "honestly"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hanged_man": {
+        "interpretation": "Illuminating new perspectives, providing clarity in seeing things from different angles.",
+        "keywords": [
+          "illuminating",
+          "perspectives",
+          "providing",
+          "clarity"
+        ]
+      },
+      "eight_of_pentacles": {
+        "interpretation": "Insight into the details, enhancing focus and skill in mastering your craft.",
+        "keywords": [
+          "insight",
+          "details",
+          "enhancing",
+          "focus"
+        ]
+      },
+      "temperance": {
+        "interpretation": "Balancing extremes with intellectual clarity, achieving harmony through insight.",
+        "keywords": [
+          "balancing",
+          "extremes",
+          "intellectual",
+          "clarity"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "king_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_mystic": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "ace_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

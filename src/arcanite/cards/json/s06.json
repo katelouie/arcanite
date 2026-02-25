@@ -1,0 +1,681 @@
+{
+  "card_id": "six_of_swords",
+  "card_name": "Six of Swords",
+  "card_number": 6,
+  "suit": "swords",
+  "archetype": "the_guide",
+  "core_meanings": {
+    "upright": {
+      "essence": "Transition and guided passage through turbulent times. A conscious choice to leave behind what no longer serves, moving towards healing.",
+      "keywords": [
+        "transition",
+        "journey",
+        "healing",
+        "moving on",
+        "guidance",
+        "passage",
+        "recovery"
+      ],
+      "psychological": "Represents the mind's ability to process and release past burdens, embracing a new perspective and clearer state of mind.",
+      "spiritual": "A spiritual journey towards enlightenment, leaving behind the chaos of the past for a more peaceful understanding and acceptance.",
+      "practical": "Time to make a significant move or change in order to improve circumstances. Trust in the guidance that life offers.",
+      "shadow": "Avoidance of emotional issues, running from problems, or dragging old conflicts into new situations without resolution."
+    },
+    "reversed": {
+      "essence": "Resistance to necessary change or feeling stuck despite efforts to move forward. Difficulty in leaving troubles behind.",
+      "keywords": [
+        "stuck",
+        "resistance",
+        "unfinished business",
+        "difficulty",
+        "delay",
+        "holding on",
+        "trapped"
+      ],
+      "psychological": "Struggles to release old mental patterns, leading to stagnation and inability to embrace new perspectives.",
+      "spiritual": "Disconnected from inner guidance; spiritual growth stagnates as past issues are not fully let go.",
+      "practical": "Situational delays demand patience and reassessment. Direct your efforts towards resolving unfinished matters.",
+      "shadow": "Clinging to familiar pain or chaos, fearing change more than suffering. The illusion of safety in discomfort."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A period of difficulty or turmoil that you consciously navigated, leading towards current healing and stability.",
+        "reversed": "Lingering attachments or unresolved issues from the past continue to affect your present choices.",
+        "keywords": [
+          "past transition",
+          "overcome difficulty",
+          "unresolved past",
+          "healing journey"
+        ]
+      },
+      "distant_past": {
+        "upright": "A long-forgotten decision or change that set the stage for your current path of self-discovery and healing.",
+        "reversed": "Long-standing resistance to change that has repeatedly hindered personal growth over time.",
+        "keywords": [
+          "foundation change",
+          "ancient lessons",
+          "old resistance",
+          "deep roots"
+        ]
+      },
+      "recent_past": {
+        "upright": "A more immediate shift or change has recently occurred, bringing you closer to a sense of peace.",
+        "reversed": "Recently struggled with letting go; emotional baggage from the past has been difficult to release.",
+        "keywords": [
+          "recent shift",
+          "immediate past",
+          "recent resistance",
+          "emotional baggage"
+        ]
+      },
+      "present": {
+        "upright": "Currently transitioning through a phase of moving away from problems and towards clearer horizons.",
+        "reversed": "Feeling stuck or resistant to change. Fear of the unknown may be holding you back.",
+        "keywords": [
+          "current move",
+          "ongoing transition",
+          "present resistance",
+          "feeling stuck"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the heart, your current experience is about healing and accepting the guidance available to you.",
+        "reversed": "Struggling with letting go, leading to a sense of being trapped in ongoing issues.",
+        "keywords": [
+          "healing core",
+          "guided transition",
+          "current struggle",
+          "ongoing issues"
+        ]
+      },
+      "future": {
+        "upright": "A brighter and more peaceful future awaits, moving towards healing and resolution of past issues.",
+        "reversed": "Potential for delays and continued resistance if old patterns of avoidance are not addressed.",
+        "keywords": [
+          "peaceful future",
+          "upcoming resolution",
+          "future delays",
+          "potential resistance"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon you will be moving into a more positive phase, embracing change as a source of strength.",
+        "reversed": "Short-term challenges may arise from unresolved issues if not acknowledged and addressed.",
+        "keywords": [
+          "positive phase",
+          "near transition",
+          "short-term challenge",
+          "immediate issues"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, your journey leads to a place of clarity and tranquility, having left past burdens behind.",
+        "reversed": "Continuing cycles of resistance and fear may lead to missed opportunities for peace.",
+        "keywords": [
+          "ultimate peace",
+          "long-term clarity",
+          "ongoing cycles",
+          "missed opportunities"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to trust the transition process and stay open to the guidance and potential for renewal.",
+        "reversed": "Challenge involves confronting fear of change and releasing old patterns that keep you stuck.",
+        "keywords": [
+          "trust process",
+          "open to guidance",
+          "fear confrontation",
+          "release patterns"
+        ]
+      },
+      "cross": {
+        "upright": "Others around you may not understand your need for change, imposing their own fears onto your journey.",
+        "reversed": "Internal fears and doubts cross your path, making even the simplest decisions seem daunting.",
+        "keywords": [
+          "external misunderstanding",
+          "fear imposition",
+          "internal fears",
+          "doubtful path"
+        ]
+      },
+      "obstacle": {
+        "upright": "A reluctance to leave comfort zones is keeping you from fully embracing the healing journey.",
+        "reversed": "Avoiding necessary transitions due to fear of unfamiliar outcomes, you remain in a state of stagnation.",
+        "keywords": [
+          "comfort zone",
+          "embrace healing",
+          "fear avoidance",
+          "stagnation"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to embrace change as a natural part of growth, finding peace in uncertainty.",
+        "reversed": "The lesson involves recognizing where refusal to let go complicates your journey.",
+        "keywords": [
+          "embrace change",
+          "peace in uncertainty",
+          "let go",
+          "complicated journey"
+        ]
+      },
+      "shadow": {
+        "upright": "Shadow aspects involve hidden fears of the unknown and reluctance to confront emotional depths.",
+        "reversed": "Unresolved grief or trauma lurks beneath resistance, demanding awareness and healing.",
+        "keywords": [
+          "hidden fears",
+          "emotional reluctance",
+          "unresolved grief",
+          "healing demand"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Unwillingness to accept guidance hinders progress, as does hanging onto past disappointments.",
+        "reversed": "Fear of vulnerability and change is hindering your ability to move forward.",
+        "keywords": [
+          "guidance refusal",
+          "past disappointment",
+          "fear of vulnerability",
+          "change avoidance"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Trust the journey and allow guidance to lead you towards healing and growth.",
+        "reversed": "Reassess your resistance to needed changes; be willing to seek support where needed.",
+        "keywords": [
+          "trust journey",
+          "allow guidance",
+          "reassess resistance",
+          "seek support"
+        ]
+      },
+      "action": {
+        "upright": "Actively seek out opportunities for growth, and be willing to transition even when it feels uncomfortable.",
+        "reversed": "Consider revisiting unresolved matters before taking action to prevent repeated cycles.",
+        "keywords": [
+          "seek growth",
+          "embrace discomfort",
+          "revisit matters",
+          "prevent cycles"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as someone willing to transition and embrace the future with hope.",
+        "reversed": "Struggling to see yourself as capable of embracing change, often feeling trapped by past patterns.",
+        "keywords": [
+          "willing transition",
+          "embrace future",
+          "struggle identity",
+          "trapped by past"
+        ]
+      },
+      "what_helps": {
+        "upright": "Acceptance of guidance and decisions made with clarity will aid transformation.",
+        "reversed": "Emotional support and working through fear will help you navigate transitions.",
+        "keywords": [
+          "guidance acceptance",
+          "clear decisions",
+          "emotional support",
+          "fear navigation"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual guidance encourages trusting the process and being open to new insights along the journey.",
+        "reversed": "Be open to signs calling for needed introspection and the courage to face fears.",
+        "keywords": [
+          "spiritual trust",
+          "new insights",
+          "introspection",
+          "courage to face fears"
+        ]
+      },
+      "best_course": {
+        "upright": "The optimal path is one of letting go, embracing change, and trusting the universe to guide you.",
+        "reversed": "Look internally to resolve unfinished emotions and prepare for inevitable changes.",
+        "keywords": [
+          "letting go",
+          "trust change",
+          "internal resolution",
+          "prepare for change"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for healing and a peaceful future; fear of journey length and unknown has to be managed.",
+        "reversed": "Fear of eternal stagnation, coupled with a yearning for resolution and movement.",
+        "keywords": [
+          "hope for peace",
+          "fear of unknown",
+          "stagnation fear",
+          "desire resolution"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to leave behind troubles and embrace a more harmonious phase in life.",
+        "reversed": "Hopes revolve around overcoming inertia and stepping into clearer waters.",
+        "keywords": [
+          "leave troubles",
+          "hope for harmony",
+          "overcome inertia",
+          "clearer waters"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of the journey being too long or challenging, worrying about losing direction.",
+        "reversed": "Fear of never resolving lingering issues and being stuck in a loop.",
+        "keywords": [
+          "journey fear",
+          "challenge concern",
+          "lost direction",
+          "issue resolution"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by the need for peace and the desire for emotional closure.",
+        "reversed": "Unconscious resistance creates ongoing difficulty and emotional blockages.",
+        "keywords": [
+          "need for peace",
+          "emotional closure",
+          "unconscious resistance",
+          "emotional block"
+        ]
+      },
+      "conscious": {
+        "upright": "Conscious awareness focused on progress and the steps needed for transition.",
+        "reversed": "Your mind wrestles with understanding the need for change versus fear of new experiences.",
+        "keywords": [
+          "focus on progress",
+          "transition steps",
+          "change understanding",
+          "new experience fear"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally ready for healing, feeling hopeful yet cautious about the journey ahead.",
+        "reversed": "Emotionally stuck, feeling torn between desire for change and fear of disruption.",
+        "keywords": [
+          "emotional readiness",
+          "hopeful caution",
+          "emotional stuckness",
+          "fear conflict"
+        ]
+      },
+      "heart": {
+        "upright": "The heart yearns for calm and a journey towards emotional clarity and understanding.",
+        "reversed": "Heart's wisdom is clouded by fear, hindering the necessary transition and growth.",
+        "keywords": [
+          "calm yearning",
+          "clarity journey",
+          "clouded wisdom",
+          "hindered growth"
+        ]
+      },
+      "mind": {
+        "upright": "Mind seeks clarity and logical steps towards a more serene and balanced frame of life.",
+        "reversed": "Mental turmoil, struggling to organize thoughts amidst the chaos of resistance.",
+        "keywords": [
+          "clarity seek",
+          "serene frame",
+          "mental turmoil",
+          "chaotic thoughts"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "External situations provide opportunities for change and transition, supporting your journey.",
+        "reversed": "External pressures may discourage change, reinforcing old habits and patterns.",
+        "keywords": [
+          "opportunity support",
+          "change encouragement",
+          "external pressure",
+          "habit reinforcement"
+        ]
+      },
+      "others": {
+        "upright": "Others may offer support and guidance in your journey, helping you embrace change.",
+        "reversed": "Influence of others can instill doubt, suggesting reluctance to your needed changes.",
+        "keywords": [
+          "supportive others",
+          "guidance offer",
+          "influential doubt",
+          "reluctance suggestion"
+        ]
+      },
+      "environment": {
+        "upright": "A supportive environment fosters positive change and healing opportunities.",
+        "reversed": "Unfavorable conditions create stagnation, obstructing paths to transition.",
+        "keywords": [
+          "supportive environment",
+          "healing opportunities",
+          "unfavorable conditions",
+          "path obstruction"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as someone ready for change and carrying the wisdom to navigate transitions wisely.",
+        "reversed": "Perceived as hesitant or unwilling to embrace the necessary transformations.",
+        "keywords": [
+          "ready for change",
+          "wise navigator",
+          "hesitant perception",
+          "transformation reluctance"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Invisible forces support your journey towards healing, offering unseen guidance and peace.",
+        "reversed": "Hidden fears or unresolved issues hinder progression, remaining unseen but impactful.",
+        "keywords": [
+          "hidden support",
+          "unseen guidance",
+          "invisible hindrance",
+          "unresolved impact"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Successful transition leads to new beginnings filled with peace and clarity.",
+        "reversed": "Struggles with transition continue, leading to further delays and potential missed opportunities.",
+        "keywords": [
+          "successful transition",
+          "new beginnings",
+          "peace and clarity",
+          "transition struggle"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, letting go of the past will steer you into a brighter, more harmonious future.",
+        "reversed": "Continuing to hold onto unresolved issues results in ongoing struggles and missed resolutions.",
+        "keywords": [
+          "brighter future",
+          "harmonious path",
+          "ongoing struggle",
+          "missed resolution"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "One possibility includes gracefully moving forward, finding tranquility beyond current challenges.",
+        "reversed": "Possible outcome involves falling back into old patterns, perpetuating existing difficulties.",
+        "keywords": [
+          "graceful progress",
+          "tranquil discovery",
+          "pattern fallback",
+          "difficulty perpetuation"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenario sees successful release of burdens; your journey leads you to inner peace and growth.",
+        "reversed": "In the best-case scenario, you recognize and resolve the emotional resistance holding you back.",
+        "keywords": [
+          "burden release",
+          "inner peace",
+          "recognition",
+          "emotional resolution"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves temporary setbacks that require reassessment but ultimately guide you toward growth.",
+        "reversed": "Worst scenario results in remaining trapped in turmoil due to fear of embracing necessary change.",
+        "keywords": [
+          "temporary setback",
+          "reassessment need",
+          "trapped turmoil",
+          "change fear"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship involves moving away from difficulties together, seeking calmer waters, and transitioning to a better state. The dynamic includes mutual support through challenging times and the wisdom to know when to leave problems behind.",
+        "reversed": "The transition may be delayed or you might be running from necessary challenges. Calmer waters could be elusive or the journey might involve returning to face what was left behind.",
+        "keywords": [
+          "transition",
+          "movement",
+          "escape",
+          "calmer waters"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Moving on from past relationships or emotional baggage, traveling towards a healthier romantic future.",
+      "reversed": "Difficulty releasing past hurts, leading to repeated patterns of heartbreak or dissatisfaction.",
+      "keywords": [
+        "relationship healing",
+        "emotional release",
+        "repeat patterns",
+        "heartbreak"
+      ]
+    },
+    "career": {
+      "upright": "A transition to a new career path or project, promising smoother and more fulfilling opportunities.",
+      "reversed": "Resistance to career change causes stagnation and missed potential for professional growth.",
+      "keywords": [
+        "career transition",
+        "new opportunity",
+        "resistance",
+        "missed growth"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual journey towards greater clarity and peace, guided by inner wisdom through turbulent times.",
+      "reversed": "Spiritual stagnation due to fear of confronting deeper truths; feeling disconnected from guidance.",
+      "keywords": [
+        "spiritual clarity",
+        "guided journey",
+        "stagnation",
+        "disconnection"
+      ]
+    },
+    "financial": {
+      "upright": "Recovery and better management leading to stabilizing finances; moving beyond past financial mistakes.",
+      "reversed": "Difficulty in changing old financial habits, leading to continued financial challenges.",
+      "keywords": [
+        "financial recovery",
+        "stability",
+        "habits",
+        "financial challenge"
+      ]
+    },
+    "health": {
+      "upright": "Improvement in health through conscious effort and positive changes; moving towards healing.",
+      "reversed": "Resistance to health changes results in stagnation and ongoing difficulties in well-being.",
+      "keywords": [
+        "health improvement",
+        "positive change",
+        "resistance",
+        "difficulty"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "aquarius",
+    "hebrew_letter": "",
+    "numerology": 6,
+    "planet": "mercury",
+    "season": "winter",
+    "time_of_day": "evening",
+    "colors": [
+      "blue",
+      "gray"
+    ],
+    "crystals": [
+      "sodalite",
+      "blue lace agate"
+    ],
+    "herbs": [
+      "rosemary",
+      "chamomile",
+      "lavender"
+    ]
+  },
+  "symbols": {
+    "boat": "journey and transition",
+    "water": "emotional passage and healing",
+    "swords": "mental clarity and challenges",
+    "passenger": "seeking guidance and support",
+    "oarsman": "trusted guide facilitating change"
+  },
+  "affirmations": [
+    "I embrace change and trust my journey towards healing.",
+    "I release the past and open myself to new beginnings.",
+    "I navigate transitions with grace and wisdom.",
+    "I welcome the guidance that leads me to peace."
+  ],
+  "journaling_prompts": [
+    "What transitions am I currently experiencing, and how can I support them?",
+    "Where in my life am I resisting change, and why?",
+    "How can I create a peaceful space within myself during turbulent times?",
+    "What past issues need my attention and resolution before I can move on?"
+  ],
+  "meditation_focus": "Visualize a calm river; allow the waters to carry past burdens away, creating space for peace and renewal.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:24:24.050370",
+    "card_info": {
+      "name": "Six of Swords",
+      "number": 6,
+      "suit": "swords"
+    },
+    "filename": "s06.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_star": {
+        "interpretation": "Renewed hope and healing, offering guidance towards a peaceful future.",
+        "keywords": [
+          "renewed",
+          "hope",
+          "healing",
+          "offering"
+        ]
+      },
+      "temperance": {
+        "interpretation": "Balanced transition and harmonious change, fostering reconciliation and calm.",
+        "keywords": [
+          "balanced",
+          "transition",
+          "harmonious",
+          "change"
+        ]
+      },
+      "ace_of_cups": {
+        "interpretation": "Emotional renewal and new beginnings, enhancing spiritual and emotional growth.",
+        "keywords": [
+          "emotional",
+          "renewal",
+          "beginnings",
+          "enhancing"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Struggle against upheaval and unexpected changes, requiring adaptability and resilience.",
+        "keywords": [
+          "struggle",
+          "against",
+          "upheaval",
+          "unexpected"
+        ]
+      },
+      "the_hanged_man": {
+        "interpretation": "Feeling of stagnation and the challenge of surrendering control to transition.",
+        "keywords": [
+          "feeling",
+          "stagnation",
+          "challenge",
+          "surrendering"
+        ]
+      },
+      "eight_of_swords": {
+        "interpretation": "Mental traps and limiting beliefs, complicating movement towards solutions.",
+        "keywords": [
+          "mental",
+          "traps",
+          "limiting",
+          "beliefs"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_chariot": {
+        "interpretation": "Focusing on determination and willpower to navigate transitions successfully.",
+        "keywords": [
+          "focusing",
+          "determination",
+          "willpower",
+          "navigate"
+        ]
+      },
+      "the_hierophant": {
+        "interpretation": "Traditional guidance aiding in the passage through difficult times.",
+        "keywords": [
+          "traditional",
+          "guidance",
+          "aiding",
+          "passage"
+        ]
+      },
+      "four_of_swords": {
+        "interpretation": "Rest and recuperation as essential parts of the healing journey.",
+        "keywords": [
+          "rest",
+          "recuperation",
+          "essential",
+          "parts"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "six_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

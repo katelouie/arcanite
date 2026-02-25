@@ -1,0 +1,680 @@
+{
+  "card_id": "six_of_cups",
+  "card_name": "Six of Cups",
+  "card_number": 6,
+  "suit": "cups",
+  "archetype": "the_innocent_past",
+  "core_meanings": {
+    "upright": {
+      "essence": "A gentle return to innocence and nostalgia, where past joys bring comfort and healing to the present.",
+      "keywords": [
+        "nostalgia",
+        "childhood",
+        "innocence",
+        "reunion",
+        "past memories",
+        "kindness",
+        "healing"
+      ],
+      "psychological": "Reconnects you with the child within, urging you to embrace a sense of wonder and simplicity in your life.",
+      "spiritual": "A reminder of the soul's pure nature and the wisdom found in innocence and open-heartedness.",
+      "practical": "Encourages you to heal old wounds by revisiting memories with compassion and understanding.",
+      "shadow": "Clinging to the past and refusing to grow, idealizing what once was and missing the gifts of the present."
+    },
+    "reversed": {
+      "essence": "Unresolved issues from the past or an inability to move forward, feeling trapped in memories.",
+      "keywords": [
+        "stagnation",
+        "living in the past",
+        "childishness",
+        "unresolved issues",
+        "regret"
+      ],
+      "psychological": "Facing old traumas or regrets that hinder personal growth, need to consciously release them.",
+      "spiritual": "A call to integrate past experiences into spiritual wisdom without dwelling on them.",
+      "practical": "Time to let go of past grievances or stagnant relationships in order to embrace new opportunities.",
+      "shadow": "Being weighed down by nostalgia, missing present potential due to overidentification with 'better times.'"
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Fond memories or childhood experiences have shaped your current path and worldview. Embrace their positive influence.",
+        "reversed": "A past situation continues to impact negatively, unresolved conflicts or dependencies need addressing.",
+        "keywords": [
+          "shaping influence",
+          "childhood impact",
+          "unresolved past",
+          "foundational joy"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-ago events instilled a sense of connection and innocence that still nurtures your soul.",
+        "reversed": "Old pains or unresolved family dynamics that still linger in your subconscious actions.",
+        "keywords": [
+          "ancient memories",
+          "foundational innocence",
+          "old pains",
+          "familiarly embedded"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent reconnections with family or old friends bring warmth and joy, enhancing current relationships.",
+        "reversed": "Recent encounters that mirror old patterns of behavior or emotional responses need reflection.",
+        "keywords": [
+          "warm reconnection",
+          "revived bonds",
+          "mirrored patterns",
+          "recent sentiment"
+        ]
+      },
+      "present": {
+        "upright": "Cherish the present moment by revisiting fond memories and thoughtful connections. Allow warmth to illuminate now.",
+        "reversed": "Currently caught in a cycle of regret or longing for a past comfort; time to shift focus forward.",
+        "keywords": [
+          "now's warmth",
+          "present connections",
+          "current cycle",
+          "illuminated moment"
+        ]
+      },
+      "present_situation": {
+        "upright": "Your core experience is enriched by empathy and kindness, influenced by a gentle approach to life's challenges.",
+        "reversed": "At your core, fear of change inhibits progress due to over-reliance on comfort zones.",
+        "keywords": [
+          "core empathy",
+          "gentle presence",
+          "fear of change",
+          "comfort zones"
+        ]
+      },
+      "future": {
+        "upright": "A coming period fosters healing family ties or revisiting cherished places, bringing peace and delight.",
+        "reversed": "Potential challenges in letting go of restrictive traditions may arise, impeding future growth.",
+        "keywords": [
+          "upcoming healing",
+          "revisited places",
+          "restrictive traditions",
+          "peaceful future"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, an unexpected reunion or rediscovery of past joy brings light and renewal into your life.",
+        "reversed": "Approaching delays due to emotional baggage or unresolved family matters need conscious release.",
+        "keywords": [
+          "soon reunion",
+          "rediscovered joy",
+          "emotional baggage",
+          "light renewal"
+        ]
+      },
+      "distant_future": {
+        "upright": "The distant approach holds opportunities for both personal growth and repairing lingering emotional scars.",
+        "reversed": "Long-term stagnation if past obsessions continue to dictate your actions without conscious awareness.",
+        "keywords": [
+          "future growth",
+          "emotional repairs",
+          "long-term stagnation",
+          "personal opportunity"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Embrace the past with grace while creating space for new experiences; balance memories with present reality.",
+        "reversed": "The challenge is in confronting unresolved memories that hold back your personal development.",
+        "keywords": [
+          "embrace grace",
+          "balance memories",
+          "confronting past",
+          "personal space"
+        ]
+      },
+      "cross": {
+        "upright": "Nostalgia creates a cross by obscuring the realism needed for current decision-making processes.",
+        "reversed": "Resistant family influences or memories of past failures are crossing new beginnings.",
+        "keywords": [
+          "obscured realism",
+          "crossing nostalgia",
+          "resistant influence",
+          "past failures"
+        ]
+      },
+      "obstacle": {
+        "upright": "Sentimentality can become an obstacle when it distorts current perceptions and limits potential.",
+        "reversed": "Stubborn inability to detach from negative past influences creates roadblocks.",
+        "keywords": [
+          "distorted perception",
+          "limiting potential",
+          "stubborn detachment",
+          "negative influences"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to integrate the joy and innocence of the past into a balanced, mature perspective on life.",
+        "reversed": "The lesson lies in acknowledging where you're holding onto past grudges or idealized illusions.",
+        "keywords": [
+          "balanced integration",
+          "mature perspective",
+          "acknowledged grudges",
+          "idealized illusions"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow contains unmet needs from childhood that manifest in adult life; embrace them with compassion.",
+        "reversed": "Unconscious fears tied to abandonment or betrayal remain unaddressed, influencing current behaviors.",
+        "keywords": [
+          "childhood needs",
+          "adult manifestation",
+          "unconscious fears",
+          "unaddressed issues"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Over-romanticizing what was prevents you from fully embracing what could be; release the need for past validation.",
+        "reversed": "The heavy weight of old regret or hesitance to let go of familial expectations clouds new ventures.",
+        "keywords": [
+          "over-romanticizing",
+          "past validation",
+          "familial expectations",
+          "heavy regret"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Celebrate past joys but invite them into the present by living authentically and remaining open to new paths.",
+        "reversed": "Take conscious steps to resolve past hurts, allowing healing and the creation of a more harmonious future.",
+        "keywords": [
+          "celebration",
+          "authentic living",
+          "new paths",
+          "healing steps"
+        ]
+      },
+      "action": {
+        "upright": "Engage in activities that invoke childlike wonder or connect with long-lost contacts for emotional nourishment.",
+        "reversed": "Detach from past anchors by actively engaging in adventures outside your comfort zone.",
+        "keywords": [
+          "childlike wonder",
+          "emotional nourishment",
+          "past detachment",
+          "active engagement"
+        ]
+      },
+      "your_approach": {
+        "upright": "Your approach exemplifies warmth and kindness, often leading with empathy cultivated through nostalgic experiences.",
+        "reversed": "Approach feels stagnated by past apprehensions or decisions, needing liberation for growth.",
+        "keywords": [
+          "warm approach",
+          "empathy",
+          "stagnated decisions",
+          "needing liberation"
+        ]
+      },
+      "what_helps": {
+        "upright": "Returning to simple joys and emotional simplicity helps cement enduring personal happiness.",
+        "reversed": "Letting go of excessive emotional baggage and adopting flexibility aids progress.",
+        "keywords": [
+          "simple joys",
+          "emotional simplicity",
+          "letting go",
+          "adopting flexibility"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust in your soul's guidance found in the beauty and clarity of innocence; it will lead you gently forward.",
+        "reversed": "Gift yourself the clarity of detachment, freeing your path for the emergence of a refreshed vision.",
+        "keywords": [
+          "trust in soul",
+          "clarity of innocence",
+          "clarity of detachment",
+          "refreshed vision"
+        ]
+      },
+      "best_course": {
+        "upright": "Draw upon fond memories to inform present choices not as paths to the past but as inspirations for a promising tomorrow.",
+        "reversed": "Release the grip of tradition or expectation to allow space for innovation and personal reinvention.",
+        "keywords": [
+          "fond inspiration",
+          "promising tomorrow",
+          "release tradition",
+          "personal reinvention"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to revisit and recapture the simplicities and joys of childhood; fear of being stuck in the realms of 'once was.'",
+        "reversed": "Fear of never escaping past mistakes or limitations that haunt personal and professional advancements.",
+        "keywords": [
+          "hope of simplicity",
+          "fear of being stuck",
+          "haunting past",
+          "limiting fears"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope to blossom through revisiting joyful simplicity and allowing past happiness to inform future dreams.",
+        "reversed": "Hope to untangle yourself from childhood constraints to empower authentic self-expression.",
+        "keywords": [
+          "joyful simplicity",
+          "informed dreams",
+          "untangle constraints",
+          "self-expression"
+        ]
+      },
+      "fears": {
+        "upright": "Fear that nostalgia keeps you from fully engaging in your current life's potential and opportunities.",
+        "reversed": "Fear of past failures repeating themselves, casting shadows on future possibilities.",
+        "keywords": [
+          "nostalgia trap",
+          "missed potential",
+          "repetitive failures",
+          "shadowed future"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconscious desire for a return to innocence serves as a foundation for soulful, heartfelt connections.",
+        "reversed": "Unresolved inner child yearns for acknowledgement, afraid of being forever dismissed.",
+        "keywords": [
+          "innocent desire",
+          "heartfelt foundation",
+          "unresolved inner child",
+          "yearning recognition"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously seek experiences that mirror the joy and acceptance found in childhood play and understanding.",
+        "reversed": "Conscious mind struggles against the conflict between wanting to move forward and longing for past security.",
+        "keywords": [
+          "mirror joy",
+          "childhood play",
+          "forward conflict",
+          "past security"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Feeling emotionally nurtured, open to the joys of both past and present, embracing tenderness.",
+        "reversed": "Emotionally challenged by old wounds or persistent regrets, feeling trapped in emotional stagnation.",
+        "keywords": [
+          "emotional nurture",
+          "joy embrace",
+          "persistent regret",
+          "emotional trap"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart holds timeless love, seeking pure, genuine connections reminiscent of youthful experiences.",
+        "reversed": "Heart's unmet desires for freedom from past burdens fuel a call to emotional liberation.",
+        "keywords": [
+          "timeless love",
+          "genuine connection",
+          "unmet desires",
+          "emotional liberation"
+        ]
+      },
+      "mind": {
+        "upright": "The mind recalls joyful past experiences that frame creative problem-solving with ease and grace.",
+        "reversed": "The mind wrestles with echoes of yesterday that cloud current clarity and future ambitions.",
+        "keywords": [
+          "joyful recall",
+          "creative frame",
+          "clouded clarity",
+          "future ambition"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Surroundings echo themes of kindness and support, evoking emotional nostalgia and communal bonds.",
+        "reversed": "External forces draw you into practices mirroring outdated family traditions or societal expectations.",
+        "keywords": [
+          "communal bonds",
+          "emotional nostalgia",
+          "outdated traditions",
+          "societal expectations"
+        ]
+      },
+      "others": {
+        "upright": "Others offer warmth and encouragement, creating an atmosphere rich with shared history and understanding.",
+        "reversed": "Others may unintentionally remind you of unresolved histories, triggering feelings of inadequacy.",
+        "keywords": [
+          "shared history",
+          "warm encouragement",
+          "unintentional reminder",
+          "triggered feelings"
+        ]
+      },
+      "environment": {
+        "upright": "A nurturing environment encourages healing and reflecting, aiding personal growth with gentle support.",
+        "reversed": "Current environment may reinforce past limitations or project a sense of emotional confinement.",
+        "keywords": [
+          "nurturing growth",
+          "gentle support",
+          "reinforced limitation",
+          "emotional confinement"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others perceive you as a beacon of warmth and compassion, offering stability through life's trials.",
+        "reversed": "You may be seen as resistant to change, overly attached to past comforts and stability.",
+        "keywords": [
+          "beacon of warmth",
+          "perceived stability",
+          "resistant perception",
+          "attached comfort"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen influences provide gentle reminders of legacy and heritage, offering wisdom and humility.",
+        "reversed": "Hidden resentments or unresolved familial tensions may subtly disrupt your current progress.",
+        "keywords": [
+          "gentle reminder",
+          "legacy wisdom",
+          "subtle disruption",
+          "hidden resentment"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Reconnection with past joys brings renewed hope and an enriched sense of life purpose.",
+        "reversed": "Stalemate situations stemming from reluctance to let go, causing emotional and situational stagnation.",
+        "keywords": [
+          "renewed hope",
+          "life purpose",
+          "emotional stalemate",
+          "situational stagnation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, healing old wounds leads to a balanced life of peace and heartfelt connections.",
+        "reversed": "The final outcome may entail prolonged frustration if past embeddings overshadow current potential.",
+        "keywords": [
+          "ultimate healing",
+          "balanced life",
+          "prolonged frustration",
+          "overshadowed potential"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Newfound depths of emotional clarity arise as past and present harmoniously engage in your growth.",
+        "reversed": "Persistent dwelling on the past may prevent exploration of unknown opportunities and beginnings.",
+        "keywords": [
+          "emotional clarity",
+          "harmonious growth",
+          "persistent dwelling",
+          "missed exploration"
+        ]
+      },
+      "best_case": {
+        "upright": "Best-case scenario involves a seamless fusion of wisdom with innocence, directing you towards enriching experiences.",
+        "reversed": "Ideal situations arise through patient resolution of past conflicts and embracing transformative growth.",
+        "keywords": [
+          "seamless fusion",
+          "wise innocence",
+          "patient resolution",
+          "transformative growth"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst-case entails sentimentality overpowering progress, resulting in repeated cycles and unending nostalgia.",
+        "reversed": "The risk lies in being trapped by past failures, creating ongoing patterns of unfinished stories.",
+        "keywords": [
+          "overpowering progress",
+          "repeated cycles",
+          "trapped failure",
+          "unfinished stories"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship connects to past emotional experiences, nostalgia, and childhood memories. The dynamic between you may involve revisiting old feelings, healing family patterns, or finding comfort in familiar emotional territory.",
+        "reversed": "The connection may be stuck in the past or idealize memories unrealistically. Nostalgia might prevent growth or old patterns may be too difficult to break. The relationship could involve being trapped by childhood wounds or family dynamics.",
+        "keywords": [
+          "nostalgia",
+          "past",
+          "childhood",
+          "memories"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Reconnecting with a past love or rekindling deep bonds; nurturing and sharing fond feelings together.",
+      "reversed": "Being drawn back to dysfunctional relationships or unable to overcome love-related heartaches.",
+      "keywords": [
+        "rekindled bonds",
+        "shared feelings",
+        "past dysfunction",
+        "overcome heartache"
+      ]
+    },
+    "career": {
+      "upright": "Picking up a previous passion or returning to a profession that once brought joy and satisfaction.",
+      "reversed": "Clinging to outdated methods or old job frustrations may hinder career progression.",
+      "keywords": [
+        "previous passion",
+        "satisfaction return",
+        "outdated cling",
+        "hindered progression"
+      ]
+    },
+    "spiritual": {
+      "upright": "Revisiting spiritual practices from your past, finding peace through traditional reflections.",
+      "reversed": "Stuck in spiritual stagnation, unable to evolve due to rigid adherence to past beliefs.",
+      "keywords": [
+        "spiritual revisit",
+        "traditional peace",
+        "stagnation stuck",
+        "rigid beliefs"
+      ]
+    },
+    "financial": {
+      "upright": "A financial boost from unexpected sources or past investments paying off, leading to renewed security.",
+      "reversed": "Lingering debts or reliance on past financial glories prevent current economic freedom.",
+      "keywords": [
+        "financial boost",
+        "renewed security",
+        "lingering debts",
+        "economic freedom"
+      ]
+    },
+    "health": {
+      "upright": "Returning to a health regimen from the past could bring renewed vitality and balanced wellness.",
+      "reversed": "Health complications arise from old habits or unresolved emotional stress; need to change course.",
+      "keywords": [
+        "renewed vitality",
+        "wellness balance",
+        "complicated health",
+        "course change"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "sun in scorpio",
+    "hebrew_letter": "",
+    "numerology": 6,
+    "planet": "sun",
+    "season": "autumn",
+    "time_of_day": "twilight",
+    "colors": [
+      "soft blue",
+      "rosy pink",
+      "golden yellow"
+    ],
+    "crystals": [
+      "rose quartz",
+      "blue lace agate",
+      "amethyst"
+    ],
+    "herbs": [
+      "chamomile",
+      "lavender",
+      "sage"
+    ]
+  },
+  "symbols": {
+    "children": "innocence and purity, a return to simpler times",
+    "cups": "emotional fulfillment and sharing",
+    "flowers": "growth and beauty from past experiences",
+    "inner courtyard": "the private sanctuary of memory and introspection"
+  },
+  "affirmations": [
+    "I cherish the past and embrace the present with open arms.",
+    "Memories enrich my life without defining my present choices.",
+    "I find strength and wisdom in the innocence of my inner child.",
+    "My past empowers my future growth and understanding."
+  ],
+  "journaling_prompts": [
+    "Reflect on a childhood memory that brings warmth and what it teaches you.",
+    "What part of your past do you need to heal and release?",
+    "How can past experiences inform your current path?",
+    "Explore ways to incorporate childlike wonder into your life now."
+  ],
+  "meditation_focus": "Connecting with the inner child and allowing innocence to infuse your heart with joy and clarity.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:43:28.655432",
+    "card_info": {
+      "name": "Six of Cups",
+      "number": 6,
+      "suit": "cups"
+    },
+    "filename": "c06.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_sun": {
+        "interpretation": "Amplifies joyous energy; celebrating life with warmth and light.",
+        "keywords": [
+          "amplifies",
+          "joyous",
+          "energy",
+          "celebrating"
+        ]
+      },
+      "the_empress": {
+        "interpretation": "Nurtures creativity and abundance; past comforts leading to current blessings.",
+        "keywords": [
+          "nurtures",
+          "creativity",
+          "abundance",
+          "past"
+        ]
+      },
+      "ace_of_cups": {
+        "interpretation": "Emotionally enriching beginnings inspired by soulful connections.",
+        "keywords": [
+          "emotionally",
+          "enriching",
+          "beginnings",
+          "inspired"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Nostalgia clashing with sudden changes; destabilizing old comforts.",
+        "keywords": [
+          "nostalgia",
+          "clashing",
+          "sudden",
+          "changes"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Potential for sorrow due to lingering in past hurts, overshadowing new possibilities.",
+        "keywords": [
+          "potential",
+          "sorrow",
+          "lingering",
+          "past"
+        ]
+      },
+      "four_of_pentacles": {
+        "interpretation": "Holding tight to past security stifles growth and flow.",
+        "keywords": [
+          "holding",
+          "tight",
+          "past",
+          "security"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hermit": {
+        "interpretation": "Introspection on past insights leading to deeper wisdom.",
+        "keywords": [
+          "introspection",
+          "past",
+          "insights",
+          "leading"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Decision-making clarified by lessons from past experiences.",
+        "keywords": [
+          "decision",
+          "making",
+          "clarified",
+          "lessons"
+        ]
+      },
+      "temperance": {
+        "interpretation": "Blending past experiences creates harmony and understanding.",
+        "keywords": [
+          "blending",
+          "past",
+          "experiences",
+          "creates"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ace_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_devil": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "six_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "card_id": "the_lovers",
+  "card_name": "The Lovers",
+  "card_number": 6,
+  "suit": "major_arcana",
+  "archetype": "the_union",
+  "core_meanings": {
+    "upright": {
+      "essence": "Harmonious union of opposites and choices made from love. Integration of dualities through conscious connection.",
+      "keywords": [
+        "love",
+        "union",
+        "choices",
+        "balance",
+        "partnership",
+        "alignment",
+        "attraction"
+      ],
+      "psychological": "Represents the reconciliation of inner dualities, healing through connection, and the values that guide your choices.",
+      "spiritual": "The sacred dance of masculine and feminine energies, reminding us of our divine interconnectedness.",
+      "practical": "Focus on relationships and partnerships. Important decisions require alignment with your true values.",
+      "shadow": "Avoidance of necessary choices, misaligned values, or losing oneself in another person without authentic connection."
+    },
+    "reversed": {
+      "essence": "Conflict in union, misalignment, or superficial connections. Struggles with choices and inner disconnection.",
+      "keywords": [
+        "imbalance",
+        "disharmony",
+        "conflict",
+        "indecision",
+        "temptation",
+        "misalignment"
+      ],
+      "psychological": "Reflects inner conflict about values or relationships, or fear of commitment leading to avoidance.",
+      "spiritual": "Disconnection from the whole, feeling separated from both self and the divine. Need for reintegration.",
+      "practical": "Reconsider decisions around relationships. Avoid choices that are not aligned with your authentic self.",
+      "shadow": "Falling into unhealthy patterns in relationships, or making decisions based on fear rather than love."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A pivotal past decision rooted in love has shaped your current life path. A meaningful relationship provided significant lessons.",
+        "reversed": "Past conflicts or unresolved relationship issues continue to influence your present. Old choices made for the wrong reasons.",
+        "keywords": [
+          "past union",
+          "choices made",
+          "relationship lessons",
+          "unresolved issues"
+        ]
+      },
+      "distant_past": {
+        "upright": "Early experiences of connection or disunion that have influenced your approach to relationships and choices.",
+        "reversed": "Long-standing fears of commitment or past betrayals that have shaped defensive patterns in relationships.",
+        "keywords": [
+          "early connections",
+          "formative experiences",
+          "long-standing fears",
+          "past betrayals"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent choice to open your heart or deepen a connection has brought you to this moment of revelation.",
+        "reversed": "Recent misunderstandings or tensions in relationships affecting your current emotional stability.",
+        "keywords": [
+          "recent choice",
+          "deepening connection",
+          "misunderstandings",
+          "emotional influence"
+        ]
+      },
+      "present": {
+        "upright": "You stand on the cusp of an important decision involving love or values. The time for alignment with your true desires is now.",
+        "reversed": "Current disharmony asks for honest assessment and courage to address misalignments in your life or relationships.",
+        "keywords": [
+          "decision point",
+          "alignment",
+          "current harmony",
+          "disharmony analysis"
+        ]
+      },
+      "present_situation": {
+        "upright": "The heart of your experience involves aligning your actions with deep-seated values and the call of authentic love.",
+        "reversed": "Inner conflicts or choices made from fear rather than love are creating unease. Re-evaluate your motivations.",
+        "keywords": [
+          "central values",
+          "authentic love",
+          "conflict resolution",
+          "motivational clarity"
+        ]
+      },
+      "future": {
+        "upright": "A harmonious partnership or resolution of choices awaits, promising growth and deeper connections.",
+        "reversed": "Upcoming challenges may highlight areas of misalignment, calling for reconnection with true desires.",
+        "keywords": [
+          "harmonious future",
+          "connection deepening",
+          "challenge recognition",
+          "alignment check"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, an opportunity to deepen a love or make a value-centered choice will arise. Embrace with open heart.",
+        "reversed": "Short-term tensions may arise in relationships or choices that seem unclear. Seek inner clarity first.",
+        "keywords": [
+          "coming opportunity",
+          "short-term tensions",
+          "choice clarity",
+          "relationship focus"
+        ]
+      },
+      "distant_future": {
+        "upright": "Eventually, the choices and partnerships fostered will lead to a life enriched with love and meaningful connections.",
+        "reversed": "Long-term disharmony may result if current misalignments are ignored. Revisit core values to ensure future fulfillment.",
+        "keywords": [
+          "future enrichment",
+          "meaningful life",
+          "long-term disharmony",
+          "core value revisiting"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to harmonize dualities within and make choices rooted in love, not fear. Trust the wisdom of love.",
+        "reversed": "Finding alignment and authenticity in relationships is key, as is confronting fears of vulnerability and choice.",
+        "keywords": [
+          "dualities harmony",
+          "love-rooted choices",
+          "authentic alignment",
+          "vulnerability confrontation"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures or opposing values may test your integrity and commitment to true connection.",
+        "reversed": "Internal fears or unresolved past experiences may hinder genuine expression of love and values.",
+        "keywords": [
+          "external testing",
+          "integrity challenge",
+          "internal fears",
+          "past experiences"
+        ]
+      },
+      "obstacle": {
+        "upright": "Avoid distraction and temptation away from your core values. Focus on genuine connection rather than superficial attractions.",
+        "reversed": "Disconnection from self or fear-driven decisions block deeper union and authentic expression.",
+        "keywords": [
+          "value distractions",
+          "superficial focus",
+          "self-disconnection",
+          "authenticity blockages"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to merge logic with intuition, heart with mind, in making choices that honor both parts of yourself.",
+        "reversed": "Discover patterns of indecision or self-betrayal. Learn that alignment involves courageous, heart-centered choices.",
+        "keywords": [
+          "merge logic and heart",
+          "honor duality",
+          "indecision patterns",
+          "courageous alignment"
+        ]
+      },
+      "shadow": {
+        "upright": "Unrecognized fears of intimacy or commitment may hold back full expression of your loving nature. Integrate with courage.",
+        "reversed": "Hidden within is either the fear of losing autonomy or the tendency to sacrifice too much for approval. Balance needed.",
+        "keywords": [
+          "intimacy fears",
+          "commitment anxiety",
+          "autonomy fear",
+          "approval sacrifice"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Unresolved past choices or misaligned connections hold you back from embracing current potential.",
+        "reversed": "Beliefs about love or relationships influenced by past disappointments may prevent new growth.",
+        "keywords": [
+          "past choices",
+          "misalignment",
+          "belief barriers",
+          "relationship disappointments"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace love, both for yourself and others. Make choices that align with your highest truth and values.",
+        "reversed": "Reassess connections and choices. Seek authenticity over approval, aligning actions with deepest values.",
+        "keywords": [
+          "self-love",
+          "highest truth",
+          "connection reassessment",
+          "authentic alignment"
+        ]
+      },
+      "action": {
+        "upright": "Take action that nurtures unity, fostering mutual growth and understanding in relationships and choices.",
+        "reversed": "Avoid hasty decisions. Pause and reflect to ensure that your choices truly reflect your inner values.",
+        "keywords": [
+          "nurture unity",
+          "mutual growth",
+          "reflective pause",
+          "value reflection"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as a harmonious being capable of forming deep, meaningful connections based on love.",
+        "reversed": "You may perceive yourself as conflicted, struggling to find harmony and balance between heart and mind.",
+        "keywords": [
+          "harmonious self",
+          "meaningful connections",
+          "conflicted perception",
+          "balance struggle"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your innate ability to love and connect deeply aids in resolving conflicts and fostering aligned choices.",
+        "reversed": "Support comes from insights gained through introspection and aligning actions with genuine desires.",
+        "keywords": [
+          "deep connection",
+          "conflict resolution",
+          "introspection insights",
+          "alignment support"
+        ]
+      },
+      "guidance": {
+        "upright": "Seek unity within. The universe encourages aligning your inner and outer worlds through balanced choices.",
+        "reversed": "Spiritual guidance suggests working on inner harmony before seeking external validation or approval.",
+        "keywords": [
+          "inner unity",
+          "balance encouragement",
+          "inner harmony",
+          "external validation"
+        ]
+      },
+      "best_course": {
+        "upright": "The best path lies in embracing love as your guide, allowing your choices to resonate with your true self.",
+        "reversed": "Focus on realignment with self through honest self-reflection and re-evaluation of core values.",
+        "keywords": [
+          "love as guide",
+          "true resonance",
+          "self-realignment",
+          "core value re-evaluation"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for deep connection and true partnership. Fear of vulnerability or losing oneself in another.",
+        "reversed": "Fear of making the wrong choice or being unable to establish lasting, meaningful connections.",
+        "keywords": [
+          "deep connection",
+          "true partnership",
+          "vulnerability fears",
+          "wrong choice"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire for balanced love relationships and union with your values. Yearning for harmony and authenticity.",
+        "reversed": "Hope to overcome past relational patterns and create a new paradigm based on healthy choices.",
+        "keywords": [
+          "balanced love",
+          "value union",
+          "relational evolution",
+          "healthy paradigm"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing individuality in relationships or of decisions leading to disharmony.",
+        "reversed": "Fear of commitment or being trapped in connections that do not reflect true self.",
+        "keywords": [
+          "individuality loss",
+          "decision disharmony",
+          "commitment fear",
+          "self-trapped"
+        ]
+      },
+      "subconscious": {
+        "upright": "At a deep level, you crave unity and fearlessly seek connections that mirror your inner truth.",
+        "reversed": "Subconscious fears of rejection or mistrust in relationships may influence your deeper connections.",
+        "keywords": [
+          "inner unity",
+          "fearless seeking",
+          "rejection fear",
+          "trust issues"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of your need for balance and love, you focus on making choices that enhance wellbeing.",
+        "reversed": "You might currently struggle with conscious awareness of inner conflicts or ignored red flags.",
+        "keywords": [
+          "balance need",
+          "love focus",
+          "inner conflict",
+          "ignored red flags"
+        ]
+      },
+      "emotional_state": {
+        "upright": "You feel open and receptive, ready for harmonious connections. Emotionally balanced and aligned with love.",
+        "reversed": "Possible emotional turmoil or uncertainty in matters of the heart leading to self-doubt.",
+        "keywords": [
+          "openness",
+          "receptivity",
+          "emotional turmoil",
+          "self-doubt"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart desires meaningful connection and alignment with true love, ready to embrace unity.",
+        "reversed": "Heart wisdom ignored may include feelings of misalignment or an unfulfilled need for genuine connection.",
+        "keywords": [
+          "meaningful connection",
+          "true love alignment",
+          "ignored wisdom",
+          "unfulfilled need"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, you're balancing logic with heart, finding clarity in your relationships and choices.",
+        "reversed": "An unsettled mind may reflect confusion in choices or misalignment of values and actions.",
+        "keywords": [
+          "mental balance",
+          "relationship clarity",
+          "mind confusion",
+          "value misalignment"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others view you as a balanced and attractive individual, drawing admiration for your harmonizing energy.",
+        "reversed": "You may be perceived as indecisive or inconsistent, resulting from inner conflict visible to others.",
+        "keywords": [
+          "balanced attraction",
+          "harmonizing energy",
+          "indecisive perception",
+          "visible conflict"
+        ]
+      },
+      "others": {
+        "upright": "Supportive relationships surround you, encouraging choices aligned with love and mutual respect.",
+        "reversed": "Others might apply pressure to conform to societal norms or expectations that conflict with your inner truth.",
+        "keywords": [
+          "supportive relationships",
+          "mutual respect",
+          "societal pressure",
+          "inner truth conflict"
+        ]
+      },
+      "environment": {
+        "upright": "Your current environment supports healing, unity, and choices that reflect your deepest values and desires.",
+        "reversed": "External circumstances may challenge alignment, pulling you away from authentic paths or connections.",
+        "keywords": [
+          "healing support",
+          "value reflection",
+          "circumstantial challenge",
+          "authentic path"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as someone who fosters connection and promotes harmony, attracting growth-oriented partnerships.",
+        "reversed": "Others may see you as struggling to make decisions or align actions with words, creating confusion.",
+        "keywords": [
+          "connection fostering",
+          "harmony promotion",
+          "decision struggle",
+          "aligned actions"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen spiritual allies assist in harmonizing your path and manifesting genuine connections.",
+        "reversed": "Subtle energetic blockages or unrecognized fears may be influencing your relational choices.",
+        "keywords": [
+          "spiritual allies",
+          "harmonization assistance",
+          "energetic blockages",
+          "unrecognized fears"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Choices aligned with love lead to deeply satisfying connections and harmonious life experiences.",
+        "reversed": "Ignoring misalignments could result in temporary dissatisfaction or further relational challenges.",
+        "keywords": [
+          "aligned choices",
+          "satisfying connections",
+          "misalignment",
+          "relational challenge"
+        ]
+      },
+      "final_outcome": {
+        "upright": "True integration of love and values creates a fulfilling future rich with genuine connections.",
+        "reversed": "Continual indecision may lead to lessons learned through challenge rather than peace.",
+        "keywords": [
+          "love integration",
+          "genuine future",
+          "indecision lessons",
+          "challenge learning"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "A journey of growth, with choices leading to strengthened bonds and self-awareness.",
+        "reversed": "Possible unresolved tensions may necessitate reevaluation and healing before true progress.",
+        "keywords": [
+          "growth journey",
+          "strengthened bonds",
+          "unresolved tension",
+          "reevaluation"
+        ]
+      },
+      "best_case": {
+        "upright": "Ideal scenarios involve seamless alignment and synchronicity between heart and external actions.",
+        "reversed": "Best outcome achieved through recognizing dissonance and making informed, heart-led corrections.",
+        "keywords": [
+          "seamless alignment",
+          "heart actions",
+          "dissonance recognition",
+          "heart corrections"
+        ]
+      },
+      "worst_case": {
+        "upright": "Ignoring heart wisdom can lead to superficial connections, causing inner unrest and lessons learned the hard way.",
+        "reversed": "Failure to address underlying issues may result in prolonged discontent or even relational breakdowns.",
+        "keywords": [
+          "superficial connections",
+          "inner unrest",
+          "issue neglect",
+          "relational breakdown"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship embodies true partnership, choice, and mutual attraction. The dynamic is one of harmony, shared values, and conscious commitment. You complement each other beautifully and make decisions together that honor both your individual needs.",
+        "reversed": "The connection struggles with imbalance, poor choices, or unrequited feelings. Values may clash or one party may be more invested than the other. Decisions made together may lack harmony or consideration for both parties' needs.",
+        "keywords": [
+          "partnership",
+          "harmony",
+          "choice",
+          "attraction"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Deep connection or rekindling of romance. Focus on choices that enhance partnership and harmony.",
+      "reversed": "Misalignment or imbalance in relationships. Reassess true desires to find lasting love.",
+      "keywords": [
+        "deep connection",
+        "romantic reunion",
+        "relationship imbalance",
+        "true desires"
+      ]
+    },
+    "career": {
+      "upright": "Career decisions aligned with values bring satisfaction. Partnerships at work flourish under mutual respect.",
+      "reversed": "Misaligned career paths or values. Important to find alignment or balance to achieve goals.",
+      "keywords": [
+        "career alignment",
+        "value satisfaction",
+        "path misalignment",
+        "goal achievement"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual growth enriched by integrating dual aspects of self, fostering unity and awareness.",
+      "reversed": "Feeling disconnected from spiritual path, realignment needed to regain clarity and purpose.",
+      "keywords": [
+        "spiritual growth",
+        "self-integration",
+        "path disconnection",
+        "clarity realignment"
+      ]
+    },
+    "financial": {
+      "upright": "Balanced financial choices rooted in values lead to prosperity and stability. Potential partnerships benefit growth.",
+      "reversed": "Financial instability due to misaligned choices or unclear priorities. Reassess values and goals.",
+      "keywords": [
+        "value-rooted prosperity",
+        "stability",
+        "financial misalignment",
+        "goal reassessment"
+      ]
+    },
+    "health": {
+      "upright": "Focus on balanced health practices that integrate body and mind for holistic wellbeing.",
+      "reversed": "Imbalances or neglect in health areas. Necessary to align lifestyle choices with wellness goals.",
+      "keywords": [
+        "balanced health",
+        "holistic wellbeing",
+        "health imbalance",
+        "lifestyle alignment"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "gemini",
+    "hebrew_letter": "zayin",
+    "numerology": 6,
+    "planet": "mercury",
+    "season": "spring",
+    "time_of_day": "twilight",
+    "colors": [
+      "pink",
+      "green",
+      "light blue"
+    ],
+    "crystals": [
+      "rose quartz",
+      "emerald",
+      "agate"
+    ],
+    "herbs": [
+      "lavender",
+      "rose",
+      "valerian"
+    ]
+  },
+  "symbols": {
+    "angel": "divine guidance and protection",
+    "mountain": "challenge and overcoming obstacles",
+    "apple": "choice and temptation",
+    "snake": "wisdom and potential deception"
+  },
+  "affirmations": [
+    "I align my choices with love and truth.",
+    "I welcome harmonious relationships that enrich my soul.",
+    "My heart and mind work together in unity and peace.",
+    "I honor my truth and my values in every decision."
+  ],
+  "journaling_prompts": [
+    "What values guide my choices in relationships?",
+    "How can I integrate dual aspects of myself into a harmonious whole?",
+    "What fears might be blocking my path to genuine connection?",
+    "How do I stay true to myself in partnerships?"
+  ],
+  "meditation_focus": "Visualize the integration of your heart and mind, and feel the balance that comes with aligned choices.",
+  "_metadata": {
+    "generated_at": "2025-08-13T16:53:35.079325",
+    "card_info": {
+      "name": "The Lovers",
+      "number": 6,
+      "suit": "major_arcana"
+    },
+    "filename": "m06.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_high_priestess": {
+        "interpretation": "Deep intuitive insight enhances understanding of relationships and inner dualities.",
+        "keywords": [
+          "deep",
+          "intuitive",
+          "insight",
+          "enhances"
+        ]
+      },
+      "the_empress": {
+        "interpretation": "Nurturing energy and abundance; love and creativity flow harmoniously for growth.",
+        "keywords": [
+          "nurturing",
+          "energy",
+          "abundance",
+          "love"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "Joyful unions and clarity illuminate pathways to love and conscious choice.",
+        "keywords": [
+          "joyful",
+          "unions",
+          "clarity",
+          "illuminate"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Sudden upheavals or revelations that shake current relationships or choices; adaptation required.",
+        "keywords": [
+          "sudden",
+          "upheavals",
+          "revelations",
+          "shake"
+        ]
+      },
+      "the_moon": {
+        "interpretation": "Confusion or illusion in relationship dynamics. Clarity needed to see true nature of connections.",
+        "keywords": [
+          "confusion",
+          "illusion",
+          "relationship",
+          "dynamics"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Loss or regret linked to past relationships. Healing through acceptance is vital for growth.",
+        "keywords": [
+          "loss",
+          "regret",
+          "linked",
+          "past"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_chariot": {
+        "interpretation": "Determination and focus clarify paths forward in love or commitments. Balance is key.",
+        "keywords": [
+          "determination",
+          "focus",
+          "clarify",
+          "paths"
+        ]
+      },
+      "two_of_cups": {
+        "interpretation": "Clear indication of deep emotional bonds or meaningful partnerships blooming.",
+        "keywords": [
+          "clear",
+          "indication",
+          "deep",
+          "emotional"
+        ]
+      },
+      "justice": {
+        "interpretation": "Ensures decisions align with ethical standards and internal truth to foster integrity.",
+        "keywords": [
+          "ensures",
+          "decisions",
+          "align",
+          "ethical"
+        ]
+      }
+    },
+    "similar_energy": {
+      "two_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "the_lovers": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "strength": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

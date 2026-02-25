@@ -1,0 +1,1420 @@
+{
+  "layouts": {
+    "single-center": {
+      "name": "Single Card Center",
+      "positions": [
+        {
+          "x": 50,
+          "y": 30
+        }
+      ]
+    },
+    "horizontal-3": {
+      "name": "Three Cards Horizontal",
+      "positions": [
+        {
+          "x": 25,
+          "y": 30
+        },
+        {
+          "x": 50,
+          "y": 30
+        },
+        {
+          "x": 75,
+          "y": 30
+        }
+      ]
+    },
+    "triangle-3": {
+      "name": "Three Cards Triangle",
+      "positions": [
+        {
+          "x": 50,
+          "y": 15
+        },
+        {
+          "x": 30,
+          "y": 50
+        },
+        {
+          "x": 70,
+          "y": 50
+        }
+      ]
+    },
+    "cross-5": {
+      "name": "Five Card Cross",
+      "positions": [
+        {
+          "x": 50,
+          "y": 35
+        },
+        {
+          "x": 50,
+          "y": 5
+        },
+        {
+          "x": 25,
+          "y": 35
+        },
+        {
+          "x": 75,
+          "y": 35
+        },
+        {
+          "x": 50,
+          "y": 70
+        }
+      ]
+    },
+    "square-4": {
+      "name": "Four Card Square",
+      "positions": [
+        {
+          "x": 30,
+          "y": 10
+        },
+        {
+          "x": 70,
+          "y": 10
+        },
+        {
+          "x": 30,
+          "y": 55
+        },
+        {
+          "x": 70,
+          "y": 55
+        }
+      ]
+    },
+    "relationship-6": {
+      "name": "Six Card Relationship",
+      "positions": [
+        {
+          "x": 20,
+          "y": 15
+        },
+        {
+          "x": 80,
+          "y": 15
+        },
+        {
+          "x": 50,
+          "y": 15
+        },
+        {
+          "x": 20,
+          "y": 55
+        },
+        {
+          "x": 50,
+          "y": 55
+        },
+        {
+          "x": 80,
+          "y": 55
+        }
+      ]
+    },
+    "horseshoe-7": {
+      "name": "Seven Card Horseshoe",
+      "positions": [
+        {
+          "x": 20,
+          "y": 55
+        },
+        {
+          "x": 30,
+          "y": 25
+        },
+        {
+          "x": 45,
+          "y": 10
+        },
+        {
+          "x": 55,
+          "y": 10
+        },
+        {
+          "x": 70,
+          "y": 25
+        },
+        {
+          "x": 80,
+          "y": 55
+        },
+        {
+          "x": 50,
+          "y": 65
+        }
+      ]
+    },
+    "horseshoe-7-apex": {
+      "name": "Seven Card Horseshoe (Apex Center)",
+      "positions": [
+        {
+          "x": 15,
+          "y": 65
+        },
+        {
+          "x": 25,
+          "y": 35
+        },
+        {
+          "x": 40,
+          "y": 15
+        },
+        {
+          "x": 50,
+          "y": 10
+        },
+        {
+          "x": 60,
+          "y": 15
+        },
+        {
+          "x": 75,
+          "y": 35
+        },
+        {
+          "x": 85,
+          "y": 65
+        }
+      ]
+    },
+    "celtic-cross-10": {
+      "name": "Celtic Cross",
+      "positions": [
+        {
+          "x": 35,
+          "y": 35,
+          "zIndex": 1
+        },
+        {
+          "x": 35,
+          "y": 35,
+          "rotation": 90,
+          "zIndex": 2
+        },
+        {
+          "x": 35,
+          "y": 60
+        },
+        {
+          "x": 20,
+          "y": 35
+        },
+        {
+          "x": 35,
+          "y": 10
+        },
+        {
+          "x": 50,
+          "y": 35
+        },
+        {
+          "x": 80,
+          "y": 75
+        },
+        {
+          "x": 80,
+          "y": 50
+        },
+        {
+          "x": 80,
+          "y": 27
+        },
+        {
+          "x": 80,
+          "y": 5
+        }
+      ]
+    },
+    "wheel-12": {
+      "name": "Twelve Card Wheel",
+      "positions": [
+        {
+          "x": 50,
+          "y": 5
+        },
+        {
+          "x": 65,
+          "y": 16
+        },
+        {
+          "x": 78,
+          "y": 27
+        },
+        {
+          "x": 90,
+          "y": 40
+        },
+        {
+          "x": 78,
+          "y": 56
+        },
+        {
+          "x": 65,
+          "y": 68
+        },
+        {
+          "x": 50,
+          "y": 80
+        },
+        {
+          "x": 38,
+          "y": 68
+        },
+        {
+          "x": 25,
+          "y": 56
+        },
+        {
+          "x": 10,
+          "y": 40
+        },
+        {
+          "x": 25,
+          "y": 27
+        },
+        {
+          "x": 38,
+          "y": 16
+        }
+      ]
+    }
+  },
+  "spreads": [
+    {
+      "id": "single-focus",
+      "name": "Single Card",
+      "description": "A simple one-card draw for daily guidance",
+      "layout": "single-center",
+      "cardSize": "large",
+      "aspectRatio": 2,
+      "category": "simple",
+      "difficulty": "beginner",
+      "positions": [
+        {
+          "name": "Focus",
+          "short_description": "The main energy or message for you right now",
+          "detailed_description": "What energy, message, or guidance does the universe want you to focus on today? What quality should you embody, what opportunity should you notice, or what wisdom should guide your choices? This card represents the most important spiritual, emotional, or practical insight for your current moment.",
+          "keywords": [
+            "guidance",
+            "focus",
+            "daily",
+            "energy",
+            "message",
+            "opportunity",
+            "wisdom"
+          ],
+          "question_adaptations": {
+            "general": "The primary energy or guidance you need right now",
+            "decision": "The key factor to focus on when making this choice",
+            "love": "The most important aspect of your love life to pay attention to",
+            "career": "What you should focus on in your professional life today"
+          },
+          "rag_mapping": "temporal_positions.present"
+        }
+      ]
+    },
+    {
+      "id": "past-present-future",
+      "name": "3 Cards (Past, Present, Future)",
+      "description": "Classic timeline spread showing the flow of energy",
+      "layout": "horizontal-3",
+      "cardSize": "large",
+      "aspectRatio": 3,
+      "category": "timeline",
+      "difficulty": "beginner",
+      "positions": [
+        {
+          "name": "Past",
+          "short_description": "Past influences affecting the current situation",
+          "detailed_description": "What experiences, decisions, patterns, or energies from your past are directly influencing your current situation? This could be recent events, learned behaviors, past relationships, or even ancestral patterns. What foundation - positive or challenging - was laid that brings you to this moment?",
+          "keywords": [
+            "history",
+            "influences",
+            "foundation",
+            "patterns",
+            "experiences",
+            "decisions"
+          ],
+          "question_adaptations": {
+            "love": "Past relationship patterns or romantic experiences shaping your current love life",
+            "career": "Professional experiences, education, or past career decisions influencing your current work situation",
+            "spiritual": "Past spiritual experiences, beliefs, or practices that inform your current spiritual journey"
+          },
+          "rag_mapping": "temporal_positions.past"
+        },
+        {
+          "name": "Present",
+          "short_description": "Current energies and circumstances surrounding you",
+          "detailed_description": "What is the core energy, central theme, or primary dynamic of your current experience? This represents where you are right now - emotionally, spiritually, and practically. What circumstances, opportunities, or challenges are actively shaping your daily reality?",
+          "keywords": [
+            "now",
+            "current",
+            "energy",
+            "circumstances",
+            "reality",
+            "opportunities"
+          ],
+          "question_adaptations": {
+            "love": "The current state and energy of your romantic life or specific relationship",
+            "career": "Your present professional situation, workplace dynamics, or current career energy",
+            "spiritual": "Where you are right now on your spiritual path and what energies are active"
+          },
+          "rag_mapping": "temporal_positions.present"
+        },
+        {
+          "name": "Future",
+          "short_description": "The likely outcome or direction you're heading",
+          "detailed_description": "Where is your current path leading? What outcome, opportunity, or new phase of life is emerging based on your present circumstances and choices? This represents the natural progression of current energies, not a fixed fate but a likely trajectory if things continue as they are.",
+          "keywords": [
+            "outcome",
+            "potential",
+            "direction",
+            "trajectory",
+            "emerging",
+            "progression"
+          ],
+          "question_adaptations": {
+            "love": "Where your romantic life is heading based on current patterns and choices",
+            "career": "The likely direction of your professional life and emerging career opportunities",
+            "spiritual": "The next phase of your spiritual development and where your practice is leading"
+          },
+          "rag_mapping": "temporal_positions.future"
+        }
+      ]
+    },
+    {
+      "id": "mind-body-spirit",
+      "name": "3 Cards (Mind, Body, Spirit)",
+      "description": "Holistic view of your mental, physical, and spiritual state",
+      "layout": "horizontal-3",
+      "cardSize": "large",
+      "aspectRatio": 3,
+      "category": "wellness",
+      "difficulty": "beginner",
+      "positions": [
+        {
+          "name": "Mind",
+          "short_description": "Your mental state, thoughts, and intellectual energy",
+          "detailed_description": "What is the current state of your mental landscape? How are you thinking, processing information, and making decisions? This card reveals your cognitive patterns, mental clarity or confusion, intellectual strengths or blocks, and the overall energy of your thought processes. What does your mind need for optimal function?",
+          "keywords": [
+            "thoughts",
+            "mental",
+            "clarity",
+            "cognition",
+            "decision-making",
+            "intellectual"
+          ],
+          "question_adaptations": {
+            "health": "Your mental health, stress levels, and psychological well-being",
+            "work": "Your mental approach to work, concentration, and intellectual capacity for professional tasks",
+            "relationships": "How you're thinking about your relationships and emotional processing patterns"
+          },
+          "rag_mapping": "emotional_and_internal.mind"
+        },
+        {
+          "name": "Body",
+          "short_description": "Your physical health, energy, and material concerns",
+          "detailed_description": "What is your body telling you right now? This encompasses your physical health, energy levels, vitality, and your relationship with your material world - including resources, possessions, and physical environment. How well are you caring for your physical vessel and material needs?",
+          "keywords": [
+            "physical",
+            "health",
+            "material",
+            "energy",
+            "vitality",
+            "resources"
+          ],
+          "question_adaptations": {
+            "health": "Your physical health, energy levels, and what your body needs for healing",
+            "finances": "Your material security, resources, and relationship with money and possessions",
+            "career": "Your physical work environment, energy for work tasks, and material career benefits"
+          },
+          "rag_mapping": "question_contexts.health"
+        },
+        {
+          "name": "Spirit",
+          "short_description": "Your spiritual connection, intuition, and higher purpose",
+          "detailed_description": "What is the state of your spiritual connection and higher awareness? This card reveals your relationship with your intuition, sense of purpose, connection to the divine or universal energy, and overall spiritual vitality. How aligned are you with your soul's calling and deeper wisdom?",
+          "keywords": [
+            "spiritual",
+            "intuition",
+            "purpose",
+            "connection",
+            "divine",
+            "soul"
+          ],
+          "question_adaptations": {
+            "life_purpose": "Your spiritual calling, soul mission, and alignment with higher purpose",
+            "guidance": "Messages from your higher self, spirit guides, or universal wisdom",
+            "growth": "Your current spiritual development and areas for deeper spiritual exploration"
+          },
+          "rag_mapping": "question_contexts.spiritual"
+        }
+      ]
+    },
+    {
+      "id": "situation-action-outcome",
+      "name": "3 Cards (Situation, Action, Outcome)",
+      "description": "Problem-solving spread for decision making",
+      "layout": "triangle-3",
+      "cardSize": "large",
+      "aspectRatio": 1.8,
+      "category": "decision",
+      "difficulty": "beginner",
+      "positions": [
+        {
+          "name": "Situation",
+          "short_description": "The current situation or challenge you're facing",
+          "detailed_description": "What is the true nature of the situation you're dealing with? This card reveals the core dynamics, hidden factors, and underlying energies of your current challenge or decision point. What elements - internal and external - are really at play here that you need to understand?",
+          "keywords": [
+            "challenge",
+            "situation",
+            "current",
+            "dynamics",
+            "factors",
+            "reality"
+          ],
+          "question_adaptations": {
+            "conflict": "The real nature of the conflict or tension you're experiencing",
+            "decision": "The true complexity and factors involved in this choice you're facing",
+            "relationship": "The underlying dynamics and reality of your relationship situation"
+          },
+          "rag_mapping": "temporal_positions.present_situation"
+        },
+        {
+          "name": "Action",
+          "short_description": "What action you should take or approach to use",
+          "detailed_description": "What is the most effective action, approach, or strategy for navigating this situation? This card provides guidance on how to move forward skillfully. What energy should you embody, what steps should you take, or what perspective should you adopt to create the best possible outcome?",
+          "keywords": [
+            "action",
+            "approach",
+            "solution",
+            "strategy",
+            "guidance",
+            "movement"
+          ],
+          "question_adaptations": {
+            "conflict": "How to approach and resolve this conflict with wisdom and skill",
+            "decision": "The best approach for making this choice or moving through this decision",
+            "opportunity": "How to best seize this opportunity or maximize this potential"
+          },
+          "rag_mapping": "guidance_and_action.action"
+        },
+        {
+          "name": "Outcome",
+          "short_description": "The likely result if you take this action",
+          "detailed_description": "What outcome can you expect if you follow the guidance of the Action card? This shows the likely consequences, results, or new situation that will emerge from taking the recommended approach. How will this action change your circumstances and what new opportunities or challenges might arise?",
+          "keywords": [
+            "result",
+            "consequence",
+            "outcome",
+            "change",
+            "emergence",
+            "future"
+          ],
+          "question_adaptations": {
+            "decision": "The likely results and consequences of making this choice or taking this path",
+            "conflict": "How the situation will resolve and what the aftermath will look like",
+            "goal": "Whether you'll achieve your desired goal and what the success will look like"
+          },
+          "rag_mapping": "outcome_and_result.possible_outcome"
+        }
+      ]
+    },
+    {
+      "id": "five-card-cross",
+      "name": "5-Card Cross",
+      "description": "Comprehensive spread covering all major aspects",
+      "layout": "cross-5",
+      "cardSize": "medium",
+      "aspectRatio": 1.0,
+      "category": "comprehensive",
+      "difficulty": "intermediate",
+      "positions": [
+        {
+          "name": "Present Situation",
+          "short_description": "What's happening now in your life",
+          "detailed_description": "The heart of your current experience and the central energy that defines what you're going through right now. This is the core theme around which all other aspects of this reading revolve. What is the primary dynamic, opportunity, or challenge that characterizes your present moment?",
+          "keywords": [
+            "present",
+            "situation",
+            "now",
+            "core",
+            "central",
+            "heart"
+          ],
+          "rag_mapping": "temporal_positions.present_situation"
+        },
+        {
+          "name": "Challenge",
+          "short_description": "What you're dealing with or need to overcome",
+          "detailed_description": "The primary obstacle, resistance, or growth edge that you're being asked to face in this situation. This could be an external barrier, internal fear, limiting belief, or shadow aspect that needs integration. What requires your courage, honesty, or a new approach to move through?",
+          "keywords": [
+            "challenge",
+            "obstacle",
+            "growth",
+            "resistance",
+            "barrier",
+            "shadow"
+          ],
+          "rag_mapping": "challenge_and_growth.challenge"
+        },
+        {
+          "name": "Past Influences",
+          "short_description": "What brought you to this point",
+          "detailed_description": "The foundational experiences, decisions, or patterns from your past that created the conditions for your present situation. What history - recent or distant - established the energy patterns, beliefs, or circumstances that you're now working with? How did you arrive at this crossroads?",
+          "keywords": [
+            "past",
+            "foundation",
+            "history",
+            "patterns",
+            "influences",
+            "origins"
+          ],
+          "rag_mapping": "temporal_positions.past"
+        },
+        {
+          "name": "Future Potential",
+          "short_description": "Where this is heading if you stay on this path",
+          "detailed_description": "The natural outcome or direction that your current situation is moving toward if present patterns and energies continue. What new phase of life, opportunity, or resolution is trying to emerge? This represents your trajectory, not a fixed fate.",
+          "keywords": [
+            "future",
+            "potential",
+            "direction",
+            "trajectory",
+            "emerging",
+            "outcome"
+          ],
+          "rag_mapping": "temporal_positions.future"
+        },
+        {
+          "name": "Advice",
+          "short_description": "What you need to know or do",
+          "detailed_description": "The wisdom, guidance, and practical steps that will help you navigate this situation most skillfully. What approach, perspective, or action will serve your highest good? How can you work with the energies present to create the most positive outcome?",
+          "keywords": [
+            "guidance",
+            "advice",
+            "wisdom",
+            "approach",
+            "action",
+            "strategy"
+          ],
+          "rag_mapping": "guidance_and_action.advice"
+        }
+      ]
+    },
+    {
+      "id": "four-card-decision",
+      "name": "4-Card Decision",
+      "description": "Perfect for weighing two options or choices",
+      "layout": "square-4",
+      "cardSize": "large",
+      "aspectRatio": 1.5,
+      "category": "decision",
+      "difficulty": "intermediate",
+      "positions": [
+        {
+          "name": "Option A",
+          "short_description": "First choice or path available to you",
+          "detailed_description": "What would this choice or path bring into your life? What are the energies, opportunities, challenges, and likely outcomes associated with this option? How would choosing this direction change your circumstances and what would you need to embrace or release?",
+          "keywords": [
+            "choice",
+            "option",
+            "path",
+            "energies",
+            "opportunities",
+            "direction"
+          ],
+          "rag_mapping": "outcome_and_result.possible_outcome"
+        },
+        {
+          "name": "Option B",
+          "short_description": "Second choice or path available to you",
+          "detailed_description": "What would this alternative choice or path manifest in your life? What different energies, experiences, and outcomes are associated with this option? How would this direction change your life trajectory and what would it require of you?",
+          "keywords": [
+            "alternative",
+            "option",
+            "path",
+            "manifest",
+            "experiences",
+            "trajectory"
+          ],
+          "rag_mapping": "outcome_and_result.possible_outcome"
+        },
+        {
+          "name": "What Helps",
+          "short_description": "Factors that support your decision or goal",
+          "keywords": [
+            "support",
+            "advantages",
+            "help",
+            "resources",
+            "strengths",
+            "allies"
+          ],
+          "detailed_description": "What resources, strengths, support systems, or favorable circumstances are working in your favor? What advantages do you have that you might not be fully recognizing? What allies, skills, or opportunities can you draw upon to make this decision wisely and implement it successfully?",
+          "rag_mapping": "guidance_and_action.what_helps"
+        },
+        {
+          "name": "What Hinders",
+          "short_description": "Obstacles or challenges to consider",
+          "detailed_description": "What obstacles, limitations, fears, or challenges might complicate this decision or its implementation? What internal resistance, external barriers, or blind spots should you be aware of? This isn't meant to discourage you, but to help you navigate potential difficulties consciously.",
+          "keywords": [
+            "obstacles",
+            "challenges",
+            "caution",
+            "limitations",
+            "resistance",
+            "barriers"
+          ],
+          "rag_mapping": "challenge_and_growth.what_hinders"
+        }
+      ]
+    },
+    {
+      "id": "relationship-spread",
+      "name": "6-Card Relationship",
+      "description": "Deep dive into relationship dynamics and potential",
+      "layout": "relationship-6",
+      "cardSize": "medium",
+      "aspectRatio": 1.5,
+      "category": "relationship",
+      "difficulty": "intermediate",
+      "positions": [
+        {
+          "name": "You",
+          "short_description": "Your role and feelings in this relationship",
+          "detailed_description": "What energy, qualities, or patterns are you bringing to this relationship? How are you showing up emotionally, mentally, and spiritually in this connection? What are your conscious and unconscious contributions to the dynamic between you?",
+          "keywords": [
+            "self",
+            "feelings",
+            "perspective",
+            "energy",
+            "contribution",
+            "patterns"
+          ],
+          "rag_mapping": "emotional_and_internal.emotional_state"
+        },
+        {
+          "name": "The Other",
+          "short_description": "Their role and feelings in this relationship",
+          "detailed_description": "What energy, qualities, or patterns is the other person bringing to this relationship? How are they approaching this connection and what might their feelings, motivations, or unconscious patterns be? What is their contribution to the dynamic?",
+          "keywords": [
+            "partner",
+            "other",
+            "perspective",
+            "feelings",
+            "motivations",
+            "approach"
+          ],
+          "rag_mapping": "external_influences.others"
+        },
+        {
+          "name": "The Relationship",
+          "short_description": "The dynamic and energy between you both",
+          "detailed_description": "What is the essential nature of the connection between you? What dynamic is created when your energies combine? This card reveals the relationship as its own entity - the unique chemistry, patterns, and spiritual purpose of your bond.",
+          "keywords": [
+            "dynamic",
+            "connection",
+            "energy",
+            "chemistry",
+            "bond",
+            "purpose"
+          ],
+          "rag_mapping": "temporal_positions.present_situation"
+        },
+        {
+          "name": "Past Foundation",
+          "short_description": "What this relationship is built upon",
+          "detailed_description": "What experiences, agreements, karmic connections, or circumstances originally brought you together? What is the historical or spiritual foundation of this relationship? How did your connection begin and what early patterns were established?",
+          "keywords": [
+            "foundation",
+            "history",
+            "basis",
+            "origins",
+            "karmic",
+            "beginning"
+          ],
+          "rag_mapping": "temporal_positions.distant_past"
+        },
+        {
+          "name": "Present State",
+          "short_description": "Where the relationship stands right now",
+          "detailed_description": "What is the current condition and energy of your relationship? What phase are you in together and what themes are most active between you right now? How healthy, challenged, or evolving is your connection at this moment?",
+          "keywords": [
+            "current",
+            "state",
+            "now",
+            "condition",
+            "phase",
+            "themes"
+          ],
+          "rag_mapping": "temporal_positions.present"
+        },
+        {
+          "name": "Future Potential",
+          "short_description": "Where this relationship is heading",
+          "detailed_description": "What is the natural direction or potential outcome of this relationship based on current dynamics? What new phase, deeper connection, or resolution is trying to emerge? Where could this relationship grow if you both remain conscious and committed?",
+          "keywords": [
+            "future",
+            "potential",
+            "direction",
+            "growth",
+            "emerging",
+            "evolution"
+          ],
+          "rag_mapping": "temporal_positions.future"
+        }
+      ]
+    },
+    {
+      "id": "horseshoe-traditional",
+      "name": "7-Card Horseshoe",
+      "description": "Classic fortune-telling spread for comprehensive guidance",
+      "layout": "horseshoe-7",
+      "cardSize": "small",
+      "aspectRatio": 1.5,
+      "category": "comprehensive",
+      "difficulty": "intermediate",
+      "positions": [
+        {
+          "name": "Past",
+          "short_description": "Past influences affecting the situation",
+          "detailed_description": "What foundational experiences, decisions, or karmic patterns from your past are actively influencing this situation? These could be recent events or ancient soul patterns that established the conditions you're now working with.",
+          "keywords": [
+            "past",
+            "influences",
+            "history",
+            "foundation",
+            "karmic",
+            "established"
+          ],
+          "rag_mapping": "temporal_positions.past"
+        },
+        {
+          "name": "Present",
+          "short_description": "Current state of affairs",
+          "detailed_description": "The immediate reality of your situation right now. What energies, circumstances, and opportunities are active in your current experience? This is your starting point for the journey ahead.",
+          "keywords": [
+            "present",
+            "current",
+            "now",
+            "reality",
+            "circumstances",
+            "starting"
+          ],
+          "rag_mapping": "temporal_positions.present"
+        },
+        {
+          "name": "Hidden Influences",
+          "short_description": "Unseen factors affecting the situation",
+          "detailed_description": "What forces, motivations, or dynamics are operating beneath the surface that you may not be fully aware of? This could include other people's hidden agendas, your own unconscious patterns, or spiritual influences guiding this situation.",
+          "keywords": [
+            "hidden",
+            "subconscious",
+            "unknown",
+            "beneath",
+            "unconscious",
+            "spiritual"
+          ],
+          "rag_mapping": "external_influences.hidden_influences"
+        },
+        {
+          "name": "Your Approach",
+          "short_description": "How you should handle this situation",
+          "detailed_description": "What strategy, attitude, or energy will serve you best in navigating this situation? How should you approach the challenges and opportunities ahead? What qualities should you embody to achieve the best outcome?",
+          "keywords": [
+            "approach",
+            "strategy",
+            "method",
+            "attitude",
+            "energy",
+            "qualities"
+          ],
+          "rag_mapping": "guidance_and_action.your_approach"
+        },
+        {
+          "name": "Others Around You",
+          "short_description": "How other people affect this situation",
+          "detailed_description": "What role are other people playing in this situation? How are family, friends, colleagues, or even strangers influencing the outcome? What support or obstacles might come from your social environment?",
+          "keywords": [
+            "others",
+            "external",
+            "people",
+            "social",
+            "support",
+            "influence"
+          ],
+          "rag_mapping": "external_influences.others"
+        },
+        {
+          "name": "Hopes and Fears",
+          "short_description": "Your inner emotions about the outcome",
+          "detailed_description": "What are you deeply hoping for in this situation, and what are you most afraid might happen? This card reveals your emotional investment and the subconscious desires or anxieties that are influencing your choices.",
+          "keywords": [
+            "emotions",
+            "hopes",
+            "fears",
+            "desires",
+            "anxieties",
+            "investment"
+          ],
+          "rag_mapping": "emotional_and_internal.hopes_fears"
+        },
+        {
+          "name": "Final Outcome",
+          "short_description": "The likely result or conclusion",
+          "detailed_description": "What is the most probable outcome or resolution of this situation based on current energies and choices? This represents where all the influences and actions in this reading are leading you.",
+          "keywords": [
+            "outcome",
+            "result",
+            "conclusion",
+            "resolution",
+            "probable",
+            "leading"
+          ],
+          "rag_mapping": "outcome_and_result.final_outcome"
+        }
+      ]
+    },
+    {
+      "id": "horseshoe-apex",
+      "name": "7-Card Horseshoe (Apex Focus)",
+      "description": "Horseshoe variation with the key card at the top center",
+      "layout": "horseshoe-7-apex",
+      "cardSize": "small",
+      "aspectRatio": 1.5,
+      "category": "comprehensive",
+      "difficulty": "intermediate",
+      "positions": [
+        {
+          "name": "Past Foundation",
+          "short_description": "Deep past influences and foundations",
+          "detailed_description": "The deep historical roots of this situation - ancient patterns, soul lessons, or foundational experiences that established the groundwork for everything that followed. What old energy or karma is finally ready to be resolved?",
+          "keywords": [
+            "foundation",
+            "deep past",
+            "roots",
+            "ancient",
+            "karma",
+            "groundwork"
+          ],
+          "rag_mapping": "temporal_positions.distant_past"
+        },
+        {
+          "name": "Recent Past",
+          "short_description": "Recent events affecting the situation",
+          "detailed_description": "The immediate history that led to this moment - recent decisions, events, or changes that directly created your current circumstances. What recent shift set this situation in motion?",
+          "keywords": [
+            "recent",
+            "past",
+            "events",
+            "immediate",
+            "decisions",
+            "shift"
+          ],
+          "rag_mapping": "temporal_positions.recent_past"
+        },
+        {
+          "name": "Present Influences",
+          "short_description": "Current forces at play",
+          "detailed_description": "The active energies and influences that are shaping your experience right now. What forces - internal and external - are currently most powerful in determining how this situation unfolds?",
+          "keywords": [
+            "present",
+            "influences",
+            "forces",
+            "active",
+            "shaping",
+            "powerful"
+          ],
+          "rag_mapping": "external_influences.external_influences"
+        },
+        {
+          "name": "Key Focus",
+          "short_description": "The central theme or most important factor",
+          "detailed_description": "The heart of this entire situation - the most crucial element that everything else revolves around. This is your primary focus point, the key insight or energy that unlocks understanding of the whole picture. What is absolutely essential to grasp here?",
+          "keywords": [
+            "key",
+            "focus",
+            "central",
+            "important",
+            "crucial",
+            "essential"
+          ],
+          "rag_mapping": "temporal_positions.present_situation"
+        },
+        {
+          "name": "Future Influences",
+          "short_description": "Coming energies and influences",
+          "detailed_description": "What new energies, opportunities, or influences are approaching that will shape the next phase of this situation? What forces are gathering that will soon become active in your experience?",
+          "keywords": [
+            "future",
+            "coming",
+            "influences",
+            "approaching",
+            "gathering",
+            "next"
+          ],
+          "rag_mapping": "temporal_positions.near_future"
+        },
+        {
+          "name": "Near Future",
+          "short_description": "What's likely to happen soon",
+          "detailed_description": "The immediate next steps or events that are likely to unfold in the coming weeks or months. What should you prepare for or be ready to embrace as this situation evolves?",
+          "keywords": [
+            "near future",
+            "soon",
+            "immediate",
+            "prepare",
+            "embrace",
+            "evolves"
+          ],
+          "rag_mapping": "temporal_positions.near_future"
+        },
+        {
+          "name": "Final Outcome",
+          "short_description": "The ultimate result or destination",
+          "detailed_description": "Where this entire journey is ultimately leading - the final resolution, transformation, or new beginning that this situation is guiding you toward. What is the deeper purpose being served by everything you're experiencing?",
+          "keywords": [
+            "final",
+            "outcome",
+            "destination",
+            "resolution",
+            "transformation",
+            "purpose"
+          ],
+          "rag_mapping": "outcome_and_result.final_outcome"
+        }
+      ]
+    },
+    {
+      "id": "celtic-cross",
+      "name": "Celtic Cross",
+      "description": "The most comprehensive traditional tarot spread",
+      "layout": "celtic-cross-10",
+      "cardSize": "small",
+      "aspectRatio": 0.8,
+      "category": "comprehensive",
+      "difficulty": "advanced",
+      "positions": [
+        {
+          "name": "Present Situation",
+          "short_description": "The heart of the matter - what's happening now",
+          "detailed_description": "The absolute core of your current experience and the central energy that defines what you're dealing with at the deepest level. This is the heart of the matter around which all other aspects of this reading revolve. What is the essential theme or primary dynamic of your present reality?",
+          "keywords": [
+            "present",
+            "heart",
+            "core",
+            "essential",
+            "central",
+            "reality"
+          ],
+          "rag_mapping": "temporal_positions.present_situation"
+        },
+        {
+          "name": "Challenge",
+          "short_description": "What crosses you or challenges you in this situation",
+          "detailed_description": "What fundamentally opposes, tests, or challenges the energy of your present situation? This crossing energy often reveals the core lesson, fear, or transformation you're being asked to face. This isn't necessarily negative - it's what you must work through consciously to achieve resolution and growth.",
+          "keywords": [
+            "challenge",
+            "obstacle",
+            "crossing",
+            "lesson",
+            "transformation",
+            "growth"
+          ],
+          "rag_mapping": "challenge_and_growth.cross"
+        },
+        {
+          "name": "Distant Past",
+          "short_description": "The foundation or root of the situation",
+          "detailed_description": "The deep historical roots of this situation - foundational experiences, karmic patterns, ancestral influences, or soul-level agreements that established the very basis of what you're experiencing now. What ancient energy or original wound is finally ready to be healed or transformed?",
+          "keywords": [
+            "foundation",
+            "root",
+            "distant past",
+            "karmic",
+            "ancestral",
+            "soul"
+          ],
+          "rag_mapping": "temporal_positions.distant_past"
+        },
+        {
+          "name": "Recent Past",
+          "short_description": "Recent events affecting the current situation",
+          "detailed_description": "The immediate history that led directly to this moment - recent decisions, events, relationships, or changes that created the specific circumstances you're now navigating. What recent shift or development set the current situation in motion?",
+          "keywords": [
+            "recent",
+            "past",
+            "events",
+            "immediate",
+            "decisions",
+            "circumstances"
+          ],
+          "rag_mapping": "temporal_positions.recent_past"
+        },
+        {
+          "name": "Possible Outcome",
+          "short_description": "What may come to pass if things continue as they are",
+          "detailed_description": "The natural trajectory and likely outcome if current patterns, energies, and choices continue unchanged. This represents potential, not fate - what wants to emerge based on present circumstances. How might this situation resolve if you stay on your current path?",
+          "keywords": [
+            "possible",
+            "outcome",
+            "potential",
+            "trajectory",
+            "resolution",
+            "path"
+          ],
+          "rag_mapping": "outcome_and_result.possible_outcome"
+        },
+        {
+          "name": "Near Future",
+          "short_description": "What will happen in the immediate future",
+          "detailed_description": "What is approaching in the immediate future - events, opportunities, or changes that are already in motion and likely to manifest in the coming weeks or months. What should you prepare for or be ready to embrace as this situation evolves?",
+          "keywords": [
+            "near future",
+            "immediate",
+            "soon",
+            "approaching",
+            "prepare",
+            "evolving"
+          ],
+          "rag_mapping": "temporal_positions.near_future"
+        },
+        {
+          "name": "Your Approach",
+          "short_description": "How you see yourself in this situation",
+          "detailed_description": "How you perceive yourself and your role in this situation, including your conscious attitudes, strategies, and the energy you believe you're bringing to the experience. This reflects your self-awareness and chosen approach - how you think you're handling things and what you believe about your own power and responsibility.",
+          "keywords": [
+            "approach",
+            "self-view",
+            "attitude",
+            "strategy",
+            "self-awareness",
+            "responsibility"
+          ],
+          "rag_mapping": "guidance_and_action.your_approach"
+        },
+        {
+          "name": "External Influences",
+          "short_description": "How others see you or external factors at play",
+          "detailed_description": "How other people perceive you and your situation, plus the external forces, environmental factors, or circumstances beyond your direct control that are influencing the outcome. What is the world around you contributing to this experience?",
+          "keywords": [
+            "external",
+            "others",
+            "environment",
+            "perception",
+            "forces",
+            "circumstances"
+          ],
+          "rag_mapping": "external_influences.external_influences"
+        },
+        {
+          "name": "Hopes and Fears",
+          "short_description": "Your inner emotions and subconscious feelings",
+          "detailed_description": "Your deepest hopes, fears, and emotional investment in this situation. What are you yearning for at a soul level, and what are you most afraid might happen? This card reveals the subconscious emotional currents that are secretly influencing your choices and reactions.",
+          "keywords": [
+            "hopes",
+            "fears",
+            "emotions",
+            "subconscious",
+            "yearning",
+            "investment"
+          ],
+          "rag_mapping": "emotional_and_internal.hopes_fears"
+        },
+        {
+          "name": "Final Outcome",
+          "short_description": "The ultimate result of the situation",
+          "detailed_description": "The final resolution, culmination, or transformation that this entire experience is leading toward. This is where all the energies, lessons, and influences in this reading ultimately converge. What is the deeper purpose being served, and what new beginning emerges from this ending?",
+          "keywords": [
+            "final",
+            "outcome",
+            "result",
+            "resolution",
+            "culmination",
+            "transformation"
+          ],
+          "rag_mapping": "outcome_and_result.final_outcome"
+        }
+      ]
+    },
+    {
+      "id": "year-ahead",
+      "name": "Year Ahead",
+      "description": "A comprehensive 12-card spread for annual guidance, with one card for each month of the coming year",
+      "layout": "wheel-12",
+      "cardSize": "small",
+      "aspectRatio": 1.0,
+      "category": "timeline",
+      "difficulty": "intermediate",
+      "positions": [
+        {
+          "name": "January",
+          "short_description": "Energy and themes for January",
+          "detailed_description": "What energy, opportunities, or lessons will characterize the first month of your year? What should you focus on as you begin this new cycle? What seeds are being planted in January that will grow throughout the year?",
+          "keywords": [
+            "beginning",
+            "new start",
+            "foundation",
+            "winter",
+            "planning",
+            "intention"
+          ],
+          "question_adaptations": {
+            "career": "Professional opportunities or challenges coming in January",
+            "love": "Romantic energy and potential developments in January",
+            "health": "Physical and mental wellness focus for January"
+          },
+          "rag_mapping": "temporal_positions.near_future"
+        },
+        {
+          "name": "February",
+          "short_description": "Energy and themes for February",
+          "detailed_description": "What will February bring into your life? How will the energy shift from January, and what new developments or deepening themes should you prepare for? What relationships or partnerships may be highlighted this month?",
+          "keywords": [
+            "relationships",
+            "partnership",
+            "love",
+            "collaboration",
+            "deepening",
+            "connection"
+          ],
+          "question_adaptations": {
+            "career": "Professional partnerships or team dynamics in February",
+            "love": "Relationship developments and romantic energy in February",
+            "personal": "Social connections and friendships in February"
+          },
+          "rag_mapping": "temporal_positions.near_future"
+        },
+        {
+          "name": "March",
+          "short_description": "Energy and themes for March",
+          "detailed_description": "As spring begins, what new growth and action will March inspire? What projects, goals, or aspects of yourself are ready to emerge? How can you harness the fresh energy of this transitional month?",
+          "keywords": [
+            "action",
+            "growth",
+            "courage",
+            "spring",
+            "emergence",
+            "initiative"
+          ],
+          "question_adaptations": {
+            "career": "Professional initiatives and bold moves in March",
+            "creative": "Creative projects and artistic expression in March",
+            "personal": "Personal growth and new adventures in March"
+          },
+          "rag_mapping": "temporal_positions.near_future"
+        },
+        {
+          "name": "April",
+          "short_description": "Energy and themes for April",
+          "detailed_description": "What will bloom in April as your year gains momentum? What opportunities for growth, creativity, or manifestation will present themselves? How can you nurture what you've planted in earlier months?",
+          "keywords": [
+            "blooming",
+            "creativity",
+            "manifestation",
+            "beauty",
+            "fertility",
+            "abundance"
+          ],
+          "question_adaptations": {
+            "creative": "Artistic and creative breakthroughs in April",
+            "career": "Professional growth and visible progress in April",
+            "personal": "Self-expression and personal flowering in April"
+          },
+          "rag_mapping": "temporal_positions.future"
+        },
+        {
+          "name": "May",
+          "short_description": "Energy and themes for May",
+          "detailed_description": "What stability, pleasure, or material progress will May offer? How can you ground yourself and enjoy the fruits of your earlier efforts? What sensual or practical matters need attention?",
+          "keywords": [
+            "stability",
+            "pleasure",
+            "material",
+            "grounding",
+            "sensuality",
+            "practical"
+          ],
+          "question_adaptations": {
+            "finances": "Financial opportunities and material gains in May",
+            "health": "Physical wellness and body care in May",
+            "home": "Home, family, and domestic matters in May"
+          },
+          "rag_mapping": "temporal_positions.future"
+        },
+        {
+          "name": "June",
+          "short_description": "Energy and themes for June",
+          "detailed_description": "As spring transitions to summer, what communication, learning, or social connections will June highlight? What new information, skills, or relationships will become important? How will your thinking evolve?",
+          "keywords": [
+            "communication",
+            "learning",
+            "social",
+            "information",
+            "curiosity",
+            "connection"
+          ],
+          "question_adaptations": {
+            "education": "Learning opportunities and skill development in June",
+            "social": "Social connections and community involvement in June",
+            "career": "Professional networking and communication in June"
+          },
+          "rag_mapping": "temporal_positions.future"
+        },
+        {
+          "name": "July",
+          "short_description": "Energy and themes for July",
+          "detailed_description": "What will July illuminate in your emotional world and family life? How can you honor your intuition and inner wisdom during this month? What nurturing or protective instincts will be activated?",
+          "keywords": [
+            "emotion",
+            "family",
+            "intuition",
+            "nurturing",
+            "protection",
+            "inner wisdom"
+          ],
+          "question_adaptations": {
+            "family": "Family relationships and domestic harmony in July",
+            "emotional": "Emotional healing and intuitive development in July",
+            "spiritual": "Spiritual practices and inner guidance in July"
+          },
+          "rag_mapping": "temporal_positions.future"
+        },
+        {
+          "name": "August",
+          "short_description": "Energy and themes for August",
+          "detailed_description": "What will August call forth in terms of your personal power, creativity, and self-expression? How can you shine your light most brightly? What leadership opportunities or creative projects will demand your attention?",
+          "keywords": [
+            "power",
+            "creativity",
+            "self-expression",
+            "leadership",
+            "confidence",
+            "radiance"
+          ],
+          "question_adaptations": {
+            "career": "Leadership opportunities and professional recognition in August",
+            "creative": "Major creative projects and artistic expression in August",
+            "personal": "Personal empowerment and self-confidence in August"
+          },
+          "rag_mapping": "temporal_positions.future"
+        },
+        {
+          "name": "September",
+          "short_description": "Energy and themes for September",
+          "detailed_description": "As autumn approaches, what practical matters, health concerns, or daily routines will September ask you to refine? How can you improve your systems and serve others more effectively? What details need attention?",
+          "keywords": [
+            "practical",
+            "health",
+            "service",
+            "routine",
+            "improvement",
+            "detail"
+          ],
+          "question_adaptations": {
+            "health": "Health routines and wellness practices in September",
+            "work": "Daily work routines and productivity in September",
+            "service": "How you can serve others and contribute in September"
+          },
+          "rag_mapping": "temporal_positions.future"
+        },
+        {
+          "name": "October",
+          "short_description": "Energy and themes for October",
+          "detailed_description": "What balance, relationships, or partnerships will October highlight? How can you create more harmony in your life? What decisions about cooperation, justice, or aesthetics will you face?",
+          "keywords": [
+            "balance",
+            "relationships",
+            "partnerships",
+            "harmony",
+            "justice",
+            "aesthetics"
+          ],
+          "question_adaptations": {
+            "relationships": "Relationship decisions and partnership developments in October",
+            "legal": "Legal matters and issues of fairness in October",
+            "creative": "Artistic collaborations and aesthetic projects in October"
+          },
+          "rag_mapping": "temporal_positions.future"
+        },
+        {
+          "name": "November",
+          "short_description": "Energy and themes for November",
+          "detailed_description": "What deep transformation, healing, or release will November facilitate? How can you work with intense energies for profound change? What hidden aspects of yourself or your life will emerge?",
+          "keywords": [
+            "transformation",
+            "healing",
+            "release",
+            "intensity",
+            "hidden",
+            "regeneration"
+          ],
+          "question_adaptations": {
+            "healing": "Deep healing work and emotional transformation in November",
+            "finances": "Shared resources and financial transformation in November",
+            "spiritual": "Spiritual transformation and mystical experiences in November"
+          },
+          "rag_mapping": "temporal_positions.future"
+        },
+        {
+          "name": "December",
+          "short_description": "Energy and themes for December",
+          "detailed_description": "As the year completes its cycle, what wisdom, expansion, or spiritual understanding will December offer? How will you integrate the year's lessons? What larger perspective or philosophical insights will emerge?",
+          "keywords": [
+            "wisdom",
+            "expansion",
+            "spiritual",
+            "completion",
+            "integration",
+            "philosophy"
+          ],
+          "question_adaptations": {
+            "spiritual": "Spiritual growth and expanded consciousness in December",
+            "education": "Teaching, learning, and sharing wisdom in December",
+            "travel": "Physical or mental journeys and expanded horizons in December"
+          },
+          "rag_mapping": "temporal_positions.future"
+        }
+      ]
+    }
+  ],
+  "categories": {
+    "simple": {
+      "name": "Simple",
+      "description": "Quick, easy spreads for daily guidance"
+    },
+    "timeline": {
+      "name": "Timeline",
+      "description": "Spreads that show the flow of time"
+    },
+    "decision": {
+      "name": "Decision Making",
+      "description": "Spreads for weighing options and making choices"
+    },
+    "relationship": {
+      "name": "Relationships",
+      "description": "Spreads focused on love, friendship, and connections"
+    },
+    "wellness": {
+      "name": "Wellness",
+      "description": "Spreads for health, balance, and personal growth"
+    },
+    "comprehensive": {
+      "name": "Comprehensive",
+      "description": "Detailed spreads for complex situations"
+    }
+  },
+  "metadata": {
+    "version": "2.0.0",
+    "lastUpdated": "2025-08-13",
+    "description": "Enhanced tarot spread configuration with rich position meanings and RAG mappings"
+  }
+}

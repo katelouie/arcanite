@@ -1,0 +1,653 @@
+{
+  "card_id": "nine_of_cups",
+  "card_name": "Nine of Cups",
+  "card_number": 9,
+  "suit": "cups",
+  "archetype": "the_wish_fulfiller",
+  "core_meanings": {
+    "upright": {
+      "essence": "The bliss of personal satisfaction and dreams realized. A moment to savor the fulfillment of heartfelt desires and emotional contentment.",
+      "keywords": [
+        "fulfillment",
+        "satisfaction",
+        "contentment",
+        "joy",
+        "gratitude",
+        "pleasure",
+        "abundance"
+      ],
+      "psychological": "Symbolizes the inner peace that comes from recognizing one's desires and knowing that they are within reach. Helps anchor confidence in the present.",
+      "spiritual": "A reminder of the universe's benevolence and abundance. Enlightens the spirit to the joys and beauty inherent in life's simple pleasures.",
+      "practical": "Signals a time for enjoying the fruits of your labor. Encourage celebrating achievements while maintaining gratitude.",
+      "shadow": "Comfort leads to complacency. Contentment may breed a lack of ambition or the temptation to become overindulgent."
+    },
+    "reversed": {
+      "essence": "Unfulfilled desires and superficial happiness. The illusion of satisfaction where deeper longing awaits acknowledgment.",
+      "keywords": [
+        "dissatisfaction",
+        "superficiality",
+        "unfulfilled",
+        "disappointment",
+        "hedonism",
+        "emptiness"
+      ],
+      "psychological": "Inner discontent despite outward appearances. Emotional voids seeking genuine fulfillment beyond surface-level joys.",
+      "spiritual": "Disconnection from true joy and gratitude, resulting in spiritual emptiness. A call to seek deeper, lasting contentment.",
+      "practical": "Re-evaluate what truly brings happiness. Avoid chasing temporary pleasures or comforts without deeper purpose.",
+      "shadow": "False satisfaction lulls into ignoring deeper needs. Hedonism risks a disconnection from personal growth and authenticity."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past achievements and moments of deep joy have profoundly shaped your present outlook, gifting wisdom and contentment.",
+        "reversed": "Previous dissatisfaction or unfulfilled dreams cast long shadows into the present, highlighting what remains elusive.",
+        "keywords": [
+          "past joy",
+          "fulfilled dreams",
+          "dissatisfaction",
+          "elusive happiness"
+        ]
+      },
+      "distant_past": {
+        "upright": "Ancient blessings and gratifications laid the groundwork for a life of abundance and gratitude.",
+        "reversed": "Old patterns of seeking superficial happiness may still affect your peace, driving current discontent.",
+        "keywords": [
+          "early blessings",
+          "foundation of abundance",
+          "superficiality",
+          "old discontent"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent fulfillment of wishes buoy your spirit, replenishing your joy and inspiring current endeavors.",
+        "reversed": "Recent disillusionment with achievements leaves you craving authentic satisfaction.",
+        "keywords": [
+          "recent joy",
+          "wish fulfillment",
+          "disillusionment",
+          "craving satisfaction"
+        ]
+      },
+      "present": {
+        "upright": "Currently immersed in joy and satisfaction, able to appreciate the present moment's richness.",
+        "reversed": "Facing a facade of happiness while deeper needs remain unfulfilled. Time to seek true joy.",
+        "keywords": [
+          "current joy",
+          "immersed in satisfaction",
+          "facade of happiness",
+          "seek true joy"
+        ]
+      },
+      "present_situation": {
+        "upright": "Emotional satisfaction is at the heart of your current experience; revel in gratitude and abundance.",
+        "reversed": "Core experience involves recognizing superficial joy and seeking depth beyond comfort.",
+        "keywords": [
+          "emotional satisfaction",
+          "heartfelt gratitude",
+          "superficial joy",
+          "seeking depth"
+        ]
+      },
+      "future": {
+        "upright": "A fulfilling moment awaits where dreams come to fruition, bringing emotional richness and joy.",
+        "reversed": "Future may reveal disappointment or challenge in realizing ambitions without deeper reflection.",
+        "keywords": [
+          "fulfilling future",
+          "dream fruition",
+          "future disappointment",
+          "reflective ambition"
+        ]
+      },
+      "near_future": {
+        "upright": "On the horizon, a chance to savor tangible successes and the joy they bring.",
+        "reversed": "Approaching a realization of empty victories, urging renewal of heartfelt pursuits.",
+        "keywords": [
+          "savor success",
+          "tangible joy",
+          "empty victories",
+          "heartfelt pursuit"
+        ]
+      },
+      "distant_future": {
+        "upright": "A trajectory towards a life imbued with ongoing contentment, grounded in gratitude and genuine joy.",
+        "reversed": "Continuing risks of emptiness unless intentions align with heartfelt desires and authentic aspirations.",
+        "keywords": [
+          "ongoing contentment",
+          "gratitude",
+          "risk of emptiness",
+          "authentic aspirations"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Maintain appreciation without succumbing to hedonism. Balance celebrating abundance while nurturing continual growth.",
+        "reversed": "Challenge lies in recognizing what is superficial and seeking deeper connections or satisfaction.",
+        "keywords": [
+          "appreciation",
+          "hedonism",
+          "superficiality",
+          "deeper satisfaction"
+        ]
+      },
+      "cross": {
+        "upright": "Societal pressures on 'success' conflict with personal contentment. Navigate external definitions versus internal truth.",
+        "reversed": "Allowing external validation to shape self-worth, obstructing true emotional fulfillment.",
+        "keywords": [
+          "societal pressures",
+          "conflict of success",
+          "external validation",
+          "true fulfillment"
+        ]
+      },
+      "obstacle": {
+        "upright": "Complacency and overindulgence threaten ongoing journey of fulfillment. Avoid resting too long on laurels.",
+        "reversed": "Living in illusion of achievement while ignoring deeper dissatisfaction erodes future happiness.",
+        "keywords": [
+          "complacency",
+          "overindulgence",
+          "illusion",
+          "deeper dissatisfaction"
+        ]
+      },
+      "lesson": {
+        "upright": "Value what is meaningful amidst abundance. Let gratitude uplift personal growth.",
+        "reversed": "The lesson involves uncovering deeper needs and embracing authentic well-being over shallow pleasures.",
+        "keywords": [
+          "meaningful abundance",
+          "gratitude",
+          "deeper needs",
+          "authentic well-being"
+        ]
+      },
+      "shadow": {
+        "upright": "The shadow of abundance is the neglect of hunger for new experiences or growth.",
+        "reversed": "In the shadows, a denial of unfulfilled longings cries for the light of acknowledgment and change.",
+        "keywords": [
+          "neglect of hunger",
+          "denial",
+          "unfulfilled longing",
+          "need for change"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Devotion to comfort may hinder new explorations. Avoid limiting routine by reawakening curiosity.",
+        "reversed": "Fear that genuine satisfaction may demand stepping beyond the known triumphs over deeper quests.",
+        "keywords": [
+          "devotion to comfort",
+          "new explorations",
+          "fear of satisfaction",
+          "deeper quests"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Appreciate life’s pleasures, but bring gratitude into all actions. Let satisfaction inspire new dreams.",
+        "reversed": "Seek true contentment by realigning with heartfelt desires. Avoid the distraction of shallow pursuits.",
+        "keywords": [
+          "appreciation",
+          "gratitude",
+          "alignment",
+          "deep desires"
+        ]
+      },
+      "action": {
+        "upright": "Celebrate your successes and let abundance inform your actions. Extend positivity to others.",
+        "reversed": "Practice deliberate detachment from surface-level distractions and commit to deeper exploration.",
+        "keywords": [
+          "celebrate success",
+          "abundance",
+          "detachment",
+          "exploration"
+        ]
+      },
+      "your_approach": {
+        "upright": "Approach life with a heart open to acknowledging and cherishing each moment of joy and fulfillment.",
+        "reversed": "Recognize your tendency to chase after mirages of happiness. Reconnect with core yearnings.",
+        "keywords": [
+          "open heart",
+          "cherish joy",
+          "chasing mirages",
+          "core yearnings"
+        ]
+      },
+      "what_helps": {
+        "upright": "Find support through sharing celebration with loved ones. Allow collective joy to bolster personal contentment.",
+        "reversed": "Helpful to examine the sources of discontent and redirect energy toward genuine connections.",
+        "keywords": [
+          "support through sharing",
+          "collective joy",
+          "sources of discontent",
+          "genuine connection"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust the abundance within you to manifest outwardly. Embrace each joy with heartfelt gratitude.",
+        "reversed": "Guided to explore beyond material fulfillment toward soul-centric joys that sustain the spirit.",
+        "keywords": [
+          "abundance",
+          "manifestation",
+          "soul-centric",
+          "sustaining joy"
+        ]
+      },
+      "best_course": {
+        "upright": "The best path involves embracing satisfaction while staying open to new dreams and a continual expansion of heart.",
+        "reversed": "Course-correct by clearing distractions and seeking lessons that lead to more authentic fulfillment.",
+        "keywords": [
+          "embrace satisfaction",
+          "open to dreams",
+          "clear distractions",
+          "authentic fulfillment"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to sustain the joys of the present. Fear of fleeting happiness and losing treasured contentment.",
+        "reversed": "Fear unfulfilled desires leading to emptiness. Hope lies in the potential for deeper, lasting joy.",
+        "keywords": [
+          "sustaining joy",
+          "fleeting happiness",
+          "unfulfilled desires",
+          "lasting joy"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire for ongoing emotional richness and the ability to savor life's simple pleasures fully.",
+        "reversed": "Hope for clarity regarding true desires that align with authentic happiness and fulfillment.",
+        "keywords": [
+          "ongoing richness",
+          "savor pleasures",
+          "clarity",
+          "authentic happiness"
+        ]
+      },
+      "fears": {
+        "upright": "Apprehension about becoming complacent or overindulgent, losing the lightness of pure joy.",
+        "reversed": "Fear that the current contentment is an illusion and genuine happiness remains out of reach.",
+        "keywords": [
+          "complacency",
+          "overindulgence",
+          "illusion",
+          "happiness out of reach"
+        ]
+      },
+      "subconscious": {
+        "upright": "Unconscious appreciation for abundance fuels a deep sense of peace and contentment within.",
+        "reversed": "Subconscious disconnection from genuine joy calls for introspection and renewed sincerity.",
+        "keywords": [
+          "subconscious appreciation",
+          "peace",
+          "disconnection",
+          "renewed sincerity"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you're aware of the blessings in your life and relish the joy they bring. Gratitude is key.",
+        "reversed": "Awareness of superficial satisfaction challenges the quest for deeper fulfillment.",
+        "keywords": [
+          "conscious blessings",
+          "relish joy",
+          "superficial satisfaction",
+          "deeper fulfillment"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotions align with happiness, peace, and profound satisfaction as life's offerings unfold gracefully.",
+        "reversed": "Emotionally caught in a cycle of seeking without fulfillment, longing for depth.",
+        "keywords": [
+          "happiness",
+          "peace",
+          "satisfaction",
+          "seeking depth"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart is alight with gratitude and joy, anchoring you in a serene oasis of emotional wealth.",
+        "reversed": "Heartfelt desires for genuine contentment remain unmet, signaling a call for introspection.",
+        "keywords": [
+          "gratitude",
+          "emotional wealth",
+          "desires unmet",
+          "introspection"
+        ]
+      },
+      "mind": {
+        "upright": "Your mind readily acknowledges triumphs and treasures in your life. Open to moments of gratitude.",
+        "reversed": "Mind navigating between false contentment and the search for genuine experiences.",
+        "keywords": [
+          "acknowledge triumphs",
+          "momentary gratitude",
+          "false contentment",
+          "genuine experiences"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Surroundings reflect harmony and positivity, fostering an environment where happiness thrives.",
+        "reversed": "External influences might pressure superficial achievements while masking true voids.",
+        "keywords": [
+          "harmony",
+          "positivity",
+          "superficial achievements",
+          "true voids"
+        ]
+      },
+      "others": {
+        "upright": "Those around you are impressed by your contentment and joy, regarding you as an embodiment of success.",
+        "reversed": "Others may be envious of perceived satisfaction, ignoring the depth beneath the surface.",
+        "keywords": [
+          "impressed others",
+          "joyful embodiment",
+          "envy",
+          "perceived satisfaction"
+        ]
+      },
+      "environment": {
+        "upright": "Current environment supports your journey towards contentment and harmony, enhancing your emotional landscape.",
+        "reversed": "Environmental factors challenge the façade of joy, urging clarity in understanding true happiness.",
+        "keywords": [
+          "supportive journey",
+          "harmony",
+          "challenge façade",
+          "clarity"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You are viewed as someone who has achieved significant emotional milestones, seen as an inspiration.",
+        "reversed": "Others perceive a disconnection between your apparent achievements and underlying discontent.",
+        "keywords": [
+          "emotional milestones",
+          "inspiration",
+          "perceived disconnection",
+          "underlying discontent"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Positive unseen forces are fostering your path to joy, sustaining your life's abundant energy.",
+        "reversed": "Hidden factors may include internal doubts or misplaced priorities clouding genuine joy.",
+        "keywords": [
+          "positive forces",
+          "abundant energy",
+          "internal doubts",
+          "misplaced priorities"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Fulfillment leads to an enriched emotional life with resilience and gratitude as guiding lights.",
+        "reversed": "Actions rooted in illusion risk superficial results, diverting from genuine paths to happiness.",
+        "keywords": [
+          "enriched life",
+          "resilience",
+          "superficial results",
+          "diverted paths"
+        ]
+      },
+      "final_outcome": {
+        "upright": "A life lived in the sunlight of gratitude and joy, continuously manifesting wishes as reality.",
+        "reversed": "Final chapters marked by unattained desires unless redirected towards authentic pursuit of happiness.",
+        "keywords": [
+          "sunlight of gratitude",
+          "wishes as reality",
+          "unattained desires",
+          "authentic pursuit"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Taking steps towards fulfilling emotional wealth and deeper satisfaction beyond surface joys.",
+        "reversed": "Possibility of continuous seeking without fulfillment could lead to reflection and recalibration.",
+        "keywords": [
+          "fulfilling wealth",
+          "emotional depth",
+          "continuous seeking",
+          "recalibration"
+        ]
+      },
+      "best_case": {
+        "upright": "Best outcomes involve harmonious joy effortlessly weaving through life's rich tapestry.",
+        "reversed": "Risk of overlooking the broader joys while focused on narrow satisfactions; remain open.",
+        "keywords": [
+          "harmonious joy",
+          "rich tapestry",
+          "overlook broader joys",
+          "remain open"
+        ]
+      },
+      "worst_case": {
+        "upright": "Neglect of deeper desires leads to stagnation in emotional growth, causing ongoing dissatisfaction.",
+        "reversed": "Allowing discontent to dominate, halting pathways of authentic happiness and growth.",
+        "keywords": [
+          "neglect of desires",
+          "emotional stagnation",
+          "dominating discontent",
+          "halted growth"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic brings emotional satisfaction, contentment, and the fulfillment of heartfelt wishes. Between you exists a sense of having achieved what you hoped for emotionally. This connection provides deep happiness and gratitude.",
+        "reversed": "Contentment may be superficial or temporary. Wishes might be fulfilled but not bring expected happiness. The relationship could involve taking emotional satisfaction for granted or realizing that getting what you wanted isn't enough.",
+        "keywords": [
+          "contentment",
+          "satisfaction",
+          "wishes fulfilled",
+          "happiness"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Emotionally fulfilling relationship brimming with mutual joy and satisfaction. Recognize true companionship and harmony.",
+      "reversed": "Strain from superficial affinities. Seek relationships aligned with deeper heart virtues and genuine love.",
+      "keywords": [
+        "fulfillment",
+        "companionship",
+        "superficiality",
+        "deeper love"
+      ]
+    },
+    "career": {
+      "upright": "Experience significant achievements that contribute to professional fulfillment and contentment in your role.",
+      "reversed": "Career path feels hollow due to chasing achievements with emptiness at heart. Seek meaningful work.",
+      "keywords": [
+        "significant achievement",
+        "fulfillment",
+        "hollow path",
+        "meaningful work"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual journey centered on profound gratitude and abundance-personal connection with elevated spirit.",
+      "reversed": "Encounter with superficial spiritual satisfaction prompts exploration of deeper spiritual truths.",
+      "keywords": [
+        "gratitude",
+        "abundance",
+        "superficial spirituality",
+        "deeper truths"
+      ]
+    },
+    "financial": {
+      "upright": "Enjoyment of financial success allowing indulgence in desires and appreciation of abundance.",
+      "reversed": "Material focus clouding inner satisfaction. Avoid reckless spending catering only to ego.",
+      "keywords": [
+        "financial success",
+        "indulgence",
+        "material focus",
+        "reckless spending"
+      ]
+    },
+    "health": {
+      "upright": "Well-being enhanced by embracing a balanced lifestyle offering joy and physical vitality.",
+      "reversed": "Health impacted by overindulgence or neglect. Seek genuine well-being beyond surface level.",
+      "keywords": [
+        "balanced lifestyle",
+        "vitality",
+        "overindulgence",
+        "genuine health"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "pisces",
+    "hebrew_letter": "teth",
+    "numerology": 9,
+    "planet": "jupiter",
+    "season": "autumn",
+    "time_of_day": "twilight",
+    "colors": [
+      "gold",
+      "blue",
+      "deep green"
+    ],
+    "crystals": [
+      "emerald",
+      "aventurine",
+      "lapis lazuli"
+    ],
+    "herbs": [
+      "mint",
+      "lemon balm",
+      "lavender"
+    ]
+  },
+  "symbols": {
+    "goblets": "abundance and emotional richness",
+    "sitting figure": "satisfaction and poise",
+    "arched cups": "security and completion of cycles"
+  },
+  "affirmations": [
+    "I embrace the joy and contentment that come from within.",
+    "My life is a tapestry of deeply fulfilling experiences.",
+    "I honor every moment of abundance with gratitude and grace.",
+    "True happiness fills my heart and guides my path."
+  ],
+  "journaling_prompts": [
+    "What truly brings me deep satisfaction?",
+    "How do I balance contentment with aspirations?",
+    "What superficial joys am I ready to release?",
+    "Where in my life can I invite more gratitude?"
+  ],
+  "meditation_focus": "Envision the feeling of complete contentment and visualize your life blooming with it.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:49:21.243577",
+    "card_info": {
+      "name": "Nine of Cups",
+      "number": 9,
+      "suit": "cups"
+    },
+    "filename": "c09.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_sun": {
+        "interpretation": "Ultimate joy and fulfillment. A state of pure bliss and vibrant living.",
+        "keywords": [
+          "ultimate",
+          "fulfillment",
+          "state",
+          "pure"
+        ]
+      },
+      "ten_of_cups": {
+        "interpretation": "Emotional harmony and perfection in family and relationships; dreams realized.",
+        "keywords": [
+          "emotional",
+          "harmony",
+          "perfection",
+          "family"
+        ]
+      }
+    },
+    "challenges": {
+      "five_of_cups": {
+        "interpretation": "Contrasts fulfillment with loss. Reflects on acknowledgment beyond what’s immediately visible.",
+        "keywords": [
+          "contrasts",
+          "fulfillment",
+          "loss",
+          "reflects"
+        ]
+      },
+      "the_tower": {
+        "interpretation": "Challenges complacency with unexpected changes disrupting false securities.",
+        "keywords": [
+          "challenges",
+          "complacency",
+          "unexpected",
+          "changes"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_empress": {
+        "interpretation": "Unites comforts with nurturing, highlighting the richness of emotional life.",
+        "keywords": [
+          "unites",
+          "comforts",
+          "nurturing",
+          "highlighting"
+        ]
+      },
+      "ace_of_pentacles": {
+        "interpretation": "Material and emotional fulfillment intersect, signifying tangible success.",
+        "keywords": [
+          "material",
+          "emotional",
+          "fulfillment",
+          "intersect"
+        ]
+      }
+    },
+    "similar_energy": {
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "five_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_devil": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "eight_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

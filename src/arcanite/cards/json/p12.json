@@ -1,0 +1,683 @@
+{
+  "card_id": "knight_of_pentacles",
+  "card_name": "Knight of Pentacles",
+  "card_number": 12,
+  "suit": "pentacles",
+  "archetype": "the_diligent_seeker",
+  "core_meanings": {
+    "upright": {
+      "essence": "Steadfast dedication to goals, embracing responsibility with methodical precision. A disciplined soul cultivating fruitful endeavors through patience and persistence.",
+      "keywords": [
+        "diligence",
+        "patience",
+        "reliability",
+        "hard work",
+        "responsibility",
+        "steadiness",
+        "practicality",
+        "routine"
+      ],
+      "psychological": "Represents the part of us that values consistency and reliability, focusing on long-term success over immediate gratification.",
+      "spiritual": "An invitation to cultivate spiritual growth through earthly tasks. The soul's journey towards enlightenment through persistent effort.",
+      "practical": "Focus on your work and responsibilities. Achievements come through incremental efforts and unwavering commitment.",
+      "shadow": "Stagnation through excessive adherence to routine, losing sight of creativity and adaptability. Becoming overly cautious and resistant to change."
+    },
+    "reversed": {
+      "essence": "Stubborn stagnation or careless neglect. Either trapped in monotonous routine or at risk of neglecting one's duties.",
+      "keywords": [
+        "laziness",
+        "stubbornness",
+        "stagnation",
+        "inflexibility",
+        "procrastination",
+        "routine-bound",
+        "carelessness"
+      ],
+      "psychological": "Reflects feelings of being stuck, either from fear of change or from too much confinement within habitual patterns.",
+      "spiritual": "Disconnected from inner purpose due to focus on external accomplishments or resistance to new ways of thinking.",
+      "practical": "Re-evaluate your approach to work; either you're stuck in a rut or neglecting responsibilities that demand attention.",
+      "shadow": "Using work as a shield against vulnerability, or allowing life's mundanities to dull your spirit and creativity."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past dedication and consistent efforts have laid a strong foundation for your current stability and growth. Your reliable nature shaped your progress.",
+        "reversed": "Missed opportunities due to reluctance to embrace change or adapt new strategies. Past stagnation may still hold influence.",
+        "keywords": [
+          "foundational work",
+          "consistent past",
+          "habits established",
+          "missed flexibility"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-standing patterns of responsibility and diligence that have shaped your life's approach. An enduring commitment to reliability.",
+        "reversed": "Old patterns of inflexibility or procrastination still echo, affecting your present mindset and opportunities.",
+        "keywords": [
+          "deep-seated diligence",
+          "long-term consistency",
+          "stubborn patterns",
+          "ancient routines"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent efforts and hard work have begun yielding results, providing stability and setting the stage for future ventures.",
+        "reversed": "Recent inaction or unwillingness to adapt could be hindering progress. Re-evaluate your recent decisions and strategies.",
+        "keywords": [
+          "recent success",
+          "efforts paying off",
+          "stagnation",
+          "missed adaptation"
+        ]
+      },
+      "present": {
+        "upright": "This is a time to continue your diligent efforts with patience and precision. Steadfastness leads to long-term achievement.",
+        "reversed": "Either caught in monotony or neglecting responsibilities. A need to break free from routine or confront procrastination.",
+        "keywords": [
+          "current dedication",
+          "steady progress",
+          "present stagnation",
+          "responsibility check"
+        ]
+      },
+      "present_situation": {
+        "upright": "Rooted in reliability, your current situation reflects your consistent efforts and unwavering dedication to your goals.",
+        "reversed": "Current circumstances may be stifled by stubbornness or hesitation. Examine areas where growth is impeded.",
+        "keywords": [
+          "reliable effort",
+          "goal-oriented focus",
+          "stubbornness",
+          "present inflexibility"
+        ]
+      },
+      "future": {
+        "upright": "Your future rewards await through continued dedication. The seeds you plant with patience will blossom fruitfully.",
+        "reversed": "Without change, future abundance may elude you. Embrace adaptability to avoid stagnation and missed opportunities.",
+        "keywords": [
+          "fruitful rewards",
+          "consistent efforts",
+          "upcoming stagnation",
+          "future adaptability"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, the fruits of your labor will become evident. Stay committed as your perseverance begins to pay off.",
+        "reversed": "Imminent challenges due to inflexibility or lack of progress. Necessary changes must be embraced quickly.",
+        "keywords": [
+          "immediate reward",
+          "perseverance",
+          "upcoming challenges",
+          "imminent change"
+        ]
+      },
+      "distant_future": {
+        "upright": "In time, your unwavering dedication will bring significant fulfillment and success, paving a path for sustained growth.",
+        "reversed": "Without change, long-term success remains threatened by stagnation or unyielding patterns. Shift is needed for lasting fulfillment.",
+        "keywords": [
+          "lasting success",
+          "future fulfillment",
+          "stagnation threat",
+          "long-term change"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to maintain steadiness without becoming stagnant. Avoid tedious monotony by incorporating creativity.",
+        "reversed": "Challenge lies in freeing oneself from inertia and embracing necessary change. Confront procrastination head-on.",
+        "keywords": [
+          "balance steadiness",
+          "avoid monotony",
+          "break inertia",
+          "embrace change"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures may test your reliability or demand concessions in your methods. Stay grounded without rigidity.",
+        "reversed": "Internal conflicts or unresolved issues could be crossing your ability to maintain focus and consistency.",
+        "keywords": [
+          "external pressures",
+          "groundedness",
+          "internal conflicts",
+          "focus block"
+        ]
+      },
+      "obstacle": {
+        "upright": "Resistance to adapt creates barriers to progress. A rigid adherence to routine might inhibit new opportunities.",
+        "reversed": "Procrastination and inflexibility block potential growth. Breaking through requires conscious effort and change.",
+        "keywords": [
+          "resistance",
+          "routine barrier",
+          "inflexibility",
+          "stagnation"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn the art of balance—consistency with a touch of flexibility. Find stability without losing sight of innovation.",
+        "reversed": "Understand the value of taking calculated risks. Growth involves moving beyond comfort and facing fears.",
+        "keywords": [
+          "balance",
+          "stability",
+          "calculated risks",
+          "growth"
+        ]
+      },
+      "shadow": {
+        "upright": "The shadow contains fear of change. Integrate flexibility into your disciplined life to allow creativity and spontaneity.",
+        "reversed": "Buried procrastination or fear of responsibility hinders progression. Illuminate these shadow aspects thoughtfully.",
+        "keywords": [
+          "hidden fear",
+          "flexibility",
+          "procrastination",
+          "shadow work"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Fears of the unknown or a need for control may hinder evolution. Embrace uncertainty as a catalyst for growth.",
+        "reversed": "Self-imposed limits and habitual routines block transformation. Recognize and address these hindrances with courage.",
+        "keywords": [
+          "fear of unknown",
+          "need for control",
+          "self-limits",
+          "habitual block"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Persevere with commitment and stability. Balance diligence with adaptability, allowing room for new insights.",
+        "reversed": "Recognize where stagnation occurs. Engage with open-mindedness and change your approach to reignite progress.",
+        "keywords": [
+          "perseverance",
+          "adaptability",
+          "open-mindedness",
+          "engagement"
+        ]
+      },
+      "action": {
+        "upright": "Continue steady, patient work. Implement small but consistent steps towards your goals for effective results.",
+        "reversed": "Either move away from routines holding you back, or refine your approach to align with current demands.",
+        "keywords": [
+          "steady steps",
+          "consistent action",
+          "refine approach",
+          "breaking routine"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as reliable and tenacious, capable of seeing long-term projects through to fruition with unwavering focus.",
+        "reversed": "Self-perception may unjustly label you as inflexible or stagnant. Acknowledge and address these perceptions.",
+        "keywords": [
+          "self-reliance",
+          "tenacity",
+          "self-perception",
+          "misjudgment"
+        ]
+      },
+      "what_helps": {
+        "upright": "Methodical approaches and steady routines support your endeavors. Trust in your ability to follow through.",
+        "reversed": "Assistance may come from embracing novel ideas and breaking free from constraints. Seek diverse perspectives.",
+        "keywords": [
+          "steady routines",
+          "methodical support",
+          "novel ideas",
+          "diverse perspectives"
+        ]
+      },
+      "guidance": {
+        "upright": "Divine guidance encourages you to align efforts with purpose. Let each task be infused with intention and care.",
+        "reversed": "Spiritual insight suggests embracing challenges as opportunities to grow beyond apparent limitations.",
+        "keywords": [
+          "align with purpose",
+          "intentional action",
+          "embrace challenges",
+          "spiritual insight"
+        ]
+      },
+      "best_course": {
+        "upright": "The optimal path is through disciplined action paired with a willingness to adapt. Expand rigidity to include imagination.",
+        "reversed": "Either pursue adaptability for success, or focus energy on reevaluating plans to meet new conditions effectively.",
+        "keywords": [
+          "disciplined action",
+          "willingness to adapt",
+          "reevaluation",
+          "effective plans"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for stability and consistent advancement. Fear may involve losing control over routines or failing to meet responsibilities.",
+        "reversed": "Fear of change or unknown territories. Hope involves overcoming inertia and reclaiming motivation.",
+        "keywords": [
+          "hope for stability",
+          "fear of losing control",
+          "change apprehension",
+          "motivation reclaim"
+        ]
+      },
+      "hopes": {
+        "upright": "Hoping to achieve success through diligence and hard work. Desire for recognition and fulfillment from steadfast efforts.",
+        "reversed": "Hope exists in adapting to change without losing discipline. Desire to overcome stagnation and open new pathways.",
+        "keywords": [
+          "diligence",
+          "recognition",
+          "adaptability",
+          "new pathways"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of entrapment in tedious routines. Concern over reliability being undervalued or taken for granted by others.",
+        "reversed": "Fear of progress slipping due to inflexibility or procrastination. Worry over missed opportunities.",
+        "keywords": [
+          "tedious entrapment",
+          "underappreciated reliability",
+          "procrastination",
+          "missed opportunities"
+        ]
+      },
+      "subconscious": {
+        "upright": "Unconscious desires for consistent growth manifest through diligent patterns and meticulous planning.",
+        "reversed": "Subconscious struggles with procrastination or inflexibility hinder forward momentum. Recognize and address internal barriers.",
+        "keywords": [
+          "consistent growth",
+          "diligent patterns",
+          "procrastination",
+          "internal barriers"
+        ]
+      },
+      "conscious": {
+        "upright": "Conscious awareness of your role in nurturing success through persistent effort and careful management.",
+        "reversed": "Consciously wrestling with stagnation or inflexibility. Recognition of the need for change is sought.",
+        "keywords": [
+          "nurturing success",
+          "persistent effort",
+          "conscious struggle",
+          "change recognition"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally steady, finding comfort in routines and clear progress towards goals. Satisfaction in consistent development.",
+        "reversed": "Emotional state may involve feeling trapped or unmotivated. A drive to overcome these feelings is necessary.",
+        "keywords": [
+          "emotional steadiness",
+          "comfort in routine",
+          "feeling trapped",
+          "drive for change"
+        ]
+      },
+      "heart": {
+        "upright": "Desire for inner peace achieved through structured efforts and reliable contributions. Yearning for stable growth.",
+        "reversed": "Heart may feel constrained by external expectations or internal fear. Liberation and exploration are calling.",
+        "keywords": [
+          "inner peace",
+          "stable growth",
+          "constrained heart",
+          "desire for liberation"
+        ]
+      },
+      "mind": {
+        "upright": "Mental clarity comes through establishing routines and setting achievable goals that align with core values.",
+        "reversed": "Mind grapples with resistance or apathy. Mental energy is focused on seeking solutions beyond the current mindset.",
+        "keywords": [
+          "mental clarity",
+          "achievement focus",
+          "resistant mind",
+          "seeking solutions"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others perceive you as a reliable, hard-working individual whose persistent efforts inspire trust and respect.",
+        "reversed": "May be seen as inflexible or resistant to change. Reinvent perceptions by showcasing adaptability and innovation.",
+        "keywords": [
+          "perceived reliability",
+          "trust",
+          "inflexible image",
+          "reinvention"
+        ]
+      },
+      "others": {
+        "upright": "Supportive networks see your commitment and reliability as strengths. Integration with supportive communities enhances growth.",
+        "reversed": "Others may feel frustrated by perceived inflexibility or stagnation. Engage with diverse groups for novel insights.",
+        "keywords": [
+          "supportive networks",
+          "reliability",
+          "frustration",
+          "diverse engagement"
+        ]
+      },
+      "environment": {
+        "upright": "A stable environment fosters growth and development. Conditions support steadfast pursuit of objectives.",
+        "reversed": "Stagnant or restrictive environments challenge progress. Seek environments aligned with adaptability and growth.",
+        "keywords": [
+          "stable growth",
+          "supportive conditions",
+          "restrictive challenge",
+          "alignment"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Respected for your unwavering dedication. Others admire your consistent ability to see projects through.",
+        "reversed": "Possibly viewed as stubborn or unyielding. Transform perceptions through demonstrated adaptability and openness.",
+        "keywords": [
+          "respected dedication",
+          "admirable consistency",
+          "stubbornness",
+          "transform perceptions"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Supportive yet unseen factors bolster your journey. Synchronicities align to reinforce your dedication and goals.",
+        "reversed": "Unseen influences may lead to stagnation if ignored. Awareness and adjustment in response to hidden dynamics are needed.",
+        "keywords": [
+          "supportive factors",
+          "synchronicities",
+          "unseen influences",
+          "awareness"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success achieved through consistent effort and reliable performance. Steady progress leads to meaningful rewards.",
+        "reversed": "Risk of stagnation resulting from resistance to change or procrastination. Growth depends on adaptability and innovation.",
+        "keywords": [
+          "consistent success",
+          "meaningful rewards",
+          "stagnation risk",
+          "growth through change"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Fulfillment through steadfast dedication, cultivating a life of achievement and purpose. Legacy of reliability.",
+        "reversed": "Potential regret from missed opportunities due to inflexibility. Transformation by embracing change is necessary.",
+        "keywords": [
+          "steadfast fulfillment",
+          "achievement",
+          "missed opportunities",
+          "transformation"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Realization of goals through patient progress. Continued investment in time and effort yields eventual success.",
+        "reversed": "Potential obstacles arise from neglect or failure to shift strategies. Success requires recalibration and innovation.",
+        "keywords": [
+          "goal realization",
+          "patient progress",
+          "neglect",
+          "strategy shift"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case involves consistent stability leading to significant progress and reward. Balance practice with ingenuity.",
+        "reversed": "Seeming best case involves clinging to comfort. Expanding horizons through calculated risk leads to true success.",
+        "keywords": [
+          "consistent stability",
+          "ingenuity",
+          "comfort trap",
+          "calculated risk"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case entails being mired in monotony, missing out on innovation and dynamic opportunities.",
+        "reversed": "Allowing fear or routine to dictate choices leads to stagnation and missed growth. Embracing change is vital.",
+        "keywords": [
+          "monotony",
+          "missed innovation",
+          "routine control",
+          "embracing change"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship involves someone who is practical, nurturing, and skilled at creating material security. The dynamic includes caring for physical needs, creating comfortable environments, and the wisdom that comes from earth-based, sensual understanding.",
+        "reversed": "The nurturing may become smothering or practical skills might be used for control. Material security could become materialism or caring might have selfish motives. The relationship may involve manipulation through resources or possessiveness about material things.",
+        "keywords": [
+          "practicality",
+          "nurturing",
+          "material security",
+          "earthly wisdom"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A relationship flourishing through loyalty and commitment. Patience and reliability build the foundations of enduring love.",
+      "reversed": "Stagnation or inflexibility in love life. Either stuck in routine or neglectful of relationship needs.",
+      "keywords": [
+        "loyalty",
+        "enduring love",
+        "stagnation",
+        "relationship neglect"
+      ]
+    },
+    "career": {
+      "upright": "Success through consistent work and methodical planning. Opportunities grow from steady professional dedication.",
+      "reversed": "Career stalls due to inflexibility or divergent focus. Reassess career path and adapt strategies for progression.",
+      "keywords": [
+        "professional success",
+        "steady progress",
+        "career stall",
+        "strategic reassessment"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual growth through diligent practice. Steady commitment to spiritual pursuits bears meaningful insights.",
+      "reversed": "Spiritual journey hindered by resistance or routine. Explore new perspectives to deepen understanding.",
+      "keywords": [
+        "spiritual growth",
+        "diligence",
+        "resistance",
+        "new perspectives"
+      ]
+    },
+    "financial": {
+      "upright": "Financial security achieved through attention to detail. Steady investment and consistent savings bring wealth.",
+      "reversed": "Financial stagnation or poor planning at play. Re-evaluate financial strategies to align with goals.",
+      "keywords": [
+        "financial security",
+        "consistent savings",
+        "stagnation",
+        "strategy reevaluation"
+      ]
+    },
+    "health": {
+      "upright": "Health benefits from consistent routine and practical self-care. Steady approach ensures sustained vitality.",
+      "reversed": "Health stagnation due to neglect or inflexible habits. Incorporate diverse strategies into wellness routines.",
+      "keywords": [
+        "consistent routine",
+        "practical self-care",
+        "health stagnation",
+        "diverse wellness"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "virgo",
+    "hebrew_letter": "samekh",
+    "numerology": 12,
+    "planet": "mercury",
+    "season": "autumn",
+    "time_of_day": "mid-afternoon",
+    "colors": [
+      "brown",
+      "green",
+      "olive"
+    ],
+    "crystals": [
+      "jade",
+      "serpentine",
+      "malachite"
+    ],
+    "herbs": [
+      "sage",
+      "cypress",
+      "chamomile"
+    ]
+  },
+  "symbols": {
+    "plowed_field": "preparedness and methodical effort",
+    "horse": "patient strength and endurance in tasks",
+    "armor": "protection through methodical and strategic planning",
+    "coin": "focus on abundance and material goals"
+  },
+  "affirmations": [
+    "I build my future with patient steadiness and diligent care.",
+    "Through persistence, I achieve my goals and realize my vision.",
+    "My efforts are focused and methodical, paving the way for success.",
+    "I embrace responsibility and balance it with creativity in all I do."
+  ],
+  "journaling_prompts": [
+    "Where can I bring more consistency and dedication in my life?",
+    "What habits or routines might be holding me back?",
+    "How can I balance discipline with creativity in my goals?",
+    "What responsibilities require my focused attention now?"
+  ],
+  "meditation_focus": "Centering on your capacity for steadfastness and thoughtful action. Grounding into the earth's stability and unfolding the patience within.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:50:17.884049",
+    "card_info": {
+      "name": "Knight of Pentacles",
+      "number": 12,
+      "suit": "pentacles"
+    },
+    "filename": "p12.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_emperor": {
+        "interpretation": "Structure and discipline enhance progress. Mastery of routine leads to effective leadership and success.",
+        "keywords": [
+          "structure",
+          "discipline",
+          "enhance",
+          "progress"
+        ]
+      },
+      "eight_of_pentacles": {
+        "interpretation": "Focused diligence and skill development pave the path to professional mastery and rewarding accomplishments.",
+        "keywords": [
+          "focused",
+          "diligence",
+          "skill",
+          "development"
+        ]
+      },
+      "ten_of_pentacles": {
+        "interpretation": "Steady work leads to legacy-building rewards. Abundance achieved through methodical and persistent efforts.",
+        "keywords": [
+          "steady",
+          "work",
+          "leads",
+          "legacy"
+        ]
+      }
+    },
+    "challenges": {
+      "the_fool": {
+        "interpretation": "Conflict between spontaneity and routine. Need to balance freedom with the practical demands of responsibility.",
+        "keywords": [
+          "conflict",
+          "spontaneity",
+          "routine",
+          "need"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Stubbornness creates conflicts. Reevaluate the approach to prevent unnecessary confrontations and enhance adaptability.",
+        "keywords": [
+          "stubbornness",
+          "creates",
+          "conflicts",
+          "reevaluate"
+        ]
+      },
+      "page_of_wands": {
+        "interpretation": "Inflexibility stifles creativity. Encourage playfulness to foster innovation and exploration.",
+        "keywords": [
+          "inflexibility",
+          "stifles",
+          "creativity",
+          "encourage"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hanged_man": {
+        "interpretation": "Patience reveals new perspectives. Understanding sacrifice leads to deeper insight and enlightenment.",
+        "keywords": [
+          "patience",
+          "reveals",
+          "perspectives",
+          "understanding"
+        ]
+      },
+      "four_of_swords": {
+        "interpretation": "Rest restores focus and clarity. Balance activity with introspection to rejuvenate and reset intentions.",
+        "keywords": [
+          "rest",
+          "restores",
+          "focus",
+          "clarity"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Steady reflection prompts self-evaluation. Awakening through diligent self-assessment and realistic planning.",
+        "keywords": [
+          "steady",
+          "reflection",
+          "prompts",
+          "self"
+        ]
+      }
+    },
+    "similar_energy": {
+      "queen_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_fool": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "page_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

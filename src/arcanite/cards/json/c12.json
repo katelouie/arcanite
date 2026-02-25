@@ -1,0 +1,665 @@
+{
+  "card_id": "knight_of_cups",
+  "card_name": "Knight of Cups",
+  "card_number": 12,
+  "suit": "cups",
+  "archetype": "the_romantic",
+  "core_meanings": {
+    "upright": {
+      "essence": "The quest for emotional and spiritual fulfillment. A gentle pursuit of dreams and ideals with creativity and charm.",
+      "keywords": [
+        "romance",
+        "charm",
+        "idealism",
+        "adventure",
+        "creativity",
+        "inspiration",
+        "passion",
+        "imagination"
+      ],
+      "psychological": "Represents the inner dreamer and lover, striving for deep emotional connections and following the heart's desires.",
+      "spiritual": "Journey towards higher emotional understanding and empathy. Connection to the divine through beauty and love.",
+      "practical": "Encourages pursuing opportunities that stir the heart. A time for following intuition and creative inspiration.",
+      "shadow": "Tendency towards escapism, unrealistic expectations, and becoming lost in fantasy without grounding in reality."
+    },
+    "reversed": {
+      "essence": "Misguided passion or unfulfilled dreams. Emotional instability and the illusion of romance without depth.",
+      "keywords": [
+        "ambivalence",
+        "moodiness",
+        "manipulation",
+        "fantasy",
+        "disappointment",
+        "delusion",
+        "passivity"
+      ],
+      "psychological": "Emotional turbulence causes confusion; feelings may be clouded by unacknowledged fears or unrealistic ideals.",
+      "spiritual": "Detachment from true spiritual connection, either through chasing illusions or failing to see profound truths.",
+      "practical": "Reassess emotional investments and creative endeavors. Avoid getting swept away by temporary passions.",
+      "shadow": "Deception and charm used for manipulation, or becoming overly sensitive and reactive without clear purpose."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A period where following your heart led you to profound experiences of love or creativity, impacting who you are now.",
+        "reversed": "Past emotional decisions or romantic entanglements may not have turned out as hoped, shaping your current hesitations.",
+        "keywords": [
+          "past romance",
+          "emotional history",
+          "formative experiences",
+          "idealistic decisions"
+        ]
+      },
+      "distant_past": {
+        "upright": "An early influence of romance or creativity that instilled a deep yearning for ideal connections and artistic pursuits.",
+        "reversed": "Long-standing patterns of disappointment in love or missed creative opportunities that continue to influence you.",
+        "keywords": [
+          "early romantic influence",
+          "creative roots",
+          "deep yearning",
+          "unfulfilled past"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent events involved a heartfelt pursuit, possibly a creative project or relationship, guiding your present journey.",
+        "reversed": "Emotional ups and downs or disillusionments have recently impacted your emotional state and current focus.",
+        "keywords": [
+          "recent pursuit",
+          "heartfelt action",
+          "creative development",
+          "emotional turbulence"
+        ]
+      },
+      "present": {
+        "upright": "You're drawn to follow your heart's desires now, embracing love or creativity with fresh enthusiasm.",
+        "reversed": "Facing inner conflict regarding your desires, possibly feeling stuck between your dreams and reality.",
+        "keywords": [
+          "current desire",
+          "heartfelt focus",
+          "emotional focus",
+          "inner conflict"
+        ]
+      },
+      "present_situation": {
+        "upright": "Your current situation revolves around aligning with your heart's longing, bringing emotional and creative insights.",
+        "reversed": "Struggling with instability or ambivalence, causing difficulty in recognizing true passions and commitments.",
+        "keywords": [
+          "core desires",
+          "emotional insights",
+          "creative alignment",
+          "emotional struggle"
+        ]
+      },
+      "future": {
+        "upright": "Upcoming opportunities will appeal to your emotional and creative sides, offering growth through passion and empathy.",
+        "reversed": "Future challenges may involve distinguishing true desires from illusions and remaining balanced in emotional pursuits.",
+        "keywords": [
+          "upcoming opportunity",
+          "passionate growth",
+          "empathy",
+          "emotional challenge"
+        ]
+      },
+      "near_future": {
+        "upright": "Very soon, a romantic or creative adventure awaits, requiring you to embrace inspiration and trust the journey.",
+        "reversed": "Be vigilant of letting fantasies lead to unwise choices. Ground yourself as you explore these emotions.",
+        "keywords": [
+          "imminent adventure",
+          "romantic opportunity",
+          "creative pursuit",
+          "grounded choices"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, your pursuit of emotional and creative passions will lead to a life enriched with love and artistic expression.",
+        "reversed": "Left unchecked, misguided emotions might result in a future where dreams remain unfulfilled due to lack of grounding.",
+        "keywords": [
+          "ultimate expression",
+          "fulfilled dreams",
+          "future enrichment",
+          "dream unfulfilled"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge involves following your heart's call without getting lost in unrealistic ideals. Stay grounded.",
+        "reversed": "Recognizing when emotions mislead you, creating instability or unrealistic expectations. Find your center.",
+        "keywords": [
+          "following heart",
+          "ideal realism",
+          "emotional grounding",
+          "inner stability"
+        ]
+      },
+      "cross": {
+        "upright": "Conflicting practical demands may cross your romantic and idealistic pursuits, requiring you to balance both worlds.",
+        "reversed": "Inner doubt and external skepticism may dampen your passion, casting shadows over your dreams.",
+        "keywords": [
+          "practical conflict",
+          "idealism challenge",
+          "balancing worlds",
+          "internal doubt"
+        ]
+      },
+      "obstacle": {
+        "upright": "Cultural or peer pressure might oppose your emotional journey, pushing you toward conventional paths over heartfelt ones.",
+        "reversed": "Self-imposed limits, caused by fear of vulnerability, block true emotional connection and creative expression.",
+        "keywords": [
+          "external pressure",
+          "conventional paths",
+          "emotional journey",
+          "self-imposed limits"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson is to integrate emotion with practicality, allowing your dreams space to flourish while remaining realistic.",
+        "reversed": "Learn to differentiate between illusion and truth, recognizing the value in aligning desires with authentic purpose.",
+        "keywords": [
+          "emotional integration",
+          "pragmatic dreams",
+          "illusion discernment",
+          "authentic purpose"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow contains hidden idealism, which when controlled, serves to inspire rather than mislead.",
+        "reversed": "A tendency to escape reality through fantasies, avoiding deeper emotional truths and necessary growth.",
+        "keywords": [
+          "hidden idealism",
+          "inspirational control",
+          "fantasy escape",
+          "emotional truth"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Over-romanticizing situations prevents you from seeing relationships as they truly are, rather than idealized versions.",
+        "reversed": "Clinging to past disappointments hinders new experiences. Clear the way for fresh emotional engagements.",
+        "keywords": [
+          "romanticization",
+          "idealistic vision",
+          "past disappointment",
+          "emotional renewal"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace your passions with humility and authenticity. Allow your heart's song to guide you toward creative and emotional fulfillment.",
+        "reversed": "Temper emotions with wisdom. Allow reflection to guide actions so that dreams align with the realities of life.",
+        "keywords": [
+          "humble passion",
+          "authentic embrace",
+          "emotional wisdom",
+          "reflective guidance"
+        ]
+      },
+      "action": {
+        "upright": "Take a bold step towards what inspires your heart. Immerse yourself in creative and loving pursuits without reservation.",
+        "reversed": "Hold back from impulsive actions driven purely by emotion. Build a practical foundation under your dreams.",
+        "keywords": [
+          "bold step",
+          "heart's inspiration",
+          "prudent action",
+          "practical foundation"
+        ]
+      },
+      "your_approach": {
+        "upright": "You are choosing to lead with your heart, approaching life with a sense of wonder and romance that inspires others.",
+        "reversed": "Your current approach may be overly romantic or disconnected from practical realities, capturing you in illusion.",
+        "keywords": [
+          "heart-led",
+          "romantic approach",
+          "inspirational presence",
+          "captured in illusion"
+        ]
+      },
+      "what_helps": {
+        "upright": "Nurture your intuition and sensitivity to enhance emotional insights and nurture your creative talents.",
+        "reversed": "Seek grounding through practices that connect you with gentle reality, while honoring your deep emotional nature.",
+        "keywords": [
+          "nurtured intuition",
+          "emotional insight",
+          "creative talent",
+          "gentle reality"
+        ]
+      },
+      "guidance": {
+        "upright": "Allow visions of beauty and love to guide you toward joyful experiences and soulful connections. Trust your emotional wisdom.",
+        "reversed": "Spirit urges introspection, to distinguish between true calling and alluring distractions that divert your path.",
+        "keywords": [
+          "visionary beauty",
+          "joyful experiences",
+          "soulful connection",
+          "insightful introspection"
+        ]
+      },
+      "best_course": {
+        "upright": "Align your actions with inner passions. Create a path where dreams are nurtured by tangible steps.",
+        "reversed": "Consider long-term goals over present whims. Construct a solid plan to guide emotional ambitions to fruition.",
+        "keywords": [
+          "aligned action",
+          "dream nurturing",
+          "tangible steps",
+          "solid planning"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for deep, lasting connections and shared creative visions. Fear of rejection or that dreams will fade with time.",
+        "reversed": "Fear of emotional volatility overwhelms. Hope that stability can coexist with passionate pursuit.",
+        "keywords": [
+          "deep connection",
+          "creative vision",
+          "emotional rejection",
+          "hope for stability"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope for a life enriched with creative passion and genuine emotional connections, driving personal fulfillment.",
+        "reversed": "Hopes might be idealistic, seeking gratification in transient fantasies rather than solid experiences.",
+        "keywords": [
+          "enriched life",
+          "creative passion",
+          "emotional connection",
+          "idealistic hope"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing touch with dreams or that sincere expressions will meet cynicism rather than understanding.",
+        "reversed": "Fear of emotional hurt or entrapment, leading to barriers between genuine experiences and unrealistic fantasies.",
+        "keywords": [
+          "lost dreams",
+          "cynical reception",
+          "emotional hurt",
+          "unrealistic barriers"
+        ]
+      },
+      "subconscious": {
+        "upright": "On a subconscious level, there is a deep yearning to merge inner dreams with reality, creating beauty and harmony.",
+        "reversed": "Subconscious fears of inadequacy or unfulfilled desires influence your quest for emotional satisfaction.",
+        "keywords": [
+          "yearning for merge",
+          "beauty creation",
+          "subconscious fear",
+          "emotional satisfaction"
+        ]
+      },
+      "conscious": {
+        "upright": "You are aware of your rich emotional landscape, seeking paths to express heartfelt desires in authentic ways.",
+        "reversed": "Conscious awareness may be clouded by reluctance to face discord between dreams and tangible possibilities.",
+        "keywords": [
+          "emotional awareness",
+          "heartfelt expression",
+          "clouded vision",
+          "discord confrontation"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Current emotions flow like a gentle river, seeking connection and understanding through empathy and creativity.",
+        "reversed": "An emotional storm brews, pushing and pulling between intense desires and fear of emotional vulnerability.",
+        "keywords": [
+          "emotional flow",
+          "gentle river",
+          "emotional storm",
+          "vulnerability fear"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs for authenticity in love, to be heard and cherished, creating deep and meaningful connections.",
+        "reversed": "Heart wisdom warns against self-delusion. Seek clarity to avoid confusion masking true desires.",
+        "keywords": [
+          "authentic longing",
+          "being cherished",
+          "heart warning",
+          "confusion clarity"
+        ]
+      },
+      "mind": {
+        "upright": "Your mind cherishes poetic thoughts and visionary ideas, valuing emotional intelligence and creative thinking.",
+        "reversed": "Mental state vacillates between dreamy visions and the struggle to anchor thoughts in practical realities.",
+        "keywords": [
+          "poetic mind",
+          "visionary ideas",
+          "dreamy visions",
+          "practical anchor"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Those around you are inspired by your romantic approach and creative vision, seeing a dreamer who believes in possibilities.",
+        "reversed": "Others may perceive your emotional expressions as lacking depth, casting shadows on authenticity and trust.",
+        "keywords": [
+          "inspirational presence",
+          "dreamer perceived",
+          "shallow perception",
+          "trust doubts"
+        ]
+      },
+      "others": {
+        "upright": "Friends and family support your creative endeavors, recognizing the strength and genuine emotion behind your actions.",
+        "reversed": "Others may be critical, viewing your pursuits as impractical or overly idealistic, challenging your resolve.",
+        "keywords": [
+          "supportive circle",
+          "recognized strength",
+          "critical view",
+          "ideal challenge"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment is one of inspiration and creative stimulation, conducive to nurturing emotional and artistic pursuits.",
+        "reversed": "The current environment feels stifling, suppressing creativity and emotional expression due to rigid expectations.",
+        "keywords": [
+          "inspiring space",
+          "creative nurture",
+          "stifling setting",
+          "rigid expectations"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a romantic idealist, others view you as someone who brings emotion and heart into every venture.",
+        "reversed": "Perception of you may be skewed, seeing you as lost in dreams with little grasp on reality.",
+        "keywords": [
+          "romantic idealist",
+          "heart-driven",
+          "dream-lost perception",
+          "reality grasp"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces offer subtle guidance, promoting insights and serendipities that align with your deeper emotional quests.",
+        "reversed": "Hidden influences may include unconscious desires shaping actions, leading to misguided emotional involvements.",
+        "keywords": [
+          "subtle guidance",
+          "insight alignment",
+          "unconscious desire",
+          "misguided action"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Fulfillment comes from following heartfelt passions, leading to creative achievements and profound emotional experiences.",
+        "reversed": "Outcomes might revolve around emotional lessons learned through disillusionment or missed opportunities.",
+        "keywords": [
+          "fulfillment",
+          "creative achievement",
+          "emotional experience",
+          "disillusionment"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, your path leads to a rich tapestry of emotional and creative fulfillment, weaving dreams into reality.",
+        "reversed": "Final outcomes may involve redefining dreams to align with genuine capacity, finding balance in expectations.",
+        "keywords": [
+          "emotional tapestry",
+          "dream reality",
+          "dream redefinition",
+          "capacity balance"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "You may find that expressing your creative visions brings unexpected joy and connection, igniting your life path.",
+        "reversed": "A possible outcome involves needing to rebuild hopes after illusions have shattered, strengthening resolve.",
+        "keywords": [
+          "unexpected joy",
+          "connection ignition",
+          "hope rebuilding",
+          "illusion shatter"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenario unfolds with heartfelt dreams coming to fruition, celebrated with love and shared artistic expressions.",
+        "reversed": "Even in the best case, ungrounded dreams may need realistic adjustments before true fruition.",
+        "keywords": [
+          "dream fruition",
+          "loving celebration",
+          "artistic share",
+          "realistic adjustment"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves getting lost in romantic illusions without taking tangible steps, leading to stagnation.",
+        "reversed": "Avoidance of reality could result in emotional exhaustion or a collapse of romantic fantasy leading to despair.",
+        "keywords": [
+          "romantic illusion",
+          "stagnation",
+          "emotional exhaustion",
+          "fantasy collapse"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship involves someone who is emotionally mature, nurturing, and intuitively wise. The dynamic includes compassionate understanding, emotional support, and the ability to create a safe space for feelings to be expressed and healed.",
+        "reversed": "The nurturing may become smothering or emotionally manipulative. Intuition might be ignored or used for control. The relationship could involve emotional manipulation, codependency, or using sensitivity as a weapon.",
+        "keywords": [
+          "nurturing",
+          "compassion",
+          "intuition",
+          "emotional wisdom"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A romantic gesture or deepening connection is on the horizon. Embrace love with empathy and open-heartedness.",
+      "reversed": "Be wary of illusions in love. Seek clear communication and realistic expectations to prevent heartache.",
+      "keywords": [
+        "romantic gesture",
+        "deep connection",
+        "love illusion",
+        "realistic expectations"
+      ]
+    },
+    "career": {
+      "upright": "Follow your creative passions in your career. Opportunities for innovative projects align with your dreams.",
+      "reversed": "Avoid career moves based purely on fantasy. Seek practical validation for creative ideas to prevent disappointment.",
+      "keywords": [
+        "creative passion",
+        "innovative opportunity",
+        "fantasy avoidance",
+        "practical validation"
+      ]
+    },
+    "spiritual": {
+      "upright": "Discover a deeper spiritual connection through emotional understanding and beauty in the world around you.",
+      "reversed": "Beware of using spirituality as escapism. Engage with your soul purpose through genuine practice and insight.",
+      "keywords": [
+        "spiritual beauty",
+        "emotional understanding",
+        "spiritual escapism",
+        "soul purpose"
+      ]
+    },
+    "financial": {
+      "upright": "Trust your instincts regarding investments or new financial ventures that resonate emotionally and creatively.",
+      "reversed": "Avoid financial decisions made through fantasy. Grounded realism is key to economic stability and success.",
+      "keywords": [
+        "financial instinct",
+        "resonating venture",
+        "fantasy decision",
+        "economic stability"
+      ]
+    },
+    "health": {
+      "upright": "Embrace holistic approaches that integrate physical wellness with emotional and creative fulfillment.",
+      "reversed": "Guard against emotional extremes affecting health. Balance your lifestyle with steadiness and mindful practices.",
+      "keywords": [
+        "holistic wellness",
+        "creative health",
+        "emotional balance",
+        "mindful practice"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "pisces",
+    "hebrew_letter": "qamets heh",
+    "numerology": 12,
+    "planet": "neptune",
+    "season": "spring",
+    "time_of_day": "sunset",
+    "colors": [
+      "blue",
+      "silver",
+      "sea-green"
+    ],
+    "crystals": [
+      "aquamarine",
+      "jade",
+      "amethyst"
+    ],
+    "herbs": [
+      "jasmine",
+      "rose",
+      "chamomile"
+    ]
+  },
+  "symbols": {
+    "white_horse": "purity of intent and gentle power",
+    "cup": "offering of emotion and connectivity",
+    "river": "flow of emotions and dreams",
+    "armor": "protection of the sensitive heart"
+  },
+  "affirmations": [
+    "I follow my heart with courage and grace.",
+    "My dreams guide me to beautiful realities.",
+    "I am open to love's pure and creative expressions.",
+    "Through empathy, I connect deeply with the world."
+  ],
+  "journaling_prompts": [
+    "What dreams inspire me to take action right now?",
+    "Where in my life can I let love guide my decisions?",
+    "How do I maintain balance between fantasy and reality?",
+    "What creative endeavors stir my passion?"
+  ],
+  "meditation_focus": "Embodying the gentle flow of love and creativity, finding harmony between heart's desires and reality's demands.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:53:54.212615",
+    "card_info": {
+      "name": "Knight of Cups",
+      "number": 12,
+      "suit": "cups"
+    },
+    "filename": "c12.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Enhances creative birth and nurturing abundance. Emotional experiences blossom with fertile expression.",
+        "keywords": [
+          "enhances",
+          "creative",
+          "birth",
+          "nurturing"
+        ]
+      },
+      "the_star": {
+        "interpretation": "Hope and inspiration flow into dreams, enhancing creativity and destined connections.",
+        "keywords": [
+          "hope",
+          "inspiration",
+          "flow",
+          "dreams"
+        ]
+      },
+      "page_of_cups": {
+        "interpretation": "Emotional renewal and fresh inspiration. Creativity blooms, guided by imagination and youthful spirit.",
+        "keywords": [
+          "emotional",
+          "renewal",
+          "fresh",
+          "inspiration"
+        ]
+      }
+    },
+    "challenges": {
+      "the_chariot": {
+        "interpretation": "Clash between emotional direction and assertive will. Balance passion with determination and control.",
+        "keywords": [
+          "clash",
+          "emotional",
+          "direction",
+          "assertive"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Potential for overwhelmed imagination, confusion in choices, and deceptive allurements.",
+        "keywords": [
+          "potential",
+          "overwhelmed",
+          "imagination",
+          "confusion"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hanged_man": {
+        "interpretation": "Emotional insights provide new perspectives, reframing visions and leading to deeper understanding.",
+        "keywords": [
+          "emotional",
+          "insights",
+          "provide",
+          "perspectives"
+        ]
+      },
+      "three_of_swords": {
+        "interpretation": "Illuminates healing through empathy and creative outlets, turning heartbreak into transformation.",
+        "keywords": [
+          "illuminates",
+          "healing",
+          "empathy",
+          "creative"
+        ]
+      }
+    },
+    "similar_energy": {
+      "queen_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_lovers": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "knight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_fool": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "king_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "page_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

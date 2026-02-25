@@ -1,0 +1,684 @@
+{
+  "card_id": "four_of_wands",
+  "card_name": "Four of Wands",
+  "card_number": 4,
+  "suit": "wands",
+  "archetype": "celebration_and_harmony",
+  "core_meanings": {
+    "upright": {
+      "essence": "A moment of joy, celebration, and harmony. The energy of coming home, feeling safe and supported, with a deep sense of belonging and completion.",
+      "keywords": [
+        "celebration",
+        "harmony",
+        "homecoming",
+        "community",
+        "stability",
+        "joy",
+        "security",
+        "milestone"
+      ],
+      "psychological": "Represents the inner sanctuary and self-acceptance. Feeling aligned with your true self and the world around you. Emotional stability and fulfillment.",
+      "spiritual": "Connection with family and soul tribe. The experience of spiritual unity and oneness. Acknowledging divine timing and the flow of life.",
+      "practical": "Recognition of achievements and reaching milestones. Time to enjoy the fruits of labor and share successes with loved ones.",
+      "shadow": "Resistance to deeper commitments. Avoidance of necessary changes to maintain comfort. Fear of disrupting a peaceful status quo."
+    },
+    "reversed": {
+      "essence": "Disruptions to harmony or delays in reaching goals. Possible instability or lack of support. Celebrations put on hold.",
+      "keywords": [
+        "instability",
+        "delays",
+        "disharmony",
+        "uncertainty",
+        "disconnection",
+        "upheaval",
+        "unfinished business"
+      ],
+      "psychological": "Inner conflict between desires for safety and fear of change. Feeling disconnected from community or self.",
+      "spiritual": "Feeling out of sync with spiritual path or support systems. Needing to realign with your true purpose.",
+      "practical": "Plans may need reevaluation or delays. Challenges in reaching milestones or securing long-term stability.",
+      "shadow": "Fear of losing security leads to resistance against necessary change. Clinging to outdated structures or roles."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A past celebration or achievement created a base of support and security that supports you now. A time when community and family were united.",
+        "reversed": "Previous plans fell through or celebrations were postponed, affecting your current quest for stability.",
+        "keywords": [
+          "past celebration",
+          "foundational joy",
+          "missed festivities",
+          "postponed plans"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a union or celebration that defined your understanding of home and family, setting the stage for your approach to current relationships.",
+        "reversed": "An early disruption or instability that still echoes in your present, affecting your sense of safety and belonging.",
+        "keywords": [
+          "defining union",
+          "early joy",
+          "original disruptions",
+          "foundational disharmony"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent joyful gatherings or successful completions that contribute to your present sense of achievement and stability.",
+        "reversed": "Recent disconnections or delayed plans still influencing current dynamics or progress.",
+        "keywords": [
+          "recent joy",
+          "completion",
+          "recent postponements",
+          "current influence"
+        ]
+      },
+      "present": {
+        "upright": "Currently experiencing harmony and celebration. This is a time to enjoy and cherish the connections and stability in your life.",
+        "reversed": "Experiencing disruptions or feeling a lack of support in your current environment. Time to reassess and realign.",
+        "keywords": [
+          "current harmony",
+          "present stability",
+          "disrupted joy",
+          "lack of support"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core of your present situation is a deep-seated need to feel secure and celebrated. It's a time marked by gratitude and unity.",
+        "reversed": "In the heart of your current struggles lies a need to rebuild or reconnect with foundational stability.",
+        "keywords": [
+          "core security",
+          "heart of unity",
+          "foundational need",
+          "reconnection"
+        ]
+      },
+      "future": {
+        "upright": "A future filled with joyous milestones and celebrations awaits. You are on track to achieve your desired sense of community and stability.",
+        "reversed": "Future plans might face delays or challenges, suggesting the need for flexibility and patience.",
+        "keywords": [
+          "future celebrations",
+          "upcoming milestones",
+          "delayed plans",
+          "flexibility needed"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, opportunities to celebrate accomplishments or to come together with loved ones will arise. Be ready to embrace joy.",
+        "reversed": "Anticipate potential obstacles in executing plans or achieving harmony. Stay adaptable.",
+        "keywords": [
+          "immediate joy",
+          "soon to celebrate",
+          "upcoming obstacles",
+          "prepare for change"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately achieving lasting security and fulfilling connections that enrich your long-term path.",
+        "reversed": "Long-term challenges may persist if foundational adjustments are not made. Potential for deep-seated instability.",
+        "keywords": [
+          "lasting security",
+          "fulfilled connections",
+          "persistent challenges",
+          "deep adjustments"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to allow yourself to truly celebrate successes without fear of losing what you have achieved.",
+        "reversed": "Facing the fear of change and the unknown while building toward stability. Must release resistance.",
+        "keywords": [
+          "celebration without fear",
+          "embracing change",
+          "release resistance",
+          "fear of unknown"
+        ]
+      },
+      "cross": {
+        "upright": "Obligations and commitments may be challenging your natural state of joy and ease. Balance is key.",
+        "reversed": "Inner uncertainties are crossing your path toward harmony. Time to confront and align.",
+        "keywords": [
+          "commitment challenges",
+          "natural joy",
+          "uncertainties",
+          "need for balance"
+        ]
+      },
+      "obstacle": {
+        "upright": "The main obstacle is the fear of losing joy and comfort through change, even when growth is required.",
+        "reversed": "Resistance to letting go of past plans or relationships that no longer serve your future balance.",
+        "keywords": [
+          "fear of change",
+          "comfort zones",
+          "letting go",
+          "future balance"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to balance celebration and contemplation. Recognize milestones as stepping stones, not destinations.",
+        "reversed": "The lesson is in embracing impermanence and building resilience in response to instability.",
+        "keywords": [
+          "balance celebration",
+          "stepping stones",
+          "embracing impermanence",
+          "resilience"
+        ]
+      },
+      "shadow": {
+        "upright": "Shadow aspects include complacency and avoidance of deeper growth through overindulgence in comfort.",
+        "reversed": "Suppression of genuine desires for change out of fear of disrupting peace.",
+        "keywords": [
+          "complacency",
+          "avoidance of growth",
+          "suppressed desires",
+          "fear of disruption"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Past traumas or unmet expectations are hindering your ability to fully immerse in the present joy.",
+        "reversed": "Old, rigid beliefs about safety and success are preventing movement forward.",
+        "keywords": [
+          "past traumas",
+          "unmet expectations",
+          "rigid beliefs",
+          "movement"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace this moment of joy and connection. Share your achievements with others and build on your current foundation.",
+        "reversed": "Reevaluate plans and adjust your direction. Seek harmony through adaptability and patience.",
+        "keywords": [
+          "embrace joy",
+          "share achievements",
+          "reevaluate plans",
+          "seek harmony"
+        ]
+      },
+      "action": {
+        "upright": "Celebrate your wins and include others in your joy. Invest time in strengthening bonds and celebrating life.",
+        "reversed": "Step back to reassess and find solutions. Be open to redesigning your goals and approaches.",
+        "keywords": [
+          "celebrate together",
+          "strengthen bonds",
+          "reassess plans",
+          "redesign goals"
+        ]
+      },
+      "your_approach": {
+        "upright": "Approach life with a spirit of joy and gratitude, recognizing the value of milestones and the support of loved ones.",
+        "reversed": "You may approach with caution or uncertainty, needing to reinforce your support systems and personal resolve.",
+        "keywords": [
+          "joyful approach",
+          "gratitude",
+          "caution",
+          "support systems"
+        ]
+      },
+      "what_helps": {
+        "upright": "The support of your community and a positive mindset help in achieving continuous growth and joy.",
+        "reversed": "Reflection and flexibility help overcome setbacks or delays. Seek guidance from trusted sources.",
+        "keywords": [
+          "community support",
+          "positive mindset",
+          "flexibility",
+          "trusted guidance"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust in the present harmony and let it guide your future steps. Allow joy to be the compass on your path.",
+        "reversed": "Ground yourself in patience and reorient your actions toward sustainable stability.",
+        "keywords": [
+          "trust harmony",
+          "joy as compass",
+          "ground in patience",
+          "sustainable stability"
+        ]
+      },
+      "best_course": {
+        "upright": "Celebrate achievements while planning wisely for future success. Embrace the support around you.",
+        "reversed": "The best course involves revisiting plans and strategies to align more closely with evolving goals.",
+        "keywords": [
+          "plan with wisdom",
+          "embrace support",
+          "align strategies",
+          "evolving goals"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for ongoing stability and unity, but fear of it being fleeting or dependent on current circumstances.",
+        "reversed": "Fear of chaos or losing present joy. Hope that adjustments will bring restored harmony.",
+        "keywords": [
+          "ongoing stability",
+          "unity",
+          "fear of chaos",
+          "restored harmony"
+        ]
+      },
+      "hopes": {
+        "upright": "Hopes for a joyful union and celebration of life's abundance. Longing for deep connection and shared happiness.",
+        "reversed": "Hope to rebuild or strengthen current structures. Desire for renewed alignment and peace.",
+        "keywords": [
+          "joyful union",
+          "life's abundance",
+          "renewed alignment",
+          "strengthened structures"
+        ]
+      },
+      "fears": {
+        "upright": "Fear that current harmony might be surface-level or temporary. Anxiety about what's beneath the surface.",
+        "reversed": "Fear of instability or perpetual delays blocking progress. Worry about incomplete goals.",
+        "keywords": [
+          "surface harmony",
+          "temporary joy",
+          "fear of instability",
+          "incomplete goals"
+        ]
+      },
+      "subconscious": {
+        "upright": "A deep yearning for fellowship, celebrating life's milestones, and feeling secure within oneself.",
+        "reversed": "Subconscious reluctance to step out of comfort zones due to fear of the unknown or change.",
+        "keywords": [
+          "fellowship",
+          "inner security",
+          "comfort zones",
+          "fear of unknown"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously enjoying and seeking harmony and stability in everyday life. Aware of the importance of balance and celebration.",
+        "reversed": "Conscious of current obstacles or fears, yet looking for ways to restore balance and connection.",
+        "keywords": [
+          "seeking harmony",
+          "everyday stability",
+          "aware of fears",
+          "restoration"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally fulfilled and secure. Filled with gratitude and joy, relishing the stability of connections and achievements.",
+        "reversed": "Feeling unsettled or anxious. Desire for a return to harmony and the resolution of tensions.",
+        "keywords": [
+          "emotional fulfillment",
+          "gratitude",
+          "unsettled",
+          "resolution of tensions"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart craves connection, joy, and a sense of belonging that enriches every aspect of your life.",
+        "reversed": "Your heart may fear losing what it cherishes or facing changes that threaten perceived unity.",
+        "keywords": [
+          "craving connection",
+          "joyful belonging",
+          "fear of loss",
+          "threatened unity"
+        ]
+      },
+      "mind": {
+        "upright": "A mindset focused on harmony and the pursuit of joyous achievements. Seeing the world through a lens of gratitude and celebration.",
+        "reversed": "Concerned about potential disruptions or changes. Seeking practical solutions to preserve stability.",
+        "keywords": [
+          "harmony-focused",
+          "gratitude",
+          "concerned mind",
+          "practical solutions"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Your environment is currently supportive and nurturing. External conditions enable you to thrive and celebrate accomplishments.",
+        "reversed": "External pressures or chaotic surroundings might contribute to current disharmony. Requires focus and resilience.",
+        "keywords": [
+          "supportive environment",
+          "thriving conditions",
+          "external pressures",
+          "focus required"
+        ]
+      },
+      "others": {
+        "upright": "Those around you are joining in your celebrations and offer genuine connection and support. Positive social network.",
+        "reversed": "Others might be experiencing their own turmoil, which reflects or affects your personal journey.",
+        "keywords": [
+          "social support",
+          "genuine connection",
+          "reflecting turmoil",
+          "affecting journey"
+        ]
+      },
+      "environment": {
+        "upright": "Surrounding conditions align with your goals of joy and stability, fostering a vibrant and secure environment.",
+        "reversed": "Environmental factors seem unstable or unpredictable. Adaptability and strength are needed to navigate this period.",
+        "keywords": [
+          "aligned conditions",
+          "vibrant space",
+          "unstable factors",
+          "need for adaptability"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others view you as a source of joy and stability, someone who creates and maintains a positive, harmonious atmosphere.",
+        "reversed": "Some see you as struggling with consistency or finding balance amidst chaos.",
+        "keywords": [
+          "source of joy",
+          "harmonious presence",
+          "struggling",
+          "finding balance"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unnoticed support systems or blessings are contributing to current peace and celebration. Grace flows beneath the surface.",
+        "reversed": "Hidden disruptions or subtle tensions may challenge the stability you're working to create.",
+        "keywords": [
+          "unnoticed support",
+          "hidden grace",
+          "subtle tensions",
+          "challenging stability"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "A harmonious and celebrated outcome where achievements are recognized, and a sense of community thrives.",
+        "reversed": "Potential outcome of facing delays or temporary instability. Opportunities to rebuild and improve.",
+        "keywords": [
+          "harmonious outcome",
+          "celebration",
+          "temporary instability",
+          "rebuild opportunities"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately leads to a life of secure joy and deeply-rooted connections. Foundations support long-term satisfaction.",
+        "reversed": "Final scenario may involve ongoing challenges, requiring consistent effort to stabilize and harmonize your path.",
+        "keywords": [
+          "secure joy",
+          "deep connections",
+          "ongoing challenges",
+          "consistent effort"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "One likely result is expanded connection and joyous living that enhances all aspects of life. Community bonds strengthen.",
+        "reversed": "Possible outcomes may involve repeated attempts to regain harmony and balance amidst unpredictability.",
+        "keywords": [
+          "expanded connection",
+          "joyous living",
+          "repeated attempts",
+          "seeking balance"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case scenario includes effortless alignment of goals with joyous life experiences. Seamless achievement and celebration.",
+        "reversed": "While best case might seem derailed, it calls for creative problem-solving and unyielding optimism.",
+        "keywords": [
+          "effortless alignment",
+          "joyful achievements",
+          "creative solutions",
+          "unyielding optimism"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves complacency that stalls growth, despite having all the ingredients for success and celebration.",
+        "reversed": "Loss of harmony or prolonged instability as a result of resistance to change and adaptability.",
+        "keywords": [
+          "stalled growth",
+          "complacency",
+          "loss of harmony",
+          "prolonged instability"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship celebrates achievement, stability, and joyful completion of goals. The dynamic between you creates a secure foundation for celebration and continued growth. You've built something worth honoring together.",
+        "reversed": "The connection may struggle to celebrate achievements or maintain stability. Completion may be lacking or success may feel temporary. The relationship could involve taking accomplishments for granted or inability to enjoy what you've built.",
+        "keywords": [
+          "celebration",
+          "stability",
+          "achievement",
+          "foundation"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A celebratory phase in a relationship or a joyous union on the horizon. Foundations of love are strong and rewarding.",
+      "reversed": "Instability or postponed commitments in love require patience and reassessment. Seek clarity and realignment.",
+      "keywords": [
+        "joyous union",
+        "strong foundations",
+        "postponed commitments",
+        "reassessment"
+      ]
+    },
+    "career": {
+      "upright": "Professional achievements are recognized, leading to a stable and fulfilling career path. Celebrate milestones with colleagues.",
+      "reversed": "Challenges or delays in career progression may call for patience and reevaluation of goals and methods.",
+      "keywords": [
+        "career achievement",
+        "milestones",
+        "career challenges",
+        "goal reevaluation"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual harmony and community connection are experienced. Celebrate the unity and support of your spiritual family.",
+      "reversed": "Displaced from spiritual path or community. Time to reconnect and rediscover spiritual grounding.",
+      "keywords": [
+        "spiritual harmony",
+        "unity",
+        "displacement",
+        "rediscover grounding"
+      ]
+    },
+    "financial": {
+      "upright": "Financial stability allows for enjoyment and celebrations. It’s a good time to invest in things that bring joy.",
+      "reversed": "Financial plans might struggle with uncertainty. Emphasize careful management and adaptability.",
+      "keywords": [
+        "financial stability",
+        "investment",
+        "financial uncertainty",
+        "careful management"
+      ]
+    },
+    "health": {
+      "upright": "A phase of wellness and vitality. Engage in community activities that support a healthy, joyful lifestyle.",
+      "reversed": "Health plans may face disruptions. Focus on flexibility and careful consideration of your wellbeing.",
+      "keywords": [
+        "wellness",
+        "vitality",
+        "health disruptions",
+        "flexibility"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "aries",
+    "hebrew_letter": "dalet",
+    "numerology": 4,
+    "planet": "venus",
+    "season": "spring",
+    "time_of_day": "afternoon",
+    "colors": [
+      "yellow",
+      "orange",
+      "gold"
+    ],
+    "crystals": [
+      "citrine",
+      "carnelian",
+      "garnet"
+    ],
+    "herbs": [
+      "rosemary",
+      "basil",
+      "lavender"
+    ]
+  },
+  "symbols": {
+    "flowered_wreath": "Celebration and achievement",
+    "four_pillars": "Stability and foundation",
+    "canopy": "Protection and union",
+    "open_gate": "Invitation and welcome",
+    "dancing_figures": "Joy and community"
+  },
+  "affirmations": [
+    "I embrace the joy and harmony in my life",
+    "I celebrate my achievements and those of my community",
+    "I am open to the abundance of love and stability",
+    "I trust in my foundation and seek joy daily"
+  ],
+  "journaling_prompts": [
+    "What celebrations are calling me to cherish this moment?",
+    "How do I nourish my sense of belonging and joy?",
+    "What milestones have I achieved, and how do they shape my current path?",
+    "Where in my life can I create more stability and harmony?"
+  ],
+  "meditation_focus": "Visualize a celebration of life's abundance, feeling the harmony and joy flowing through each breath.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:02:47.734562",
+    "card_info": {
+      "name": "Four of Wands",
+      "number": 4,
+      "suit": "wands"
+    },
+    "filename": "w04.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Abundance and nurturing reach new heights, creating a fertile environment for joy and growth.",
+        "keywords": [
+          "abundance",
+          "nurturing",
+          "reach",
+          "heights"
+        ]
+      },
+      "ten_of_cups": {
+        "interpretation": "Ultimate emotional fulfillment, happiness, and harmony in family and community life.",
+        "keywords": [
+          "ultimate",
+          "emotional",
+          "fulfillment",
+          "happiness"
+        ]
+      },
+      "the_star": {
+        "interpretation": "Hope and renewal amplify as celebrations align with spiritual purpose and vision.",
+        "keywords": [
+          "hope",
+          "renewal",
+          "amplify",
+          "celebrations"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Dramatic disruptions challenge stability and harmony. The need for adaptability becomes crucial.",
+        "keywords": [
+          "dramatic",
+          "disruptions",
+          "challenge",
+          "stability"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Focusing on loss rather than current blessings. Need to shift perspective to see opportunities.",
+        "keywords": [
+          "focusing",
+          "loss",
+          "rather",
+          "than"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Secretive actions threaten established harmony. Integrity and openness are needed.",
+        "keywords": [
+          "secretive",
+          "actions",
+          "threaten",
+          "established"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_chariot": {
+        "interpretation": "Clear direction and forward momentum bring celebrations and achievements closer.",
+        "keywords": [
+          "clear",
+          "direction",
+          "forward",
+          "momentum"
+        ]
+      },
+      "three_of_pentacles": {
+        "interpretation": "Collaboration as a foundation for successful endeavors. Shared efforts lead to shared joy.",
+        "keywords": [
+          "collaboration",
+          "foundation",
+          "successful",
+          "endeavors"
+        ]
+      },
+      "the_world": {
+        "interpretation": "Completion and fulfillment manifest through celebrations, marking the culmination of efforts.",
+        "keywords": [
+          "completion",
+          "fulfillment",
+          "manifest",
+          "celebrations"
+        ]
+      }
+    },
+    "similar_energy": {
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "five_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "three_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

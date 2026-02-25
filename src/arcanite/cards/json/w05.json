@@ -1,0 +1,679 @@
+{
+  "card_id": "five_of_wands",
+  "card_name": "Five of Wands",
+  "card_number": 5,
+  "suit": "wands",
+  "archetype": "the_challenger",
+  "core_meanings": {
+    "upright": {
+      "essence": "Dynamic tension and competition. Energies clashing in the process of finding direction and clearing the way for new growth.",
+      "keywords": [
+        "conflict",
+        "competition",
+        "struggle",
+        "diversity of opinion",
+        "dynamic tension",
+        "creative chaos"
+      ],
+      "psychological": "Inner conflicts or external challenges reflect unmet desires for validation and the need to prove oneself.",
+      "spiritual": "Testing beliefs through the fire of opposition to refine one’s spiritual path and understanding.",
+      "practical": "Navigating a competitive environment where different views clash. Essential to stay focused and adaptable.",
+      "shadow": "Unresolved conflict leading to frustration and burnout. The risk of letting competition overshadow cooperation."
+    },
+    "reversed": {
+      "essence": "Settling conflicts, avoiding tension, or being overwhelmed by discord. Either finding resolution or succumbing to chaos.",
+      "keywords": [
+        "resolution",
+        "avoidance",
+        "overwhelm",
+        "disharmony",
+        "internal conflict",
+        "chaotic energy"
+      ],
+      "psychological": "Avoiding conflict by suppressing feelings or fears of inadequacy causing internal turmoil.",
+      "spiritual": "Misalignment within oneself causing inner dissonance. Seeking harmony in spiritual pursuits.",
+      "practical": "Need to mediate disputes and bring coherence to a chaotic situation. Seek collaboration over competition.",
+      "shadow": "Chronic avoidance of conflict leading to unresolved tension. Risk of being consumed by external chaos."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past conflicts or rivalries that have shaped your resilience and ability to handle challenges today.",
+        "reversed": "Avoidance of past conflicts may have led to unresolved issues still affecting your current situation.",
+        "keywords": [
+          "past conflict",
+          "foundational struggles",
+          "previous competition",
+          "unresolved issues"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-standing patterns of rivalry or competition stemming from early experiences.",
+        "reversed": "Early avoidance of discord setting a pattern of unresolved conflicts affecting your life journey.",
+        "keywords": [
+          "early struggles",
+          "original rivalries",
+          "ancient discord",
+          "past avoidance"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent challenges requiring strategic thinking and adaptability, leaving you stronger and more resilient.",
+        "reversed": "Recent struggles avoided or poorly managed, leading to ongoing disarray or unresolved tension.",
+        "keywords": [
+          "recent challenge",
+          "near-term struggle",
+          "latest conflict",
+          "recent tension"
+        ]
+      },
+      "present": {
+        "upright": "Current disputes or tensions demand your attention and strategic thinking to navigate successfully.",
+        "reversed": "Present difficulty in handling conflict, either through avoidance or feeling overwhelmed by chaotic energies.",
+        "keywords": [
+          "current conflict",
+          "present tension",
+          "ongoing struggle",
+          "immediate chaos"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, you're dealing with competition or conflict that challenges you to grow and succeed.",
+        "reversed": "Core struggle involves internal discord or external distractions preventing cohesion and progression.",
+        "keywords": [
+          "core tension",
+          "central struggle",
+          "main conflict",
+          "focus of chaos"
+        ]
+      },
+      "future": {
+        "upright": "Upcoming challenges will test your adaptability and willingness to collaborate while maintaining integrity.",
+        "reversed": "Future risks involve either recurring conflicts or continuous avoidance leading to stagnation.",
+        "keywords": [
+          "future trials",
+          "upcoming conflict",
+          "forthcoming challenges",
+          "potential disharmony"
+        ]
+      },
+      "near_future": {
+        "upright": "Prepare for imminent conflicts that require dynamic problem-solving and collective effort.",
+        "reversed": "Approaching time of possible discord or unresolved tensions requiring resolution strategies.",
+        "keywords": [
+          "near-term conflict",
+          "immediate tension",
+          "impending struggle",
+          "soon discord"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, resolving tensions will lead to personal growth and the clear establishment of direction.",
+        "reversed": "Persistent challenges or unresolved tensions become barriers unless addressed constructively.",
+        "keywords": [
+          "long-term growth",
+          "future resolution",
+          "eventual cohesion",
+          "lasting discord"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Challenge involves managing conflict constructively, harnessing it as a force for growth and innovation.",
+        "reversed": "The challenge is in resolving internal conflicts or preventing chaos from overpowering your environment.",
+        "keywords": [
+          "conflict management",
+          "constructive friction",
+          "chaos control",
+          "growth through struggle"
+        ]
+      },
+      "cross": {
+        "upright": "You face obstacles related to maintaining integrity in the face of competition or diverse viewpoints.",
+        "reversed": "Crossing influences are marked by disengagement and difficulty in finding common ground amidst chaos.",
+        "keywords": [
+          "integrity challenge",
+          "opposing views",
+          "engagement difficulty",
+          "crossing tensions"
+        ]
+      },
+      "obstacle": {
+        "upright": "The primary obstacle is miscommunication or lack of cooperation resulting in unnecessary conflicts.",
+        "reversed": "Resisting engagement and resolution leads to persistent issues blocking progress and harmony.",
+        "keywords": [
+          "miscommunication",
+          "lack of cooperation",
+          "resistance",
+          "persistent issues"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson involves using competition as a catalyst for self-improvement without losing collaborative spirit.",
+        "reversed": "Learn the importance of addressing internal conflicts and seeking resolution to prevent stagnation.",
+        "keywords": [
+          "self-improvement",
+          "collaborative spirit",
+          "resolution importance",
+          "learning through struggle"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow holds unresolved tensions or a tendency to view competition as personal rather than productive.",
+        "reversed": "Avoidance of conflict or letting fear of confrontation prevent necessary growth and change.",
+        "keywords": [
+          "unresolved tension",
+          "personalized competition",
+          "conflict avoidance",
+          "fear of confrontation"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Lack of clear direction or cooperative spirit amidst competitive chaos hinders progress.",
+        "reversed": "Avoidance of necessary conflicts or refusal to address internal discord hinders fulfillment.",
+        "keywords": [
+          "lack of direction",
+          "cooperative spirit",
+          "avoidance",
+          "internal discord"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace the challenge as an opportunity for growth. Be a mediator and seek harmony through collaboration.",
+        "reversed": "Look for ways to harmonize conflicting interests. Rest instead of pushing through chaos.",
+        "keywords": [
+          "embrace challenge",
+          "seek harmony",
+          "mediate",
+          "collaborate"
+        ]
+      },
+      "action": {
+        "upright": "Actively engage in addressing conflicts constructively, using them to forge stronger bonds and understanding.",
+        "reversed": "Withdraw from unnecessary battles. Focus on resolution and peaceful approaches to disharmony.",
+        "keywords": [
+          "engage constructively",
+          "forge bonds",
+          "resolution focus",
+          "peaceful approach"
+        ]
+      },
+      "your_approach": {
+        "upright": "You approach challenges with a competitive spirit, seeking to prove your worth and find solutions.",
+        "reversed": "There may be a tendency to avoid confrontation or feel overwhelmed by conflict, seeking detachment.",
+        "keywords": [
+          "competitive spirit",
+          "solving mindset",
+          "conflict avoidance",
+          "detachment"
+        ]
+      },
+      "what_helps": {
+        "upright": "Courage to confront issues head-on and wisdom to navigate through tension helps find clarity and direction.",
+        "reversed": "Insight comes from reflection and understanding rather than reaction and impulsiveness.",
+        "keywords": [
+          "courage",
+          "clarity",
+          "reflection",
+          "insight"
+        ]
+      },
+      "guidance": {
+        "upright": "Seek balance in competition and cooperation. Draw strength from diversity and collective effort.",
+        "reversed": "Cultivate calm and inner peace. Act from a place of understanding, not impulsiveness.",
+        "keywords": [
+          "balance and cooperation",
+          "collective strength",
+          "calm and peace",
+          "understanding"
+        ]
+      },
+      "best_course": {
+        "upright": "Maintain your integrity while engaging with others' viewpoints. Use conflicts as stepping stones for growth.",
+        "reversed": "Choose paths that foster harmony and resolve discord. Avoid unnecessary battles for peace.",
+        "keywords": [
+          "integrity",
+          "engagement",
+          "harmony",
+          "resolution"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to overcome challenges with honor and prove oneself. Fear of failing amid fierce competition.",
+        "reversed": "Hope for peace and resolution. Fear the chaos that persistent conflict can bring.",
+        "keywords": [
+          "hope for honor",
+          "fear of failure",
+          "desire for peace",
+          "chaos concern"
+        ]
+      },
+      "hopes": {
+        "upright": "Desiring recognition and achievement through overcoming competition and discord.",
+        "reversed": "Hope for calmness and solutions without escalating tensions further.",
+        "keywords": [
+          "recognition",
+          "achievement",
+          "calmness",
+          "solutions"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of being judged or outperformed. Internal anxiety over competitive environments.",
+        "reversed": "Fear that unresolved tensions will result in chaos and lack of progress.",
+        "keywords": [
+          "fear of judgment",
+          "anxiety",
+          "unresolved tensions",
+          "chaos concern"
+        ]
+      },
+      "subconscious": {
+        "upright": "Unconsciously driven by a need to validate self-worth through overcoming challenges and competition.",
+        "reversed": "Internal realm is fraught with unexpressed conflicts, seeking harmony but fearing confrontation.",
+        "keywords": [
+          "self-worth validation",
+          "unexpressed conflict",
+          "seeking harmony",
+          "fear of confrontation"
+        ]
+      },
+      "conscious": {
+        "upright": "Aware of the need to assert oneself and navigate competitive environments with clarity.",
+        "reversed": "Consciously avoiding conflicts or recognizing the need to address ongoing discord.",
+        "keywords": [
+          "self-assertion",
+          "navigation",
+          "avoidance",
+          "recognition"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Feeling challenged and stimulated, ready to prove capabilities and overcome obstacles.",
+        "reversed": "Emotionally drained from ongoing tensions or fear of engagement leading to fatigue.",
+        "keywords": [
+          "challenge",
+          "stimulation",
+          "emotional drain",
+          "engagement fatigue"
+        ]
+      },
+      "heart": {
+        "upright": "Heart desires unity through overcoming differences and emergent collaboration.",
+        "reversed": "Heart seeks peace and reconciliation, longing for release from turmoil.",
+        "keywords": [
+          "unity",
+          "difference",
+          "reconciliation",
+          "release"
+        ]
+      },
+      "mind": {
+        "upright": "Mind is strategizing and preparing to engage actively in overcoming struggles.",
+        "reversed": "Mind may be preoccupied with avoiding confrontation or feeling overwhelmed by chaos.",
+        "keywords": [
+          "strategizing",
+          "preparation",
+          "avoidance",
+          "overwhelm"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Environment is competitive, encouraging growth through challenges and mutual improvement.",
+        "reversed": "External chaos or disharmony affecting your ability to function smoothly and seek resolution.",
+        "keywords": [
+          "competitive environment",
+          "mutual improvement",
+          "external chaos",
+          "disharmony"
+        ]
+      },
+      "others": {
+        "upright": "Others may view your determination as inspiring, or they recognize your ability to handle tension well.",
+        "reversed": "Others may perceive avoidance or incapacity to handle conflicts, affecting your interactions.",
+        "keywords": [
+          "determination",
+          "tension handling",
+          "avoidance perception",
+          "interaction impact"
+        ]
+      },
+      "environment": {
+        "upright": "Environmental forces are dynamic, providing opportunities for collaboration and growth through adversity.",
+        "reversed": "Chaotic surroundings present difficulties. Seeking stability amid external upheaval is key.",
+        "keywords": [
+          "dynamic forces",
+          "collaboration opportunity",
+          "chaotic surroundings",
+          "stability seeking"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others admire your ability to navigate difficult situations and emerge stronger and wiser.",
+        "reversed": "Seen as someone who may struggle with conflicts, others may question your capacity for resolution.",
+        "keywords": [
+          "admiration",
+          "navigation",
+          "conflict struggle",
+          "resolution capacity"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces point towards lessons through conflict that usher new growth and understanding.",
+        "reversed": "Hidden undercurrents may include others' agendas not aligned with your peace and progress.",
+        "keywords": [
+          "lessons through conflict",
+          "new growth",
+          "hidden agendas",
+          "progress concerns"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Achieving growth through overcoming competition and emerging with a clearer vision and direction.",
+        "reversed": "Potential resolution of tensions, achieving harmony, or continued chaos if difficulties aren't addressed.",
+        "keywords": [
+          "growth and clarity",
+          "resolution",
+          "harmony",
+          "continued chaos"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Greater unity emerges from competition, leading to success and collective achievements.",
+        "reversed": "Final state may involve ongoing tensions until resolved, or newfound clarity through avoidance lessons.",
+        "keywords": [
+          "unity",
+          "success",
+          "ongoing tension",
+          "clarity"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Likely resolution of conflicts, leading to richer understanding and innovative paths forward.",
+        "reversed": "Possibility of lingering discord if not actively managed, missing opportunities for growth.",
+        "keywords": [
+          "conflict resolution",
+          "understanding",
+          "discord",
+          "missed opportunities"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case involves achieving personal and mutual success through strategic navigation of conflict.",
+        "reversed": "Ideally, finding balance and harmony leads to peaceful resolutions and mutual understanding.",
+        "keywords": [
+          "personal success",
+          "strategic navigation",
+          "balance",
+          "peaceful resolution"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves conflicts spiraling out of control, leading to discord and missed opportunities.",
+        "reversed": "Worst scenario includes an entrenched cycle of avoidance leading to stagnation and unresolved tensions.",
+        "keywords": [
+          "spiraling conflict",
+          "discord",
+          "avoidance cycle",
+          "stagnation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves healthy competition, disagreement, and passionate debate. Between you exists an energy of creative conflict that, while challenging, can lead to better solutions. You push each other to defend and refine your ideas.",
+        "reversed": "The competition may become destructive or the conflicts may be avoided altogether. Disagreements could escalate beyond healthy debate. The relationship may involve petty arguments, ego conflicts, or inability to find resolution through discussion.",
+        "keywords": [
+          "competition",
+          "conflict",
+          "debate",
+          "challenge"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "In relationships, mild conflicts or healthy debates foster understanding and passion. Avoid power struggles.",
+      "reversed": "Unresolved arguments might lead to tension. Seek resolution and avoid suppressing true feelings.",
+      "keywords": [
+        "relationship tension",
+        "healthy debates",
+        "unresolved arguments",
+        "true feelings"
+      ]
+    },
+    "career": {
+      "upright": "Competitive environment can lead to personal growth and recognition if navigated wisely. Embrace challenges.",
+      "reversed": "Workplace discord may disrupt progress. Focus on diplomacy and conflict resolution.",
+      "keywords": [
+        "competitive career",
+        "personal growth",
+        "workplace discord",
+        "diplomacy"
+      ]
+    },
+    "spiritual": {
+      "upright": "Internal conflicts or questioning beliefs bring deeper understanding and spiritual maturity.",
+      "reversed": "Spiritual dissonance or avoidance of inner work can prevent enlightenment. Seek alignment.",
+      "keywords": [
+        "internal conflict",
+        "spiritual questioning",
+        "dissonance",
+        "alignment"
+      ]
+    },
+    "financial": {
+      "upright": "Market competition or financial challenges teach resourcefulness and adaptability.",
+      "reversed": "Avoid financial chaos through strategic planning. Don't let disarray impact stability.",
+      "keywords": [
+        "market competition",
+        "financial challenge",
+        "resourcefulness",
+        "strategic planning"
+      ]
+    },
+    "health": {
+      "upright": "Health routines require consistent effort and may involve overcoming challenges for wellness.",
+      "reversed": "Avoidance of health issues or erratic habits may lead to imbalances. Prioritize care.",
+      "keywords": [
+        "health challenge",
+        "consistent effort",
+        "imbalance",
+        "prioritize care"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "leo",
+    "hebrew_letter": "hei",
+    "numerology": 5,
+    "planet": "saturn",
+    "season": "spring",
+    "time_of_day": "noon",
+    "colors": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "crystals": [
+      "carnelian",
+      "red jasper",
+      "tiger’s eye"
+    ],
+    "herbs": [
+      "ginger",
+      "cayenne",
+      "nettle"
+    ]
+  },
+  "symbols": {
+    "wands": "dynamic energy, creativity",
+    "figures": "varied perspectives, challenges",
+    "conflict": "stimulus for growth, challenge"
+  },
+  "affirmations": [
+    "I embrace challenges as opportunities for growth and strength.",
+    "Harmony and creative solutions arise from diverse viewpoints.",
+    "I remain adaptable and resilient in dynamic environments.",
+    "Conflict, when faced with wisdom, leads to understanding and progress."
+  ],
+  "journaling_prompts": [
+    "Where in my life am I feeling tension, and how can I address it constructively?",
+    "How do I handle competition and am I using it as a tool for growth?",
+    "What strategies help me find harmony amidst disagreement?",
+    "What lessons can I learn from current conflicts that could benefit my future?"
+  ],
+  "meditation_focus": "Visualize conflict as a dance of energies, finding strength in diversity while seeking the harmony within chaos.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:04:01.243955",
+    "card_info": {
+      "name": "Five of Wands",
+      "number": 5,
+      "suit": "wands"
+    },
+    "filename": "w05.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_chariot": {
+        "interpretation": "Enhanced drive and focus through embracing challenge and competition leads to success.",
+        "keywords": [
+          "enhanced",
+          "drive",
+          "focus",
+          "embracing"
+        ]
+      },
+      "three_of_pentacles": {
+        "interpretation": "Collaboration and teamwork shine when diversity of viewpoint sparks innovation.",
+        "keywords": [
+          "collaboration",
+          "teamwork",
+          "shine",
+          "diversity"
+        ]
+      },
+      "seven_of_wands": {
+        "interpretation": "Fortified resilience and determination under competitive pressure lead to mastery.",
+        "keywords": [
+          "fortified",
+          "resilience",
+          "determination",
+          "competitive"
+        ]
+      }
+    },
+    "challenges": {
+      "the_lovers": {
+        "interpretation": "Decisions clouded by conflict of heart and obligation create impasses in relationships.",
+        "keywords": [
+          "decisions",
+          "clouded",
+          "conflict",
+          "heart"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Struggle to face decision-making amidst conflicting desires and unclear intentions.",
+        "keywords": [
+          "struggle",
+          "face",
+          "decision",
+          "making"
+        ]
+      },
+      "ten_of_swords": {
+        "interpretation": "Overwhelm from too much conflict risks burnout; delicate balance needed.",
+        "keywords": [
+          "overwhelm",
+          "much",
+          "conflict",
+          "risks"
+        ]
+      }
+    },
+    "clarifies": {
+      "temperance": {
+        "interpretation": "Insight into achieving balance through harmonizing diverse energies and viewpoints.",
+        "keywords": [
+          "insight",
+          "achieving",
+          "balance",
+          "harmonizing"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Awakening clarifies purpose and direction through navigating life's challenges effectively.",
+        "keywords": [
+          "awakening",
+          "clarifies",
+          "purpose",
+          "direction"
+        ]
+      },
+      "ace_of_wands": {
+        "interpretation": "Creative potential clarified by disciplined action in competitive settings.",
+        "keywords": [
+          "creative",
+          "potential",
+          "clarified",
+          "disciplined"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "four_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "four_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "six_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

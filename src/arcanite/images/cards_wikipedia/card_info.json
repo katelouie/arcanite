@@ -1,0 +1,541 @@
+[
+  {
+    "filename": "m00.jpg",
+    "card_type": "major",
+    "card_name": "The Fool",
+    "commons_filename": "RWS_Tarot_00_Fool.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg"
+  },
+  {
+    "filename": "m01.jpg",
+    "card_type": "major",
+    "card_name": "The Magician",
+    "commons_filename": "RWS_Tarot_01_Magician.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/RWS_Tarot_01_Magician.jpg"
+  },
+  {
+    "filename": "m02.jpg",
+    "card_type": "major",
+    "card_name": "The High Priestess",
+    "commons_filename": "RWS_Tarot_02_High_Priestess.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/RWS_Tarot_02_High_Priestess.jpg"
+  },
+  {
+    "filename": "m03.jpg",
+    "card_type": "major",
+    "card_name": "The Empress",
+    "commons_filename": "RWS_Tarot_03_Empress.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/RWS_Tarot_03_Empress.jpg"
+  },
+  {
+    "filename": "m04.jpg",
+    "card_type": "major",
+    "card_name": "The Emperor",
+    "commons_filename": "RWS_Tarot_04_Emperor.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/RWS_Tarot_04_Emperor.jpg"
+  },
+  {
+    "filename": "m05.jpg",
+    "card_type": "major",
+    "card_name": "The Hierophant",
+    "commons_filename": "RWS_Tarot_05_Hierophant.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RWS_Tarot_05_Hierophant.jpg"
+  },
+  {
+    "filename": "m06.jpg",
+    "card_type": "major",
+    "card_name": "The Lovers",
+    "commons_filename": "RWS_Tarot_06_Lovers.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_06_Lovers.jpg"
+  },
+  {
+    "filename": "m07.jpg",
+    "card_type": "major",
+    "card_name": "The Chariot",
+    "commons_filename": "RWS_Tarot_07_Chariot.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RWS_Tarot_07_Chariot.jpg"
+  },
+  {
+    "filename": "m08.jpg",
+    "card_type": "major",
+    "card_name": "Strength",
+    "commons_filename": "RWS_Tarot_08_Strength.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RWS_Tarot_08_Strength.jpg"
+  },
+  {
+    "filename": "m09.jpg",
+    "card_type": "major",
+    "card_name": "The Hermit",
+    "commons_filename": "RWS_Tarot_09_Hermit.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/RWS_Tarot_09_Hermit.jpg"
+  },
+  {
+    "filename": "m10.jpg",
+    "card_type": "major",
+    "card_name": "Wheel of Fortune",
+    "commons_filename": "RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg"
+  },
+  {
+    "filename": "m11.jpg",
+    "card_type": "major",
+    "card_name": "Justice",
+    "commons_filename": "RWS_Tarot_11_Justice.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/RWS_Tarot_11_Justice.jpg"
+  },
+  {
+    "filename": "m12.jpg",
+    "card_type": "major",
+    "card_name": "The Hanged Man",
+    "commons_filename": "RWS_Tarot_12_Hanged_Man.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RWS_Tarot_12_Hanged_Man.jpg"
+  },
+  {
+    "filename": "m13.jpg",
+    "card_type": "major",
+    "card_name": "Death",
+    "commons_filename": "RWS_Tarot_13_Death.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/RWS_Tarot_13_Death.jpg"
+  },
+  {
+    "filename": "m14.jpg",
+    "card_type": "major",
+    "card_name": "Temperance",
+    "commons_filename": "RWS_Tarot_14_Temperance.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg"
+  },
+  {
+    "filename": "m15.jpg",
+    "card_type": "major",
+    "card_name": "The Devil",
+    "commons_filename": "RWS_Tarot_15_Devil.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/RWS_Tarot_15_Devil.jpg"
+  },
+  {
+    "filename": "m16.jpg",
+    "card_type": "major",
+    "card_name": "The Tower",
+    "commons_filename": "RWS_Tarot_16_Tower.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/RWS_Tarot_16_Tower.jpg"
+  },
+  {
+    "filename": "m17.jpg",
+    "card_type": "major",
+    "card_name": "The Star",
+    "commons_filename": "RWS_Tarot_17_Star.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_17_Star.jpg"
+  },
+  {
+    "filename": "m18.jpg",
+    "card_type": "major",
+    "card_name": "The Moon",
+    "commons_filename": "RWS_Tarot_18_Moon.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/RWS_Tarot_18_Moon.jpg"
+  },
+  {
+    "filename": "m19.jpg",
+    "card_type": "major",
+    "card_name": "The Sun",
+    "commons_filename": "RWS_Tarot_19_Sun.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/RWS_Tarot_19_Sun.jpg"
+  },
+  {
+    "filename": "m20.jpg",
+    "card_type": "major",
+    "card_name": "Judgement",
+    "commons_filename": "RWS_Tarot_20_Judgement.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/RWS_Tarot_20_Judgement.jpg"
+  },
+  {
+    "filename": "m21.jpg",
+    "card_type": "major",
+    "card_name": "The World",
+    "commons_filename": "RWS_Tarot_21_World.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/RWS_Tarot_21_World.jpg"
+  },
+  {
+    "filename": "w01.jpg",
+    "card_type": "minor",
+    "card_name": "Ace of Wands",
+    "commons_filename": "Wands01.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Wands01.jpg"
+  },
+  {
+    "filename": "w02.jpg",
+    "card_type": "minor",
+    "card_name": "2 of Wands",
+    "commons_filename": "Wands02.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Wands02.jpg"
+  },
+  {
+    "filename": "w03.jpg",
+    "card_type": "minor",
+    "card_name": "3 of Wands",
+    "commons_filename": "Wands03.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Wands03.jpg"
+  },
+  {
+    "filename": "w04.jpg",
+    "card_type": "minor",
+    "card_name": "4 of Wands",
+    "commons_filename": "Wands04.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Wands04.jpg"
+  },
+  {
+    "filename": "w05.jpg",
+    "card_type": "minor",
+    "card_name": "5 of Wands",
+    "commons_filename": "Wands05.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Wands05.jpg"
+  },
+  {
+    "filename": "w06.jpg",
+    "card_type": "minor",
+    "card_name": "6 of Wands",
+    "commons_filename": "Wands06.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Wands06.jpg"
+  },
+  {
+    "filename": "w07.jpg",
+    "card_type": "minor",
+    "card_name": "7 of Wands",
+    "commons_filename": "Wands07.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Wands07.jpg"
+  },
+  {
+    "filename": "w08.jpg",
+    "card_type": "minor",
+    "card_name": "8 of Wands",
+    "commons_filename": "Wands08.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Wands08.jpg"
+  },
+  {
+    "filename": "w10.jpg",
+    "card_type": "minor",
+    "card_name": "10 of Wands",
+    "commons_filename": "Wands10.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Wands10.jpg"
+  },
+  {
+    "filename": "w11.jpg",
+    "card_type": "minor",
+    "card_name": "Page of Wands",
+    "commons_filename": "Wands11.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Wands11.jpg"
+  },
+  {
+    "filename": "w12.jpg",
+    "card_type": "minor",
+    "card_name": "Knight of Wands",
+    "commons_filename": "Wands12.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Wands12.jpg"
+  },
+  {
+    "filename": "w13.jpg",
+    "card_type": "minor",
+    "card_name": "Queen of Wands",
+    "commons_filename": "Wands13.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Wands13.jpg"
+  },
+  {
+    "filename": "w14.jpg",
+    "card_type": "minor",
+    "card_name": "King of Wands",
+    "commons_filename": "Wands14.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Wands14.jpg"
+  },
+  {
+    "filename": "c01.jpg",
+    "card_type": "minor",
+    "card_name": "Ace of Cups",
+    "commons_filename": "Cups01.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Cups01.jpg"
+  },
+  {
+    "filename": "c02.jpg",
+    "card_type": "minor",
+    "card_name": "2 of Cups",
+    "commons_filename": "Cups02.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Cups02.jpg"
+  },
+  {
+    "filename": "c03.jpg",
+    "card_type": "minor",
+    "card_name": "3 of Cups",
+    "commons_filename": "Cups03.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Cups03.jpg"
+  },
+  {
+    "filename": "c04.jpg",
+    "card_type": "minor",
+    "card_name": "4 of Cups",
+    "commons_filename": "Cups04.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cups04.jpg"
+  },
+  {
+    "filename": "c05.jpg",
+    "card_type": "minor",
+    "card_name": "5 of Cups",
+    "commons_filename": "Cups05.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cups05.jpg"
+  },
+  {
+    "filename": "c06.jpg",
+    "card_type": "minor",
+    "card_name": "6 of Cups",
+    "commons_filename": "Cups06.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cups06.jpg"
+  },
+  {
+    "filename": "c07.jpg",
+    "card_type": "minor",
+    "card_name": "7 of Cups",
+    "commons_filename": "Cups07.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cups07.jpg"
+  },
+  {
+    "filename": "c08.jpg",
+    "card_type": "minor",
+    "card_name": "8 of Cups",
+    "commons_filename": "Cups08.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cups08.jpg"
+  },
+  {
+    "filename": "c09.jpg",
+    "card_type": "minor",
+    "card_name": "9 of Cups",
+    "commons_filename": "Cups09.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cups09.jpg"
+  },
+  {
+    "filename": "c10.jpg",
+    "card_type": "minor",
+    "card_name": "10 of Cups",
+    "commons_filename": "Cups10.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cups10.jpg"
+  },
+  {
+    "filename": "c11.jpg",
+    "card_type": "minor",
+    "card_name": "Page of Cups",
+    "commons_filename": "Cups11.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cups11.jpg"
+  },
+  {
+    "filename": "c12.jpg",
+    "card_type": "minor",
+    "card_name": "Knight of Cups",
+    "commons_filename": "Cups12.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cups12.jpg"
+  },
+  {
+    "filename": "c13.jpg",
+    "card_type": "minor",
+    "card_name": "Queen of Cups",
+    "commons_filename": "Cups13.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cups13.jpg"
+  },
+  {
+    "filename": "c14.jpg",
+    "card_type": "minor",
+    "card_name": "King of Cups",
+    "commons_filename": "Cups14.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cups14.jpg"
+  },
+  {
+    "filename": "s01.jpg",
+    "card_type": "minor",
+    "card_name": "Ace of Swords",
+    "commons_filename": "Swords01.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Swords01.jpg"
+  },
+  {
+    "filename": "s02.jpg",
+    "card_type": "minor",
+    "card_name": "2 of Swords",
+    "commons_filename": "Swords02.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Swords02.jpg"
+  },
+  {
+    "filename": "s03.jpg",
+    "card_type": "minor",
+    "card_name": "3 of Swords",
+    "commons_filename": "Swords03.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Swords03.jpg"
+  },
+  {
+    "filename": "s04.jpg",
+    "card_type": "minor",
+    "card_name": "4 of Swords",
+    "commons_filename": "Swords04.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Swords04.jpg"
+  },
+  {
+    "filename": "s05.jpg",
+    "card_type": "minor",
+    "card_name": "5 of Swords",
+    "commons_filename": "Swords05.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Swords05.jpg"
+  },
+  {
+    "filename": "s06.jpg",
+    "card_type": "minor",
+    "card_name": "6 of Swords",
+    "commons_filename": "Swords06.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Swords06.jpg"
+  },
+  {
+    "filename": "s07.jpg",
+    "card_type": "minor",
+    "card_name": "7 of Swords",
+    "commons_filename": "Swords07.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Swords07.jpg"
+  },
+  {
+    "filename": "s08.jpg",
+    "card_type": "minor",
+    "card_name": "8 of Swords",
+    "commons_filename": "Swords08.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Swords08.jpg"
+  },
+  {
+    "filename": "s09.jpg",
+    "card_type": "minor",
+    "card_name": "9 of Swords",
+    "commons_filename": "Swords09.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Swords09.jpg"
+  },
+  {
+    "filename": "s10.jpg",
+    "card_type": "minor",
+    "card_name": "10 of Swords",
+    "commons_filename": "Swords10.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Swords10.jpg"
+  },
+  {
+    "filename": "s11.jpg",
+    "card_type": "minor",
+    "card_name": "Page of Swords",
+    "commons_filename": "Swords11.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Swords11.jpg"
+  },
+  {
+    "filename": "s12.jpg",
+    "card_type": "minor",
+    "card_name": "Knight of Swords",
+    "commons_filename": "Swords12.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Swords12.jpg"
+  },
+  {
+    "filename": "s13.jpg",
+    "card_type": "minor",
+    "card_name": "Queen of Swords",
+    "commons_filename": "Swords13.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Swords13.jpg"
+  },
+  {
+    "filename": "s14.jpg",
+    "card_type": "minor",
+    "card_name": "King of Swords",
+    "commons_filename": "Swords14.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Swords14.jpg"
+  },
+  {
+    "filename": "p01.jpg",
+    "card_type": "minor",
+    "card_name": "Ace of Pents",
+    "commons_filename": "Pents01.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pents01.jpg"
+  },
+  {
+    "filename": "p02.jpg",
+    "card_type": "minor",
+    "card_name": "2 of Pents",
+    "commons_filename": "Pents02.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Pents02.jpg"
+  },
+  {
+    "filename": "p03.jpg",
+    "card_type": "minor",
+    "card_name": "3 of Pents",
+    "commons_filename": "Pents03.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pents03.jpg"
+  },
+  {
+    "filename": "p04.jpg",
+    "card_type": "minor",
+    "card_name": "4 of Pents",
+    "commons_filename": "Pents04.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Pents04.jpg"
+  },
+  {
+    "filename": "p05.jpg",
+    "card_type": "minor",
+    "card_name": "5 of Pents",
+    "commons_filename": "Pents05.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pents05.jpg"
+  },
+  {
+    "filename": "p06.jpg",
+    "card_type": "minor",
+    "card_name": "6 of Pents",
+    "commons_filename": "Pents06.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Pents06.jpg"
+  },
+  {
+    "filename": "p07.jpg",
+    "card_type": "minor",
+    "card_name": "7 of Pents",
+    "commons_filename": "Pents07.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pents07.jpg"
+  },
+  {
+    "filename": "p08.jpg",
+    "card_type": "minor",
+    "card_name": "8 of Pents",
+    "commons_filename": "Pents08.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pents08.jpg"
+  },
+  {
+    "filename": "p09.jpg",
+    "card_type": "minor",
+    "card_name": "9 of Pents",
+    "commons_filename": "Pents09.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Pents09.jpg"
+  },
+  {
+    "filename": "p10.jpg",
+    "card_type": "minor",
+    "card_name": "10 of Pents",
+    "commons_filename": "Pents10.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pents10.jpg"
+  },
+  {
+    "filename": "p11.jpg",
+    "card_type": "minor",
+    "card_name": "Page of Pents",
+    "commons_filename": "Pents11.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Pents11.jpg"
+  },
+  {
+    "filename": "p12.jpg",
+    "card_type": "minor",
+    "card_name": "Knight of Pents",
+    "commons_filename": "Pents12.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Pents12.jpg"
+  },
+  {
+    "filename": "p13.jpg",
+    "card_type": "minor",
+    "card_name": "Queen of Pents",
+    "commons_filename": "Pents13.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Pents13.jpg"
+  },
+  {
+    "filename": "p14.jpg",
+    "card_type": "minor",
+    "card_name": "King of Pents",
+    "commons_filename": "Pents14.jpg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pents14.jpg"
+  }
+]

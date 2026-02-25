@@ -1,0 +1,653 @@
+{
+  "card_id": "two_of_pentacles",
+  "card_name": "Two of Pentacles",
+  "card_number": 2,
+  "suit": "pentacles",
+  "archetype": "the_juggler",
+  "core_meanings": {
+    "upright": {
+      "essence": "Dynamic balance and adaptability in the face of life's changes. Skillful juggling of priorities with grace and flexibility.",
+      "keywords": [
+        "balance",
+        "adaptability",
+        "multitasking",
+        "flexibility",
+        "harmony",
+        "resourcefulness"
+      ],
+      "psychological": "Represents the mind's ability to manage multiple thoughts and emotions simultaneously, maintaining equilibrium amidst chaos.",
+      "spiritual": "The dance of duality in the material world; finding harmony within material and spiritual pursuits.",
+      "practical": "A time to manage resources wisely and allocate energy effectively, ensuring that all aspects of life receive proper attention.",
+      "shadow": "Potential for overwhelm due to overcommitment or neglect of core priorities. Difficulty in maintaining stability."
+    },
+    "reversed": {
+      "essence": "Disorder and imbalance resulting from mismanaged priorities or an inability to adapt to life's demands.",
+      "keywords": [
+        "imbalance",
+        "overwhelm",
+        "disorganization",
+        "chaos",
+        "neglect",
+        "stress"
+      ],
+      "psychological": "The mind grappling with the inability to focus, leading to anxiety and scattered thoughts.",
+      "spiritual": "Disconnected from your inner harmony, caught in the material world's demands without spiritual grounding.",
+      "practical": "Urgency to reassess commitments and schedule to regain equilibrium; prioritize what truly matters.",
+      "shadow": "Neglecting essential responsibilities due to inability to say no or desire to do it all."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Your ability to juggle multiple roles effectively in the past laid a foundation for present successes and challenges.",
+        "reversed": "Past mismanagement of time or priorities creates lingering chaos and stress in your current life.",
+        "keywords": [
+          "multitasking history",
+          "past error",
+          "balanced foundation",
+          "priorities set"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, you learned the art of balance through early experiences with dual responsibilities and change.",
+        "reversed": "Deep-seated patterns of neglect or overwhelm from early on have made achieving balance difficult.",
+        "keywords": [
+          "early adaptability",
+          "foundation of chaos",
+          "initial balance",
+          "rooted habits"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently, your skillful balancing act kept things afloat even as change swirled around you.",
+        "reversed": "Recent turmoil resulted from failing to prioritize effectively, leading to current stresses.",
+        "keywords": [
+          "recent juggling",
+          "present imbalance",
+          "recent prioritizing",
+          "current stress"
+        ]
+      },
+      "present": {
+        "upright": "You stand in the heart of life's dance, skillfully maintaining balance amidst dynamic changes and demands.",
+        "reversed": "Currently struggling to keep all aspects of life stable; the need for attention, focus, and reordering.",
+        "keywords": [
+          "present juggling",
+          "current balance",
+          "focus need",
+          "life dance"
+        ]
+      },
+      "present_situation": {
+        "upright": "Your life demands the art of juggling, balancing material pursuits with emotional fulfillment.",
+        "reversed": "Scattered interests and responsibilities undo your stability; seek clarity to regain control.",
+        "keywords": [
+          "current demands",
+          "stability issue",
+          "emotional balance",
+          "clarity need"
+        ]
+      },
+      "future": {
+        "upright": "Upcoming opportunities will require your adaptable spirit, skillfully navigating multiple paths.",
+        "reversed": "Future complications may arise if imbalance and disorganization continue without correction.",
+        "keywords": [
+          "future paths",
+          "adaptability need",
+          "growth opportunity",
+          "potential disruption"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon you'll encounter changes requiring nimble response and the ability to seamlessly shift focus.",
+        "reversed": "Shortly, your juggling act may falter under pressure unless priorities are reassessed.",
+        "keywords": [
+          "imminent change",
+          "nimble response",
+          "near challenge",
+          "priority reassessment"
+        ]
+      },
+      "distant_future": {
+        "upright": "Mastery of balance over time leads to a life where material and spiritual pursuits coexist harmoniously.",
+        "reversed": "Long-term imbalance risks foreclosing growth and satisfaction; equilibrium must be restored.",
+        "keywords": [
+          "harmonious future",
+          "future potential",
+          "mastered balance",
+          "stalled growth"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to stay flexible and adaptable, handling life's demands without losing yourself.",
+        "reversed": "Finding peace amidst chaos and learning to establish boundaries is your greatest challenge.",
+        "keywords": [
+          "flexibility",
+          "adaptability",
+          "boundary setting",
+          "inner peace"
+        ]
+      },
+      "cross": {
+        "upright": "External expectations clash with your ability to maintain balance; stay true to your own rhythm.",
+        "reversed": "Chaotic environments or scattered aspirations make finding your center difficult.",
+        "keywords": [
+          "external clash",
+          "chaotic environment",
+          "core rhythm",
+          "scattered aspirations"
+        ]
+      },
+      "obstacle": {
+        "upright": "Overcommitting or fearing details block harmony; embrace fluidity without forsaking structure.",
+        "reversed": "Inability to focus and prioritize creates imbalance; systems need tightening.",
+        "keywords": [
+          "overcommitment",
+          "detail fear",
+          "harmony block",
+          "focus need"
+        ]
+      },
+      "lesson": {
+        "upright": "Understand the flow between order and chaos; embrace flexibility as strength, not weakness.",
+        "reversed": "Learn to say no, assess commitments realistically, and find peace in limitations.",
+        "keywords": [
+          "order and chaos",
+          "flexibility",
+          "commitment realism",
+          "peace in limits"
+        ]
+      },
+      "shadow": {
+        "upright": "Hidden fear of failure or imperfection drives your need to balance everything perfectly.",
+        "reversed": "Your shadow involves avoidance of responsibilities, leading to perpetual chaos.",
+        "keywords": [
+          "fear of failure",
+          "imperfection",
+          "responsibility avoidance",
+          "perpetual chaos"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Distraction and lack of prioritization hinder your journey towards a stable, fulfilling life.",
+        "reversed": "Fear of commitment and structure leads to instability; address procrastination habits.",
+        "keywords": [
+          "distraction",
+          "lack of prioritization",
+          "commitment fear",
+          "procrastination"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace life's dance; remain agile and open to shifting priorities while maintaining core focus.",
+        "reversed": "Reevaluate commitments; discard what no longer serves your peace and well-being.",
+        "keywords": [
+          "embrace dance",
+          "agility",
+          "focus core",
+          "reevaluate commitments"
+        ]
+      },
+      "action": {
+        "upright": "Master the art of juggling by staying grounded and playfully engaging with life's challenges.",
+        "reversed": "Pause, breathe, and reorganize; scattering your energy only deepens chaos.",
+        "keywords": [
+          "juggling art",
+          "grounding",
+          "engage playfully",
+          "reorganize"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as skillfully managing life's demands, multitasking with grace and purpose.",
+        "reversed": "You may perceive your ability to adapt as chaotic or disorganized, undermining confidence.",
+        "keywords": [
+          "self-image juggling",
+          "multitask grace",
+          "perceived chaos",
+          "confidence"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your natural adaptability and light-hearted spirit help maintain balance amid shifting demands.",
+        "reversed": "Support systems and structured routines offer grounding in turbulent times.",
+        "keywords": [
+          "natural adaptability",
+          "light-hearted spirit",
+          "support systems",
+          "structured routines"
+        ]
+      },
+      "guidance": {
+        "upright": "Guidance lies in merging the ebb and flow of life with a steady core; dance in equilibrium.",
+        "reversed": "Seek stillness amid chaos; grounding practices reaffirm your central stability.",
+        "keywords": [
+          "ebb and flow",
+          "steady core",
+          "dance equilibrium",
+          "grounding practices"
+        ]
+      },
+      "best_course": {
+        "upright": "Flow with life's rhythm while clearly defining priorities; embrace change as an ally.",
+        "reversed": "Create a detailed plan to reclaim focus and balance, simplifying where possible.",
+        "keywords": [
+          "life's rhythm",
+          "define priorities",
+          "change as ally",
+          "reclaim focus"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to achieve harmony in life's chaos; fear losing control or overwhelming yourself.",
+        "reversed": "Fear being unable to manage tasks, while hoping for miraculous resolution of imbalances.",
+        "keywords": [
+          "harmony hope",
+          "control fear",
+          "task management",
+          "miraculous resolution"
+        ]
+      },
+      "hopes": {
+        "upright": "Yearning for a life where multitasking aligns naturally with peace of mind and heart.",
+        "reversed": "Hope for a solution that allows managing everything effortlessly; a need for magic.",
+        "keywords": [
+          "peaceful multitasking",
+          "mind-heart alignment",
+          "effortless management",
+          "magic need"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of dropping important responsibilities or losing touch with personal goals amidst daily demands.",
+        "reversed": "Paralyzed by the fear of descending into chaos and losing all semblance of order.",
+        "keywords": [
+          "responsibility fear",
+          "touch with goals",
+          "chaos descent",
+          "order loss"
+        ]
+      },
+      "subconscious": {
+        "upright": "Unconsciously driven by an innate ability to adapt and harmonize contrasting energies.",
+        "reversed": "Subconscious stress stems from a hidden belief that perfect balance is always mandatory.",
+        "keywords": [
+          "innate adaptability",
+          "energy harmony",
+          "subconscious stress",
+          "mandatory balance"
+        ]
+      },
+      "conscious": {
+        "upright": "Awareness of your role as a dynamic balancer, navigating life's dualities with intention.",
+        "reversed": "Consciously aware of feeling stretched thin and teetering on the brink of imbalance.",
+        "keywords": [
+          "dynamic balancer",
+          "navigate dualities",
+          "stretched thin",
+          "teetering balance"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you thrive on the engaging dance of life's ever-changing demands.",
+        "reversed": "Emotionally, you feel pulled in multiple directions, experiencing stress and fatigue.",
+        "keywords": [
+          "engaging dance",
+          "ever-changing demands",
+          "emotional pull",
+          "stress fatigue"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart desires equilibrium, where material pursuits and personal passions harmonize.",
+        "reversed": "Heart seeks stillness amidst turmoil; healing comes through rest and realignment.",
+        "keywords": [
+          "equilibrium desire",
+          "passion harmonize",
+          "stillness seeking",
+          "rest healing"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, you embrace life's complexity with a playful, multitasking mind.",
+        "reversed": "A scattered mind struggles to focus as it juggles competing demands.",
+        "keywords": [
+          "complexity embrace",
+          "playful mind",
+          "scattered",
+          "competing demands"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others perceive you as someone who gracefully handles life’s challenges with skill.",
+        "reversed": "Others may see you as stretched thin or unable to maintain commitments effectively.",
+        "keywords": [
+          "graceful handler",
+          "skill perception",
+          "stretched thin",
+          "commitment doubts"
+        ]
+      },
+      "others": {
+        "upright": "People around you recognize your ability to maintain balance even under pressure.",
+        "reversed": "Others may add to the chaos, pressuring you or doubting your ability to keep up.",
+        "keywords": [
+          "recognition",
+          "balance under pressure",
+          "added chaos",
+          "pressure from others"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment supports diverse opportunities requiring nimble responses and adaptability.",
+        "reversed": "External chaos or shifting variables threaten your balance, demanding quick adjustments.",
+        "keywords": [
+          "supportive environment",
+          "diverse opportunities",
+          "external chaos",
+          "shifting variables"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You’re viewed as adaptable and capable, a person who thrives amidst complexity.",
+        "reversed": "Perceived as over-committed or struggling against overwhelming demands.",
+        "keywords": [
+          "adaptable nature",
+          "capability",
+          "over-committed",
+          "struggling"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces encourage fluidity in your journey; balance brings unseen rewards.",
+        "reversed": "Hidden factors contribute to imbalance; uncovering these allows restoration.",
+        "keywords": [
+          "unseen fluidity",
+          "balance rewards",
+          "hidden imbalance",
+          "restoration opportunity"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Successful adaptation and balance lead to harmonious achievements and personal growth.",
+        "reversed": "Without intervention, chaos continues to wage war on stability; urgent need for equilibrium.",
+        "keywords": [
+          "successful adaptation",
+          "harmonious achievements",
+          "chaos continuation",
+          "urgent stability"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, mastering life's balancing act results in a multifaceted and fulfilling life.",
+        "reversed": "Final outcomes may involve ongoing instability unless priorities are carefully realigned.",
+        "keywords": [
+          "life mastery",
+          "fulfillment",
+          "ongoing instability",
+          "realignment necessity"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "One possible result is a dynamic life where balance empowers growth and inspires others.",
+        "reversed": "Potential for burnout or missed opportunities due to sustained imbalance.",
+        "keywords": [
+          "dynamic life",
+          "growth empowerment",
+          "burnout risk",
+          "missed opportunities"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenario involves finding a seamless flow between responsibilities, yielding joy and progress.",
+        "reversed": "Ideal outcome remains elusive without deliberate simplification of life's complexities.",
+        "keywords": [
+          "seamless flow",
+          "joy",
+          "progress",
+          "complexity simplification"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves overextension leading to diminished results and personal frustration.",
+        "reversed": "Complete upheaval may ensue if balance isn’t prioritized; allocation of time crucial.",
+        "keywords": [
+          "overextension",
+          "diminished results",
+          "upheaval",
+          "time allocation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship involves juggling multiple responsibilities, adapting to changing circumstances, and finding balance in practical matters. The dynamic includes flexibility, resourcefulness, and the ability to manage various aspects of life together.",
+        "reversed": "The juggling may become overwhelming or balance might be lost. Adaptability could give way to chaos or responsibilities might be neglected. The relationship may involve poor time management or inability to handle multiple commitments.",
+        "keywords": [
+          "balance",
+          "juggling",
+          "adaptability",
+          "multiple responsibilities"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Harmonious balance in relationships with a playful exchange of energies. Embrace flexibility with a partner.",
+      "reversed": "Strains in love life due to juggling priorities; realign focus to nurture connections.",
+      "keywords": [
+        "relationship balance",
+        "energy exchange",
+        "love strains",
+        "focus realignment"
+      ]
+    },
+    "career": {
+      "upright": "Perfect time for multitasking and handling various projects skillfully; opportunities for advancement.",
+      "reversed": "Career chaos may arise from poor time management; urgent need for structured organization.",
+      "keywords": [
+        "career multitasking",
+        "project handling",
+        "career chaos",
+        "organization need"
+      ]
+    },
+    "spiritual": {
+      "upright": "Integration of spiritual practices into daily routine fosters inner harmony and growth.",
+      "reversed": "Spiritual imbalance caused by neglect; prioritize your path to restore alignment.",
+      "keywords": [
+        "spiritual integration",
+        "daily harmony",
+        "neglect",
+        "alignment restoration"
+      ]
+    },
+    "financial": {
+      "upright": "Skillful juggling of finances leads to prosperity; embrace diverse income streams.",
+      "reversed": "Financial disarray threatens stability; evaluating spending habits is crucial.",
+      "keywords": [
+        "financial juggling",
+        "prosperity",
+        "financial disarray",
+        "spending evaluation"
+      ]
+    },
+    "health": {
+      "upright": "Balancing work and personal time supports vitality and overall well-being. Embrace active lifestyle.",
+      "reversed": "Neglect of health due to lifestyle imbalance; prioritize wellness to prevent further issues.",
+      "keywords": [
+        "health balance",
+        "vitality",
+        "lifestyle imbalance",
+        "wellness priority"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "capricorn",
+    "hebrew_letter": "",
+    "numerology": 2,
+    "planet": "jupiter",
+    "season": "winter",
+    "time_of_day": "early morning",
+    "colors": [
+      "green",
+      "brown",
+      "gold"
+    ],
+    "crystals": [
+      "malachite",
+      "jade",
+      "aventurine"
+    ],
+    "herbs": [
+      "ginger",
+      "thyme",
+      "peppermint"
+    ]
+  },
+  "symbols": {
+    "infinity_symbol": "eternal cycles, endless possibilities",
+    "juggler": "skillful balance, adaptable flexibility",
+    "choppy_waters": "change and unpredictability",
+    "two_coins": "duality, financial and material concerns"
+  },
+  "affirmations": [
+    "I gracefully balance life's demands with ease and poise.",
+    "I adapt to change and flow with life's rhythms.",
+    "My flexibility allows me to thrive in any circumstance.",
+    "I maintain harmony amidst the ever-changing dance of life."
+  ],
+  "journaling_prompts": [
+    "What areas of my life are demanding greater balance?",
+    "How can I adapt more effectively to life’s changes?",
+    "What tasks or responsibilities can I let go of to achieve harmony?",
+    "Where do I find the most stability and how can I enhance this?"
+  ],
+  "meditation_focus": "Envision balance and harmony, embracing life's dual rhythms and potential within change.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:37:13.501112",
+    "card_info": {
+      "name": "Two of Pentacles",
+      "number": 2,
+      "suit": "pentacles"
+    },
+    "filename": "p02.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_magician": {
+        "interpretation": "Resourcefulness and adaptability lead to mastery and skilled manifestation of desires.",
+        "keywords": [
+          "resourcefulness",
+          "adaptability",
+          "lead",
+          "mastery"
+        ]
+      },
+      "the_wheel_of_fortune": {
+        "interpretation": "Synchronicities support dynamic changes; trust the flow of evolving circumstances.",
+        "keywords": [
+          "synchronicities",
+          "support",
+          "dynamic",
+          "changes"
+        ]
+      }
+    },
+    "challenges": {
+      "three_of_swords": {
+        "interpretation": "Possible emotional turmoil when juggling matters of the heart with practicality.",
+        "keywords": [
+          "possible",
+          "emotional",
+          "turmoil",
+          "juggling"
+        ]
+      },
+      "ten_of_wands": {
+        "interpretation": "Burden of overcommitment increases stress; prioritizing load is crucial.",
+        "keywords": [
+          "burden",
+          "overcommitment",
+          "increases",
+          "stress"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_lovers": {
+        "interpretation": "Balancing personal desires with relationship needs in a harmonious union.",
+        "keywords": [
+          "balancing",
+          "personal",
+          "desires",
+          "relationship"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Helps in choosing wisely among options, grounding dreams in reality.",
+        "keywords": [
+          "helps",
+          "choosing",
+          "wisely",
+          "options"
+        ]
+      }
+    },
+    "similar_energy": {
+      "justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "ace_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

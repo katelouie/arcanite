@@ -1,0 +1,682 @@
+{
+  "card_id": "nine_of_swords",
+  "card_name": "Nine of Swords",
+  "card_number": 9,
+  "suit": "swords",
+  "archetype": "the_worrier",
+  "core_meanings": {
+    "upright": {
+      "essence": "Deep anxiety and mental anguish, with a focus on fears that haunt the psyche. The mind struggles to find peace amidst turmoil and dread.",
+      "keywords": [
+        "anxiety",
+        "nightmares",
+        "worry",
+        "fear",
+        "despair",
+        "sleeplessness",
+        "regret"
+      ],
+      "psychological": "Facing the shadow parts of the mind where irrational fears dwell. The pressure of unresolved guilt or worry, demanding release.",
+      "spiritual": "A dark night of the soul where confronting inner demons can lead to ultimate understanding and growth.",
+      "practical": "A time to address what causes distress rather than avoiding it. Seeking clarity to break free from the cycle of worry.",
+      "shadow": "Being trapped in a cycle of negative thinking, allowing fears to prevent forward movement and healthy resolutions."
+    },
+    "reversed": {
+      "essence": "Emerging from the shadows of fear, or deepening into despair. Movement toward healing or further entrapment in mental anguish.",
+      "keywords": [
+        "recovery",
+        "relief",
+        "hope",
+        "resilience",
+        "breakdown",
+        "depression"
+      ],
+      "psychological": "Either the beginning of healing and releasing fears, or allowing hopelessness to deepen. A critical turning point mentally.",
+      "spiritual": "Either sensing the dawning light after darkness or resisting spiritual integration through fear of facing inner shadows.",
+      "practical": "Recognizing the power to change perspective and actions, or continued inaction due to overwhelming fear.",
+      "shadow": "Being unable to lift oneself from a spiral of negativity, allowing the mind to create imagined blockades."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past anxieties and traumas continue to influence your present, echoing fears you feel unable to overcome.",
+        "reversed": "Resolution of past worries that once consumed you, or past issues left unaddressed now exploiting your peace.",
+        "keywords": [
+          "lasting anxiety",
+          "traumatic echoes",
+          "past resolution",
+          "unaddressed fears"
+        ]
+      },
+      "distant_past": {
+        "upright": "Deep-seated patterns of worry initiated long ago still dictate your mental framework.",
+        "reversed": "Ancient wounds have either been healed or forgotten but linger subtly, influencing you subtly and profoundly.",
+        "keywords": [
+          "old anxieties",
+          "deep-rooted fears",
+          "forgotten wounds",
+          "lifelong patterns"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent period of intense worry and sleepless nights that colors your current experience.",
+        "reversed": "You may have begun to navigate out of recent troubles, glimpsing light after turmoil.",
+        "keywords": [
+          "recent worry",
+          "sleepless nights",
+          "navigating turmoil",
+          "mental shift"
+        ]
+      },
+      "present": {
+        "upright": "Facing fears or worries head-on. Acknowledging anxiety's hold as you seek understanding and solutions.",
+        "reversed": "A choice to continue in anxiety or begin breaking free. Seeking emotional resilience and hope.",
+        "keywords": [
+          "current fear",
+          "confronting anxiety",
+          "seeking solutions",
+          "embracing resilience"
+        ]
+      },
+      "present_situation": {
+        "upright": "The crux of your current experience involves dealing with the mental torment or stress at hand.",
+        "reversed": "Finding relief from recent despair, or still wrestling with unresolved mental burdens. Movement is possible.",
+        "keywords": [
+          "core stress",
+          "mental torment",
+          "emerging relief",
+          "struggling with burdens"
+        ]
+      },
+      "future": {
+        "upright": "A time coming where addressing deep fears will be crucial for progression. Opportunity for awakening awaits.",
+        "reversed": "A potential to emerge into light by addressing inner darkness. Road to recovery is visible.",
+        "keywords": [
+          "critical confrontation",
+          "awakening opportunity",
+          "emerging light",
+          "recovery road"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, intense situations may challenge your mental resilience. Prepare to engage with inner fears bravely.",
+        "reversed": "In the immediate future, relief starts to seep in or further trouble arises, depending on choice paths.",
+        "keywords": [
+          "mental challenge",
+          "bravery required",
+          "immediate relief",
+          "trouble ahead"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, managing fear with wisdom alters life's trajectory, leading to deeper peace and understanding.",
+        "reversed": "Long-term healing or repetitive cycles of despair are influenced by current understanding and choices.",
+        "keywords": [
+          "wisdom over fear",
+          "deep peace",
+          "healing journey",
+          "repetitive cycles"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Understanding and releasing the fears that bind you. Transforming anguish into strength through awareness.",
+        "reversed": "Overcoming paralytic fear with conscious resilience, or risk falling deeper into despair.",
+        "keywords": [
+          "releasing fears",
+          "transforming anguish",
+          "conscious resilience",
+          "syntactical strength"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures exacerbate inner concerns, requiring fortitude and external support to navigate.",
+        "reversed": "Letting go of external influences that amplify internal woes is vital.",
+        "keywords": [
+          "external pressure",
+          "amplified concerns",
+          "fortitude needed",
+          "release influences"
+        ]
+      },
+      "obstacle": {
+        "upright": "Mental fixation on worry or self-blame is the main obstacle to serenity.",
+        "reversed": "Breaking free from mental cycles is hindered by habitual pessimism.",
+        "keywords": [
+          "mentally trapped",
+          "self-blame cycle",
+          "habitual pessimism",
+          "serenity blocked"
+        ]
+      },
+      "lesson": {
+        "upright": "Learning to cultivate mental peace amidst chaos - the art of separating self from spiraling thoughts.",
+        "reversed": "The lesson is finding light within darkness and initiating healing, allowing fears to transform naturally.",
+        "keywords": [
+          "mental peace",
+          "chaos separation",
+          "transformative fear",
+          "inner light"
+        ]
+      },
+      "shadow": {
+        "upright": "Shadows reveal your deepest fears and unresolved guilt. Honoring them without letting them take control is key.",
+        "reversed": "Acknowledging self-imposed mental prisons can be the first step towards freedom.",
+        "keywords": [
+          "deepest fears",
+          "unresolved guilt",
+          "control over shadow",
+          "freedom path"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Unaddressed regrets or thoughts you allow to fester hinder emotional and mental relief.",
+        "reversed": "Fear of facing 'darkness' alone hinders progression from pain to healing.",
+        "keywords": [
+          "unaddressed regrets",
+          "festering thoughts",
+          "darkness fear",
+          "pain to healing"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Take proactive steps to confront fears. Journaling, therapy, or meditation can offer profound insights.",
+        "reversed": "Redirect energy from fear to hope. Focus on small victories and cultivating a healing mindset.",
+        "keywords": [
+          "proactive steps",
+          "fear confrontation",
+          "hope focus",
+          "healing mindset"
+        ]
+      },
+      "action": {
+        "upright": "Actively address the sources of mental pain through conversation, expression, or expert advice.",
+        "reversed": "Interrupt the cycle of repetitive thoughts. Practice relaxation techniques and self-compassion.",
+        "keywords": [
+          "address sources",
+          "expert advice",
+          "interrupt cycle",
+          "self-compassion"
+        ]
+      },
+      "your_approach": {
+        "upright": "Facing current anxieties with a sense of determination and intention to change.",
+        "reversed": "You may waver between emerging hope and deepening despair in facing challenges.",
+        "keywords": [
+          "determined approach",
+          "intention to change",
+          "wavering hope",
+          "emerging from despair"
+        ]
+      },
+      "what_helps": {
+        "upright": "Acknowledging fears without judgment allows healing. Community support can provide necessary comfort.",
+        "reversed": "Practicing mindfulness and releasing control over unknown outcomes aids recovery.",
+        "keywords": [
+          "fear acknowledgment",
+          "community support",
+          "mindfulness practice",
+          "control release"
+        ]
+      },
+      "guidance": {
+        "upright": "Seek internal clarity through stillness. Quiet the mind and listen to the heart's truth.",
+        "reversed": "Spiritual guidance suggests cultivating inner light even during darkness, accepting change slowly.",
+        "keywords": [
+          "internal clarity",
+          "heart's truth",
+          "inner light",
+          "accepting change"
+        ]
+      },
+      "best_course": {
+        "upright": "The optimal path involves releasing the grip of fear. Embrace steady, small steps towards mental wellness.",
+        "reversed": "Either recognize mental health boundaries or break free of self-imposed limitations.",
+        "keywords": [
+          "releasing fear",
+          "steady wellness",
+          "recognizing boundaries",
+          "limitations release"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for relief from mental torment, fear of never finding peace or resolutions.",
+        "reversed": "Fearing further entrapment in despair while hoping for emotional rebirth.",
+        "keywords": [
+          "hope for relief",
+          "mental torment",
+          "fear of entrapment",
+          "emotional rebirth"
+        ]
+      },
+      "hopes": {
+        "upright": "Deep desire to move beyond fear into a place of mental clarity and peace.",
+        "reversed": "Hope resides in the strength to overcome adversity and cultivate inner resilience.",
+        "keywords": [
+          "clarity and peace",
+          "hope beyond fear",
+          "overcoming adversity",
+          "inner resilience"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of mental struggles permanently affecting every aspect of life, leading to isolation.",
+        "reversed": "Fear of facing reality or unresolved issues, potentially leading to further despair.",
+        "keywords": [
+          "mental struggles",
+          "life isolation",
+          "facing reality",
+          "potential despair"
+        ]
+      },
+      "subconscious": {
+        "upright": "Unseen internal battles revolve around shame, regret, or worry. Seeking solace.",
+        "reversed": "Subconscious healing is slowly unfolding, but fears resist full resolution.",
+        "keywords": [
+          "internal battles",
+          "subconscious shame",
+          "seeking solace",
+          "healing resistance"
+        ]
+      },
+      "conscious": {
+        "upright": "Awareness of distress signals or anxiety, propelling the search for peace and joy.",
+        "reversed": "Conscious attempt to shift from fear-driven actions towards patience and understanding.",
+        "keywords": [
+          "awareness of distress",
+          "search for peace",
+          "shift attempts",
+          "patience cultivation"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally overwhelmed, feeling trapped by fears and unable to find relief amidst turmoil.",
+        "reversed": "A flicker of hope or potential peace emerges, offering emotional respite.",
+        "keywords": [
+          "emotional overwhelm",
+          "feeling trapped",
+          "flicker of hope",
+          "potential peace"
+        ]
+      },
+      "heart": {
+        "upright": "The heart longs for freedom from mental chains and yearns for emotional transparency.",
+        "reversed": "Ignoring heart's call for healing can deepen the emotional wound.",
+        "keywords": [
+          "freedom longing",
+          "mental chains",
+          "emotional transparency",
+          "healing call"
+        ]
+      },
+      "mind": {
+        "upright": "Your mind fixates on shadows, interpreting every nuance as a threat to security.",
+        "reversed": "A gradual shift towards seeing possibilities instead of imprisoning thoughts.",
+        "keywords": [
+          "shadow fixation",
+          "threat perceptions",
+          "possibilities shift",
+          "imprisoning thoughts"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Outside pressures fuel internal fears, complicating efforts to find equilibrium.",
+        "reversed": "External conditions ease the internal storm through unexpected support.",
+        "keywords": [
+          "outside pressures",
+          "internal fears",
+          "unexpected support",
+          "equilibrium efforts"
+        ]
+      },
+      "others": {
+        "upright": "Others may be unaware of your pain, unable to provide desired support.",
+        "reversed": "Surrounding individuals begin to grasp your struggle, fostering empathy.",
+        "keywords": [
+          "unaware others",
+          "desired support",
+          "growing empathy",
+          "struggle recognition"
+        ]
+      },
+      "environment": {
+        "upright": "Environment appears fraught with triggers for anxiety, requiring careful navigation.",
+        "reversed": "Changes in environment foster opportunities to relieve mental unrest.",
+        "keywords": [
+          "anxiety triggers",
+          "careful navigation",
+          "environmental changes",
+          "unrest relief"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others perceive you as emotionally burdened or withdrawn but lack understanding.",
+        "reversed": "Starting to unveil inner struggles, gaining sympathy and support from those around.",
+        "keywords": [
+          "perceived burden",
+          "emotional withdrawal",
+          "inner unveiling",
+          "gaining support"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Subtle energies and unacknowledged fears play roles in current life challenges.",
+        "reversed": "Hidden influences hint at resolutions appearing with clearer perception.",
+        "keywords": [
+          "subtle energies",
+          "unacknowledged fears",
+          "hidden resolutions",
+          "clearer perception"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success lies in facing fears and learning to overcome mental forces with courage, leading to personal empowerment.",
+        "reversed": "Relief may come gradually with awareness or steep decline without effort.",
+        "keywords": [
+          "facing fears",
+          "overcoming forces",
+          "personal empowerment",
+          "awareness relief"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Final triumph emerges from acknowledging fears and learning to thrive beyond anxiety.",
+        "reversed": "Either emergence into clarity or deeper entrenchment into cycles of distress.",
+        "keywords": [
+          "final triumph",
+          "fear acknowledgment",
+          "thriving beyond anxiety",
+          "distress cycles"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "An evolving sense of inner peace through understanding personal fears and behaviors.",
+        "reversed": "Potential for either liberation from mental burdens or entrapment if unaddressed.",
+        "keywords": [
+          "inner peace evolution",
+          "personal understanding",
+          "liberation potential",
+          "entrapment risk"
+        ]
+      },
+      "best_case": {
+        "upright": "Facing fears illuminates paths to wisdom, enabling transformation into mental strength.",
+        "reversed": "Illusory best case relies on avoiding true problems, risking greater future struggles.",
+        "keywords": [
+          "illumination",
+          "wisdom path",
+          "mental transformation",
+          "illusory solutions"
+        ]
+      },
+      "worst_case": {
+        "upright": "Failure to address fears risks long-term cycles of mental struggle.",
+        "reversed": "Ignoring signs of relief could thrust deeper into despair, missing recovery chances.",
+        "keywords": [
+          "long-term struggle",
+          "despair deepening",
+          "ignorance risks",
+          "missed recovery"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic is haunted by worry, anxiety, and mental anguish. Between you exists fear, guilt, or torment that may be worse in imagination than in reality. The connection involves facing dark thoughts and finding dawn after the dark night of the soul.",
+        "reversed": "The anxiety is lifting or worst fears are proving unfounded. Mental anguish may be healing or dawn may be breaking. The relationship involves moving beyond worry toward peace and mental clarity.",
+        "keywords": [
+          "anxiety",
+          "worry",
+          "guilt",
+          "mental torment"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Fears or insecurities cause turmoil in relationships. Emotional transparency can offer healing.",
+      "reversed": "Emerging hope in love from addressing baseless fears or destructive patterns.",
+      "keywords": [
+        "relationship turmoil",
+        "insecurity",
+        "emotional transparency",
+        "emerging hope"
+      ]
+    },
+    "career": {
+      "upright": "Worry over job stability or career progress. Confront these fears to unlock creative potential.",
+      "reversed": "Relief from recent career anxieties, prompting clearer focus or direction.",
+      "keywords": [
+        "career worry",
+        "job stability fears",
+        "creative potential",
+        "clear focus"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual anxieties require acceptance and faith in personal journey, despite darkness.",
+      "reversed": "Beginning to reconnect spiritually by addressing fears either ignored or unacknowledged.",
+      "keywords": [
+        "spiritual anxiety",
+        "faith in journey",
+        "accepting darkness",
+        "spiritual reconnection"
+      ]
+    },
+    "financial": {
+      "upright": "Financial stress perpetuates mental unrest. Seeking practical solutions liberates anxiety.",
+      "reversed": "Brief alleviation from financial disturbance by adjusting perspective or habits.",
+      "keywords": [
+        "financial stress",
+        "practical solution",
+        "mental unrest",
+        "perspective adjustment"
+      ]
+    },
+    "health": {
+      "upright": "Fears regarding health may be exaggerated. Address concerns rationally for genuine peace.",
+      "reversed": "Healing from health anxieties starts with clarity and gentle self-care.",
+      "keywords": [
+        "health fears",
+        "rational approach",
+        "genuine peace",
+        "healing clarity"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "gemini",
+    "hebrew_letter": "teth",
+    "numerology": 9,
+    "planet": "mars",
+    "season": "winter",
+    "time_of_day": "midnight",
+    "colors": [
+      "black",
+      "dark blue",
+      "silver"
+    ],
+    "crystals": [
+      "obsidian",
+      "amethyst",
+      "black tourmaline"
+    ],
+    "herbs": [
+      "valerian",
+      "lavender",
+      "sage"
+    ]
+  },
+  "symbols": {
+    "swords": "mental conflict, intellect",
+    "bed": "place of rest, subconscious unrest",
+    "pillows": "comfort that seems distant",
+    "darkness": "unknown fears manifesting",
+    "hands on face": "despair, overwhelmed emotion"
+  },
+  "affirmations": [
+    "In recognizing my fears, I find my strength.",
+    "I am capable of transforming anguish into wisdom.",
+    "Every challenge faced is a step towards clarity.",
+    "Peace is possible even amidst mental storms."
+  ],
+  "journaling_prompts": [
+    "What fears are keeping me awake at night?",
+    "In what ways can I embrace my shadow and find peace?",
+    "How can I transform worry into proactive solutions?",
+    "Where can I find support to overcome my anxieties?"
+  ],
+  "meditation_focus": "Gently releasing fears and inviting peace. Visualize turning swords of worry into feathers of calm.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:28:26.702244",
+    "card_info": {
+      "name": "Nine of Swords",
+      "number": 9,
+      "suit": "swords"
+    },
+    "filename": "s09.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_tower": {
+        "interpretation": "Amplifies chaos and necessary destruction, creating profound change through upheaval.",
+        "keywords": [
+          "amplifies",
+          "chaos",
+          "necessary",
+          "destruction"
+        ]
+      },
+      "three_of_swords": {
+        "interpretation": "Deepens heartache and emotional distress, necessitating urgent healing and compassion.",
+        "keywords": [
+          "deepens",
+          "heartache",
+          "emotional",
+          "distress"
+        ]
+      },
+      "the_moon": {
+        "interpretation": "Brings hidden fears to the forefront, demanding exploration to illuminate truths.",
+        "keywords": [
+          "brings",
+          "hidden",
+          "fears",
+          "forefront"
+        ]
+      }
+    },
+    "challenges": {
+      "the_sun": {
+        "interpretation": "Challenges positivity and clarity, disrupting peace with clouds of anxiety and confusion.",
+        "keywords": [
+          "challenges",
+          "positivity",
+          "clarity",
+          "disrupting"
+        ]
+      },
+      "six_of_swords": {
+        "interpretation": "Obstacle in transitioning from turmoil, preventing mental clarity and escape.",
+        "keywords": [
+          "obstacle",
+          "transitioning",
+          "turmoil",
+          "preventing"
+        ]
+      },
+      "ten_of_cups": {
+        "interpretation": "Creates inner conflict in perceiving joy due to overwhelming worries overshadowing happiness.",
+        "keywords": [
+          "creates",
+          "inner",
+          "conflict",
+          "perceiving"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hermit": {
+        "interpretation": "Guides introspection, encouraging solitude and insight to manage inner fears.",
+        "keywords": [
+          "guides",
+          "introspection",
+          "encouraging",
+          "solitude"
+        ]
+      },
+      "eight_of_cups": {
+        "interpretation": "Clarifies emotional or mental aspects needing abandonment for meaningful transformation.",
+        "keywords": [
+          "clarifies",
+          "emotional",
+          "mental",
+          "aspects"
+        ]
+      },
+      "the_star": {
+        "interpretation": "Offers hope, even in darkness, showing light on the horizon and possible redemption.",
+        "keywords": [
+          "offers",
+          "hope",
+          "even",
+          "darkness"
+        ]
+      }
+    },
+    "similar_energy": {
+      "three_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "eight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

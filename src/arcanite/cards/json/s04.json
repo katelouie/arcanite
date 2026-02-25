@@ -1,0 +1,681 @@
+{
+  "card_id": "four_of_swords",
+  "card_name": "Four of Swords",
+  "card_number": 4,
+  "suit": "swords",
+  "archetype": "the_rejuvenator",
+  "core_meanings": {
+    "upright": {
+      "essence": "Restoration through stillness. A period of retreat and recovery where silence becomes the sanctuary.",
+      "keywords": [
+        "rest",
+        "recovery",
+        "contemplation",
+        "solitude",
+        "rejuvenation",
+        "healing",
+        "pause",
+        "reflection"
+      ],
+      "psychological": "Invitation to withdraw and find peace within. Mind seeks clarity through quiet introspection.",
+      "spiritual": "A sacred pause to connect with inner wisdom. Embrace the void where answers slowly unfurl.",
+      "practical": "Step back and take a break. Recharge before a new phase of action begins. Listen to the call of rest.",
+      "shadow": "Stagnation or avoidance disguised as rest. Hiding from challenges instead of confronting them."
+    },
+    "reversed": {
+      "essence": "Restlessness prevents healing. The refusal to pause results in burnout or superficial recovery.",
+      "keywords": [
+        "restlessness",
+        "burnout",
+        "avoidance",
+        "stagnation",
+        "unrest",
+        "superficial recovery"
+      ],
+      "psychological": "Inability to find inner peace, leading to mental turmoil. The mind races without respite.",
+      "spiritual": "Disconnected from the inner sanctuary of the soul. Avoiding spiritual growth by staying in unrest.",
+      "practical": "Reluctance to take necessary breaks leads to inefficiency. Rushing through recovery hampers true healing.",
+      "shadow": "Ignoring the body's and mind's pleas for rest. Driven by fear of missing out or perceived weakness in resting."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A past retreat or sabbatical provided much-needed healing and perspective that's still impactful.",
+        "reversed": "Past unwillingness to rest has led to current stress. Ignored calls for pause are affecting the present.",
+        "keywords": [
+          "past retreat",
+          "sabbatical",
+          "unheeded rest",
+          "lingering impact"
+        ]
+      },
+      "distant_past": {
+        "upright": "A long-ago period of solitude set a foundation for how you manage stress and recovery.",
+        "reversed": "Old patterns of resistance to rest have built a legacy of weariness that lingered over the years.",
+        "keywords": [
+          "foundational solitude",
+          "legacy of resistance",
+          "historical recovery",
+          "age-old weariness"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent withdrawal from a pressing issue brought clarity and renewal to current circumstances.",
+        "reversed": "Recent denial of rest leaves you frazzled and strained. Ignored self-care hampers progress.",
+        "keywords": [
+          "recent withdrawal",
+          "clarity",
+          "ignored rest",
+          "current strain"
+        ]
+      },
+      "present": {
+        "upright": "This moment demands reflection and rest. Allow yourself the gift of pause to rejuvenate your spirit.",
+        "reversed": "Present turmoil results from neglecting rest. Overexertion without respite creates internal chaos.",
+        "keywords": [
+          "current repose",
+          "gift of pause",
+          "neglected rest",
+          "internal chaos"
+        ]
+      },
+      "present_situation": {
+        "upright": "Core experience involves finding peace amidst chaos. Solitude is where answers reside.",
+        "reversed": "Inner restlessness disrupts the current flow. Without stillness, the storm persists within.",
+        "keywords": [
+          "central peace",
+          "inner answers",
+          "persistent storm",
+          "disrupted flow"
+        ]
+      },
+      "future": {
+        "upright": "A forthcoming period of tranquility will heal wounds and offer fresh perspectives.",
+        "reversed": "Future complications may arise from current restlessness. Unlearned lessons in stillness loom.",
+        "keywords": [
+          "future tranquility",
+          "healing ahead",
+          "potential complications",
+          "looming lessons"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, you'll enter a brief, but powerful, period of rest and reflection that revitalizes your path.",
+        "reversed": "Immediate unrest could harden into stress if rest isn't prioritized. Find calm soon.",
+        "keywords": [
+          "immediate rest",
+          "revitalization",
+          "pending unrest",
+          "seek calm"
+        ]
+      },
+      "distant_future": {
+        "upright": "In the long run, embracing cycles of rest ensures sustained energy and mental clarity; a wise journey.",
+        "reversed": "Long-term consequences of never pausing will lead to exhaustion and loss of direction.",
+        "keywords": [
+          "sustained energy",
+          "wise cycles",
+          "long-term failure",
+          "exhausted paths"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Challenge lies in allowing yourself to rest without guilt. Recognize rest as a strength, not weakness.",
+        "reversed": "Difficulty involves breaking the cycle of restlessness. You're challenged to prioritize your well-being.",
+        "keywords": [
+          "rest without guilt",
+          "strength in pause",
+          "break cycle",
+          "priority of well-being"
+        ]
+      },
+      "cross": {
+        "upright": "Societal demands for constant productivity cross your need for rest. Find empowerment in solitude.",
+        "reversed": "Internal resistance to peace crosses your path. Overcome the illusion that busyness equates worth.",
+        "keywords": [
+          "productive demands",
+          "societal pressure",
+          "internal resistance",
+          "illusion of worth"
+        ]
+      },
+      "obstacle": {
+        "upright": "Busyness becomes an obstacle to deep healing. The hurry prevents serenity from entering the soul.",
+        "reversed": "Avoidance of rest blocks true recovery. Constant motion disguises avoided internal healing.",
+        "keywords": [
+          "busyness obstacle",
+          "hurry prevents healing",
+          "avoidance barrier",
+          "internal healing blockage"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn the balance between action and rest. In stillness wisdom waits to be heard softly.",
+        "reversed": "The lesson is understanding that unchecked motion lacks growth. Pause to nurture genuine insight.",
+        "keywords": [
+          "balance",
+          "wisdom in stillness",
+          "unchecked motion",
+          "nurture insight"
+        ]
+      },
+      "shadow": {
+        "upright": "Shadow reveals the fear of introspection. Face what silence may uncover and find peace within.",
+        "reversed": "Driven by the fear of stagnation, shadow urges perpetual motion, blocking inner truths.",
+        "keywords": [
+          "fear of introspection",
+          "peace in silence",
+          "fear of stagnation",
+          "blocked truth"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Unyielding schedules hinder true rest, binding you to cycles without relief. Allow yourself grace.",
+        "reversed": "Perceived obligations hinder acknowledgment of your needs. Step back from false pressure.",
+        "keywords": [
+          "unyielding schedules",
+          "cycles without relief",
+          "perceived obligations",
+          "acknowledge needs"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace quietude. Listen to the whispers of your soul in solitude. Rest is a powerful ally.",
+        "reversed": "Seek stillness among the noise. Allow yourself space to breathe, releasing the clenching grip.",
+        "keywords": [
+          "embrace quietude",
+          "listen to whispers",
+          "seek stillness",
+          "allow breath"
+        ]
+      },
+      "action": {
+        "upright": "Deliberately carve time for rest and reflection. Healing through intentional pause.",
+        "reversed": "Forceful action ceases; let natural rest guide you instead. Fight the urge for endless productivity.",
+        "keywords": [
+          "intentional pause",
+          "carve out rest",
+          "natural guidance",
+          "endless productivity fight"
+        ]
+      },
+      "your_approach": {
+        "upright": "You navigate life by valuing silence as a space of healing. Approach conflicts with calm detachment.",
+        "reversed": "Your approach might lean towards avoiding rest, equating busyness with worth. Shift perspective.",
+        "keywords": [
+          "value silence",
+          "healing space",
+          "avoidance of rest",
+          "shift perspective"
+        ]
+      },
+      "what_helps": {
+        "upright": "A tranquil environment aids in your rejuvenation. Seek spaces that reflect the stillness you crave.",
+        "reversed": "Helpful resources include unplugging from distractions or technology. Allow real-world peace to heal.",
+        "keywords": [
+          "tranquil environment",
+          "seek stillness",
+          "unplug technology",
+          "real-world peace"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual guidance comes through calmness. Reflect on your path with gentle, non-judgmental awareness.",
+        "reversed": "Guidance is lost in noise - simplicity holds the keys you seek. Clear the clutter from your inner world.",
+        "keywords": [
+          "calmness guidance",
+          "gentle awareness",
+          "lost in noise",
+          "simplicity keys"
+        ]
+      },
+      "best_course": {
+        "upright": "The best course requires patience and allowance for natural rhythms. Let rest replenish your spirit.",
+        "reversed": "Consider slow, mindful actions. Hastiness prevents profound understanding or true progress.",
+        "keywords": [
+          "patience",
+          "natural rhythms",
+          "mindful actions",
+          "hastiness prevention"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for lasting tranquility and restorative peace. Fear dissolves into the silence you nurture.",
+        "reversed": "Fear of missed opportunities keeps you restless. Hope that slowing down won't result in regret.",
+        "keywords": [
+          "lasting tranquility",
+          "restorative peace",
+          "missed opportunities",
+          "slow down hope"
+        ]
+      },
+      "hopes": {
+        "upright": "Aspire to connect with inner peace and harmony. Let quiet spaces be your soul's refuge and guide.",
+        "reversed": "Hope lies in overcoming frantic motion to find depth in repose. Crave peaceful resolutions.",
+        "keywords": [
+          "inner peace",
+          "quiet refuge",
+          "depth in repose",
+          "peaceful resolutions"
+        ]
+      },
+      "fears": {
+        "upright": "Fear that stillness uncovers truths hidden from your conscious mind. Trust in the revelations that come.",
+        "reversed": "Afraid that rest signals weakness. Release the hold that demands constant action as proof of value.",
+        "keywords": [
+          "uncovered truths",
+          "stillness fear",
+          "weakness perception",
+          "constant action demand"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously, a longing for tranquility guides you. Inner conflicts soften in the gentle embrace of stillness.",
+        "reversed": "Below the surface is turmoil manifesting as unrest. Avoidance becomes a shaky foundation.",
+        "keywords": [
+          "longing for tranquility",
+          "inner conflict soften",
+          "turmoil unrest",
+          "avoidance foundation"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you recognize the need for pause and restoration. Awareness of inner strength through rest.",
+        "reversed": "Conscious thoughts betray a reluctance to slow down. The mind races, seeking solace in distraction.",
+        "keywords": [
+          "need for pause",
+          "awareness of strength",
+          "reluctance to rest",
+          "distraction seeking"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you are drawn towards serene waters, seeking calm in every thought and feeling.",
+        "reversed": "Chaotic emotions cloud your judgment. The fear of rest as indulgence may overwhelm you.",
+        "keywords": [
+          "serene waters",
+          "calm seeking",
+          "chaotic emotions",
+          "fear of rest"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart desires repose and reflection. A quiet yearning for spaces untouched by external voices.",
+        "reversed": "Hidden within is a heart pulled by duties, forgetting to find solace in the soft embrace of rest.",
+        "keywords": [
+          "desire repose",
+          "quiet yearning",
+          "heart duties",
+          "solace in rest"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, clarity comes with rest. Approach ideas with calm, calculated thought, grounded in serenity.",
+        "reversed": "The mind is unsettled, driven by urgency. Ease is replaced by a quest for immediate resolution.",
+        "keywords": [
+          "clarity in rest",
+          "calm thought",
+          "unsettled mind",
+          "quest for resolution"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Surrounded by passionate yet chaotic energies, your calm presence is both a refuge and inspiration to others.",
+        "reversed": "Others may perceive your pauses as disengagement or indifference. Clarify your intentions.",
+        "keywords": [
+          "calm presence",
+          "inspirational aura",
+          "perceived disengagement",
+          "clarify intentions"
+        ]
+      },
+      "others": {
+        "upright": "Those around you find peace in your presence. Your ability to withdraw brings harmony to shared spaces.",
+        "reversed": "Pressure from others to remain active might disrupt your attempts at finding rest.",
+        "keywords": [
+          "peace in presence",
+          "shared harmony",
+          "pressure to perform",
+          "disrupted rest"
+        ]
+      },
+      "environment": {
+        "upright": "Your surroundings invite contemplation and rest—whispering soft assurances to your weary soul.",
+        "reversed": "Environments are unsupportive of needed rest, driving you toward unrest and constant noise.",
+        "keywords": [
+          "inviting contemplation",
+          "soft assurances",
+          "unsupportive environment",
+          "constant noise"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Viewed as a calm pillar amidst chaos, others see your ability to reflect and pause as deeply wise.",
+        "reversed": "Viewed as indifferent or detached, there's a gap between your inward journey and outward perceptions.",
+        "keywords": [
+          "calm pillar",
+          "deep wisdom",
+          "perceived indifference",
+          "gap in perceptions"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Hidden forces encourage solitary reflection, guiding quiet understanding of deeper truths.",
+        "reversed": "Unrecognized influences are pushing for endless pursuit, masking internal wisdom's quieter path.",
+        "keywords": [
+          "hidden reflection",
+          "quiet understanding",
+          "unrecognized pursuit",
+          "quieter path"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Rejuvenation brings forth new vision and clarity. Through rest, unseen avenues of possibility reveal themselves.",
+        "reversed": "Endless activity without rest may lead to burnout. Ignore the message of the body's need for rest at peril.",
+        "keywords": [
+          "new vision",
+          "revealed possibilities",
+          "imminent burnout",
+          "body's message"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, honoring cycles of rest yields profound strength and resilience. Wisdom nurtured by introspection.",
+        "reversed": "Final realization of the necessity of rest comes too late, leading to harsh lessons of neglect.",
+        "keywords": [
+          "profound strength",
+          "nurtured wisdom",
+          "realized necessity",
+          "harsh lessons"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possible outcomes involve emerging refreshed and clear-minded, ready for true progress and creativity.",
+        "reversed": "Rushing will result in unfinished tasks and repeated cycles. Incomplete goals from avoiding rest.",
+        "keywords": [
+          "refreshed emergence",
+          "true progress",
+          "unfinished tasks",
+          "avoiding rest"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenarios see full restoration leading to inspired ideas and fruitful action, founded on calm.",
+        "reversed": "What seems best might avoid necessary pauses, but without these, burnout is unavoidable.",
+        "keywords": [
+          "full restoration",
+          "inspired ideas",
+          "founded calm",
+          "avoided pauses"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case sees stagnation mistaken for rest, leading to missed opportunities or growth being stunted.",
+        "reversed": "Continued refusal to rest culminates in exhaustion, hardly able to differentiate chaos from peace.",
+        "keywords": [
+          "mistaken stagnation",
+          "stunted growth",
+          "refusal consequences",
+          "chaos vs. peace"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship requires rest, contemplation, and temporary withdrawal from active engagement. The dynamic involves taking a break to process thoughts and feelings, gather strength, and prepare for the next phase of your connection.",
+        "reversed": "The rest period may be ending or isolation might be excessive. Activity may be resuming or the need for contemplation might be ignored. The relationship involves balancing solitude with engagement.",
+        "keywords": [
+          "rest",
+          "contemplation",
+          "withdrawal",
+          "preparation"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "In love, respect each other's need for space. Solo reflection enhances connection, inviting deeper intimacy.",
+      "reversed": "Avoid using absence to escape relationship challenges. Unaddressed issues may fester.",
+      "keywords": [
+        "respect space",
+        "deep intimacy",
+        "absence escape",
+        "unaddressed issues"
+      ]
+    },
+    "career": {
+      "upright": "Career advice: it's time to pause. Step back from pressures and allow goals to align with inner values.",
+      "reversed": "Avoid burnout by taking regular breaks. Ignoring signs of exhaustion leads to missed professional growth.",
+      "keywords": [
+        "pause needed",
+        "aligned goals",
+        "avoid burnout",
+        "exhaustion signs"
+      ]
+    },
+    "spiritual": {
+      "upright": "A spiritual retreat or time alone fosters profound insights. Engage in practices that cultivate inner peace.",
+      "reversed": "Ignoring the need for silence in your spiritual path prevents authentic connections with yourself.",
+      "keywords": [
+        "spiritual retreat",
+        "profound insight",
+        "need for silence",
+        "authentic connection"
+      ]
+    },
+    "financial": {
+      "upright": "Financially, cautious reflection prevents rash decisions. Time out allows for strategic planning.",
+      "reversed": "Restless handling of finances invites risk. Avoid impulse decisions to ensure stability.",
+      "keywords": [
+        "cautious reflection",
+        "strategic planning",
+        "restless handling",
+        "impulse risk"
+      ]
+    },
+    "health": {
+      "upright": "Rest is essential for healing. Respect your body's need for recovery and rejuvenation.",
+      "reversed": "Ignoring signs of fatigue leads to health issues. Embrace rest to enhance well-being.",
+      "keywords": [
+        "essential rest",
+        "healing respect",
+        "ignored fatigue",
+        "enhanced well-being"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "libra",
+    "hebrew_letter": "",
+    "numerology": 4,
+    "planet": "venus",
+    "season": "autumn",
+    "time_of_day": "dusk",
+    "colors": [
+      "blue",
+      "silver",
+      "white"
+    ],
+    "crystals": [
+      "amethyst",
+      "blue lace agate",
+      "sodalite"
+    ],
+    "herbs": [
+      "chamomile",
+      "lavender",
+      "sage"
+    ]
+  },
+  "symbols": {
+    "sword_on_coffin": "Invitation for rest and reflection; laying plans to rest temporarily.",
+    "stained_glass_window": "Hope, faith, and light shining through consolatory pauses.",
+    "hands_in_prayer": "Surrender to stillness. Healing prayers for inner peace."
+  },
+  "affirmations": [
+    "I embrace rest as a source of strength and wisdom.",
+    "My mind finds solace in silence and reflection.",
+    "I honor my need for pause and rejuvenation.",
+    "Stillness reveals the path to clarity and peace."
+  ],
+  "journaling_prompts": [
+    "What does rest mean to me, and how do I know when it's needed?",
+    "How can I create space for reflection in my daily life?",
+    "What truths could I uncover in a silent retreat?",
+    "Where am I mistaking activity for progress?"
+  ],
+  "meditation_focus": "Imagining a calm, serene space where the mind finds clarity amidst the quietude. Breathing in peace, breathing out stress.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:21:33.645172",
+    "card_info": {
+      "name": "Four of Swords",
+      "number": 4,
+      "suit": "swords"
+    },
+    "filename": "s04.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_star": {
+        "interpretation": "Hope and calm amplified. A period of rest renews faith and brings bright inspiration.",
+        "keywords": [
+          "hope",
+          "calm",
+          "amplified",
+          "period"
+        ]
+      },
+      "the_hermit": {
+        "interpretation": "Deep inner reflection guided by solitude. Wisdom grows in peaceful silence.",
+        "keywords": [
+          "deep",
+          "inner",
+          "reflection",
+          "guided"
+        ]
+      },
+      "four_of_wands": {
+        "interpretation": "Contentment and celebration are untouched by stress, focusing on restful presence.",
+        "keywords": [
+          "contentment",
+          "celebration",
+          "untouched",
+          "stress"
+        ]
+      }
+    },
+    "challenges": {
+      "the_chariot": {
+        "interpretation": "Tension between action and rest. Balance swift energy of pursuit with need for calm.",
+        "keywords": [
+          "tension",
+          "action",
+          "rest",
+          "balance"
+        ]
+      },
+      "eight_of_swords": {
+        "interpretation": "Feeling trapped by responsibilities versus the need for peace. Rest aids liberation.",
+        "keywords": [
+          "feeling",
+          "trapped",
+          "responsibilities",
+          "versus"
+        ]
+      },
+      "knight_of_swords": {
+        "interpretation": "Impulsive action challenged by rest's wisdom, demanding patience before movement.",
+        "keywords": [
+          "impulsive",
+          "action",
+          "challenged",
+          "rest"
+        ]
+      }
+    },
+    "clarifies": {
+      "temperance": {
+        "interpretation": "Moderation through rest, finding balance within transformative energies.",
+        "keywords": [
+          "moderation",
+          "rest",
+          "finding",
+          "balance"
+        ]
+      },
+      "three_of_cups": {
+        "interpretation": "Joyful interactions require respectful pauses; rest brings depth to connections.",
+        "keywords": [
+          "joyful",
+          "interactions",
+          "require",
+          "respectful"
+        ]
+      },
+      "nine_of_swords": {
+        "interpretation": "Resting the mind clarifies anxiety. See fears in the context of healing.",
+        "keywords": [
+          "resting",
+          "mind",
+          "clarifies",
+          "anxiety"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_hermit": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "three_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

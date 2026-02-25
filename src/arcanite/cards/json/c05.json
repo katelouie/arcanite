@@ -1,0 +1,681 @@
+{
+  "card_id": "five_of_cups",
+  "card_name": "Five of Cups",
+  "card_number": 5,
+  "suit": "cups",
+  "archetype": "the_mourner",
+  "core_meanings": {
+    "upright": {
+      "essence": "Grief and loss, accompanied by the melancholy of potential left unfulfilled. An invitation to turn towards healing by acknowledging pain and seeing what remains.",
+      "keywords": [
+        "grief",
+        "regret",
+        "loss",
+        "disappointment",
+        "focusing on negatives",
+        "emotional healing"
+      ],
+      "psychological": "Represents the despair experienced when we focus solely on what we lack rather than valuing the blessings still present, caught in the shadows of yearning.",
+      "spiritual": "A call to transcend sorrow by recognizing the impermanence of material and emotional attachments, opening the heart to a universe of possibilities.",
+      "practical": "A period where emotions may cloud judgment; take time to process feelings before making major decisions. Seek the silver lining even in challenging scenarios.",
+      "shadow": "Tendency to dwell on past failures, allowing regret to define the present, overshadowing remaining opportunities and potential for joy."
+    },
+    "reversed": {
+      "essence": "Emerging from despair or denial towards acceptance and renewal. The healing begins when you choose to acknowledge pain and cherish what remains.",
+      "keywords": [
+        "acceptance",
+        "forgiveness",
+        "moving on",
+        "healing",
+        "end of suffering",
+        "emotional growth"
+      ],
+      "psychological": "The decision to shift focus from loss to renewal, symbolizing a turning point in embracing resilience and the lessons learned from heartache.",
+      "spiritual": "Recognizing the divine cycle of grief and gratitude, allowing spiritual transformation to occur through the acceptance of life's ebbs and flows.",
+      "practical": "Resolve old emotional issues to release blockages and make way for future success. Turning attention to repairing relationships or unfinished business.",
+      "shadow": "Suppressed emotions or denial of past pains can delay healing, masking the need for emotional honesty and courageous self-reflection."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A time when loss or disappointment cast a shadow over your life, shaping your current emotional framework. This period taught you much about resilience.",
+        "reversed": "In the past, you may have struggled with letting go of past hurts. Healing was delayed due to denial or clinging to old pain.",
+        "keywords": [
+          "past grief",
+          "shaping loss",
+          "emotional impact",
+          "unresolved pain"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a significant emotional loss molded your approach to relationships and experiences. This was a pivotal moment in your emotional history.",
+        "reversed": "Old wounds from your distant history have impacted your ability to forgive and move forward. Recognize how this has shaped your beliefs.",
+        "keywords": [
+          "formative sorrow",
+          "deep grief",
+          "original hurt",
+          "shaping past"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently, there’s been a focus on what you’ve lost rather than learned. This is a moment for retrospection and lessons of acceptance.",
+        "reversed": "You’re beginning to transition out of a state of mourning and into one of healing and new perspectives, emerging from emotional hardship.",
+        "keywords": [
+          "linger in loss",
+          "recent heartache",
+          "emerging healing",
+          "processing change"
+        ]
+      },
+      "present": {
+        "upright": "Deep emotions are stirring; now is a time to allow yourself to feel and release grief. Don’t overlook the kindness available to you.",
+        "reversed": "You may be transitioning from a shadowed place to one of understanding and renewal. The storm is lifting, revealing the landscape of new possibility.",
+        "keywords": [
+          "emotional storm",
+          "feeling deeply",
+          "turning point",
+          "emotional transition"
+        ]
+      },
+      "present_situation": {
+        "upright": "Currently, grief may be overshadowing everything else, hindering your ability to see positive opportunities. The challenge is to find balance.",
+        "reversed": "Recognize the healing underway, even if it feels slow. You're gradually shifting from sorrow to acceptance, gaining clarity.",
+        "keywords": [
+          "grief focus",
+          "hidden potential",
+          "healing stage",
+          "balance challenge"
+        ]
+      },
+      "future": {
+        "upright": "An upcoming event may trigger feelings of loss or disappointment. Prepare to face this with courage, recognizing the capacity for new growth.",
+        "reversed": "The future holds the promise of healing and emotional renewal. Embrace the insights gained from past experiences to inform new paths.",
+        "keywords": [
+          "anticipate growth",
+          "facing loss",
+          "healing promise",
+          "emotional insight"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, unresolved emotions may resurface. Use this moment as an opportunity for deeper healing and release.",
+        "reversed": "Quickly approaching is a time for recovery and finding peace, as emotions subside and acceptance becomes more tangible.",
+        "keywords": [
+          "emotional resurfacing",
+          "resolution opportunity",
+          "peace approach",
+          "acceptance"
+        ]
+      },
+      "distant_future": {
+        "upright": "In the long term, learning to appreciate what remains despite losses shapes a life of deeper meaning and emotional wisdom.",
+        "reversed": "Ultimately, transformation through forgiveness and healing leads to a future enriched by resilience and newfound perspectives.",
+        "keywords": [
+          "emotional wisdom",
+          "appreciation",
+          "future resilience",
+          "forgiveness path"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to move beyond your grief without denying it. Acknowledging the pain while nurturing gratitude is your pathway to healing.",
+        "reversed": "Learning to forgive either yourself or others is the significant hurdle. Letting go of old patterns opens doors to renewal.",
+        "keywords": [
+          "balance grief",
+          "healing journey",
+          "emotional challenge",
+          "forgiveness"
+        ]
+      },
+      "cross": {
+        "upright": "Your focus on loss may obstruct personal growth and the formation of new connections, demanding conscious realignment.",
+        "reversed": "The resistance to let go of past grievances is hindering your present expansion. Breaking free requires trust in the healing process.",
+        "keywords": [
+          "obstruction",
+          "focus realignment",
+          "resistance",
+          "letting go"
+        ]
+      },
+      "obstacle": {
+        "upright": "Despair is clouding your perception, making it difficult to see or appreciate hidden opportunities still present.",
+        "reversed": "Suppressing emotions acts as a barrier to authentic healing. Allowing them to surface is crucial for overcoming the stagnation.",
+        "keywords": [
+          "perception cloud",
+          "emotional barrier",
+          "hidden opportunity",
+          "authentic healing"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to draw strength from your experiences, transforming past disappointments into wisdom and compassion for yourself and others.",
+        "reversed": "The lesson is in recognizing the power of forgiveness and releasing emotional entrapments, leading to liberation and renewal.",
+        "keywords": [
+          "wisdom",
+          "compassion",
+          "strength from experience",
+          "forgiveness power"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow holds unprocessed grief and regret that can appear as cynicism or emotional withdrawal. Engage this shadow with love.",
+        "reversed": "Denial and reluctance to release the old hinder your soul's growth. Integration of these parts leads to wholeness.",
+        "keywords": [
+          "unprocessed grief",
+          "cynicism",
+          "shadow engagement",
+          "denial integration"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Dwelling on what has been lost diverts energy from creation and love. This fixation is preventing progress.",
+        "reversed": "Unresolved issues or a refusal to forgive represent barriers to moving forward into a life richer in joy and fulfillment.",
+        "keywords": [
+          "energy diversion",
+          "love prevention",
+          "unresolved issues",
+          "forgiveness barrier"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Allow yourself to mourn fully, but don't stay in that place too long. Seek balance by recognizing the joys that persist amidst sorrow.",
+        "reversed": "Gently transition to acceptance. Start small with forgiveness, and you'll witness the blossoming of new emotional landscapes.",
+        "keywords": [
+          "mourning",
+          "joy recognition",
+          "acceptance transition",
+          "emotional blossoming"
+        ]
+      },
+      "action": {
+        "upright": "Embrace a ritual of release; write a letter to your past self to honor and let go. Focus on the blessings still present.",
+        "reversed": "Begin nurturing gratitude daily. Actively engage with activities or people who rekindle your spirit and offer support.",
+        "keywords": [
+          "ritual of release",
+          "gratitude nurturing",
+          "spirit rekindling",
+          "support engagement"
+        ]
+      },
+      "your_approach": {
+        "upright": "You might be approaching situations with a lens focused on past losses. Recognize and pivot to integrate appreciation and hope.",
+        "reversed": "You are starting to shift your perspective towards healing. This more reconciled view will open the door to unseen opportunities.",
+        "keywords": [
+          "loss focus",
+          "perspective shift",
+          "reconciled view",
+          "opportunity door"
+        ]
+      },
+      "what_helps": {
+        "upright": "Acknowledging your emotions and leaning on trusted support systems will guide you through the maze of grief.",
+        "reversed": "Commit to personal growth and healing activities. Fresh perspectives from supportive communities are invaluable resources.",
+        "keywords": [
+          "emotion acknowledgment",
+          "support systems",
+          "personal growth",
+          "community support"
+        ]
+      },
+      "guidance": {
+        "upright": "The universe urges acceptance of loss as a natural part of life’s cycle. Finding peace within transforms sorrow into strength.",
+        "reversed": "Welcome the light at the end of the tunnel. Trust in the process of healing and the possibility of brighter horizons.",
+        "keywords": [
+          "peace within",
+          "light welcome",
+          "cycle acceptance",
+          "brighter horizons"
+        ]
+      },
+      "best_course": {
+        "upright": "The best path involves acknowledging pain without becoming it. Balance reflection with forward momentum and new dreams.",
+        "reversed": "Prioritize healing and forgiveness as you move forward. The journey of recovery enriches tomorrow's possibilities.",
+        "keywords": [
+          "pain acknowledgment",
+          "forward momentum",
+          "healing priority",
+          "future enrichment"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Desire for emotional replenishment and forgiveness, countered by fear of lingering pain or repeating old patterns.",
+        "reversed": "Hope for personal growth and emotional resilience, tempered by anxiety about confronting truth and vulnerability.",
+        "keywords": [
+          "emotional replenishment",
+          "pain fear",
+          "growth hope",
+          "truth confrontation"
+        ]
+      },
+      "hopes": {
+        "upright": "You aspire to heal and rebuild emotional connections, seeking a life unburdened by past sorrows, filled with gratitude.",
+        "reversed": "Hope resides in the renewal of spirit and the ability to reconcile past with present, leading to personal peace.",
+        "keywords": [
+          "healing aspiration",
+          "gratitude life",
+          "spirit renewal",
+          "personal peace"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of being trapped in a cycle of regret and emotional pain, unable to move forward from lingering wounds.",
+        "reversed": "Anxiety about facing the effort required for true healing, doubting the ability to forgive fully and embrace change.",
+        "keywords": [
+          "regret cycle",
+          "pain entrapment",
+          "healing effort",
+          "forgiveness doubt"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously, a tendency to dwell on past mistakes lingers, even as a desire to find peace remains strong beneath.",
+        "reversed": "Your inner self is slowly beginning to let go; healing dreams weave through the shadows of forgotten sorrows.",
+        "keywords": [
+          "subconscious dwelling",
+          "peace desire",
+          "inner letting go",
+          "healing dreams"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of the pain and regrets from the past, you struggle to shift focus towards remaining hopes and opportunities.",
+        "reversed": "You’re consciously embracing the path of healing and starting to perceive the positivity beyond past disappointments.",
+        "keywords": [
+          "awareness",
+          "pain struggle",
+          "healing path",
+          "positivity perception"
+        ]
+      },
+      "emotional_state": {
+        "upright": "A heaviness of heart predominates, overshadowing brighter emotions. There's an unseen resilience waiting to unfold.",
+        "reversed": "A hopeful stirring is taking root, amidst the echoes of past sorrow; emotions are beginning to lighten and grow resilient.",
+        "keywords": [
+          "heaviness",
+          "resilience",
+          "emotional stirring",
+          "hopeful growth"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs to heal and reclaim its lightness, sifting through the ashes of dreams to find embers of hope.",
+        "reversed": "A willingness to open your heart is emerging, seeing brokenness as a path to a deeper, more profound connection.",
+        "keywords": [
+          "heart healing",
+          "hope rekindling",
+          "openness",
+          "profound connection"
+        ]
+      },
+      "mind": {
+        "upright": "The mind is focused on loss, creating a narrative of scarcity. Finding ways to shift thought patterns can unlock new paths.",
+        "reversed": "Thoughts begin to clear, as understanding blossoms. Embrace the new narrative of growth and resilience that emerges.",
+        "keywords": [
+          "loss focus",
+          "thought pattern",
+          "clearing thoughts",
+          "narrative emergence"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Your environment may reinforce feelings of loss, mirroring internal sorrow. Seek spaces and people that encourage healing and hope.",
+        "reversed": "Supportive energies are becoming more apparent. External forces are aligning to facilitate your journey toward healing and acceptance.",
+        "keywords": [
+          "environment reinforcement",
+          "healing encouragement",
+          "supportive energies",
+          "alignment"
+        ]
+      },
+      "others": {
+        "upright": "Others might see you as consumed by grief or regret. Their reactions could unknowingly perpetuate your emotional state.",
+        "reversed": "People around you recognize your strides toward healing. Their empathy and support can offer strength and solace.",
+        "keywords": [
+          "grief perception",
+          "reactions",
+          "healing recognition",
+          "support strength"
+        ]
+      },
+      "environment": {
+        "upright": "Current surroundings could echo your emotional struggles. It’s vital to cultivate environments that support your peace and growth.",
+        "reversed": "Your environment is shifting toward positivity. Healing spaces and nurturing communities are supporting your transformation.",
+        "keywords": [
+          "echo struggles",
+          "supportive",
+          "positivity shift",
+          "nurturing"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You may be perceived as distant or emotionally absorbed, though this is often due to unseen vulnerabilities.",
+        "reversed": "Others notice a gradual lightening in your spirit. You’re seen as moving from past shadows into engaging with life’s light.",
+        "keywords": [
+          "distant",
+          "emotional absorption",
+          "lightening spirit",
+          "life engagement"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Subtly influencing your path are lessons from past losses. These hidden forces shape resilience and new understanding.",
+        "reversed": "Unseen healing energies are guiding you. Synchronicities bring new insights and fortify your journey toward forgiveness.",
+        "keywords": [
+          "hidden lessons",
+          "understanding",
+          "healing energies",
+          "synchronicities"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "The result will be shaped by how you navigate your grief. Acknowledgment leads to healing while dwelling leads to stagnation.",
+        "reversed": "An end to suffering comes from growth through acceptance and forgiveness, resulting in a life filled with renewed possibilities.",
+        "keywords": [
+          "acknowledgment",
+          "healing",
+          "growth",
+          "renewed possibilities"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, you can transform sorrow into wisdom and strengthen connections that endure the trials of loss and renewal.",
+        "reversed": "Final liberation and peace are found through the embrace of change, forgiving what was lost, and adopting a forward-thinking mindset.",
+        "keywords": [
+          "transformation",
+          "wisdom",
+          "liberation",
+          "forward-thinking"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "One consequence could be lingering in sadness, missing present joys. Seeing beyond this can unlock unexpected new paths.",
+        "reversed": "Potential lies in releasing burdens and welcoming a world of newfound strength and growth after moments of despair.",
+        "keywords": [
+          "lingering sadness",
+          "present joys",
+          "new paths",
+          "release"
+        ]
+      },
+      "best_case": {
+        "upright": "Best-case scenario involves growing from pain and nurturing meaningful relationships, which leads to emotional fulfillment.",
+        "reversed": "Optimally, full healing emerges when forgiveness is genuinely embraced, unlocking a life imbued with compassion and gratitude.",
+        "keywords": [
+          "growth",
+          "fulfillment",
+          "emotional satisfaction",
+          "unlocking"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst outcome is becoming stuck in melancholy, which can lead to missed opportunities and isolation from potential support.",
+        "reversed": "Failing to forgive can leave unresolved wounds that prevent long-term peace and happiness, leading to profound regret.",
+        "keywords": [
+          "stuck in melancholy",
+          "missed opportunities",
+          "unresolved",
+          "profound regret"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves grief, loss, and emotional disappointment. Between you exists the shared experience of something that didn't work out as hoped. This connection requires processing sorrow and finding a way to move forward together.",
+        "reversed": "The grieving process is complete or healing is beginning. Disappointment is being released or forgiveness is possible. The relationship involves moving beyond loss toward emotional recovery and renewed hope.",
+        "keywords": [
+          "grief",
+          "loss",
+          "disappointment",
+          "sorrow"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Feelings of loss or regret may overshadow the joy of past or current relationships. Recognize and cherish the love that remains.",
+      "reversed": "Healing after heartbreak occurs through forgiveness and emotional renewal, allowing space for new transformative relationships.",
+      "keywords": [
+        "relationship regret",
+        "love remaining",
+        "heartbreak healing",
+        "emotional renewal"
+      ]
+    },
+    "career": {
+      "upright": "Professional setbacks may feel overwhelming. Instead, focus on the opportunities that remain; reevaluate and innovate with what you have.",
+      "reversed": "You're on the verge of overcoming career disappointments, which leads to unexpected achievements and a refreshed outlook.",
+      "keywords": [
+        "setbacks",
+        "opportunities",
+        "overcoming",
+        "refreshed outlook"
+      ]
+    },
+    "spiritual": {
+      "upright": "A time of spiritual questioning might lead to feelings of disillusionment. Embrace the uncertainty as a catalyst for deeper insight.",
+      "reversed": "Previous spiritual challenges provide fertile ground for new understanding and a richer sense of connection to your path.",
+      "keywords": [
+        "spiritual questioning",
+        "disillusionment",
+        "insight",
+        "richer connection"
+      ]
+    },
+    "financial": {
+      "upright": "Losses or disappointments may create financial anxiety. Focus on long-term strategies and opportunities for recovery.",
+      "reversed": "A brighter financial horizon lies ahead as you let go of past difficulties and realign your efforts towards growth and abundance.",
+      "keywords": [
+        "financial anxiety",
+        "recovery",
+        "growth",
+        "abundance"
+      ]
+    },
+    "health": {
+      "upright": "Health challenges might cast a shadow over vitality. Focus on small steps towards recovery and acknowledge incremental progress.",
+      "reversed": "Healing is underway, supported by forgiveness and a commitment to well-being and emotional balance.",
+      "keywords": [
+        "health challenges",
+        "recovery steps",
+        "healing underway",
+        "emotional balance"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "scorpio",
+    "hebrew_letter": "hei",
+    "numerology": 5,
+    "planet": "mars",
+    "season": "autumn",
+    "time_of_day": "dusk",
+    "colors": [
+      "black",
+      "deep red",
+      "dark blue"
+    ],
+    "crystals": [
+      "obsidian",
+      "amethyst",
+      "smoky quartz"
+    ],
+    "herbs": [
+      "myrrh",
+      "sage",
+      "cypress"
+    ]
+  },
+  "symbols": {
+    "spilled_cups": "lost opportunities and grief",
+    "standing_cups": "potential left unnoticed",
+    "river": "emotional flow and healing",
+    "bridge": "passage from sorrow to hope",
+    "castle": "security and structure within reach"
+  },
+  "affirmations": [
+    "I honor my sorrow and allow it to teach me profound compassion.",
+    "I recognize what remains and embrace new opportunities with gratitude.",
+    "I transform my past experiences into wisdom and emotional resilience.",
+    "I trust in my ability to heal and forgive, paving the way for renewal."
+  ],
+  "journaling_prompts": [
+    "What lessons have my past losses taught me that I can carry forward?",
+    "How can I better appreciate the blessings that remain in my life?",
+    "What steps am I taking towards emotional healing and forgiveness?",
+    "Where can I extend compassion to myself in moments of grief?"
+  ],
+  "meditation_focus": "Visualizing the release of sorrow and the embrace of healing, welcoming lightness and new beginnings into your heart.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:42:05.010288",
+    "card_info": {
+      "name": "Five of Cups",
+      "number": 5,
+      "suit": "cups"
+    },
+    "filename": "c05.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_moon": {
+        "interpretation": "Deepened emotional insight and intuitive healing uncover subconscious influences on current feelings of loss and grief.",
+        "keywords": [
+          "deepened",
+          "emotional",
+          "insight",
+          "intuitive"
+        ]
+      },
+      "the_hanged_man": {
+        "interpretation": "Encourages a release from past expectations through surrender and gaining new perspectives on loss.",
+        "keywords": [
+          "encourages",
+          "release",
+          "past",
+          "expectations"
+        ]
+      },
+      "three_of_swords": {
+        "interpretation": "Brings acute awareness of emotional pain, encouraging a deep, transformative journey of healing.",
+        "keywords": [
+          "brings",
+          "acute",
+          "awareness",
+          "emotional"
+        ]
+      }
+    },
+    "challenges": {
+      "the_sun": {
+        "interpretation": "Balancing the desire for joy with navigating ongoing sadness. Striking harmony between light and dark emotional landscapes.",
+        "keywords": [
+          "balancing",
+          "desire",
+          "navigating",
+          "ongoing"
+        ]
+      },
+      "the_tower": {
+        "interpretation": "Sudden upheaval or disruption can intensify feelings of loss. Embrace the chaos as a gateway to transformation.",
+        "keywords": [
+          "sudden",
+          "upheaval",
+          "disruption",
+          "intensify"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Trust issues surface, complicating the path to healing and forgiveness. Encourages honesty and clarity.",
+        "keywords": [
+          "trust",
+          "issues",
+          "surface",
+          "complicating"
+        ]
+      }
+    },
+    "clarifies": {
+      "temperance": {
+        "interpretation": "Offers insight into achieving emotional equilibrium and focusing on balancing emotions and responses during trying times.",
+        "keywords": [
+          "offers",
+          "insight",
+          "achieving",
+          "emotional"
+        ]
+      },
+      "two_of_cups": {
+        "interpretation": "Clarifies relationship dynamics, highlighting the necessity for emotional honesty and the healing power of mutual support.",
+        "keywords": [
+          "clarifies",
+          "relationship",
+          "dynamics",
+          "highlighting"
+        ]
+      },
+      "strength": {
+        "interpretation": "Reveals hidden reserves of inner strength required to confront and transform grief into personal empowerment.",
+        "keywords": [
+          "reveals",
+          "hidden",
+          "reserves",
+          "inner"
+        ]
+      }
+    },
+    "similar_energy": {
+      "nine_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "four_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "six_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

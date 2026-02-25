@@ -1,0 +1,684 @@
+{
+  "card_id": "the_hanged_man",
+  "card_name": "The Hanged Man",
+  "card_number": 12,
+  "suit": "major_arcana",
+  "archetype": "the_martyr",
+  "core_meanings": {
+    "upright": {
+      "essence": "A moment of suspension and surrender, inviting fresh perspectives and deep introspection. The pause that reveals truth.",
+      "keywords": [
+        "surrender",
+        "pause",
+        "new perspective",
+        "suspension",
+        "letting go",
+        "sacrifice",
+        "insight",
+        "stillness"
+      ],
+      "psychological": "Represents the willingness to release control and embrace uncertainty as fertile ground for inner transformation and new insights.",
+      "spiritual": "The soul's journey into surrender and acceptance. Awakening through detachment and non-resistance to life’s unfolding.",
+      "practical": "Encourages stepping back to allow intuitive insights. Accept delays as opportunities for realignment and deeper understanding.",
+      "shadow": "Stagnation born from fear of moving forward. Avoidance of responsibility disguised as spiritual sacrifice or waiting."
+    },
+    "reversed": {
+      "essence": "Resistance to necessary sacrifice, leading to stagnation. Clinging to old perspectives and fear of change.",
+      "keywords": [
+        "resistance",
+        "delay",
+        "stagnation",
+        "sacrifice avoided",
+        "indecision",
+        "release needed",
+        "fear of change"
+      ],
+      "psychological": "Fearful of surrender, the psyche clings to familiar patterns to avoid discomfort and vulnerability.",
+      "spiritual": "Disconnection from spiritual growth due to lack of trust in life's cycles. Need to embrace acceptance to progress.",
+      "practical": "Indicates procrastination and inability to flow with life. Recognizes the need for a shift that often feels daunting.",
+      "shadow": "Avoiding clear action under the guise of contemplation leads to missed opportunities and spiritual stagnation."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A pivotal moment of surrender in your past allowed for profound growth. This shift laid the foundation for your current path.",
+        "reversed": "Past resistance to necessary change has left lingering effects in your present. Something significant was left unresolved.",
+        "keywords": [
+          "past surrender",
+          "foundational pause",
+          "lingering resistance",
+          "unresolved change"
+        ]
+      },
+      "distant_past": {
+        "upright": "A long-ago sacrifice or moment of introspection shaped current circumstances, echoing wisdom through time.",
+        "reversed": "Early avoidance of change created a ripple of stagnation. Old patterns may still be influencing today's choices.",
+        "keywords": [
+          "early sacrifice",
+          "ancient wisdom",
+          "old avoidance",
+          "pattern echo"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent introspection and willingness to see from a new perspective have set the stage for current insights.",
+        "reversed": "Recent indecision or resistance to change is still affecting the present moment, suggesting a need for release.",
+        "keywords": [
+          "recent insight",
+          "new perspective",
+          "current indecision",
+          "need for release"
+        ]
+      },
+      "present": {
+        "upright": "You're in a phase of suspension where surrender and a shift in perception are crucial. Embrace this pause.",
+        "reversed": "Current feeling of being stuck indicates fear of letting go. Examine what you’re resisting to find clarity.",
+        "keywords": [
+          "current suspension",
+          "necessary pause",
+          "feeling stuck",
+          "resistance"
+        ]
+      },
+      "present_situation": {
+        "upright": "The essence of your situation is about accepting delays and finding peace in the present uncertainty.",
+        "reversed": "The core issue relates to resistance and the unwillingness to shift perspective, manifesting as dissatisfaction.",
+        "keywords": [
+          "accept delays",
+          "peace in pause",
+          "resistance core",
+          "unwillingness to shift"
+        ]
+      },
+      "future": {
+        "upright": "When the moment is right, a new path will be revealed. Trust that this period of stillness will lead to wisdom.",
+        "reversed": "Future challenges may arise from current unwillingness to accept what is. Clarity will come through surrender.",
+        "keywords": [
+          "future clarity",
+          "new path revealed",
+          "challenges ahead",
+          "wisdom through surrender"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a shift in perspective will illuminate your path. This period of waiting is nearly over.",
+        "reversed": "In the immediate future, unresolved resistance could cause further delays. Acceptance will ease the way.",
+        "keywords": [
+          "upcoming clarity",
+          "shift ahead",
+          "immediate delay",
+          "need for acceptance"
+        ]
+      },
+      "distant_future": {
+        "upright": "Your current inner work will eventually lead to a profound transformation and acquisition of deep wisdom.",
+        "reversed": "Long-term stagnation possible if resistance to growth continues. Embrace change to alter this trajectory.",
+        "keywords": [
+          "profound transformation",
+          "deep wisdom",
+          "long-term stagnation",
+          "embrace change"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge involves embracing uncertainty and releasing the need to control outcomes. Find comfort in stillness.",
+        "reversed": "Challenge lies in confronting the fear of change and breaking free from patterns that no longer serve you.",
+        "keywords": [
+          "embracing uncertainty",
+          "releasing control",
+          "confronting fears",
+          "breaking patterns"
+        ]
+      },
+      "cross": {
+        "upright": "External forces resist your inner peace, wanting hurried progress. Trust in your timing rather than others’ urgency.",
+        "reversed": "Internal conflict between comfort and growth creates resistance that hampers spiritual development.",
+        "keywords": [
+          "external resistance",
+          "inner peace",
+          "internal conflict",
+          "spiritual hamper"
+        ]
+      },
+      "obstacle": {
+        "upright": "Impatience and the need for results create obstacles to embracing the beneficial pause of the moment.",
+        "reversed": "Fear-based resistance acts as a barrier to progress, keeping you bound to old, unproductive cycles.",
+        "keywords": [
+          "impatience",
+          "need for results",
+          "fear-based resistance",
+          "old cycles"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to find wisdom in waiting. True insights come from the willingness to be suspended and open to new perspectives.",
+        "reversed": "The lesson is about letting go of fear and embracing transformation as a necessary step for spiritual evolution.",
+        "keywords": [
+          "wisdom in waiting",
+          "new perspectives",
+          "release of fear",
+          "embracing transformation"
+        ]
+      },
+      "shadow": {
+        "upright": "The shadow may reveal a tendency to over-sacrifice or stay passive as a way to avoid taking decisive action.",
+        "reversed": "Hidden avoidance of discomfort prevents the necessary actions for breaking through stagnation. Face these fears.",
+        "keywords": [
+          "over-sacrifice",
+          "passive avoidance",
+          "discomfort avoidance",
+          "face fears"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Attachment to outcomes and an inability to trust the process hinders the opportunity for profound insight and growth.",
+        "reversed": "Stubbornness and fear of letting go hinder the release needed for alignment with your true purpose.",
+        "keywords": [
+          "attachment to outcomes",
+          "distrust of process",
+          "stubbornness",
+          "fear of release"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace the stillness and open your mind to new perspectives. Surrendering control is an act of empowerment.",
+        "reversed": "Consider what you are afraid to lose and how this fear limits you. Let go to find clarity and move forward.",
+        "keywords": [
+          "embrace stillness",
+          "new perspectives",
+          "surrender control",
+          "find clarity"
+        ]
+      },
+      "action": {
+        "upright": "Allow time for contemplation and introspection. This pause is necessary for the emergence of true understanding.",
+        "reversed": "Take small, courageous actions towards letting go of limiting beliefs. Begin to trust the unknown.",
+        "keywords": [
+          "contemplation",
+          "introspection",
+          "courageous actions",
+          "trust unknown"
+        ]
+      },
+      "your_approach": {
+        "upright": "You may see yourself as open to life's mysteries, valuing patience and the deeper wisdom that solitude can bring.",
+        "reversed": "You might perceive yourself as trapped or hindered by indecision, feeling unable to move forward.",
+        "keywords": [
+          "openness to mystery",
+          "value patience",
+          "perceived trap",
+          "indecision"
+        ]
+      },
+      "what_helps": {
+        "upright": "Cultivating patience and a willingness to embrace new perspectives will help navigate this transitional phase.",
+        "reversed": "Help comes through releasing the fear of change and embracing the freedom found within surrender.",
+        "keywords": [
+          "cultivate patience",
+          "embrace perspectives",
+          "release fear",
+          "freedom in surrender"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust that life is supporting you in unseen ways. Surrender to the present and align with your highest path.",
+        "reversed": "Guidance lies in accepting life's natural cycles and releasing resistance to flow with transformative energy.",
+        "keywords": [
+          "life support",
+          "present surrender",
+          "accept cycles",
+          "release resistance"
+        ]
+      },
+      "best_course": {
+        "upright": "Adopting an open mind and heart is the best course. Evolve through stillness and embrace the wisdom of pause.",
+        "reversed": "The best course involves recognizing the value of discomfort and using it as a catalyst for needed change.",
+        "keywords": [
+          "open mind and heart",
+          "wisdom of pause",
+          "value discomfort",
+          "catalyst for change"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope lies in the desire for enlightenment and true understanding. Fear arises from the vulnerability of surrender.",
+        "reversed": "Fear of change or loss of control overshadows hope for growth and transformation.",
+        "keywords": [
+          "desire for enlightenment",
+          "fear of surrender",
+          "fear of change",
+          "control loss"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to gain insights that bring peace and illuminate your path forward in unexpected yet delightful ways.",
+        "reversed": "Hope may be clouded by unrealistic expectations or an unwillingness to accept the current pace of life.",
+        "keywords": [
+          "insightful peace",
+          "illuminated path",
+          "expectation cloud",
+          "acceptance pace"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of letting go and being truly vulnerable can prevent the depth of wisdom awaiting your acceptance.",
+        "reversed": "Fear of stagnation or making the wrong decision keeps you bound in cycles of hesitation.",
+        "keywords": [
+          "fear of letting go",
+          "vulnerability",
+          "stagnation fear",
+          "decision hesitation"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously drawn towards inner peace and the discovery of deeper truths through acceptance and surrender.",
+        "reversed": "Subconscious resistance to change masks itself as fear and hesitation, preventing profound transformation.",
+        "keywords": [
+          "inner peace",
+          "discovery truth",
+          "resistance mask",
+          "prevent transformation"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you’re aware of the need to let go and embrace a new perspective, inviting fresh insights.",
+        "reversed": "Consciously struggling with indecision, unsure whether to hold on or let go into uncertainty.",
+        "keywords": [
+          "awareness of need",
+          "fresh insights",
+          "indecision struggle",
+          "uncertain let go"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, there is a sense of calm and willingness to be present in the moment, fostering inner growth.",
+        "reversed": "Emotionally, there’s a sense of frustration and fear of being stuck, needing release and clarity.",
+        "keywords": [
+          "calm presence",
+          "inner growth",
+          "frustration",
+          "fear of being stuck"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs for openness and the courage to trust in the wisdom of life’s unfolding mysteries.",
+        "reversed": "Your heart might be reluctant to embrace change, fearing loss and vulnerability.",
+        "keywords": [
+          "longing for openness",
+          "courage to trust",
+          "reluctance",
+          "fear vulnerability"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, there is a readiness to explore new perspectives, valuing the wisdom that comes from patience.",
+        "reversed": "The mind wrestles with uncertainty and seeks control, fearing the unknown and clinging to familiar patterns.",
+        "keywords": [
+          "readiness to explore",
+          "valuing wisdom",
+          "mental wrestling",
+          "clinging to patterns"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "The environment encourages contemplation and offers the space needed for self-reflection and insight.",
+        "reversed": "External chaos or pressures amplify feelings of stagnation and resistance to change.",
+        "keywords": [
+          "space for reflection",
+          "encouragement",
+          "external chaos",
+          "pressure amplification"
+        ]
+      },
+      "others": {
+        "upright": "People around you may respect your need for space and provide support as you navigate this inward journey.",
+        "reversed": "Others may either unwittingly hinder your process through impatience or contribute to your sense of paralysis.",
+        "keywords": [
+          "respect for space",
+          "support",
+          "impatience",
+          "sense of paralysis"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment is composed of elements that foster stillness and support personal transformation.",
+        "reversed": "Environmental factors contribute to feelings of inertia, making change seem harder than it is.",
+        "keywords": [
+          "supportive elements",
+          "stillness",
+          "factors of inertia",
+          "difficult change"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others perceive you as contemplative and wise, appreciating your ability to pause and reflect.",
+        "reversed": "You may be seen as indecisive or stuck, perhaps misunderstood in your need for deeper introspection.",
+        "keywords": [
+          "perceived as wise",
+          "contemplative",
+          "seen as indecisive",
+          "misunderstood"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen spiritual forces guide you toward deeper revelations and acceptance of life's timing.",
+        "reversed": "Hidden fears and unrecognized resistance block the full potential of transformation and growth.",
+        "keywords": [
+          "spiritual guidance",
+          "deeper revelations",
+          "hidden fears",
+          "unrecognized resistance"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "A decisive shift occurs, releasing old patterns and opening the door to enlightenment and new beginnings.",
+        "reversed": "Potentials remain unrealized if resistance persists. Release is needed to avoid prolonged stagnation.",
+        "keywords": [
+          "decisive shift",
+          "old pattern release",
+          "unrealized potentials",
+          "prolonged stagnation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, your surrender leads to profound insights and spiritual enlightenment that guide you forward.",
+        "reversed": "A final outcome involves either ongoing discomfort due to resistance or courageously stepping into transformation.",
+        "keywords": [
+          "profound insights",
+          "enlightenment",
+          "ongoing discomfort",
+          "courageous transformation"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Willingness to embrace change leads to enlightened perspectives and unexpected pathways previously unseen.",
+        "reversed": "Missed opportunities and repeated cycles of stagnation if change is continuously resisted.",
+        "keywords": [
+          "enlightened perspectives",
+          "unexpected pathways",
+          "missed opportunities",
+          "repeated cycles"
+        ]
+      },
+      "best_case": {
+        "upright": "Best outcome includes newfound wisdom through acceptance, leading to inspired action and fulfillment.",
+        "reversed": "Perceiving this as the best case may involve avoiding responsibility and delaying necessary change.",
+        "keywords": [
+          "newfound wisdom",
+          "inspired action",
+          "fulfillment",
+          "avoiding responsibility"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst scenario involves misunderstanding the value of pause, leading to unnecessary sacrifice and missed insights.",
+        "reversed": "Avoided transformation results in long-term dissatisfaction and regret for not embracing necessary changes.",
+        "keywords": [
+          "misunderstanding pause",
+          "unnecessary sacrifice",
+          "avoided transformation",
+          "long-term regret"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This connection involves surrender, patience, and seeing from new perspectives. The dynamic between you requires letting go of control and trusting in the process. You help each other find wisdom through waiting and accepting what cannot be changed.",
+        "reversed": "The relationship may involve unnecessary martyrdom, stagnation, or resistance to needed sacrifice. One party may give up too much or refuse to make necessary compromises. Progress may be blocked by stubborn attachment to outdated perspectives.",
+        "keywords": [
+          "surrender",
+          "patience",
+          "perspective",
+          "sacrifice"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A pause for reflection helps redefine what love means to you. Embrace this time to gain clarity on your heart's desires.",
+      "reversed": "Avoiding necessary changes in love may lead to stagnation. Address fears of vulnerability to open pathways to growth.",
+      "keywords": [
+        "reflection",
+        "clarity on desires",
+        "avoid stagnation",
+        "open pathways"
+      ]
+    },
+    "career": {
+      "upright": "Career suspension invites new perspectives. Trust the process as insights into your true path unfold.",
+      "reversed": "Resisting change in career may keep you stuck. Embrace innovation to ignite transformation in professional life.",
+      "keywords": [
+        "career suspension",
+        "process trust",
+        "resisting change",
+        "ignition transformation"
+      ]
+    },
+    "spiritual": {
+      "upright": "A spiritual halt invites deepened awareness and connection to inner wisdom. Surrender to this transformative phase.",
+      "reversed": "Spiritual growth is hindered by avoidance of introspection. Open yourself to the unknown for profound insights.",
+      "keywords": [
+        "spiritual halt",
+        "deepened awareness",
+        "hindered growth",
+        "unknown insights"
+      ]
+    },
+    "financial": {
+      "upright": "Financial pause allows re-evaluation of priorities and strategies. Insights emerge from stillness and reflection.",
+      "reversed": "Indecision harms financial growth. Recognize and release fears to make clear, strategic choices.",
+      "keywords": [
+        "financial pause",
+        "re-evaluation",
+        "indecision harm",
+        "strategic choices"
+      ]
+    },
+    "health": {
+      "upright": "A break invites you to tune into your body's needs, fostering healing and rejuvenation through mindful surrender.",
+      "reversed": "Ignoring health cues leads to stagnation. Recognize and act on the changes necessary for well-being.",
+      "keywords": [
+        "break invitation",
+        "body's needs",
+        "ignoring cues",
+        "necessary change"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "neptune",
+    "hebrew_letter": "mem",
+    "numerology": 12,
+    "planet": "neptune",
+    "season": "autumn",
+    "time_of_day": "dusk",
+    "colors": [
+      "blue",
+      "silver",
+      "indigo"
+    ],
+    "crystals": [
+      "amethyst",
+      "sodalite",
+      "moonstone"
+    ],
+    "herbs": [
+      "sage",
+      "mugwort",
+      "chamomile"
+    ]
+  },
+  "symbols": {
+    "upside_down_cross": "sacrifice and transformation through surrender",
+    "halo": "enlightenment and divine insight",
+    "blue_tunic": "serenity and depth of understanding",
+    "foot_at_knee": "divine yoga of spiritual balance and patience",
+    "tree": "connection to the world and grounded perspective"
+  },
+  "affirmations": [
+    "I surrender to the wisdom of the pause.",
+    "Through letting go, I invite new perspectives and insights.",
+    "I trust in the unfolding journey, finding peace in stillness.",
+    "Transformation comes when I embrace what is."
+  ],
+  "journaling_prompts": [
+    "What am I holding onto that I need to release?",
+    "How can accepting stillness lead me to new insights?",
+    "In what ways could a change in perspective benefit me?",
+    "Where in my life am I resisting necessary transformation?"
+  ],
+  "meditation_focus": "Resting in the stillness of the present moment, inviting clarity and understanding through release.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:20:45.753463",
+    "card_info": {
+      "name": "The Hanged Man",
+      "number": 12,
+      "suit": "major_arcana"
+    },
+    "filename": "m12.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_hermit": {
+        "interpretation": "Deepened introspection leading to profound enlightenment and solitude that nurtures growth.",
+        "keywords": [
+          "deepened",
+          "introspection",
+          "leading",
+          "profound"
+        ]
+      },
+      "the_moon": {
+        "interpretation": "Heightened intuition and deeper exploration of hidden emotions, embracing the mystery of transformation.",
+        "keywords": [
+          "heightened",
+          "intuition",
+          "deeper",
+          "exploration"
+        ]
+      },
+      "justice": {
+        "interpretation": "Balancing surrender with fairness and truth, achieving clarity through acceptance.",
+        "keywords": [
+          "balancing",
+          "surrender",
+          "fairness",
+          "truth"
+        ]
+      }
+    },
+    "challenges": {
+      "the_chariot": {
+        "interpretation": "Balance struggle between action and inaction, finding alignment in direction and purpose.",
+        "keywords": [
+          "balance",
+          "struggle",
+          "action",
+          "inaction"
+        ]
+      },
+      "the_emperor": {
+        "interpretation": "Resistance from rigid structures and authority. Need to blend control with acceptance.",
+        "keywords": [
+          "resistance",
+          "rigid",
+          "structures",
+          "authority"
+        ]
+      },
+      "strength": {
+        "interpretation": "Inner conflict between gentle surrender and courageous determination.",
+        "keywords": [
+          "inner",
+          "conflict",
+          "gentle",
+          "surrender"
+        ]
+      }
+    },
+    "clarifies": {
+      "death": {
+        "interpretation": "Illuminates the necessary surrender in transformation and the peaceful acceptance of endings.",
+        "keywords": [
+          "illuminates",
+          "necessary",
+          "surrender",
+          "transformation"
+        ]
+      },
+      "temperance": {
+        "interpretation": "Highlights the importance of finding peace in balance and patience during awaiting change.",
+        "keywords": [
+          "highlights",
+          "importance",
+          "finding",
+          "peace"
+        ]
+      },
+      "four_of_swords": {
+        "interpretation": "Clarifies value of rest and thoughtful pause as a bridge to healing and reconciliation.",
+        "keywords": [
+          "clarifies",
+          "value",
+          "rest",
+          "thoughtful"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_hermit": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_emperor": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "death": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "card_id": "page_of_cups",
+  "card_name": "Page of Cups",
+  "card_number": 11,
+  "suit": "cups",
+  "archetype": "the_dreamer",
+  "core_meanings": {
+    "upright": {
+      "essence": "The messenger of intuition and emotional curiosity, inviting us to explore depths of imagination and heartfelt connection.",
+      "keywords": [
+        "intuition",
+        "curiosity",
+        "creativity",
+        "emotional openness",
+        "kindness",
+        "dreams",
+        "beginnings"
+      ],
+      "psychological": "Represents the part of us that remains open to emotional discovery and new experiences, unafraid to explore the inner world.",
+      "spiritual": "An invitation to reconnect with the innocence of your soul and the boundless possibilities of spiritual exploration through empathy.",
+      "practical": "Encourage imaginative solutions or creative beginnings. Embrace opportunities that evoke emotional growth or artistic expression.",
+      "shadow": "Susceptibility to emotional naivety, unrealistic fantasies, or avoidance of practical realities."
+    },
+    "reversed": {
+      "essence": "Blocked emotional expression and stifled creativity, resulting in stagnation or confusion about feelings.",
+      "keywords": [
+        "emotional immaturity",
+        "lack of creativity",
+        "disappointment",
+        "self-doubt",
+        "avoidance"
+      ],
+      "psychological": "Represents the shadow side of emotional vulnerability, where fear prevents potential connection or artistic expression.",
+      "spiritual": "Disconnection from intuitive wisdom or spiritual promptings due to fear of vulnerability or fear of the unknown.",
+      "practical": "Challenges in expressing emotions authentically or recognizing offer of love. Need to ground dreams in reality.",
+      "shadow": "Emotional impulsiveness or detachment preventing meaningful progress or connections."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A period of emotional discovery or newfound relationships paved the way for your current emotional landscape.",
+        "reversed": "Past emotional immaturity or neglect of intuition continues to affect you, leading to unresolved feelings.",
+        "keywords": [
+          "emotional discovery",
+          "past relationships",
+          "foundation",
+          "unresolved emotions"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a significant connection or creative awakening shaped your approach to emotions and intuition.",
+        "reversed": "Old patterns of emotional avoidance or fanciful thinking created barriers you still navigate today.",
+        "keywords": [
+          "early awakening",
+          "past innocence",
+          "original patterns",
+          "barriers"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently, you've felt prompted to embrace feelings or creative pursuits, affecting your current reality positively.",
+        "reversed": "Recent disappointments or creative blockages may be influencing present circumstances, needing resolution.",
+        "keywords": [
+          "recent promptings",
+          "creative pursuit",
+          "disappointments",
+          "blockages"
+        ]
+      },
+      "present": {
+        "upright": "The present offers an opportunity to dive into new emotional experiences or let creativity flourish. Stay open and receptive.",
+        "reversed": "You may be ignoring emotional signals or creative urges, leading to stagnation. Time to reassess and reengage.",
+        "keywords": [
+          "present opportunity",
+          "emotional growth",
+          "creative flow",
+          "stagnation"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, you're navigating emotional waters with curiosity and a willingness to explore uncharted territory.",
+        "reversed": "Core issues involve emotional blockages or reluctance to express your true feelings, leading to internal conflict.",
+        "keywords": [
+          "emotional waters",
+          "curiosity",
+          "blockages",
+          "internal conflict"
+        ]
+      },
+      "future": {
+        "upright": "A future rich with emotional depth and creative potential awaits. Be ready to receive and nurture these gifts.",
+        "reversed": "Future challenges may arise from ignoring emotional needs or creativity, leading to missed opportunities for growth.",
+        "keywords": [
+          "emotional depth",
+          "creative potential",
+          "future challenges",
+          "growth"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, you'll be inspired to engage with a new emotional or creative project. Let your heart guide you.",
+        "reversed": "Upcoming issues may stem from unacknowledged feelings or creative frustrations that require attention.",
+        "keywords": [
+          "imminent inspiration",
+          "heart's guidance",
+          "unacknowledged feelings",
+          "frustrations"
+        ]
+      },
+      "distant_future": {
+        "upright": "In time, living with emotional openness and creative exploration will lead to profound personal fulfillment.",
+        "reversed": "Long-term effects of ignoring emotional or intuitive insights may lead to unfulfilled potential or dissatisfaction.",
+        "keywords": [
+          "personal fulfillment",
+          "long-term effects",
+          "potential",
+          "dissatisfaction"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to remain open to emotions and intuition without losing grounding. Balance dreams with practical steps.",
+        "reversed": "Facing fears of vulnerability or expressing creativity without fear of judgment poses a significant challenge.",
+        "keywords": [
+          "emotional openness",
+          "grounding",
+          "vulnerability",
+          "creative expression"
+        ]
+      },
+      "cross": {
+        "upright": "External skepticism or internal doubt about your emotional depth or creative endeavors may create resistance.",
+        "reversed": "Crossed by overwhelming sensitivity or introversion preventing effective emotional or creative expression.",
+        "keywords": [
+          "skepticism",
+          "doubt",
+          "sensitivity",
+          "introversion"
+        ]
+      },
+      "obstacle": {
+        "upright": "An obstacle might be a reluctance to trust your feelings or pursue creative inclinations genuinely.",
+        "reversed": "Dismissing emotional insights or neglecting creative aspirations in favor of practicality hinders progress.",
+        "keywords": [
+          "reluctance",
+          "trust issues",
+          "neglecting insights",
+          "practicality"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to celebrate your inner dreamer while anchoring ideas in reality. Embrace and refine your emotional intelligence.",
+        "reversed": "The lesson centers around integrating emotional empathy with practical wisdom and acknowledging fears.",
+        "keywords": [
+          "inner dreamer",
+          "anchoring ideas",
+          "emotional empathy",
+          "wisdom"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow contains hidden creative potential and emotional sensitivity needing acceptance and transformation.",
+        "reversed": "Unacknowledged fears around vulnerability or creativity may sabotage your growth. Bring light to these shadows.",
+        "keywords": [
+          "hidden potential",
+          "sensitivity",
+          "unacknowledged fears",
+          "sabotage"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Doubts from past failures in expressing emotions or creativity prevent you from seizing current opportunities.",
+        "reversed": "Fear of emotional depth or artistic failure inhibits your ability to fully engage with present potential.",
+        "keywords": [
+          "past failures",
+          "current opportunities",
+          "emotional depth",
+          "artistic failure"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Nurture your emotional and creative sides. Small acts of openness can lead to great insights and fulfilling connections.",
+        "reversed": "Reflect on blocked emotions or creative dreams. Allow yourself the freedom to explore these worlds without fear.",
+        "keywords": [
+          "nurture openness",
+          "emotional insights",
+          "reflect",
+          "freedom"
+        ]
+      },
+      "action": {
+        "upright": "Act on your inspirations, allowing your heart to lead. Engage with art, music, or writing to express emotions genuinely.",
+        "reversed": "Step back and assess why you hesitate to express feelings or creative ideas. Ground these energies constructively.",
+        "keywords": [
+          "heart-led actions",
+          "genuine expression",
+          "hesitation",
+          "constructive grounding"
+        ]
+      },
+      "your_approach": {
+        "upright": "Approach situations with empathy and a willingness to hear your inner voice, inviting emotional richness.",
+        "reversed": "You may be approaching situations with avoidance or fear, blocking authentic interactions with others or yourself.",
+        "keywords": [
+          "empathy",
+          "inner voice",
+          "avoidance",
+          "authenticity"
+        ]
+      },
+      "what_helps": {
+        "upright": "Supportive environments and people who value creativity and emotional exploration bolster your journey.",
+        "reversed": "Help comes from recognizing and dissolving self-imposed limits on your emotional and creative capacities.",
+        "keywords": [
+          "supportive environments",
+          "emotional exploration",
+          "self-imposed limits",
+          "recognizing help"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual guidance encourages you to trust your emotional wisdom and let your creativity flow without barriers.",
+        "reversed": "Seek balance between emotional authenticity and pragmatic action. Trust your heart, but keep your feet on the ground.",
+        "keywords": [
+          "emotional wisdom",
+          "authenticity",
+          "balance",
+          "pragmatism"
+        ]
+      },
+      "best_course": {
+        "upright": "Follow paths that ignite emotional and creative passion. Let intuition guide disciplined, imaginative actions.",
+        "reversed": "The best course involves reconsidering neglected dreams or emotions, committing to them with renewed intention.",
+        "keywords": [
+          "passionate paths",
+          "intuitive guidance",
+          "neglected dreams",
+          "renewed intention"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to emotionally connect and creatively express with freedom. Fear of vulnerability or rejection may linger.",
+        "reversed": "Fear of judgment constrains hopes for emotional fulfillment or artistic authenticity. Time for inner reconciliation.",
+        "keywords": [
+          "emotional connection",
+          "creative freedom",
+          "vulnerability",
+          "inner reconciliation"
+        ]
+      },
+      "hopes": {
+        "upright": "You aspire to explore emotions deeply and create a tapestry of imagination and heartfelt joy in your life.",
+        "reversed": "Hopes for personal growth may feel stalled by self-doubt or fear of exposure. Let gentleness guide you forward.",
+        "keywords": [
+          "deep exploration",
+          "imagination",
+          "personal growth",
+          "gentleness"
+        ]
+      },
+      "fears": {
+        "upright": "Fear losing emotional freedom or fear of being consumed by emotion, leading to withdrawal or hesitation.",
+        "reversed": "Fear of facing inner emotional truths or potential of creative failure restricts your true expression.",
+        "keywords": [
+          "emotional freedom",
+          "withdrawal",
+          "inner truths",
+          "creative failure"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by a desire to experience emotional richness and transformative creativity. Tread broad, unexplored pathways.",
+        "reversed": "Internal scarcity or unspoken feelings reside beneath, needing unearthing to rediscover life's colorful beauty.",
+        "keywords": [
+          "emotional richness",
+          "unexplored pathways",
+          "unspoken feelings",
+          "life's beauty"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you see value in emotional honesty and artistic exploration. Nurture what fuels your spirit.",
+        "reversed": "You may consciously block creativity from fear of failure or rejection, creating internal barriers needing dismantling.",
+        "keywords": [
+          "emotional honesty",
+          "artistic exploration",
+          "fear-based blocking",
+          "internal barriers"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel vibrant and eager to explore new depths of emotion and inspiration that color your reality.",
+        "reversed": "Emotional state involves feeling stuck or creatively unfulfilled. Open the mind to new perspectives and possibilities.",
+        "keywords": [
+          "vibrancy",
+          "eager exploration",
+          "feeling stuck",
+          "new perspectives"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs for sincere emotional experiences and creative ventures, whispering possibilities in every beat.",
+        "reversed": "Heart wisdom may be ignored, leading to closed emotional doors. Listen to its guidance and find new openness.",
+        "keywords": [
+          "sincere experiences",
+          "creative ventures",
+          "closing doors",
+          "openness"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, you appreciate each emotional wave as a teacher and embrace imagination as an ally on life’s journey.",
+        "reversed": "Mental resistance to emotional or creative insights creates conflict. Harmonize logic with intuition for clarity.",
+        "keywords": [
+          "emotional teacher",
+          "imagination",
+          "resistance",
+          "harmony"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Your emotional and creative presence inspires those around you, inviting warmth and affection into interactions.",
+        "reversed": "Others may resist your emotional depth, causing strain or misunderstanding in relationships.",
+        "keywords": [
+          "inspirational presence",
+          "warmth",
+          "resistance",
+          "misunderstanding"
+        ]
+      },
+      "others": {
+        "upright": "People around you provide encouragement and inspiration, nurturing your emotional and creative explorations.",
+        "reversed": "Others challenge your openness, either through skepticism or failure to understand your perspective.",
+        "keywords": [
+          "encouragement",
+          "inspiration",
+          "challenge",
+          "skepticism"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment supports artistic endeavors and open dialogue, facilitating growth and emotional expression.",
+        "reversed": "Stifling environments or relationships may inhibit your natural expression, necessitating change or adjustment.",
+        "keywords": [
+          "artistic support",
+          "open dialogue",
+          "stifled expression",
+          "adjustment"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You are seen as compassionate and creative, bringing light and inspiration to those around you through your vibrant presence.",
+        "reversed": "Perceptions may be of someone scattered or overly sentimental, leading to misinterpretations.",
+        "keywords": [
+          "compassion",
+          "creativity",
+          "scattered",
+          "misinterpretation"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces may be guiding you towards profound emotional insights and creative breakthroughs without your full awareness.",
+        "reversed": "Hidden fears or doubts cloud your vision, affecting your ability to see opportunities clearly.",
+        "keywords": [
+          "emotional insights",
+          "creative breakthroughs",
+          "hidden fears",
+          "clouded vision"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Your journey leads to emotional fulfillment and creative growth, enriching your life with beauty and connection.",
+        "reversed": "Results may involve missed opportunities due to inaction or fear. Rediscovery of confidence is key to change.",
+        "keywords": [
+          "fulfillment",
+          "growth",
+          "missed opportunities",
+          "confidence"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, emotional bravery and creative authenticity bring about transformative experiences and lasting joy.",
+        "reversed": "Final outcomes may involve realizing the need to reengage with suppressed emotions or dreams for genuine satisfaction.",
+        "keywords": [
+          "emotional bravery",
+          "transformative experiences",
+          "suppressed dreams",
+          "satisfaction"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possibilities include experiencing profound creativity and harmonious emotional relationships, expanding your horizons.",
+        "reversed": "Missed paths and emotional stagnation may arise from unwillingness to explore or express your truth.",
+        "keywords": [
+          "profound creativity",
+          "harmonious relationships",
+          "missed paths",
+          "stagnation"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenarios involve aligning intuition with action for enriched emotional landscapes and fulfilling creations.",
+        "reversed": "Best case involves realizing and overcoming emotional blockages through self-compassion and dialogue.",
+        "keywords": [
+          "alignment",
+          "enriched landscapes",
+          "emotional blockages",
+          "self-compassion"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves becoming lost in dreams without direction. Needs reevaluation of goals for clarity.",
+        "reversed": "Worst outcomes involve emotional shutdown and creative void, resulting in feeling disconnected from self and others.",
+        "keywords": [
+          "lost in dreams",
+          "reevaluation",
+          "emotional shutdown",
+          "disconnected"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic embodies youthful emotion, romantic idealism, and intuitive messages between hearts. This connection involves tender feelings, creative inspiration, and the pure expression of emotional truth without worldly concerns.",
+        "reversed": "The romantic idealism may be immature or unrealistic. Emotional expression might be blocked or manipulative. The relationship could involve emotional immaturity, creative blocks, or difficulty expressing genuine feelings.",
+        "keywords": [
+          "romance",
+          "idealism",
+          "intuition",
+          "tenderness"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "New emotional beginnings or messages of love arrive with sincere intentions. Open your heart to possibility and connection.",
+      "reversed": "Emotional immaturity or withheld feelings may hinder love's progress. Reflect on deeper needs in relationships.",
+      "keywords": [
+        "emotional beginnings",
+        "sincere love",
+        "immaturity",
+        "deeper needs"
+      ]
+    },
+    "career": {
+      "upright": "A career path full of creativity and emotional engagement awaits. Use intuition in choice and professional relationships.",
+      "reversed": "Confusion or lack of direction disrupts career fulfillment. Assert your creative vision and seek clarity in desires.",
+      "keywords": [
+        "creative career",
+        "emotional engagement",
+        "lack of direction",
+        "clarity"
+      ]
+    },
+    "spiritual": {
+      "upright": "Explore spirituality through empathy and imagination. Spiritual perceptions deepen, leading to greater understanding.",
+      "reversed": "Disconnection from spiritual roots or avoidance of inner journeys creates a need for genuine introspection and action.",
+      "keywords": [
+        "empathy",
+        "spiritual depth",
+        "disconnection",
+        "introspection"
+      ]
+    },
+    "financial": {
+      "upright": "Financial opportunities may arise from creative ideas or empathetic ventures. Trust intuitive insights for prosperity.",
+      "reversed": "Emotional spending or lack of pragmatic planning may affect stability. Balance creativity with practical strategy.",
+      "keywords": [
+        "creative finances",
+        "empathy ventures",
+        "emotional spending",
+        "strategy"
+      ]
+    },
+    "health": {
+      "upright": "Emotional wellness and self-expression contribute to overall health. Engage in activities that align mind, body, and spirit.",
+      "reversed": "Neglecting emotional health impacts physical well-being. Reconnect with inner needs through mindful practices.",
+      "keywords": [
+        "emotional wellness",
+        "self-expression",
+        "neglect",
+        "mindful practices"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "pisces",
+    "hebrew_letter": "",
+    "numerology": 11,
+    "planet": "neptune",
+    "season": "autumn",
+    "time_of_day": "twilight",
+    "colors": [
+      "blue",
+      "silver",
+      "seafoam green"
+    ],
+    "crystals": [
+      "aquamarine",
+      "moonstone",
+      "pearl"
+    ],
+    "herbs": [
+      "chamomile",
+      "lotus",
+      "jasmine"
+    ]
+  },
+  "symbols": {
+    "fish": "fertility of imagination, unexpected inspirations",
+    "sea": "vast emotional depth, the subconscious",
+    "cup": "receptacle of feelings and creativity",
+    "waves": "emotional fluctuations, life’s flow"
+  },
+  "affirmations": [
+    "I embrace my creativity with openness and joy.",
+    "I trust my emotions to guide me towards fulfillment.",
+    "I nurture my dreams with both wisdom and imagination."
+  ],
+  "journaling_prompts": [
+    "What emotions am I ready to explore more deeply?",
+    "How can I express my creativity in new and fulfilling ways?",
+    "Where do I need to be more open to love and intuition?"
+  ],
+  "meditation_focus": "Visualize a gentle wave carrying you towards emotional freedom and creative inspiration, allowing feelings to flow unhindered.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:52:25.210499",
+    "card_info": {
+      "name": "Page of Cups",
+      "number": 11,
+      "suit": "cups"
+    },
+    "filename": "c11.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_high_priestess": {
+        "interpretation": "Increased intuition and emotional depth lead to profound internal understanding and serenity.",
+        "keywords": [
+          "increased",
+          "intuition",
+          "emotional",
+          "depth"
+        ]
+      },
+      "ten_of_cups": {
+        "interpretation": "Emotional fulfillment and harmonious family connections flourish, aided by deep sensitivity.",
+        "keywords": [
+          "emotional",
+          "fulfillment",
+          "harmonious",
+          "family"
+        ]
+      },
+      "knight_of_cups": {
+        "interpretation": "Intensified romantic feelings or artistic pursuit fueled by emotional sincerity.",
+        "keywords": [
+          "intensified",
+          "romantic",
+          "feelings",
+          "artistic"
+        ]
+      }
+    },
+    "challenges": {
+      "seven_of_swords": {
+        "interpretation": "Fear of deception leads to emotional caution. Need for authenticity in expression and relations.",
+        "keywords": [
+          "fear",
+          "deception",
+          "leads",
+          "emotional"
+        ]
+      },
+      "four_of_cups": {
+        "interpretation": "Emotional apathy may create obstacles. Awakening to present possibilities required.",
+        "keywords": [
+          "emotional",
+          "apathy",
+          "create",
+          "obstacles"
+        ]
+      },
+      "five_of_pentacles": {
+        "interpretation": "Emotional isolation impacts security. Need to seek community or understanding.",
+        "keywords": [
+          "emotional",
+          "isolation",
+          "impacts",
+          "security"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_emperor": {
+        "interpretation": "Blending emotional wisdom with structured leadership provides balance between logic and sentiment.",
+        "keywords": [
+          "blending",
+          "emotional",
+          "wisdom",
+          "structured"
+        ]
+      },
+      "ace_of_cups": {
+        "interpretation": "Illuminating the beginning of an emotional or creative journey with compassionate understanding.",
+        "keywords": [
+          "illuminating",
+          "beginning",
+          "emotional",
+          "creative"
+        ]
+      },
+      "three_of_pentacles": {
+        "interpretation": "Collaboration enriched by emotional openness and creative synergy.",
+        "keywords": [
+          "collaboration",
+          "enriched",
+          "emotional",
+          "openness"
+        ]
+      }
+    },
+    "similar_energy": {
+      "ace_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_emperor": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "strength": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "page_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

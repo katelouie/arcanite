@@ -1,0 +1,681 @@
+{
+  "card_id": "page_of_wands",
+  "card_name": "Page of Wands",
+  "card_number": 11,
+  "suit": "wands",
+  "archetype": "the_messenger",
+  "core_meanings": {
+    "upright": {
+      "essence": "Enthusiastic exploration and eager communication. A youthful spirit driven by the spark of creativity and the desire for adventure.",
+      "keywords": [
+        "enthusiasm",
+        "exploration",
+        "communication",
+        "playfulness",
+        "curiosity",
+        "creativity",
+        "news"
+      ],
+      "psychological": "Tapping into your inner curiosity and desire to learn, eager to embrace new ideas with a playful mindset.",
+      "spiritual": "A call to embrace the spiritual journey with enthusiasm and an open heart, recognizing signs and messages along your path.",
+      "practical": "A fresh approach to challenges with innovative ideas and solutions. Time to take initiative and act on creative impulses.",
+      "shadow": "Immaturity and restlessness can lead to unfinished projects or scattered focus, wanting to be everywhere at once."
+    },
+    "reversed": {
+      "essence": "Blocked creativity or hesitation in communication. The struggle between potential and actualization with a risk of impulsiveness.",
+      "keywords": [
+        "delays",
+        "miscommunication",
+        "frustration",
+        "indecision",
+        "impulsiveness",
+        "immaturity"
+      ],
+      "psychological": "Feeling stuck or uncertain, unable to harness your creative potential or articulate your desires clearly.",
+      "spiritual": "Disconnected from the inner muse, causing stagnation in spiritual pursuits or ignoring intuitive nudges.",
+      "practical": "Projects may face delays or lack direction. Plans require revision, and clearer communication is necessary.",
+      "shadow": "Acting without thought or being overly reactive. Potential for growth stunted by impatience or lack of focus."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past enthusiasm sparked opportunities and adventures that now influence your present. Previous communication or idea set wheels in motion.",
+        "reversed": "A past idea or project may have fizzled due to lack of attention or unforeseen obstacles, impacting current frustrations.",
+        "keywords": [
+          "past spark",
+          "initial excitement",
+          "unrealized potential",
+          "fizzled project"
+        ]
+      },
+      "distant_past": {
+        "upright": "A deeper, long-held curiosity or dream from your youth that initiated your life's path toward creativity or communication.",
+        "reversed": "Feelings of being misunderstood or disregarded in early expressions of passion may still echo in today's choices.",
+        "keywords": [
+          "early curiosity",
+          "youthful dream",
+          "foundation of creativity",
+          "discarded ideas"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent opportunity or new experience that required you to have confidence and embrace your adventurous side.",
+        "reversed": "Recent hesitations or missed connections might have slowed progress, requiring review and renewed plans.",
+        "keywords": [
+          "recent opportunity",
+          "embraced adventure",
+          "hesitation",
+          "missed connection"
+        ]
+      },
+      "present": {
+        "upright": "Currently filled with creative energy and the urge to share a new idea or start a fresh project. Embrace the enthusiasm.",
+        "reversed": "Present confusion or miscommunication hinders progress. Address the blocks or refine your vision.",
+        "keywords": [
+          "creative energy",
+          "new idea",
+          "confusion",
+          "miscommunication"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the heart of your current experience is the call to be adventurous, to express and communicate your inner truths.",
+        "reversed": "Feeling stuck or chaotic, as though the world is moving faster than you can handle; need for focus.",
+        "keywords": [
+          "call to adventure",
+          "inner truth",
+          "feeling stuck",
+          "chaos"
+        ]
+      },
+      "future": {
+        "upright": "An exciting opportunity will arise, promising growth and adventure. Be ready to act boldly and creatively.",
+        "reversed": "Potential future frustrations may stem from lack of planning or clarity. Prepare to refine your ideas.",
+        "keywords": [
+          "exciting opportunity",
+          "future adventure",
+          "lack of planning",
+          "clarity needed"
+        ]
+      },
+      "near_future": {
+        "upright": "Very soon, you'll find inspiration arriving through unexpected channels or invigorating conversations.",
+        "reversed": "Anticipate delays or confusion ahead; take time to gather needed information and reassess objectives.",
+        "keywords": [
+          "immediate inspiration",
+          "unexpected conversation",
+          "upcoming delays",
+          "reassessment"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, your adventurous spirit will lead to a life full of brilliant experiences and treasured memories.",
+        "reversed": "Without careful action, the seeds of future growth may struggle to take root in long-term plans.",
+        "keywords": [
+          "brilliant experiences",
+          "treasured memories",
+          "ungrounded plans",
+          "struggle"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Finding the balance between exploration and commitment, avoiding the tendency to flit from project to project.",
+        "reversed": "Challenge in overcoming hesitation or fear of judgment. Develop confidence to express your ideas boldly.",
+        "keywords": [
+          "balance",
+          "commitment",
+          "overcoming hesitation",
+          "express boldness"
+        ]
+      },
+      "cross": {
+        "upright": "Social pressures or the desire for approval may oppose your need to explore unconventional paths.",
+        "reversed": "Internal conflicts and self-doubt are crossing your potential for taking meaningful steps forward.",
+        "keywords": [
+          "social pressures",
+          "approval",
+          "internal conflict",
+          "self-doubt"
+        ]
+      },
+      "obstacle": {
+        "upright": "Distractions and a restless mind stand in the way of nurturing your creative ideas into fruition.",
+        "reversed": "The obstacle of fearful thinking preventing you from speaking up or taking essential risks.",
+        "keywords": [
+          "distractions",
+          "restless mind",
+          "fearful thinking",
+          "speaking up"
+        ]
+      },
+      "lesson": {
+        "upright": "Learning to channel your boundless enthusiasm into sustained effort, bringing youthful creativity to maturity.",
+        "reversed": "The lesson lies in developing patience and the understanding that creativity requires gentle nurturing.",
+        "keywords": [
+          "sustained effort",
+          "mature creativity",
+          "patience",
+          "nurturing"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow contains the untapped potential waiting to be channeled creatively - embrace this without fear.",
+        "reversed": "Hidden within are desires that feel stunted by self-limiting beliefs; affirmation is needed to grow.",
+        "keywords": [
+          "untapped potential",
+          "embrace creativity",
+          "stunted desires",
+          "self-limiting beliefs"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Fear of being unoriginal or doubt dampens your ability to express and explore with uninhibited freedom.",
+        "reversed": "The need for external validation hinders authentic self-expression and your capacity for adventure.",
+        "keywords": [
+          "fear of unoriginality",
+          "doubt",
+          "external validation",
+          "authentic expression"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace your adventurous spirit and take the initiative. Be open to receiving messages in creative ways.",
+        "reversed": "Avoid rushing impulsively. Take time to refine ideas and communicate them clearly to others.",
+        "keywords": [
+          "embrace adventure",
+          "take initiative",
+          "refine ideas",
+          "clear communication"
+        ]
+      },
+      "action": {
+        "upright": "Act on your inspirations with confidence and joy. Allow your creativity to lead, trusting the journey.",
+        "reversed": "Slow down and reconsider your approach. Gather needed resources and carefully plan your next steps.",
+        "keywords": [
+          "act on inspirations",
+          "creative journey",
+          "slow down",
+          "careful planning"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as an inspired and enthusiastic communicator, eager to explore all life's possibilities.",
+        "reversed": "You might perceive yourself as stumbling or hesitant - understand that growth often comes through practice.",
+        "keywords": [
+          "inspired communicator",
+          "eager explorer",
+          "perceptions",
+          "growth through practice"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your natural curiosity and willingness to learn are invaluable assets in navigating new terrains.",
+        "reversed": "Seeking mentors or collaborators who align with your vision will help solidify your goals and methods.",
+        "keywords": [
+          "curiosity",
+          "willingness to learn",
+          "mentors",
+          "collaboration"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust the intuitive nudges that urge action and adventure. Like a flame igniting, your ideas are ready to take off.",
+        "reversed": "Spiritual guidance emphasizes the need for reflection before action - ensuring that paths align with inner truths.",
+        "keywords": [
+          "intuitive nudges",
+          "adventure",
+          "reflection",
+          "alignment with truth"
+        ]
+      },
+      "best_course": {
+        "upright": "Seek experiences that challenge and excite you, immersing yourself in the joy of creative expression.",
+        "reversed": "Focus on honing your communication skills and organizing ideas into coherent and actionable plans.",
+        "keywords": [
+          "challenging experiences",
+          "creative joy",
+          "skill honing",
+          "actionable plans"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Longing to explore and express new ideas freely, mingled with fear of not measuring up or failing creatively.",
+        "reversed": "Fear of miscommunication or judgment overrides your hope to share your true voice with the world.",
+        "keywords": [
+          "freedom to explore",
+          "creative fear",
+          "miscommunication",
+          "sharing voice"
+        ]
+      },
+      "hopes": {
+        "upright": "Hoping to deliver your message clearly, you yearn to inspire and become a catalyst for change in others.",
+        "reversed": "Your hope is to find clarity and conviction amidst self-doubt or external confusion.",
+        "keywords": [
+          "clear message",
+          "inspiring others",
+          "conviction",
+          "clarity amidst confusion"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of being misunderstood or failing to seize the moment, resulting in missed creative opportunities.",
+        "reversed": "Fear of expressing yourself leads to stagnant energy and unexplored potential.",
+        "keywords": [
+          "being misunderstood",
+          "missed opportunities",
+          "stagnant energy",
+          "unexplored potential"
+        ]
+      },
+      "subconscious": {
+        "upright": "Beneath everything lies a yearning to be seen and heard, to initiate change and breathe life into new possibilities.",
+        "reversed": "Subconsciously fearing that your ideas lack substance or impact; trust they hold significant value.",
+        "keywords": [
+          "yearning",
+          "initiate change",
+          "impact",
+          "significant value"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of your hunger for novel experiences and thirst for knowledge, eager to embark upon journeys.",
+        "reversed": "Your conscious mind wrestles with certainty, seeking validation for creative instincts.",
+        "keywords": [
+          "hunger for experiences",
+          "thirst for knowledge",
+          "wrestling with certainty",
+          "seek validation"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally charged, you feel an electric excitement coursing through your veins, ready to embark on new ventures.",
+        "reversed": "Emotional state oscillates between eagerness and confusion, seeking direction amidst the chaos of thoughts.",
+        "keywords": [
+          "electric excitement",
+          "new ventures",
+          "eagerness",
+          "seeking direction"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart yearns for adventure, longing to express creativity and explore uncharted territories.",
+        "reversed": "Suppressing the heart's longing due to fear or perceived impracticalities results in constriction.",
+        "keywords": [
+          "yearning for adventure",
+          "creative expression",
+          "suppressing desire",
+          "perceived impracticalities"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, your mind crackles with ideas and a passion for seeking knowledge, willing to leap into the realms of possibility.",
+        "reversed": "Mental state tangled with doubts and indecisiveness impedes the brainstorming of fresh ideas.",
+        "keywords": [
+          "crackling ideas",
+          "seeking knowledge",
+          "tangled doubts",
+          "impeded brainstorming"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others perceive your enthusiasm as refreshing and invigorating; they are drawn to your zest for life.",
+        "reversed": "You might appear scattered or indecisive, leading to misunderstandings or misinterpretations from others.",
+        "keywords": [
+          "refreshing enthusiasm",
+          "invigorating presence",
+          "scattered perception",
+          "misinterpretation"
+        ]
+      },
+      "others": {
+        "upright": "Surround with supportive individuals who encourage your visionary ideas and are enthusiastic about your projects.",
+        "reversed": "Others may sow seeds of doubt or skepticism that can hinder progress if allowed.",
+        "keywords": [
+          "supportive individuals",
+          "enthusiasm",
+          "sowing doubt",
+          "skepticism"
+        ]
+      },
+      "environment": {
+        "upright": "A vibrant and dynamic environment supports your creative endeavors, offering inspiration and new insights at every turn.",
+        "reversed": "Environmental chaos or clutter could complicate your efforts, creating confusion in your pursuits.",
+        "keywords": [
+          "dynamic environment",
+          "inspiration",
+          "environmental chaos",
+          "clutter"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others see you as a beacon of new ideas and inspiration, ready to embark on exciting adventures.",
+        "reversed": "You may be seen as fickle or unsure, leaving others uncertain of your true intentions.",
+        "keywords": [
+          "beacon of ideas",
+          "inspiration",
+          "fickle perception",
+          "uncertain intentions"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen opportunities for growth and expansion are present; tune in to the subtle messages around you.",
+        "reversed": "Hidden influences involve self-imposed barriers that prevent the flow of creativity and communication.",
+        "keywords": [
+          "unseen opportunities",
+          "subtle messages",
+          "self-imposed barriers",
+          "blocked flow"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success through vibrant expression and adventurous spirit. Your projects bloom with potential reaped from bold exploration.",
+        "reversed": "Potential outcomes reflect the consequences of indecision or lack of clear focus; action needed to mend direction.",
+        "keywords": [
+          "vibrant expression",
+          "adventurous success",
+          "consequences of indecision",
+          "mend direction"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, following your light-hearted curiosity leads to a fulfilling journey of self-discovery and impactful creations.",
+        "reversed": "Final outcome may involve resolutions needed to address delayed gratification or unmet potential.",
+        "keywords": [
+          "fulfilling journey",
+          "self-discovery",
+          "delayed gratification",
+          "unmet potential"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "One possible result is newfound passion leading to unexpected discoveries and exhilarating engagements.",
+        "reversed": "Uncharted territories remain unexplored, with missed opportunities keeping certain possibilities dormant.",
+        "keywords": [
+          "newfound passion",
+          "unexpected discoveries",
+          "unexplored territories",
+          "missed opportunities"
+        ]
+      },
+      "best_case": {
+        "upright": "Best-case scenario involves your adventurous pursuit yielding enriching experiences that enliven the spirit.",
+        "reversed": "The best-case scenario emerges through careful adjustments and patience in growing your creative undertakings.",
+        "keywords": [
+          "enriching experiences",
+          "spirit enlivened",
+          "careful adjustments",
+          "patient growth"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst-case scenario involves creative stagnation due to fear or scattered efforts with no meaningful result.",
+        "reversed": "The worst-case risks an inability to move past self-doubt, resulting in a loss of potential discoveries.",
+        "keywords": [
+          "creative stagnation",
+          "fear",
+          "scattered efforts",
+          "self-doubt"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic is youthful, enthusiastic, and full of passionate energy. Between you exists excitement about shared interests and the courage to explore new adventures together. You inspire each other's zest for life.",
+        "reversed": "The enthusiasm may be short-lived, immature, or misdirected. Impulsiveness could cause problems or arguments. The relationship might involve inconsistency, attention-seeking behavior, or difficulty following through on exciting plans.",
+        "keywords": [
+          "enthusiasm",
+          "passion",
+          "adventure",
+          "youthfulness"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Exciting new beginnings in love, filled with flirtation and passion. Be playful and open-hearted in relationships.",
+      "reversed": "Mixed signals or miscommunications may create tension. Ensure clarity in expressing your feelings.",
+      "keywords": [
+        "exciting beginnings",
+        "flirtation",
+        "mixed signals",
+        "expressing feelings"
+      ]
+    },
+    "career": {
+      "upright": "A time for exploring new projects or expanding skill sets. Opportunities for dynamic growth and innovative ideas.",
+      "reversed": "Potential career setbacks due to impulsiveness or lack of follow-through. Focus needed to streamline efforts.",
+      "keywords": [
+        "exploring projects",
+        "dynamic growth",
+        "career setbacks",
+        "focus needed"
+      ]
+    },
+    "spiritual": {
+      "upright": "Engage with your spiritual curiosity, exploring new paths and insights with an open mind and heart.",
+      "reversed": "Feeling disconnected from spiritual pursuits. Grounding practices and focused intention may help realign energies.",
+      "keywords": [
+        "spiritual curiosity",
+        "open mind",
+        "disconnection",
+        "realign energies"
+      ]
+    },
+    "financial": {
+      "upright": "Innovative ideas can lead to financial opportunities. Think creatively and be willing to take calculated risks.",
+      "reversed": "Financial impulses may lead to unnecessary expenses. Careful consideration is necessary before investments.",
+      "keywords": [
+        "financial opportunities",
+        "creative thinking",
+        "financial impulses",
+        "careful consideration"
+      ]
+    },
+    "health": {
+      "upright": "A new wellness journey begins, propelled by energetic enthusiasm. Embrace playful movement and holistic practices.",
+      "reversed": "Health setbacks may arise from neglect or overexertion. Balance and thoughtful self-care are essential.",
+      "keywords": [
+        "wellness journey",
+        "energetic enthusiasm",
+        "health setbacks",
+        "thoughtful self-care"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "sagittarius",
+    "hebrew_letter": "",
+    "numerology": 11,
+    "planet": "jupiter",
+    "season": "spring",
+    "time_of_day": "mid-morning",
+    "colors": [
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "crystals": [
+      "citrine",
+      "tiger's eye",
+      "sunstone"
+    ],
+    "herbs": [
+      "ginger",
+      "cinnamon",
+      "peppermint"
+    ]
+  },
+  "symbols": {
+    "wand": "spark of ideas and creative energy",
+    "fiery_leaves": "potential for growth and transformation",
+    "desert_landscape": "raw potential waiting for nourishment",
+    "young_page": "youthful curiosity and eagerness"
+  },
+  "affirmations": [
+    "I embrace my creative potential with enthusiasm and confidence.",
+    "New adventures await as I follow my curiosity and intuition.",
+    "With curiosity as my guide, I explore life's endless possibilities.",
+    "I am open to receiving and sharing innovative ideas."
+  ],
+  "journaling_prompts": [
+    "What creative idea is seeking expression in my life?",
+    "How can I bring more playfulness and curiosity into my daily routine?",
+    "In what areas of my life do I feel a surge of excitement?",
+    "What fears do I need to release to fully embrace new beginnings?"
+  ],
+  "meditation_focus": "Visualize a vibrant flame within, fueling your creative spirit and illuminating the path ahead. Embrace the warmth and inspiration it provides.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:13:15.613630",
+    "card_info": {
+      "name": "Page of Wands",
+      "number": 11,
+      "suit": "wands"
+    },
+    "filename": "w11.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_sun": {
+        "interpretation": "Increased vitality and exuberant joy. Unlimited potential for success and fulfillment of dreams.",
+        "keywords": [
+          "increased",
+          "vitality",
+          "exuberant",
+          "unlimited"
+        ]
+      },
+      "three_of_wands": {
+        "interpretation": "Collaborative ventures receive a boost, bringing expansion and bold explorations onto new shores.",
+        "keywords": [
+          "collaborative",
+          "ventures",
+          "receive",
+          "boost"
+        ]
+      },
+      "ace_of_swords": {
+        "interpretation": "Clarity and insight drive creative breakthroughs. An epiphany leading to inspired action.",
+        "keywords": [
+          "clarity",
+          "insight",
+          "drive",
+          "creative"
+        ]
+      }
+    },
+    "challenges": {
+      "seven_of_cups": {
+        "interpretation": "Potential confusion from too many options. Need for discernment in choosing the right path.",
+        "keywords": [
+          "potential",
+          "confusion",
+          "many",
+          "options"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Indecision and internal conflict hinder progress. Balance heart and mind to move forward decisively.",
+        "keywords": [
+          "indecision",
+          "internal",
+          "conflict",
+          "hinder"
+        ]
+      },
+      "ten_of_wands": {
+        "interpretation": "Burdened by responsibilities; enthusiasm wanes under pressure. Lightening the load is necessary.",
+        "keywords": [
+          "burdened",
+          "responsibilities",
+          "enthusiasm",
+          "wanes"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_magician": {
+        "interpretation": "Align personal power with creative expression. Transformation through focused intention.",
+        "keywords": [
+          "align",
+          "personal",
+          "power",
+          "creative"
+        ]
+      },
+      "eight_of_wands": {
+        "interpretation": "Swift movement and communication. Embrace the whirlwind of change and seize opportunities.",
+        "keywords": [
+          "swift",
+          "movement",
+          "communication",
+          "embrace"
+        ]
+      },
+      "knight_of_wands": {
+        "interpretation": "Reinforce the call to adventure. Boldness in pursuing life's quests, heart on fire with passion.",
+        "keywords": [
+          "reinforce",
+          "call",
+          "adventure",
+          "boldness"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_fool": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ace_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "four_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "page_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "card_id": "nine_of_wands",
+  "card_name": "Nine of Wands",
+  "card_number": 9,
+  "suit": "wands",
+  "archetype": "the_wounded_warrior",
+  "core_meanings": {
+    "upright": {
+      "essence": "Resilience and determination amid challenges. The spirit of perseverance even when weary, standing guard over achievements.",
+      "keywords": [
+        "perseverance",
+        "resilience",
+        "courage",
+        "persistence",
+        "tenacity",
+        "defiance",
+        "readiness",
+        "inner strength"
+      ],
+      "psychological": "Represents the inner warrior who draws upon strength in adversity, tapping into reservoirs of courage and resolve.",
+      "spiritual": "The soul’s journey of endurance, having faith in oneself to withstand trials and emerge stronger.",
+      "practical": "Time to defend your position and maintain boundaries. Remain vigilant and prepared for any final challenges.",
+      "shadow": "Stubbornness or an overly defensive stance that leads to isolation and exhaustion. The risk of being battle-hardened."
+    },
+    "reversed": {
+      "essence": "Weakening resolve or being overwhelmed. The collapse of defenses through fatigue or fear, signaling vulnerability.",
+      "keywords": [
+        "exhaustion",
+        "defensiveness",
+        "paranoia",
+        "overwhelm",
+        "resistance",
+        "burnout",
+        "yielding"
+      ],
+      "psychological": "Fear of failure and being worn down by continuous struggles. A call to address underlying fears and reevaluate priorities.",
+      "spiritual": "A need to surrender struggle and find strength in vulnerability. An invitation to trust the natural flow and release resistance.",
+      "practical": "Consider resting or recalibrating to avoid burnout. Recognize when persistence is no longer serving your best interests.",
+      "shadow": "Fear-driven defensiveness leading to stress and isolation. Overidentification with struggle."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past trials have fostered your resilience. The ability to persevere through adversity has forged your current strength.",
+        "reversed": "Overwhelming challenges or past defeats still color your present mindset. A period of burnout that may linger in memory.",
+        "keywords": [
+          "past resilience",
+          "forged strength",
+          "lingering defeat",
+          "old defenses"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-ago battles that cultivated your enduring spirit of persistence and fortitude. An ingrained resolve.",
+        "reversed": "Ancient wounds or abandonment of defenses leading to vulnerability that resonates through time.",
+        "keywords": [
+          "deep wounds",
+          "enduring spirit",
+          "ancient challenges",
+          "past vulnerabilities"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent test of strength or defiance. An experience that solidified your determination to protect what’s important.",
+        "reversed": "Recent exhaustion from ceaseless effort or burdensome responsibilities left unresolved.",
+        "keywords": [
+          "recent test",
+          "solidified determination",
+          "near exhaustion",
+          "unresolved burdens"
+        ]
+      },
+      "present": {
+        "upright": "Currently in a phase of standing firm and defending against pressures. Prepare for final challenges with tenacity.",
+        "reversed": "Struggling with depletion or feeling overwhelmed. The need to reassess your levels of endurance.",
+        "keywords": [
+          "current defenses",
+          "present vigilance",
+          "rebalance",
+          "challenge resistance"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the heart of your situation lies strength tempered by challenge. Holding fast despite opposition.",
+        "reversed": "Core experience revolves around fatigue of spirit and vulnerability. The call to lay down arms and rejuvenate.",
+        "keywords": [
+          "tempered strength",
+          "spiritual fatigue",
+          "heart of the matter",
+          "core challenge"
+        ]
+      },
+      "future": {
+        "upright": "Future tests will call upon your reserves of courage and inner strength. Preparation will carry you through.",
+        "reversed": "Possible upcoming overwhelm if vigilance isn’t supplemented with rest. Opportunity to shift tactics.",
+        "keywords": [
+          "upcoming trials",
+          "preparedness",
+          "future overwhelm",
+          "new approach"
+        ]
+      },
+      "near_future": {
+        "upright": "Immediately brace for a test of your resilience. Be ready to defend your ground as needed.",
+        "reversed": "Approaching a period requiring careful energy management. Balance action with rest.",
+        "keywords": [
+          "immediate test",
+          "immediate resistance",
+          "balance energy"
+        ]
+      },
+      "distant_future": {
+        "upright": "Your tenacity will eventually lead to triumph and secure your goals. Embrace your ongoing strength journey.",
+        "reversed": "Long-term challenges around energy reserves; growth through understanding limits and seeking new perspectives.",
+        "keywords": [
+          "triumph",
+          "secure goals",
+          "energy limits",
+          "growth through balance"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Challenge surfaces in maintaining defenses while avoiding burnout. Find strength inside to confront obstacles.",
+        "reversed": "Challenge in recognizing when to rest and not letting fear dictate your actions. Release resistance as strength.",
+        "keywords": [
+          "maintain defense",
+          "confront obstacles",
+          "rest",
+          "release resistance"
+        ]
+      },
+      "cross": {
+        "upright": "Establishing boundaries against external pressures clashing with personal commitments.",
+        "reversed": "Internal fears crossing your path, leading to an erosion of resolve and confidence.",
+        "keywords": [
+          "external pressure",
+          "internal fears",
+          "boundary setting",
+          "eroded resolve"
+        ]
+      },
+      "obstacle": {
+        "upright": "Fear of being overwhelmed obstructs progress. Challenge lies in the ability to trust and let others in.",
+        "reversed": "A defensive wall can create energetic barriers and isolate you. The obstacle is in letting vulnerability be part of the journey.",
+        "keywords": [
+          "fear of overwhelm",
+          "energetic barriers",
+          "trust",
+          "vulnerability"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to cultivate endurance gracefully. The lesson is in balancing vigilance with self-care.",
+        "reversed": "Life teaches when to relinquish struggle and rest. Find wisdom in recognizing your limits.",
+        "keywords": [
+          "endurance",
+          "vigilance",
+          "self-care",
+          "recognizing limits"
+        ]
+      },
+      "shadow": {
+        "upright": "Within you lies a mechanism that defends too rigidly. Explore flexibility without sacrificing integrity.",
+        "reversed": "Your shadow may fear weakness controls the narrative. Use this awareness to find balance.",
+        "keywords": [
+          "rigid defense",
+          "fear of weakness",
+          "flexibility",
+          "balance"
+        ]
+      },
+      "what_hinders": {
+        "upright": "The reluctance to show vulnerability hinders mutual understanding and shared burden-baring.",
+        "reversed": "Burnout hinders enthusiasm and strength. Finding renewed passion will release the blocks.",
+        "keywords": [
+          "shared burden",
+          "renewed passion",
+          "reluctance",
+          "burnout"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Persevere with confidence. Guard your achievements but remain open to growth. Balance defense with wisdom.",
+        "reversed": "Consider stepping back and evaluating your defenses. Not every battle requires holding ground.",
+        "keywords": [
+          "perseverance",
+          "confidence",
+          "growth",
+          "evaluate defenses"
+        ]
+      },
+      "action": {
+        "upright": "Take proactive measures to maintain your boundaries. Fortify your spirit through deliberate rest and resilience.",
+        "reversed": "Action involves discerning when to let go of struggles. Yielding does not equate to defeat.",
+        "keywords": [
+          "proactive",
+          "maintenance",
+          "fortify",
+          "yielding"
+        ]
+      },
+      "your_approach": {
+        "upright": "Approach life's tests with courage and vigilance, valuing inner strength and endurance.",
+        "reversed": "Your approach may need recalibration - when precautions become hindrances needing release.",
+        "keywords": [
+          "courageous",
+          "vigilant",
+          "inner strength",
+          "recalibration"
+        ]
+      },
+      "what_helps": {
+        "upright": "Drawing from previous experiences of overcoming hurdles strengthens current battles.",
+        "reversed": "Help comes from knowing when to let go and from seeking support in moments of vulnerability.",
+        "keywords": [
+          "past experience",
+          "previous hurdles",
+          "letting go",
+          "seek support"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritually advised to wear scars as emblems of experiences. Allow your history to empower rather than burden.",
+        "reversed": "Guidance lies in seeing vulnerability as strength and inviting flow instead of resistance.",
+        "keywords": [
+          "wear scars",
+          "emblems",
+          "vulnerability as strength",
+          "inviting flow"
+        ]
+      },
+      "best_course": {
+        "upright": "Remain resilient yet ready to adapt strategies. Best results come from flexible fortitude.",
+        "reversed": "Feet firmly planted can grow tired. Acknowledging when to shift and pivot serves longevity.",
+        "keywords": [
+          "resilient",
+          "adaptive strategies",
+          "flexible fortitude",
+          "shift and pivot"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope in finding unwavering strength and the fear of being worn to fragility.",
+        "reversed": "Fear of repeated failures, and yet the hope for reprieve from relentless struggle.",
+        "keywords": [
+          "unwavering strength",
+          "fragility",
+          "repeated failures",
+          "reprieve"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to emerge victorious and fortified from current challenges and to honor your own courage.",
+        "reversed": "Hopes for rest and peace accompany the desire to let defenses soften slightly.",
+        "keywords": [
+          "victory",
+          "fortified presence",
+          "rest",
+          "softer defenses"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of never-ending tests and breaking under pressure without realizing a safe haven.",
+        "reversed": "Fear of vulnerability as a sign of weakness, worrying it could erode hard-fought stability.",
+        "keywords": [
+          "never-ending tests",
+          "pressure",
+          "safe haven",
+          "eroded stability"
+        ]
+      },
+      "subconscious": {
+        "upright": "Unconscious reliance on personal defenses, a shadowed backbone of your persona’s strength.",
+        "reversed": "Subtly fearing collapse when guard is let down, a subconscious undercurrent of anxiety.",
+        "keywords": [
+          "personal defenses",
+          "shadowed backbone",
+          "guard collapse",
+          "subtle fear"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of the battles faced and your capability to persevere and withstand adversity.",
+        "reversed": "Mind wrestling with perceived personal limitations and doubts about one's endurance.",
+        "keywords": [
+          "battle awareness",
+          "perseverance",
+          "limitations",
+          "doubt"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Feeling defensive yet determined. Emotions tempered by the firm resolve to persist and stand guard.",
+        "reversed": "Emotional weariness and fear of vulnerability may dominate your internal landscape.",
+        "keywords": [
+          "defensive",
+          "determined",
+          "emotional weariness",
+          "vulnerability fear"
+        ]
+      },
+      "heart": {
+        "upright": "Heart desires to unite inherent resilience with a comfortable defiance of obstacles looming ahead.",
+        "reversed": "Longing to open up emotionally but heart feels guarded and fatigued by endless vigilance.",
+        "keywords": [
+          "resilience",
+          "defiance",
+          "emotional opening",
+          "guarded"
+        ]
+      },
+      "mind": {
+        "upright": "Your thoughts center around strategies for enduring and outlasting present challenges efficiently.",
+        "reversed": "Overthinking defenses may stymie mind’s need for rest, releasing excessive caution.",
+        "keywords": [
+          "endurability strategies",
+          "challenges",
+          "mind overthinking",
+          "release caution"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Supportive allies provide aid in times of strife while challenges require maintaining vigilance and clarity.",
+        "reversed": "Negative influences may press on defenses, but support comes from unexpected, kind sources.",
+        "keywords": [
+          "supportive allies",
+          "external challenges",
+          "unexpected aid",
+          "pressing defenses"
+        ]
+      },
+      "others": {
+        "upright": "Others respect your perseverance and unwavering determination, viewing you as a reliable stronghold.",
+        "reversed": "Perceptions of you being closed-off or overcautious may cause others to retreat or challenge you.",
+        "keywords": [
+          "perseverance respect",
+          "perceived closed-off",
+          "reliable",
+          "cautious"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment reflects learning through resistance and fostering resilience under pressure.",
+        "reversed": "Environmental fatigue seen through strain and unyielding burdens. Need to balance surroundings.",
+        "keywords": [
+          "resistance",
+          "fostering resilience",
+          "environment fatigue",
+          "balance needed"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Viewed as steadfast, a seeming bastion of indomitable spirit ready to defend all you've built.",
+        "reversed": "Perceived as weary or overly defensive. Perhaps seen as needing encouragement to ease up.",
+        "keywords": [
+          "steadfast",
+          "indomitable spirit",
+          "weary",
+          "overly defensive"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen support and spiritual forces ensure strength at crucial crossroads, weaving a quiet fortitude.",
+        "reversed": "Hidden fears and unresolved past traumas may covertly influence current outlook and actions.",
+        "keywords": [
+          "unseen support",
+          "quiet fortitude",
+          "hidden fears",
+          "past trauma influence"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "The strength you hold will secure your goals. Breaches of defense transform into growth points.",
+        "reversed": "Without strategic rest, burnout may lead to surrender. Recognition of authenticity beyond the struggle.",
+        "keywords": [
+          "secure goals",
+          "growth points",
+          "burnout",
+          "authenticity"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Persisting through the final struggle brings a deep sense of strength earned through unyielding efforts.",
+        "reversed": "Final toll of relentless defense may result in profound surrender. Softening inspires similar growth.",
+        "keywords": [
+          "strength earned",
+          "unyielding effort",
+          "profound surrender",
+          "inspired growth"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Strategic perseverance wins the day. Maintaining vigilance yields the fruits of persistence.",
+        "reversed": "Possible exhaustion provokes reconsideration of your path. New options arise from gentle surrender.",
+        "keywords": [
+          "strategic success",
+          "fruits of persistence",
+          "exhaustion",
+          "gentle surrender"
+        ]
+      },
+      "best_case": {
+        "upright": "The best case features resilient defense leading to lasting achievement and wisdom gained.",
+        "reversed": "Avoidance of exhaustion creates an opportunity for peace. Balanced effort returns harmony.",
+        "keywords": [
+          "resilient defense",
+          "lasting achievement",
+          "peace",
+          "harmony"
+        ]
+      },
+      "worst_case": {
+        "upright": "Over-defensiveness results in isolation, preventing external support and increase of potential burnout.",
+        "reversed": "Burnout leads to the collapse of necessary defenses. Emergence of an unguarded, honest self.",
+        "keywords": [
+          "isolation",
+          "potential burnout",
+          "collapse",
+          "unguarded"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves resilience, persistence, and the strength to continue despite challenges. Between you exists determination and the wisdom of experience. You help each other maintain boundaries while staying committed to your goals.",
+        "reversed": "The connection may involve stubbornness, exhaustion, or inability to adapt to new challenges. Persistence may become rigid inflexibility. The relationship could involve paranoia, over-defensiveness, or burnout from constant struggle.",
+        "keywords": [
+          "resilience",
+          "persistence",
+          "boundaries",
+          "endurance"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Guarding emotional borders with composure, ready to keep love secure. Dedication through challenging times.",
+      "reversed": "Either experiencing emotional fatigue or defensive distance in relationships. Need transparency.",
+      "keywords": [
+        "emotional guard",
+        "secure love",
+        "emotional fatigue",
+        "transparency"
+      ]
+    },
+    "career": {
+      "upright": "Perseverance through job-related trials. Approach work with grit, protecting your position vigorously.",
+      "reversed": "Struggling with professional burnout; a sign to rest or reassess career goals for healthier outcomes.",
+      "keywords": [
+        "job trials",
+        "professional grit",
+        "career burnout",
+        "healthy reassessment"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual journey demands persistence in growth. Reward found in overcoming spiritual malaise.",
+      "reversed": "Feeling burnt out spiritually or losing faith. Allow gentle rest to rejuvenate spiritual fervor.",
+      "keywords": [
+        "spiritual persistence",
+        "growth reward",
+        "spiritual burnout",
+        "rejuvenation"
+      ]
+    },
+    "financial": {
+      "upright": "Protection of financial gains through vigilance. Maintain current resources with steadfast strategy.",
+      "reversed": "Financial defenses weaken under stress. Reconcile resources with sustainable management.",
+      "keywords": [
+        "financial protection",
+        "resource vigilance",
+        "financial stress",
+        "sustainable management"
+      ]
+    },
+    "health": {
+      "upright": "Resilience is key to overcoming health challenges. Substitute defense with nurturing routines.",
+      "reversed": "Ignoring health warning signs, leading to potential exhaustion. Need for a gentle, restorative approach.",
+      "keywords": [
+        "health resilience",
+        "nurturing",
+        "exhaustion risk",
+        "restorative"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "sagittarius",
+    "hebrew_letter": "samekh",
+    "numerology": 9,
+    "planet": "moon",
+    "season": "autumn",
+    "time_of_day": "dusk",
+    "colors": [
+      "orange",
+      "red",
+      "brown"
+    ],
+    "crystals": [
+      "tiger's eye",
+      "black tourmaline",
+      "garnet"
+    ],
+    "herbs": [
+      "yarrow",
+      "ginger",
+      "nettle"
+    ]
+  },
+  "symbols": {
+    "wounded_warrior": "experience and courage exercised through adversity",
+    "bandage": "endurance despite weariness",
+    "staffs": "burden of past experiences and the fortitude to remain standing",
+    "fortress_walls": "defense, vigilance, and resilience"
+  },
+  "affirmations": [
+    "I find strength in resilience and embrace my capacity to endure challenges.",
+    "My perseverance leads me to victory and personal growth.",
+    "I honor my boundaries while remaining open to learning and support.",
+    "I am fortified by my past experiences and ready to face new horizons."
+  ],
+  "journaling_prompts": [
+    "Where in my life do I feel weary, and how can I support my resilience?",
+    "How do I balance guarding my boundaries while remaining open to love?",
+    "What practices strengthen my spirit during times of trial?",
+    "How can I transform perceived weakness into inner fortitude?"
+  ],
+  "meditation_focus": "Visualize your inner fortress, strong yet open to allowing light and support within. Embrace the union of strength and flexibility.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:10:04.957474",
+    "card_info": {
+      "name": "Nine of Wands",
+      "number": 9,
+      "suit": "wands"
+    },
+    "filename": "w09.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "strength": {
+        "interpretation": "Amplifies resolve and perseverance. A robust combination of courage and inner fortitude.",
+        "keywords": [
+          "amplifies",
+          "resolve",
+          "perseverance",
+          "robust"
+        ]
+      },
+      "the_chariot": {
+        "interpretation": "Dynamic power fuels determination, actualizing potential victories through tenacity.",
+        "keywords": [
+          "dynamic",
+          "power",
+          "fuels",
+          "determination"
+        ]
+      }
+    },
+    "challenges": {
+      "the_hanged_man": {
+        "interpretation": "Harmony and patience conflicted by defensiveness. Courageously challenge surrender.",
+        "keywords": [
+          "harmony",
+          "patience",
+          "conflicted",
+          "defensiveness"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Mental stalemate and indecisiveness compromised by rigid defenses, challenging mediation.",
+        "keywords": [
+          "mental",
+          "stalemate",
+          "indecisiveness",
+          "compromised"
+        ]
+      }
+    },
+    "clarifies": {
+      "five_of_wands": {
+        "interpretation": "Provides a sturdy stance amid chaos. Grounding encouragement to face conflicts resiliently.",
+        "keywords": [
+          "provides",
+          "sturdy",
+          "stance",
+          "amid"
+        ]
+      },
+      "the_emperor": {
+        "interpretation": "Clarifies the necessity of disciplined boundaries. Strength and order form solid foundations.",
+        "keywords": [
+          "clarifies",
+          "necessity",
+          "disciplined",
+          "boundaries"
+        ]
+      }
+    },
+    "similar_energy": {
+      "strength": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "eight_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

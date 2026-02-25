@@ -1,0 +1,686 @@
+{
+  "card_id": "queen_of_pentacles",
+  "card_name": "Queen of Pentacles",
+  "card_number": 13,
+  "suit": "pentacles",
+  "archetype": "the_nurturer",
+  "core_meanings": {
+    "upright": {
+      "essence": "Grounded abundance and nurturing. Embracing the harmony of home and hearth, with a deep connection to nature and material well-being.",
+      "keywords": [
+        "nurturing",
+        "practicality",
+        "abundance",
+        "comfort",
+        "security",
+        "resourcefulness",
+        "home"
+      ],
+      "psychological": "Represents the inner caretaker, the aspect of self that finds joy in providing and maintaining stability for self and others.",
+      "spiritual": "A soul deeply connected to the earth and its rhythms, embodying fertility and the sacredness of physical and spiritual nourishment.",
+      "practical": "Focus on creating a stable, nurturing environment. Attend to matters of home, health, and financial security with care.",
+      "shadow": "Overemphasis on material comfort can lead to stagnation or possessiveness, possibly neglecting emotional or spiritual needs."
+    },
+    "reversed": {
+      "essence": "Instability or misplaced priorities. Neglect in care for home or self, or materialism overshadowing deeper values.",
+      "keywords": [
+        "selfishness",
+        "imbalance",
+        "neglect",
+        "overindulgence",
+        "dependency",
+        "financial insecurity"
+      ],
+      "psychological": "Indicates a struggle in maintaining the balance between self-care and care for others, possibly leading to burnout or resentment.",
+      "spiritual": "A disconnection from earth’s grounding energies, resulting in an imbalance between material pursuits and inner fulfillment.",
+      "practical": "Address areas of life that may be neglected. Realign priorities and ensure self-care is not overshadowed by external demands.",
+      "shadow": "Emotional nurturing is sacrificed for material gain, or dependency on material success creates a fragile sense of worth."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past experiences of nurture and care have laid a stable foundation from which you've grown. A legacy of love and security supports you.",
+        "reversed": "A history of neglect or misplaced priorities has led to current challenges. Recognize and address unresolved issues.",
+        "keywords": [
+          "nurturing past",
+          "stable foundation",
+          "legacy of love",
+          "neglect"
+        ]
+      },
+      "distant_past": {
+        "upright": "Early nurturing influences from family or environment shaped your value system and affinity for grounding abundance.",
+        "reversed": "Old patterns of material insecurity or emotional neglect continue to echo, affecting your present relationships.",
+        "keywords": [
+          "early influences",
+          "value system",
+          "material insecurity",
+          "emotional neglect"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent focus on home and financial security has contributed to your current sense of well-being and stability.",
+        "reversed": "Immediate need to address recent disruptions in personal or financial security. Priorities may need realignment.",
+        "keywords": [
+          "home focus",
+          "recent stability",
+          "disruption",
+          "realignment"
+        ]
+      },
+      "present": {
+        "upright": "Currently nurturing your world with care and attention. Embrace the strength of your practical wisdom and resourcefulness.",
+        "reversed": "Feeling overwhelmed by responsibilities or disconnected from your nurturing self. Seek balance in priorities.",
+        "keywords": [
+          "nurturing care",
+          "practical wisdom",
+          "overwhelm",
+          "balance"
+        ]
+      },
+      "present_situation": {
+        "upright": "The core of your life revolves around creating and maintaining stability. You're grounded and in tune with life's cycles.",
+        "reversed": "Fundamental imbalance hindering your ability to nurture self or others. Address underlying discontent.",
+        "keywords": [
+          "stability",
+          "life cycles",
+          "imbalance",
+          "discontent"
+        ]
+      },
+      "future": {
+        "upright": "A prosperous period awaits, full of security and the joy of seeing seeds sown come to fruition. Enjoy the harmony created.",
+        "reversed": "Future calls for agency to prevent potential neglect of essential needs. Cultivate consistency in care.",
+        "keywords": [
+          "prosperous period",
+          "fruition",
+          "agency",
+          "neglect"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, opportunities to enhance your environment or financial status will arise. Be ready to nurture new growth.",
+        "reversed": "Coming challenges related to overstretched resources or misplaced trust. Stay attentive to real needs.",
+        "keywords": [
+          "enhance environment",
+          "new growth",
+          "challenges",
+          "real needs"
+        ]
+      },
+      "distant_future": {
+        "upright": "Distant future holds promise of continued growth and well-being, richly rewarding your nurturing investments.",
+        "reversed": "Without change, long-term security is threatened by lack of proper care or foresight. Course correction needed.",
+        "keywords": [
+          "continued growth",
+          "reward",
+          "threatened security",
+          "course correction"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Your task is to balance giving and receiving, ensuring your own needs aren't neglected in the process of nurturing others.",
+        "reversed": "Challenge lies in recognizing when caring becomes controlling, or when self-reliance turns into isolation.",
+        "keywords": [
+          "balance",
+          "giving and receiving",
+          "control",
+          "self-reliance"
+        ]
+      },
+      "cross": {
+        "upright": "Other commitments are conflicting with your need to maintain a nurturing space. Balance external demands with internal peace.",
+        "reversed": "External pressures exacerbate neglect of self-care or household needs. Urgent recalibration is necessary.",
+        "keywords": [
+          "commitments",
+          "conflicts",
+          "neglect",
+          "recalibration"
+        ]
+      },
+      "obstacle": {
+        "upright": "External factors disrupt your grounded nature. Distinguish between real demands and distractions from your path.",
+        "reversed": "Internal resistance to change or fear of material loss impedes growth. Address emotional or mental blocks.",
+        "keywords": [
+          "external disruption",
+          "real demands",
+          "resistance",
+          "fear"
+        ]
+      },
+      "lesson": {
+        "upright": "Understand that true abundance stems not from wealth, but from harmony in home and heart. Nurture this balance.",
+        "reversed": "The lesson is in knowing material wealth is hollow without inner abundance and emotional connection.",
+        "keywords": [
+          "true abundance",
+          "home and heart",
+          "inner wealth",
+          "emotional connection"
+        ]
+      },
+      "shadow": {
+        "upright": "Shadow self fears vulnerability masked by dependence on material comfort. Embrace the healing of openness.",
+        "reversed": "Avoidance of emotional issues creates a false sense of security. Embrace introspection and heartfelt care.",
+        "keywords": [
+          "fear of vulnerability",
+          "material comfort",
+          "emotional avoidance",
+          "introspection"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Perfectionism or over-commitment to others' wellbeing hinders your effective self-care. Reassess priorities.",
+        "reversed": "Dependency on external validation or financial status blocks genuine self-worth and personal growth.",
+        "keywords": [
+          "perfectionism",
+          "over-commitment",
+          "dependency",
+          "self-worth"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Cultivate gratitude and care both within and around you. Tend to life's garden with patience and love.",
+        "reversed": "Review priorities and establish healthier boundaries. Invite sincerity and authenticity into actions.",
+        "keywords": [
+          "gratitude",
+          "care",
+          "boundaries",
+          "authenticity"
+        ]
+      },
+      "action": {
+        "upright": "Actively nourish your environment. Make practical adjustments that enhance well-being and financial security.",
+        "reversed": "Reflect on areas of neglect and commit to constructive change. Simplify commitments to refocus energy.",
+        "keywords": [
+          "nourish environment",
+          "practical adjustments",
+          "neglect",
+          "simplify"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as a reliable provider, finding joy in fostering abundance and comfort for those around you.",
+        "reversed": "You may identify as either too self-sufficient or overly dependent. Seek a middle ground embracing interdependence.",
+        "keywords": [
+          "reliable provider",
+          "self-sufficient",
+          "interdependence",
+          "identity"
+        ]
+      },
+      "what_helps": {
+        "upright": "Trust in your ability to manifest abundance through practical wisdom and caring for your environment holistically.",
+        "reversed": "Seek support from those who reflect back your need for genuine self-appreciation and consistent care.",
+        "keywords": [
+          "manifest abundance",
+          "practical wisdom",
+          "support",
+          "self-appreciation"
+        ]
+      },
+      "guidance": {
+        "upright": "Divine guidance suggests that balance and stability act as your pillars. Nature’s wisdom is your eternal ally.",
+        "reversed": "Guidance encourages realigning with earth's rhythms, addressing financial instability with pragmatic planning.",
+        "keywords": [
+          "balance",
+          "stability",
+          "nature's wisdom",
+          "financial planning"
+        ]
+      },
+      "best_course": {
+        "upright": "Prioritize balance in all endeavors, understanding that true wealth is found in love and holistic wellbeing.",
+        "reversed": "Confront excesses dominating your energy. Redirect focus on measurable growth and simplicity.",
+        "keywords": [
+          "balance",
+          "holistic wellbeing",
+          "confront excess",
+          "simplicity"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to create a nurturing cocoon of comfort, simultaneously fearing that it may become a barrier against new experiences.",
+        "reversed": "Fear of scarcity and the hope that material success alone can bring peace. Reckon with deeper emotional needs.",
+        "keywords": [
+          "comfort cocoon",
+          "new experiences",
+          "scarcity fear",
+          "emotional needs"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire to cultivate a life filled with warmth, love, and material security for self and loved ones.",
+        "reversed": "Hope lies in achieving security through external validation, overlooking the need for inner fulfillment.",
+        "keywords": [
+          "warmth",
+          "love",
+          "security",
+          "external validation"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing one's nurturing role or being unable to provide the comfort and stability once taken for granted.",
+        "reversed": "Fear revolves around dependency on external measures of success and the frailty that accompanies them.",
+        "keywords": [
+          "losing role",
+          "provision",
+          "dependency",
+          "frailty"
+        ]
+      },
+      "subconscious": {
+        "upright": "Internally, nurturing drives are profound, seeking harmony and abundance that resonate at the soul level.",
+        "reversed": "Subconscious patterns of insecurity or neglect affect decision-making, calling for delicate exploration.",
+        "keywords": [
+          "nurturing drives",
+          "soul level",
+          "insecurity",
+          "exploration"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you aim to protect and cultivate security, ensuring that your home is a haven and a sanctuary.",
+        "reversed": "Aware of the need for stability, yet uncertain about managing competing demands and desires.",
+        "keywords": [
+          "protection",
+          "security",
+          "haven",
+          "uncertainty"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally secure, you exude warmth and confidence in your ability to nurture and maintain abundance.",
+        "reversed": "Emotional unrest may stem from neglect or distorted priorities, leading to internal turmoil.",
+        "keywords": [
+          "emotional security",
+          "warmth",
+          "neglect",
+          "turmoil"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart yearns for a balanced expression of love, both giving and receiving in a dance of open-hearted nurturing.",
+        "reversed": "Heart may cling to material attachment, unintentionally forsaking deeper emotional connections.",
+        "keywords": [
+          "balanced love",
+          "open-hearted",
+          "attachment",
+          "emotional connections"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, you weigh practical matters with grace, ensuring all facets of life are harmoniously integrated.",
+        "reversed": "Thought patterns may veer towards over-analyzing or doubting your capacity to achieve desired security.",
+        "keywords": [
+          "practical grace",
+          "harmonious integration",
+          "over-analyzing",
+          "doubt"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Your nurturing presence is valued, drawing others towards you seeking warmth and practical wisdom.",
+        "reversed": "Others may perceive you as either too controlling or disconnected due to overt focus on material concerns.",
+        "keywords": [
+          "valued presence",
+          "warmth",
+          "control",
+          "disconnection"
+        ]
+      },
+      "others": {
+        "upright": "Family and friends support and benefit from your stability, looking to you as a reliable source of advice and grounding.",
+        "reversed": "Others' insecurities or demands may disrupt your nurturing efforts, creating tension and frustration.",
+        "keywords": [
+          "support",
+          "grounding",
+          "insecurity",
+          "tension"
+        ]
+      },
+      "environment": {
+        "upright": "The environment is fertile with opportunities for growth and security, sustaining your nurturing endeavors.",
+        "reversed": "Surroundings may challenge your ability to keep balanced and may require conscientious navigation.",
+        "keywords": [
+          "fertile opportunities",
+          "growth",
+          "challenges",
+          "navigation"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a source of stability and nurturing, you are appreciated for your dedication to fostering abundance.",
+        "reversed": "May be seen as materially driven or overly protective, impacting your genuine interpersonal connections.",
+        "keywords": [
+          "stability",
+          "nurturing",
+          "materially driven",
+          "interpersonal"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Beneath the surface, unseen forces align to support your grounded abundance and nurturing projects.",
+        "reversed": "Hidden complexities involving trust or reliance may affect the nurturing roles you embody.",
+        "keywords": [
+          "support",
+          "projects",
+          "complexities",
+          "trust"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Realization of a harmonious lifestyle where material and emotional needs are lovingly met. Rewarding fulfillment awaits.",
+        "reversed": "Imbalance and short-sighted decisions may perpetuate a cycle of dependency or material distraction.",
+        "keywords": [
+          "harmonious lifestyle",
+          "fulfillment",
+          "imbalance",
+          "dependency"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, mastery over home and heart will create enduring abundance and joy, resonating well beyond today.",
+        "reversed": "Final results hover on decisions made now, risking lasting instability if balance isn't achieved.",
+        "keywords": [
+          "enduring abundance",
+          "joy",
+          "lasting instability",
+          "decisions"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Likely success from tending to internal and external gardens, yielding rich rewards in growth and well-being.",
+        "reversed": "Potential challenges if ignoring vital needs, with the risk of temporary achievements overshadowed by enduring issues.",
+        "keywords": [
+          "success",
+          "rewards",
+          "challenges",
+          "vital needs"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenarios manifest from harmony, resulting in flourishing gardens of love and security.",
+        "reversed": "Optimal futures are dependent on insights gained through addressing hidden deficiencies with care.",
+        "keywords": [
+          "harmony",
+          "flourishing",
+          "insights",
+          "deficiencies"
+        ]
+      },
+      "worst_case": {
+        "upright": "Without attentiveness, nurturing potential may fall into complacency, limiting genuine growth.",
+        "reversed": "Worst outcomes involve reluctance to change, resulting in cycles of material struggle or relational stagnation.",
+        "keywords": [
+          "complacency",
+          "limited growth",
+          "reluctance",
+          "stagnation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic embodies material mastery, reliable leadership, and the ability to create lasting prosperity through practical wisdom. Between you exists respect for resources, the ability to build substantial achievements, and generous sharing of material abundance.",
+        "reversed": "Material mastery may become greed or leadership might be authoritarian. Reliability could become stubbornness or prosperity might be hoarded. The relationship may involve materialistic values, financial control, or using wealth for power rather than good.",
+        "keywords": [
+          "material mastery",
+          "prosperity",
+          "reliable leadership",
+          "practical wisdom"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Deepening love through shared values and the creation of a nurturing partnership. Grounded in respect and mutual care.",
+      "reversed": "Emotional neglect or possessiveness may hinder genuine love. Reevaluate priorities within the relationship.",
+      "keywords": [
+        "shared values",
+        "partnership",
+        "neglect",
+        "reevaluate"
+      ]
+    },
+    "career": {
+      "upright": "Career offers fulfillment through a well-balanced, prosperous role rooted in practical wisdom and nurturing leadership.",
+      "reversed": "Career stagnation may result from over-focus on material gain at the cost of joy or authentic connection with work.",
+      "keywords": [
+        "fulfillment",
+        "prosperity",
+        "stagnation",
+        "connection"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual endeavors are nurtured by grounding practices, calling for a balance of inner richness and earthly engagement.",
+      "reversed": "Disconnection from spirit's nurturing aspect hinders progress. Address the imbalance through meaningful practices.",
+      "keywords": [
+        "grounding",
+        "balance",
+        "disconnection",
+        "practices"
+      ]
+    },
+    "financial": {
+      "upright": "Financial stability attainable through practical management and nurturing investments that resonate with personal values.",
+      "reversed": "Financial chaos results from carelessness or over-dependency on uncertain streams. Ground plans carefully.",
+      "keywords": [
+        "stability",
+        "investments",
+        "chaos",
+        "ground plans"
+      ]
+    },
+    "health": {
+      "upright": "Nurture your body with earth's offerings. Balance diet, exercise, and rest to maintain overall vitality and wellness.",
+      "reversed": "Neglect may manifest as physical imbalance or chronic fatigue. Attend closely to self-care practices.",
+      "keywords": [
+        "nurture body",
+        "balance",
+        "neglect",
+        "self-care"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "capricorn",
+    "hebrew_letter": "",
+    "numerology": 13,
+    "planet": "saturn",
+    "season": "winter",
+    "time_of_day": "dusk",
+    "colors": [
+      "green",
+      "brown",
+      "gold"
+    ],
+    "crystals": [
+      "malachite",
+      "garnet",
+      "emerald"
+    ],
+    "herbs": [
+      "rosemary",
+      "thyme",
+      "sage"
+    ]
+  },
+  "symbols": {
+    "rabbit": "fertility and abundance",
+    "garden": "cultivated success and prosperity",
+    "throne": "authority and grounded power",
+    "cornucopia": "abundance and nourishment",
+    "golden robe": "material wealth and comfort"
+  },
+  "affirmations": [
+    "I nurture my life and those I love with care and wisdom.",
+    "My abundance grows from a heart full of gratitude and purpose.",
+    "I balance my needs with the nurturing of others effortlessly.",
+    "I manifest prosperity through harmonious living and practical focus."
+  ],
+  "journaling_prompts": [
+    "How do I cultivate abundance in my life?",
+    "What imbalances are present in my approach to care for myself and others?",
+    "Where in my life can I nurture new growth with practical wisdom?",
+    "How do my material goals align with my deeper values?"
+  ],
+  "meditation_focus": "Grounding deeply into the earth's nurturing energies. Breathing in abundance, breathing out peace.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:51:34.790033",
+    "card_info": {
+      "name": "Queen of Pentacles",
+      "number": 13,
+      "suit": "pentacles"
+    },
+    "filename": "p13.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Abundance and nurturing energies magnified, offering richness both materially and emotionally. A season of fertility.",
+        "keywords": [
+          "abundance",
+          "nurturing",
+          "energies",
+          "magnified"
+        ]
+      },
+      "ten_of_pentacles": {
+        "interpretation": "Legacy of wealth and stability compounded by wise stewardship and harmonious domestic life.",
+        "keywords": [
+          "legacy",
+          "wealth",
+          "stability",
+          "compounded"
+        ]
+      },
+      "two_of_cups": {
+        "interpretation": "Deepening of emotional bonds fostered by mutual care and shared material comforts.",
+        "keywords": [
+          "deepening",
+          "emotional",
+          "bonds",
+          "fostered"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Sudden upheavals challenge stability and require careful rebuilding from the ground up.",
+        "keywords": [
+          "sudden",
+          "upheavals",
+          "challenge",
+          "stability"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Grief or loss may overshadow nurturing abilities, demanding emotional resilience and healing.",
+        "keywords": [
+          "grief",
+          "loss",
+          "overshadow",
+          "nurturing"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Risk of deception interfering with trust and security in relationships or material investments.",
+        "keywords": [
+          "risk",
+          "deception",
+          "interfering",
+          "trust"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hierophant": {
+        "interpretation": "Traditions and values offer clarity in decision-making and fostering of a nurturing lifestyle.",
+        "keywords": [
+          "traditions",
+          "values",
+          "offer",
+          "clarity"
+        ]
+      },
+      "four_of_wands": {
+        "interpretation": "Celebrations and partnerships clarified by shared goals and mutual investments in future happiness.",
+        "keywords": [
+          "celebrations",
+          "partnerships",
+          "clarified",
+          "shared"
+        ]
+      },
+      "nine_of_pentacles": {
+        "interpretation": "Personal independence and fulfillment become clearer when balanced with nurturing responsibilities.",
+        "keywords": [
+          "personal",
+          "independence",
+          "fulfillment",
+          "become"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "king_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_fool": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "page_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "king_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

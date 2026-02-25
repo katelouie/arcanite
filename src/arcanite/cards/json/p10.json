@@ -1,0 +1,680 @@
+{
+  "card_id": "ten_of_pentacles",
+  "card_name": "Ten of Pentacles",
+  "card_number": 10,
+  "suit": "pentacles",
+  "archetype": "the_legacy",
+  "core_meanings": {
+    "upright": {
+      "essence": "Wealth accumulated through generations, bringing stability, family bonds, and a sense of tradition. The culmination of material success.",
+      "keywords": [
+        "legacy",
+        "inheritance",
+        "tradition",
+        "family wealth",
+        "stability",
+        "security"
+      ],
+      "psychological": "Represents the security and identity found in family traditions and heritage. The comfort of knowing your place within a lineage.",
+      "spiritual": "The soul's journey through material experience towards understanding permanence and continuity beyond the individual.",
+      "practical": "Focus on sustaining and extending your material resources and ensuring your efforts benefit future generations.",
+      "shadow": "Being overly tied to tradition, fear of change, or being trapped in family expectations that stifle individuality."
+    },
+    "reversed": {
+      "essence": "Family disputes, financial instability within the home, or questioning the true value of material inheritance.",
+      "keywords": [
+        "family conflict",
+        "financial loss",
+        "questioning legacy",
+        "inheritance disputes",
+        "instability"
+      ],
+      "psychological": "Challenges in finding your own identity separate from family legacies or breaking free from limiting traditions.",
+      "spiritual": "A call to reassess what legacy truly means—a shift from material focus to spiritual or emotional dividends.",
+      "practical": "Address mismanagement of resources or unresolved family issues that threaten long-term stability.",
+      "shadow": "Stubborn attachment to outdated practices, fear of losing status, or valuing wealth over personal relationships."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A prosperous family background or stable upbringing has greatly influenced your current sense of security and success.",
+        "reversed": "Past family conflicts or financial instability continue to impact your views on security and success.",
+        "keywords": [
+          "family influence",
+          "traditional background",
+          "inheritance issues",
+          "stability"
+        ]
+      },
+      "distant_past": {
+        "upright": "Ancient family traditions and legacy that have been passed down and shape your identity today.",
+        "reversed": "Long-standing family disputes or unresolved ancestral baggage affect your current situation.",
+        "keywords": [
+          "ancestral legacy",
+          "old traditions",
+          "ancient disputes",
+          "family roots"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent consolidation of wealth or achievements within family has affected your present stability.",
+        "reversed": "Recent family disagreements or financial upheavals challenging your current equilibrium.",
+        "keywords": [
+          "recent success",
+          "family disagreement",
+          "financial change",
+          "stability shift"
+        ]
+      },
+      "present": {
+        "upright": "Right now, you're enjoying the fruits of collective labor and the stability of a supportive family structure.",
+        "reversed": "Currently grappling with family disagreements or financial instability posing challenges to your security.",
+        "keywords": [
+          "current stability",
+          "supportive family",
+          "present disagreement",
+          "financial challenge"
+        ]
+      },
+      "present_situation": {
+        "upright": "Your current environment is one of wealth and tradition, allowing you to feel secure and established.",
+        "reversed": "Present issues around family expectations are causing strain on your sense of security.",
+        "keywords": [
+          "wealthy environment",
+          "establishment",
+          "family expectations",
+          "legal disputes"
+        ]
+      },
+      "future": {
+        "upright": "A promising future of security, with family connections blossoming into supportive and stable resources.",
+        "reversed": "Upcoming challenges from possible financial mismanagement or disputes within family require careful handling.",
+        "keywords": [
+          "future security",
+          "supportive resources",
+          "upcoming challenges",
+          "manage resources"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, you'll witness the positive effects of solid family ties or financial security in your life.",
+        "reversed": "Family troubles or financial issues may soon emerge, necessitating early intervention.",
+        "keywords": [
+          "immediate stability",
+          "financial gain",
+          "trouble emerging",
+          "intervention required"
+        ]
+      },
+      "distant_future": {
+        "upright": "In the long run, your current actions will shape a lasting legacy that provides for future generations.",
+        "reversed": "Long-term, unresolved issues may lead to a breakdown in familial bonds or financial instability.",
+        "keywords": [
+          "lasting legacy",
+          "generational wealth",
+          "future instability",
+          "long-term issues"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Balancing the need for tradition with the adaptability necessary for modern success. Honoring past without being bound by it.",
+        "reversed": "Facing family or financial struggles that challenge your sense of security and growth.",
+        "keywords": [
+          "balance tradition",
+          "adaptability",
+          "security challenges",
+          "family struggles"
+        ]
+      },
+      "cross": {
+        "upright": "Potential tensions between individual desires and collective family expectations.",
+        "reversed": "Conflicts arise from misaligned values within family, disrupting harmony and security.",
+        "keywords": [
+          "individual vs. family",
+          "misaligned values",
+          "harmony disruption",
+          "tension"
+        ]
+      },
+      "obstacle": {
+        "upright": "Too much focus on material success can obscure the true value of family and tradition.",
+        "reversed": "Overcoming outdated traditions or family conflicts that prevent forward movement.",
+        "keywords": [
+          "material focus",
+          "family value",
+          "outdated traditions",
+          "forward movement"
+        ]
+      },
+      "lesson": {
+        "upright": "Learning that wealth is both material and emotional, and true richness comes from family bonds.",
+        "reversed": "Understanding that real legacy lies beyond material wealth, in values and connections.",
+        "keywords": [
+          "material and emotional",
+          "true richness",
+          "beyond wealth",
+          "values and connections"
+        ]
+      },
+      "shadow": {
+        "upright": "Attachment to material legacy may overshadow personal happiness and authenticity.",
+        "reversed": "Fear of losing family status or recognition if personal choices go against traditions.",
+        "keywords": [
+          "material attachment",
+          "personal happiness",
+          "family status",
+          "tradition conflict"
+        ]
+      },
+      "what_hinders": {
+        "upright": "A fixation on maintaining family traditions may hinder personal growth and adaptability.",
+        "reversed": "Old family patterns and conflicts continue to prevent present stability and unity.",
+        "keywords": [
+          "tradition fixation",
+          "personal growth",
+          "old patterns",
+          "unity prevention"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Nurture family bonds and consider how your actions contribute to a lasting legacy. Embrace traditions that enhance rather than confine.",
+        "reversed": "Reassess what truly matters to you in the concept of family and legacy. Mend conflicts with empathy.",
+        "keywords": [
+          "nurture bonds",
+          "lasting legacy",
+          "reassess family",
+          "empathic mending"
+        ]
+      },
+      "action": {
+        "upright": "Invest in relationships that strengthen family unity and enhance communal harmony. Secure assets wisely.",
+        "reversed": "Address family arguments or financial issues now to prevent future disruption. Seek collaboration.",
+        "keywords": [
+          "invest relationships",
+          "family unity",
+          "address issues",
+          "seek collaboration"
+        ]
+      },
+      "your_approach": {
+        "upright": "You value stability and seek to honor your roots through careful planning and maintaining family harmony.",
+        "reversed": "You might feel trapped between personal desires and inherited expectations, needing to clarify your own path.",
+        "keywords": [
+          "value stability",
+          "honor roots",
+          "feeling trapped",
+          "clarify path"
+        ]
+      },
+      "what_helps": {
+        "upright": "Roots and the wisdom of elders guide your decisions, providing a foundation of strength and support.",
+        "reversed": "Recognizing the need for change without fear of losing tradition can be liberating and healing.",
+        "keywords": [
+          "wisdom of elders",
+          "foundation strength",
+          "need for change",
+          "liberation"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust in the strength of your heritage and let it bring you security and grounding in uncertain times.",
+        "reversed": "Reevaluation of what legacy truly means. Shift focus to non-material aspects of life.",
+        "keywords": [
+          "trust heritage",
+          "security grounding",
+          "reevaluation",
+          "non-material focus"
+        ]
+      },
+      "best_course": {
+        "upright": "Finding harmony in continuing traditions while fostering innovation and personal aspirations.",
+        "reversed": "Best course is resolving lingering family issues and redefining what success means for you.",
+        "keywords": [
+          "harmony",
+          "foster innovation",
+          "resolving issues",
+          "redefining success"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for a secure financial future grounded in family strength and traditions; fear of disconnection from heritage.",
+        "reversed": "Fear that unresolved family conflicts or financial troubles will disrupt future peace and stability.",
+        "keywords": [
+          "secure future",
+          "family strength",
+          "disconnection",
+          "conflicts disruption"
+        ]
+      },
+      "hopes": {
+        "upright": "Dream of building a legacy that mirrors the values and achievements of past generations but is uniquely your own.",
+        "reversed": "Hope to break free from confining traditions while maintaining a sense of belonging and continuity.",
+        "keywords": [
+          "build legacy",
+          "unique achievements",
+          "break free",
+          "sense of belonging"
+        ]
+      },
+      "fears": {
+        "upright": "Worry that personal success may come at the expense of family ties or inherited wisdom.",
+        "reversed": "Fear of being bound by family expectations or losing identity in the pursuit of meeting those demands.",
+        "keywords": [
+          "personal success worry",
+          "family ties",
+          "being bound",
+          "loss of identity"
+        ]
+      },
+      "subconscious": {
+        "upright": "Deep need for security and belonging rooted in a well-established family model. Desire to perpetuate traditions.",
+        "reversed": "Subconscious struggles with inherited family dynamics looking for resolution and personal autonomy.",
+        "keywords": [
+          "deep security",
+          "belonging",
+          "tradition perpetuation",
+          "inherited struggle"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aiming toward financial security through strategies informed by family wisdom and shared values.",
+        "reversed": "Aware of the tension between following family paths and voicing personal desires for change.",
+        "keywords": [
+          "financial aim",
+          "strategy",
+          "family wisdom",
+          "tension awareness"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Feelings of gratitude and contentment from the stability family and tradition provide. A sense of collective pride.",
+        "reversed": "Emotions of frustration or confusion about your place within family roles and expectations.",
+        "keywords": [
+          "gratitude",
+          "contentment",
+          "collective pride",
+          "frustration"
+        ]
+      },
+      "heart": {
+        "upright": "Desire for connection with family roots and a harmonious legacy that secures love and support for future generations.",
+        "reversed": "Heart's calling to seek personal freedom from family expectations and embrace individual desires.",
+        "keywords": [
+          "connection",
+          "harmonious legacy",
+          "personal freedom",
+          "individual desires"
+        ]
+      },
+      "mind": {
+        "upright": "Your thoughts are dominated by planning and securing a future that honors your lineage and maximizes stability.",
+        "reversed": "Mental struggle with past family disputes causing current uncertainty and indecisiveness.",
+        "keywords": [
+          "future planning",
+          "lineage honor",
+          "mental struggle",
+          "indecisiveness"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Environment supports growth, with community and family playing active roles in securing your position.",
+        "reversed": "Instability from external factors like economic shifts or unforeseen family issues impacting your confidence.",
+        "keywords": [
+          "supportive environment",
+          "active roles",
+          "external instability",
+          "confidence impact"
+        ]
+      },
+      "others": {
+        "upright": "Family and social circles see you as a cornerstone of stability and tradition, often relying on your guidance.",
+        "reversed": "Others may notice stress from trying to meet family expectations or struggling under burdens of legacy.",
+        "keywords": [
+          "cornerstone",
+          "reliability",
+          "stress perception",
+          "burden struggles"
+        ]
+      },
+      "environment": {
+        "upright": "Environmental factors favor long-term planning and offers resources for building a strong foundation.",
+        "reversed": "Current surroundings may highlight financial pressures or social dynamics creating strain.",
+        "keywords": [
+          "favorable planning",
+          "strong foundation",
+          "financial pressure",
+          "social strain"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a stable and reliable presence, someone who values tradition and connection above fleeting success.",
+        "reversed": "Perceived as possibly entrenched in tradition or grappling with personal identity versus inherited roles.",
+        "keywords": [
+          "stable presence",
+          "connection value",
+          "entrenched",
+          "identity grapple"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces are protecting your legacy and stability through supportive undercurrents within family and peers.",
+        "reversed": "Hidden challenges, such as jealousy or unspoken conflicts, might undermine the harmony and prosperity of your environment.",
+        "keywords": [
+          "protective forces",
+          "supportive undercurrents",
+          "hidden challenges",
+          "unspoken conflicts"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Achievement of a harmonious blend of wealth and relationships that enriches future generations. A secure legacy unfolds.",
+        "reversed": "Potential fracture in harmony or financial stability unless underlying issues are resolved promptly.",
+        "keywords": [
+          "harmonious blend",
+          "wealth and relationships",
+          "secure legacy",
+          "potential fracture"
+        ]
+      },
+      "final_outcome": {
+        "upright": "A lasting and respected legacy defined by strong family values and financial security, strengthening familial bonds.",
+        "reversed": "Forced reevaluation of priorities and methods, potentially leading to an evolved definition of what legacy means.",
+        "keywords": [
+          "respected legacy",
+          "strong bonds",
+          "priorities reevaluation",
+          "evolved definition"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Building a future where tradition and innovation coalesce, ensuring stability and prosperity for years to come.",
+        "reversed": "Might need to address financial missteps or familial rifts that could destabilize future peace.",
+        "keywords": [
+          "tradition and innovation",
+          "future prosperity",
+          "address issues",
+          "future peace"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenario involves seamlessly integrating personal aspirations with the wealth of family heritage, achieving mutual growth.",
+        "reversed": "Realizing family disagreements as opportunities for growth and establishing clearer, stronger family structures.",
+        "keywords": [
+          "integrate aspirations",
+          "heritage wealth",
+          "disagreement opportunities",
+          "stronger structures"
+        ]
+      },
+      "worst_case": {
+        "upright": "Stagnation due to complacency, leading to missed opportunities for adapting and thriving in changing circumstances.",
+        "reversed": "Worst case might be a breakdown in relationships or financial security, causing turmoil and regret.",
+        "keywords": [
+          "stagnation",
+          "missed opportunities",
+          "relationship breakdown",
+          "financial regret"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship creates lasting material legacy, family wealth, and generational prosperity. The dynamic involves building something that will benefit not just yourselves but future generations, creating security and inheritance for those who come after.",
+        "reversed": "The legacy may be lost or family wealth might be squandered. Generational prosperity could be threatened or inheritance might cause conflicts. The relationship may involve family disputes over money or failure to plan for the future.",
+        "keywords": [
+          "legacy",
+          "inheritance",
+          "family wealth",
+          "generational prosperity"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Relationships characterized by stability and long-term commitment, rooted in shared values and mutual growth.",
+      "reversed": "Family interference or a focus on status might be causing relational tension or misunderstandings.",
+      "keywords": [
+        "stability",
+        "commitment",
+        "family interference",
+        "relationship tension"
+      ]
+    },
+    "career": {
+      "upright": "Successful career path built on strong foundations. Long-term accomplishments are recognized and celebrated.",
+      "reversed": "Potential conflict with colleagues resembling family dynamics. Need to navigate office politics carefully.",
+      "keywords": [
+        "strong foundations",
+        "career success",
+        "colleague conflict",
+        "office politics"
+      ]
+    },
+    "spiritual": {
+      "upright": "A spiritual journey firmly rooted in tradition and lineage, leading to profound understanding and wisdom.",
+      "reversed": "Straying too far from spiritual roots might cause disconnection. Seek balance between innovation and tradition.",
+      "keywords": [
+        "tradition",
+        "spiritual wisdom",
+        "disconnection",
+        "balance"
+      ]
+    },
+    "financial": {
+      "upright": "Financial growth and wealth sustained over generations providing security and confidence for future investments.",
+      "reversed": "Need to address potential fiscal mismanagement. Examine whether spending aligns with long-term goals.",
+      "keywords": [
+        "financial growth",
+        "generational wealth",
+        "fiscal mismanagement",
+        "spending alignment"
+      ]
+    },
+    "health": {
+      "upright": "Overall wellbeing benefits from a supportive family environment and traditional health practices.",
+      "reversed": "Family stress or the weight of expectations possibly affecting health. Seeking balance is necessary.",
+      "keywords": [
+        "wellbeing",
+        "supportive environment",
+        "family stress",
+        "balance"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "virgo",
+    "hebrew_letter": "",
+    "numerology": 10,
+    "planet": "mercury",
+    "season": "autumn",
+    "time_of_day": "afternoon",
+    "colors": [
+      "green",
+      "gold",
+      "brown"
+    ],
+    "crystals": [
+      "agate",
+      "emerald",
+      "citrine"
+    ],
+    "herbs": [
+      "vetiver",
+      "sage",
+      "thyme"
+    ]
+  },
+  "symbols": {
+    "family_crest": "tradition and heritage",
+    "castle": "security and stability",
+    "dogs": "loyalty and faithfulness",
+    "gold_coins": "wealth and legacy",
+    "elder_citizen": "wisdom and continuity"
+  },
+  "affirmations": [
+    "I honor my roots and build a legacy of love and prosperity.",
+    "My family's strength and security provide a foundation for my success.",
+    "Tradition and innovation guide me towards a rich and fulfilling future.",
+    "I nurture relationships that sustain and enrich my life's legacy."
+  ],
+  "journaling_prompts": [
+    "What legacy do I wish to create for future generations?",
+    "How do my family's traditions influence my personal values and decisions?",
+    "What areas of my life reflect stability and long-term planning?",
+    "How can I navigate family expectations to preserve my individuality?"
+  ],
+  "meditation_focus": "Reflect on the strength and wisdom of your ancestors, connecting with their guidance and the security of family bonds.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:47:12.853341",
+    "card_info": {
+      "name": "Ten of Pentacles",
+      "number": 10,
+      "suit": "pentacles"
+    },
+    "filename": "p10.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Enhanced prosperity and abundance, focusing on nurturing family and home.",
+        "keywords": [
+          "enhanced",
+          "prosperity",
+          "abundance",
+          "focusing"
+        ]
+      },
+      "four_of_wands": {
+        "interpretation": "Celebration of family milestones and achievements harmoniously intertwined with tradition.",
+        "keywords": [
+          "celebration",
+          "family",
+          "milestones",
+          "achievements"
+        ]
+      },
+      "six_of_cups": {
+        "interpretation": "Strong ties to the past and nostalgia inform decisions, ensuring comfort and security.",
+        "keywords": [
+          "strong",
+          "ties",
+          "past",
+          "nostalgia"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Challenges of sudden change shaking stable foundations. Test of resilience for family ties and heritage.",
+        "keywords": [
+          "challenges",
+          "sudden",
+          "change",
+          "shaking"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Struggling with decisions that affect family stability. Need for decisive action over stalemate.",
+        "keywords": [
+          "struggling",
+          "decisions",
+          "affect",
+          "family"
+        ]
+      },
+      "five_of_pentacles": {
+        "interpretation": "Potential financial or emotional strain on family resources – caution is necessary.",
+        "keywords": [
+          "potential",
+          "financial",
+          "emotional",
+          "strain"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hierophant": {
+        "interpretation": "Clarifies the role of tradition and structured guidance in supporting long-term planning.",
+        "keywords": [
+          "clarifies",
+          "role",
+          "tradition",
+          "structured"
+        ]
+      },
+      "seven_of_pentacles": {
+        "interpretation": "Highlights the importance of assessing and nurturing investments for sustained growth.",
+        "keywords": [
+          "highlights",
+          "importance",
+          "assessing",
+          "nurturing"
+        ]
+      },
+      "justice": {
+        "interpretation": "Encourages weighing family matters with fairness and balance, teaching value-based judgments.",
+        "keywords": [
+          "encourages",
+          "weighing",
+          "family",
+          "matters"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "nine_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "page_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

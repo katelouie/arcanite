@@ -1,0 +1,656 @@
+{
+  "card_id": "king_of_wands",
+  "card_name": "King of Wands",
+  "card_number": 14,
+  "suit": "wands",
+  "archetype": "the_leader",
+  "core_meanings": {
+    "upright": {
+      "essence": "Charismatic leadership, visionary action, and dynamic energy. The embodiment of passion driving toward visionary goals with confidence and determination.",
+      "keywords": [
+        "leadership",
+        "vision",
+        "entrepreneurial spirit",
+        "confidence",
+        "charisma",
+        "inspiration",
+        "boldness",
+        "innovation"
+      ],
+      "psychological": "Represents the inner fire that fuels ambition and inspires others. A driving force of enthusiasm and creativity.",
+      "spiritual": "Connection to the archetype of the inspired leader. The spiritual warrior who forges new paths with integrity and passion.",
+      "practical": "Lead by example and inspire others with your vision. Act with confidence and the courage to take calculated risks.",
+      "shadow": "Dominance, impatience, or overbearing behavior. A tendency to become consumed by one's own vision, disregarding others' input."
+    },
+    "reversed": {
+      "essence": "Misuse of power, arrogance, or impulsive behavior. A leader who has lost touch with the core of their inspiration.",
+      "keywords": [
+        "arrogance",
+        "impulsiveness",
+        "egotism",
+        "intolerance",
+        "overbearing",
+        "rashness",
+        "disconnection"
+      ],
+      "psychological": "Disconnected from one's sense of purpose, leading to arrogance or tyrannical tendencies.",
+      "spiritual": "Ego overpowers intuition, leading to misguided pursuits. A need to realign with the spiritual purpose behind actions.",
+      "practical": "Re-evaluate your goals and actions. Overcome impatience and seek feedback to grow as a leader.",
+      "shadow": "Being driven by ego rather than passion. Refusing to acknowledge when leadership becomes controlling."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Your past leadership decisions have shaped your current path. A previous bold venture laid the groundwork for today's opportunities.",
+        "reversed": "Past misuse of power or impulsive actions have lingering consequences affecting you now. Reflection on past mistakes is key.",
+        "keywords": [
+          "foundational leadership",
+          "past vision",
+          "former charisma",
+          "impulsive history"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-term vision and strategic action from the distant past inspire today's leadership style. Lessons learned from past leaders.",
+        "reversed": "Old patterns of arrogance or impulsiveness resurface. Examine the roots of any controlling tendencies.",
+        "keywords": [
+          "ancient vision",
+          "strategic roots",
+          "old patterns",
+          "historical leadership"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent decisions based on your visionary ideas have led to the present dynamic situation. Embrace the momentum.",
+        "reversed": "Recent actions may have been too hasty or overbearing, causing disruption. Adjustments are necessary.",
+        "keywords": [
+          "recent leadership",
+          "vision executed",
+          "dynamic changes",
+          "hasty actions"
+        ]
+      },
+      "present": {
+        "upright": "You are in a prime position to lead and inspire others. Now is the time to trust in your vision and take bold steps forward.",
+        "reversed": "Either you're acting impulsively and not considering others, or fear of failure is holding you back from taking charge.",
+        "keywords": [
+          "current leadership",
+          "inspiring presence",
+          "bold decisions",
+          "impulsive actions"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, your current experience is driven by dynamic leadership and the power to inspire change.",
+        "reversed": "Presently, your core is either overly aggressive or lacks the drive necessary to bring visions to life.",
+        "keywords": [
+          "central leadership",
+          "inspiring change",
+          "core dynamics",
+          "aggressive tendencies"
+        ]
+      },
+      "future": {
+        "upright": "A future filled with leadership opportunities awaits. Your vision will manifest as you step into your role with confidence.",
+        "reversed": "The future may hold challenges from acting too quickly or selfishly. Rethink strategies to ensure success.",
+        "keywords": [
+          "upcoming vision",
+          "future leadership",
+          "manifestation",
+          "strategic pitfalls"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a moment to assert your leadership and take decisive action will arise. Trust your instincts.",
+        "reversed": "In the immediate future, avoid rushing into situations without careful thought. Balance speed with wisdom.",
+        "keywords": [
+          "imminent leadership",
+          "decisive action",
+          "instinctive trust",
+          "rash decisions"
+        ]
+      },
+      "distant_future": {
+        "upright": "Leadership and visionary actions will lead to long-term achievements. Your legacy will inspire future generations.",
+        "reversed": "Over time, unchecked egoism or impulsiveness could result in unfulfilled potential. Realign with core values.",
+        "keywords": [
+          "legacy creation",
+          "long-term vision",
+          "future inspiration",
+          "potential lost"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Challenge lies in channeling passion into productive leadership without becoming overbearing or dismissive of feedback.",
+        "reversed": "The real obstacle is recognizing when ego has overshadowed vision, leading to impatience and poor choices.",
+        "keywords": [
+          "balanced leadership",
+          "productive passion",
+          "ego recognition",
+          "constructive feedback"
+        ]
+      },
+      "cross": {
+        "upright": "External expectations or rigid structures clash with your visionary approach. Adapt without losing integrity.",
+        "reversed": "Internal conflicts between desire for control and need for collaboration hinder progress.",
+        "keywords": [
+          "visionary clashes",
+          "external expectations",
+          "internal conflicts",
+          "need for collaboration"
+        ]
+      },
+      "obstacle": {
+        "upright": "The obstacle is to not let your strong will alienate others. Bridging passion with empathy is key.",
+        "reversed": "Resistance to acknowledging personal flaws and arrogance acts as a barrier to effective leadership.",
+        "keywords": [
+          "strong will",
+          "alienation",
+          "empathy bridge",
+          "acknowledge flaws"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to harness leadership without overpowering others. Balance assertiveness with receptivity for growth.",
+        "reversed": "The lesson is humility; understand that leadership requires listening as much as leading.",
+        "keywords": [
+          "balanced assertiveness",
+          "growth through listening",
+          "humility",
+          "receptivity"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow involves the tyrant archetype, where leadership becomes dominance. Integrate softer qualities.",
+        "reversed": "Hidden within is the fear of losing control, leading to defensive and controlling behaviors if unchecked.",
+        "keywords": [
+          "tyrant archetype",
+          "dominance",
+          "softer qualities",
+          "fear of losing control"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Fear of vulnerability blocks true connection with those you lead. Open communication channels for trust.",
+        "reversed": "Stubbornness or refusal to adapt hinders the visionary path. Flexibility is critical for progress.",
+        "keywords": [
+          "fear of vulnerability",
+          "connection barrier",
+          "stubbornness",
+          "need for flexibility"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Lead with your vision. Embody the change you wish to see and inspire those around you through action and word.",
+        "reversed": "Reconsider your motivations. Ensure your leadership endeavors are aligned with authentic aspirations.",
+        "keywords": [
+          "lead by vision",
+          "embody change",
+          "authentic leadership",
+          "motivation realignment"
+        ]
+      },
+      "action": {
+        "upright": "Take bold, inspired steps toward your goals. Harness your creativity and direct it with focused intent.",
+        "reversed": "Avoid rash decisions. Engage in self-reflection and gather insights before proceeding with action.",
+        "keywords": [
+          "bold steps",
+          "focused intent",
+          "rash decisions",
+          "reflective action"
+        ]
+      },
+      "your_approach": {
+        "upright": "You approach life with a confident, creative zest. Your charisma attracts opportunities and allies.",
+        "reversed": "You might be coming off as domineering or overbearing. Consider how your intensity is perceived.",
+        "keywords": [
+          "confident approach",
+          "creative zest",
+          "domineering presence",
+          "perceived intensity"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your ability to inspire and engage others is a powerful asset. Leverage your charisma for collective goals.",
+        "reversed": "Finding humility and accepting advice from peers strengthens your leadership and enhances your vision.",
+        "keywords": [
+          "inspirational ability",
+          "engagement",
+          "humility",
+          "peer advice"
+        ]
+      },
+      "guidance": {
+        "upright": "Universal guidance supports your dynamic and passionate endeavor. Align action with higher purpose.",
+        "reversed": "Spiritual guidance suggests a pause for introspection. Rekindle the connection to core values and dreams.",
+        "keywords": [
+          "universal support",
+          "higher purpose",
+          "introspective pause",
+          "core reconnection"
+        ]
+      },
+      "best_course": {
+        "upright": "Direct your passion with precision and clarity. Lead by example and keep your vision aligned with collective benefit.",
+        "reversed": "Consider collaborative approaches to accomplishing goals. Avoid the isolation of solo endeavors.",
+        "keywords": [
+          "precision",
+          "clarity",
+          "collective benefit",
+          "collaboration"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for recognition and influence through your visionary ideas. Fear of being misunderstood or unsupported.",
+        "reversed": "Fear stems from an inflated ego; hope resides in finding true strength through authenticity and humility.",
+        "keywords": [
+          "recognition",
+          "influence",
+          "fear of misunderstanding",
+          "authentic strength"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to inspire and lead with integrity, influencing positive change and leaving a lasting impact.",
+        "reversed": "Hope to achieve success without sacrificing core values or becoming a tyrant. Balance is sought.",
+        "keywords": [
+          "inspirational leadership",
+          "positive change",
+          "core values",
+          "balance"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing control or seeing visions unrealized. Doubt in your ability to maintain influence.",
+        "reversed": "Fear of being seen as arrogant or disconnected from those you lead. Fear of failure hindering progress.",
+        "keywords": [
+          "losing control",
+          "unrealized visions",
+          "arrogance",
+          "disconnection"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by a desire for impact and meaningful leadership. An inner fire yearning for expression.",
+        "reversed": "Unconscious patterns of arrogance or control impede connections. Unresolved inner desires cloud vision.",
+        "keywords": [
+          "impact desire",
+          "meaningful leadership",
+          "unconscious patterns",
+          "inner desires"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously yearning to lead with creativity and inspire others. Awareness of the potential within your vision.",
+        "reversed": "Conscious fears of losing recognition or power may overshadow genuine aspirations and block progress.",
+        "keywords": [
+          "creative leadership",
+          "conscious yearning",
+          "recognition fears",
+          "true aspirations"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally centered on inspiration and motivation. A fire in your heart drives you toward your goals.",
+        "reversed": "Emotional turbulence due to misaligned actions or ego-driven decisions. Reconnect with authentic passions.",
+        "keywords": [
+          "emotional inspiration",
+          "motivational state",
+          "turbulence",
+          "alignment"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart desires to lead with passion, integrity, and vision, creating a tapestry of vibrant relationships.",
+        "reversed": "Ignoring heart's wisdom leads to superficial connections. Reengage with core values for authentic bonds.",
+        "keywords": [
+          "passionate leadership",
+          "integrity",
+          "heart's wisdom",
+          "authentic bonds"
+        ]
+      },
+      "mind": {
+        "upright": "Your mind is fired by creativity and innovation, seeing possibilities others might overlook.",
+        "reversed": "Mental tendencies toward stubbornness or tunnel vision limit broader perspectives and potential collaborations.",
+        "keywords": [
+          "creative mind",
+          "innovative thinking",
+          "stubbornness",
+          "broader perspectives"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others see you as a charismatic leader capable of inspiring lasting change. Your vision captivates collective imagination.",
+        "reversed": "Perceived as a potential tyrant if leadership qualities lean towards dominance and control.",
+        "keywords": [
+          "charismatic leader",
+          "inspiring presence",
+          "visionary",
+          "dominance perception"
+        ]
+      },
+      "others": {
+        "upright": "Support from those who admire your strength and integrity. Allies rally behind your shared vision.",
+        "reversed": "Jealousy or misunderstanding from those who might feel overshadowed by your presence.",
+        "keywords": [
+          "supportive allies",
+          "integrity admiration",
+          "jealousy",
+          "misunderstanding"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment encourages bold ideas and innovative solutions. Doors open to ambitious pursuits.",
+        "reversed": "Restrictive settings limit expression. Navigate environments that stifle your creative leadership.",
+        "keywords": [
+          "encouraging environment",
+          "bold ideas",
+          "restrictive settings",
+          "creativity stifled"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a bold and confident leader, someone who brings vitality and direction to projects and people.",
+        "reversed": "Viewed as potentially overbearing or too ambitious, causing concern among peers.",
+        "keywords": [
+          "bold leader",
+          "confidence",
+          "overbearing",
+          "ambition perception"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces fuel your leadership journey. Synchronicities support your vision's progression.",
+        "reversed": "Hidden obstacles include personal insecurities or denial of weaknesses that need addressing.",
+        "keywords": [
+          "unseen support",
+          "synchronicities",
+          "hidden obstacles",
+          "personal insecurities"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success through powerful leadership and visionary goals. Your influence changes the landscape for the better.",
+        "reversed": "A result of discord through power struggles or unsuccessful ventures. Balance power with wisdom.",
+        "keywords": [
+          "successful leadership",
+          "landscape change",
+          "power struggles",
+          "balance"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Your legacy is defined by bold leadership and inspiring achievements. Future generations will remember your impact.",
+        "reversed": "Lessons from failed leadership will ultimately guide you to wiser future endeavors.",
+        "keywords": [
+          "bold legacy",
+          "inspiring achievements",
+          "failed leadership",
+          "wiser future"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Potential for achieving long-term goals with influential leadership that inspires and motivates.",
+        "reversed": "Possibility of unresolved conflicts and unmet goals due to misdirected leadership energy.",
+        "keywords": [
+          "long-term success",
+          "influential leadership",
+          "unresolved conflicts",
+          "misdirected energy"
+        ]
+      },
+      "best_case": {
+        "upright": "Ideal scenario involves leading a dynamic team with a shared vision, resulting in extraordinary accomplishments.",
+        "reversed": "Best case involves regaining alignment with core values to harness leadership for positive change.",
+        "keywords": [
+          "dynamic team",
+          "shared vision",
+          "alignment",
+          "positive change"
+        ]
+      },
+      "worst_case": {
+        "upright": "The worst outcome would be allowing eagerness for power to cloud judgment, leading to lost integrity and support.",
+        "reversed": "Dire results from ignorance of potential ego issues, causing alienation and leadership failures.",
+        "keywords": [
+          "clouded judgment",
+          "lost integrity",
+          "ego issues",
+          "leadership failures"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship embodies the highest expression of creative fire and spiritual leadership. The dynamic between you involves inspiring others and creating something that serves a greater purpose. Your connection radiates wisdom, charisma, and transformative power.",
+        "reversed": "The spiritual leadership may become ego-driven or corrupted by power. Vision might be clouded by arrogance or selfish desires. The relationship could involve abuse of influence, false spirituality, or inability to channel creative fire constructively.",
+        "keywords": [
+          "spiritual leadership",
+          "vision",
+          "transformation",
+          "mastery"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A relationship flourishes under strong leadership and shared vision. Charisma ignites passion and growth.",
+      "reversed": "Power struggles or domination overshadow connection. Balance needed for emotional harmony.",
+      "keywords": [
+        "flourishing relationship",
+        "shared vision",
+        "power struggles",
+        "emotional harmony"
+      ]
+    },
+    "career": {
+      "upright": "Vibrant leadership and visionary pursuits are met with success. This is your time for professional breakthroughs.",
+      "reversed": "Career stagnation due to authoritative or hasty decisions. Strategic adjustments required.",
+      "keywords": [
+        "professional success",
+        "breakthroughs",
+        "stagnation",
+        "strategic adjustments"
+      ]
+    },
+    "spiritual": {
+      "upright": "Lead your spiritual journey with inspiration and visionary practices. Connect deeply with spiritual fire.",
+      "reversed": "Ego-driven spirituality leads to barriers in growth. Focus on authentic connection and humility.",
+      "keywords": [
+        "spiritual leadership",
+        "visionary practices",
+        "ego barriers",
+        "authentic connection"
+      ]
+    },
+    "financial": {
+      "upright": "Financial growth through innovative leadership and investments. Confidence leads to abundance.",
+      "reversed": "Financial instability from impulsive decisions or unchecked ambition. Reassess your strategy.",
+      "keywords": [
+        "financial growth",
+        "innovative investments",
+        "instability",
+        "strategy reassessment"
+      ]
+    },
+    "health": {
+      "upright": "Robust health through dynamic action and proactive wellness practices. Embrace vitality with energy.",
+      "reversed": "Ignoring health warnings due to overconfidence leads to potential setbacks. Prioritize balance.",
+      "keywords": [
+        "dynamic health",
+        "wellness practices",
+        "health warnings",
+        "balance prioritization"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "leo",
+    "hebrew_letter": "shin",
+    "numerology": 4,
+    "planet": "sun",
+    "season": "summer",
+    "time_of_day": "noon",
+    "colors": [
+      "orange",
+      "red",
+      "gold"
+    ],
+    "crystals": [
+      "citrine",
+      "sunstone",
+      "amber"
+    ],
+    "herbs": [
+      "ginger",
+      "cinnamon",
+      "basil"
+    ]
+  },
+  "symbols": {
+    "salamander": "adaptation and transformation through trials",
+    "crown": "authority and higher vision",
+    "wand": "inspired action and growth",
+    "lion": "strength and leadership"
+  },
+  "affirmations": [
+    "I lead with vision and inspire those around me",
+    "My passion directs my vision and inspires collective progress",
+    "I balance courage with wisdom in my decisions",
+    "My leadership creates positive change and empowers others"
+  ],
+  "journaling_prompts": [
+    "How do I embody leadership in my life today?",
+    "What vision am I driven to bring into reality?",
+    "Where can I balance my passion with patience?",
+    "How can I harness my charisma for positive influence?"
+  ],
+  "meditation_focus": "Visualize embracing your inner leader, surrounded by the warm glow of the sun. Feel the strength and assurance guiding your journey.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:16:32.887520",
+    "card_info": {
+      "name": "King of Wands",
+      "number": 14,
+      "suit": "wands"
+    },
+    "filename": "w14.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_chariot": {
+        "interpretation": "Determination and leadership drive rapid success toward goals. Victory through focused intent.",
+        "keywords": [
+          "determination",
+          "leadership",
+          "drive",
+          "rapid"
+        ]
+      },
+      "the_emperor": {
+        "interpretation": "Merges structure with visionary passion. A powerful combination for power and authority realization.",
+        "keywords": [
+          "merges",
+          "structure",
+          "visionary",
+          "passion"
+        ]
+      }
+    },
+    "challenges": {
+      "the_hanged_man": {
+        "interpretation": "Impatience conflicts with necessary surrender. Growth lies in releasing control.",
+        "keywords": [
+          "impatience",
+          "conflicts",
+          "necessary",
+          "surrender"
+        ]
+      },
+      "the_tower": {
+        "interpretation": "Potential for drastic change if leadership is not adaptable. Challenges uphold enlightenment.",
+        "keywords": [
+          "potential",
+          "drastic",
+          "change",
+          "leadership"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_star": {
+        "interpretation": "Inspires hope, vision, and renewed purpose. Highlights the importance of faith and long-term vision.",
+        "keywords": [
+          "inspires",
+          "hope",
+          "vision",
+          "renewed"
+        ]
+      },
+      "the_ace_of_swords": {
+        "interpretation": "Precision of thought sharpens leadership focus. Enhances decision-making clarity.",
+        "keywords": [
+          "precision",
+          "thought",
+          "sharpens",
+          "leadership"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_emperor": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "page_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "king_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

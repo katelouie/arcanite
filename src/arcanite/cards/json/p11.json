@@ -1,0 +1,681 @@
+{
+  "card_id": "page_of_pentacles",
+  "card_name": "Page of Pentacles",
+  "card_number": 11,
+  "suit": "pentacles",
+  "archetype": "the_student",
+  "core_meanings": {
+    "upright": {
+      "essence": "Curiosity and eagerness for learning about the material world. A new opportunity for growth through focused attention and study.",
+      "keywords": [
+        "learning",
+        "opportunity",
+        "focus",
+        "curiosity",
+        "study",
+        "practicality",
+        "dedication",
+        "ambition"
+      ],
+      "psychological": "Embodying the mindset of a beginner, open to absorbing knowledge and eager to gain skills. Represents youthful enthusiasm for personal development.",
+      "spiritual": "Connecting the tangible with the spiritual by learning how to manifest dreams into reality. Finding magic in the mundane.",
+      "practical": "Time to engage in practical planning and focus on skill development. An invitation to commit to projects or studies.",
+      "shadow": "Procrastination or lack of focus can lead to missed opportunities. Tendency to become bogged down by details or immaturity in commitments."
+    },
+    "reversed": {
+      "essence": "Stagnation in development or lack of commitment. Unfocused or impractical pursuit leading to half-hearted efforts.",
+      "keywords": [
+        "procrastination",
+        "distraction",
+        "lack of commitment",
+        "immaturity",
+        "missed opportunities",
+        "short-sightedness"
+      ],
+      "psychological": "Mental restlessness and inability to concentrate. A void where ambition once thrived, clouded by self-doubt or distraction.",
+      "spiritual": "Disconnected from the material world's lessons, leading to a lack of grounding and inability to manifest spiritual intentions.",
+      "practical": "Projects stalled due to lack of planning or direction. Need for clearer goals and greater determination.",
+      "shadow": "Unwillingness to put in necessary effort, seeking shortcuts or quickly losing interest. Fear of failure leads to avoidance."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past experiences of learning or beginning a tangible project laid a solid foundation for recent growth. The seeds of knowledge were planted.",
+        "reversed": "A time of distraction or half-hearted effort hindered long-term progress. Unfinished tasks linger from previous inattention.",
+        "keywords": [
+          "foundational learning",
+          "past studies",
+          "uncompleted work",
+          "missed growth"
+        ]
+      },
+      "distant_past": {
+        "upright": "A long-ago era of earnest study or youthful ambition shaped your practical approach today.",
+        "reversed": "Old patterns of avoidance or unreliability still influence your ability to commit and focus.",
+        "keywords": [
+          "youthful ambition",
+          "early education",
+          "patterns of avoidance",
+          "lasting influence"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent projects or studies captured your interest and pushed you towards personal growth and new skills.",
+        "reversed": "Recent lack of direction or procrastination led to stalled projects or unrealized potential.",
+        "keywords": [
+          "recent focus",
+          "project initiation",
+          "stalled progress",
+          "short-term ambitions"
+        ]
+      },
+      "present": {
+        "upright": "You stand at the gateway to learning something new. Embrace student-like curiosity and dedication.",
+        "reversed": "Feeling lost or scattered leads to difficulty in grounding your ambitions. Reconnect with a sense of purpose.",
+        "keywords": [
+          "current opportunity",
+          "new learning",
+          "scattered focus",
+          "potential growth"
+        ]
+      },
+      "present_situation": {
+        "upright": "The heart of the present moment revolves around dedication to learning and a commitment to growth.",
+        "reversed": "At your core, a lack of focus or immaturity is hindering progress and needs realignment.",
+        "keywords": [
+          "core learning",
+          "commitment",
+          "stagnation",
+          "realignment"
+        ]
+      },
+      "future": {
+        "upright": "Prepare for new opportunities that require focus and persistence. Your efforts will soon yield fruitful results.",
+        "reversed": "Future challenges may involve missed chances due to lack of preparation or scattered efforts.",
+        "keywords": [
+          "upcoming learning",
+          "fruitful effort",
+          "missed chances",
+          "future preparation"
+        ]
+      },
+      "near_future": {
+        "upright": "Very soon, an opportunity will arise where practical skills will be tested. Prepare to apply yourself diligently.",
+        "reversed": "Shortly, distractions or procrastination could cost you valuable opportunities. Focus is needed now.",
+        "keywords": [
+          "immediate opportunity",
+          "skill application",
+          "upcoming challenges",
+          "needed focus"
+        ]
+      },
+      "distant_future": {
+        "upright": "Over time, your dedication will lead to mastery and recognition. Consistent effort ensures long-term success.",
+        "reversed": "Long-term growth stunted by ongoing distraction or lack of commitment. Align to prevent regrets later.",
+        "keywords": [
+          "mastery",
+          "long-term success",
+          "stunted growth",
+          "preventable regrets"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge lies in maintaining focus amid distractions. Ensure commitment to follow through on goals.",
+        "reversed": "Facing the challenge of overcoming procrastination. Need to develop discipline and clarity of purpose.",
+        "keywords": [
+          "maintaining focus",
+          "ensuring commitment",
+          "overcoming procrastination",
+          "discipline"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures or overwhelming details hinder your capacity to study or grow. Balance is needed.",
+        "reversed": "Inner doubts and insecurities cross your path, leading to inaction or loss of direction.",
+        "keywords": [
+          "external pressure",
+          "overwhelming details",
+          "inner doubt",
+          "loss of direction"
+        ]
+      },
+      "obstacle": {
+        "upright": "Distractions or tedious responsibilities threaten to pull you away from educational pursuits or focused growth.",
+        "reversed": "Internal resistance and fear of commitment create blocks in your path to progress.",
+        "keywords": [
+          "distractions",
+          "tedious tasks",
+          "internal resistance",
+          "fear of commitment"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson is to embody the spirit of dedication and find joy in the learning process without rushing outcomes.",
+        "reversed": "Learn to balance dreams with grounded action. Acknowledge the importance of diligence and patience.",
+        "keywords": [
+          "dedication",
+          "joy in learning",
+          "balance dreams",
+          "grounded action"
+        ]
+      },
+      "shadow": {
+        "upright": "The shadow involves fear of failure or inadequacy, hindering your ability to embrace new learning experiences fully.",
+        "reversed": "Shadow side includes disengagement or avoidance due to perfectionism or fear of mistakes.",
+        "keywords": [
+          "fear of failure",
+          "inadequacy",
+          "disengagement",
+          "perfectionism"
+        ]
+      },
+      "what_hinders": {
+        "upright": "External criticism or self-doubt hinders your eagerness to learn or commit to new paths.",
+        "reversed": "Internalized fear of not being 'good enough' restrains your actions and belief in potential.",
+        "keywords": [
+          "criticism",
+          "self-doubt",
+          "internal fear",
+          "belief restraint"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Seek understanding and embrace the process of learning. Establish clear goals and pursue them with persistence.",
+        "reversed": "Redirect scattered energy by setting concrete plans and prioritizing. Reinforce commitment to chosen paths.",
+        "keywords": [
+          "understanding",
+          "persistence",
+          "redirect energy",
+          "commitment"
+        ]
+      },
+      "action": {
+        "upright": "Engage actively with your projects and studies. Apply yourself consistently and monitor progress.",
+        "reversed": "Overcome inertia by breaking tasks into manageable steps and rewarding small achievements.",
+        "keywords": [
+          "active engagement",
+          "consistent application",
+          "overcoming inertia",
+          "reward small wins"
+        ]
+      },
+      "your_approach": {
+        "upright": "Approach life with curiosity and a commitment to steady growth. Embrace the student within.",
+        "reversed": "Re-evaluate if you're overly scattered or unfocused. Bring clarity and purpose back to your actions.",
+        "keywords": [
+          "curiosity",
+          "steady growth",
+          "re-evaluation",
+          "clarity"
+        ]
+      },
+      "what_helps": {
+        "upright": "Structure and routine will support your study and growth efforts. Seek mentors or inspirations.",
+        "reversed": "Assistance comes from eliminating distractions and seeking environments conducive to concentration.",
+        "keywords": [
+          "structure",
+          "routine",
+          "eliminate distractions",
+          "concentration"
+        ]
+      },
+      "guidance": {
+        "upright": "Guidance urges you to trust the process and find fulfillment in progress, regardless of how incremental.",
+        "reversed": "Spiritual guidance emphasizes grounding yourself in reality and avoiding escapism in fantasies.",
+        "keywords": [
+          "trust the process",
+          "fulfillment in progress",
+          "grounding",
+          "avoid escapism"
+        ]
+      },
+      "best_course": {
+        "upright": "Commit wholeheartedly to new experiences with a practical approach. Align ambitions with actionable steps.",
+        "reversed": "Best course involves reassessing priorities and ensuring efforts are aligned with genuine passion.",
+        "keywords": [
+          "commitment",
+          "practical approach",
+          "reassess priorities",
+          "aligned efforts"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Strong desire to achieve material success through learning and dedication. Fear of failure or inadequacy.",
+        "reversed": "Fear of taking the wrong path or not being able to stick with commitments. Doubts cloud aspirations.",
+        "keywords": [
+          "desire for success",
+          "fear of failure",
+          "wrong path",
+          "doubts"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope to master new skills and excel in practical pursuits, leading to abundance and fulfillment.",
+        "reversed": "Hopes are either unfocused or unrealistic, stemming from a place of uncertainty or lack of direction.",
+        "keywords": [
+          "skill mastery",
+          "abundance",
+          "unfocused hopes",
+          "uncertain direction"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of inadequacy or being unable to meet the demands of a new challenge. Anxiety about future success.",
+        "reversed": "Fears of judgment or failure to meet expectations leading to avoidance of new opportunities.",
+        "keywords": [
+          "fear of inadequacy",
+          "anxiety",
+          "judgment",
+          "failure"
+        ]
+      },
+      "subconscious": {
+        "upright": "Driven by a deep-seated desire to learn, grow, and prove oneself through tangible achievements.",
+        "reversed": "Subconscious patterns include fearing stagnation or feeling trapped by unformed dreams.",
+        "keywords": [
+          "desire to grow",
+          "prove oneself",
+          "stagnation fears",
+          "unformed dreams"
+        ]
+      },
+      "conscious": {
+        "upright": "Conscious focus on personal development and embracing new opportunities with a practical mindset.",
+        "reversed": "Conscious awareness involves grappling with distractions and the need for better focus.",
+        "keywords": [
+          "personal development",
+          "practical mindset",
+          "grappling distractions",
+          "focus"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally engaged with new beginnings and ready to channel youthful enthusiasm into practical achievements.",
+        "reversed": "Emotional fluctuation between excitement for opportunities and fear of not fulfilling potential.",
+        "keywords": [
+          "emotional engagement",
+          "youthful enthusiasm",
+          "fluctuation",
+          "potential fear"
+        ]
+      },
+      "heart": {
+        "upright": "Heart desires to cultivate a sense of practical accomplishment and personal pride in growth.",
+        "reversed": "Heart yearns for authenticity while battling indecisiveness and fear of new heights.",
+        "keywords": [
+          "accomplishment",
+          "personal pride",
+          "authenticity",
+          "indecisiveness"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally ready to focus and learn, with clarity and dedication driving ambition and goals.",
+        "reversed": "Mind filled with scattered thoughts or procrastination, needing realignment for concentration.",
+        "keywords": [
+          "focus",
+          "clarity",
+          "scattered thoughts",
+          "realignment"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Environment supports your growth and learning, encouraging exploration of practical interests.",
+        "reversed": "Circumstances may involve distractions or negative influences pulling you away from focus.",
+        "keywords": [
+          "supportive environment",
+          "encouragement",
+          "distractions",
+          "negative influence"
+        ]
+      },
+      "others": {
+        "upright": "Others see your earnestness and potential, often willing to support your endeavors or offer guidance.",
+        "reversed": "Others may perceive you as uncommitted or unreliable. Misunderstandings can hinder cooperation.",
+        "keywords": [
+          "perceived earnestness",
+          "support",
+          "unreliable perception",
+          "misunderstandings"
+        ]
+      },
+      "environment": {
+        "upright": "Surroundings offer opportunities for skill-building and practical application amidst supportive conditions.",
+        "reversed": "Environment may contain elements that foster distraction or lead to neglecting commitments.",
+        "keywords": [
+          "opportunities",
+          "skill-building",
+          "elements of distraction",
+          "neglect"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Perceived as diligent and eager to learn, with a reputation for embracing new challenges eagerly.",
+        "reversed": "Seen as either overly cautious or inconsistent, leading to doubts about reliability.",
+        "keywords": [
+          "diligent perception",
+          "eager learner",
+          "cautious image",
+          "inconsistency"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces are aligning to present you with opportunities for growth and learning that you may not yet recognize.",
+        "reversed": "Hidden factors could involve subtle sabotage from within or from hesitancy to embrace new growth.",
+        "keywords": [
+          "unseen opportunities",
+          "alignment",
+          "subtle sabotage",
+          "hesitancy"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Achievement comes from dedicated study and focus. Projects and skills will bloom into significant success.",
+        "reversed": "Potential outcomes may fall short due to lack of focus or commitment. Efforts risk going unfulfilled.",
+        "keywords": [
+          "dedicated achievement",
+          "blooming success",
+          "unfulfilled potential",
+          "effort"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, dedication and focus lead to mastery and material rewards. Knowledge and skills bring long-awaited prosperity.",
+        "reversed": "Final results may involve struggling to achieve goals without proper commitment or focus laying the groundwork.",
+        "keywords": [
+          "mastery",
+          "rewards",
+          "struggle",
+          "improper groundwork"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possibilities include successful completion of projects and recognition for effort and diligence.",
+        "reversed": "Possible inertia or scattered results if focus remains disrupted. Realignment needed for success.",
+        "keywords": [
+          "completion",
+          "recognition",
+          "inertia",
+          "realignment"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case involves blossoming of latent potential with support and diligence yielding satisfying results.",
+        "reversed": "What seems best might require disciplined overcoming of distractions to reach full potential.",
+        "keywords": [
+          "latent potential",
+          "support",
+          "overcoming distractions",
+          "full potential"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves temporary setbacks and re-evaluation of strategies if efforts falter.",
+        "reversed": "Neglecting commitments solidifies worst fears of unfulfilled ambitions and prosperity missed.",
+        "keywords": [
+          "setbacks",
+          "re-evaluation",
+          "neglect",
+          "unfulfilled ambitions"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic embodies enthusiasm for learning, new material ventures, and the excitement of discovering practical skills together. Between you exists curiosity about the physical world and eagerness to explore new opportunities for growth.",
+        "reversed": "The enthusiasm for learning may be short-lived or ventures might be impractical. Excitement could lead to poor decisions or opportunities might be wasted. The relationship may involve lack of follow-through or unrealistic material expectations.",
+        "keywords": [
+          "enthusiasm",
+          "learning",
+          "practical exploration",
+          "new ventures"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "New relationships or deeper commitments being nurtured with patience and practical affection.",
+      "reversed": "Procrastination or lack of clarity leads to confusion or missed romantic opportunities.",
+      "keywords": [
+        "nurtured love",
+        "commitment",
+        "romantic confusion",
+        "missed opportunities"
+      ]
+    },
+    "career": {
+      "upright": "Potential for career advancement or skill development. A time to focus and grow professionally.",
+      "reversed": "Career stalls due to lack of dedication or direction. Reassess professional goals and plans.",
+      "keywords": [
+        "career advancement",
+        "skill development",
+        "career stalls",
+        "reassessment"
+      ]
+    },
+    "spiritual": {
+      "upright": "Embarking on new spiritual learnings. Integration of material and spiritual growth.",
+      "reversed": "Spiritual stagnation or distraction. Need to ground spirituality with practical action.",
+      "keywords": [
+        "spiritual learning",
+        "integration",
+        "stagnation",
+        "grounding"
+      ]
+    },
+    "financial": {
+      "upright": "Positive financial growth through practical strategies and careful investments.",
+      "reversed": "Financial instability due to lack of focus or irresponsible decisions. Need for planning.",
+      "keywords": [
+        "financial growth",
+        "practicality",
+        "instability",
+        "irresponsible decisions"
+      ]
+    },
+    "health": {
+      "upright": "A new health regimen or commitment to wellness is rooted in discipline and consistent effort.",
+      "reversed": "Inconsistent health practices lead to minimal progress. Structure and dedication needed.",
+      "keywords": [
+        "health regimen",
+        "wellness commitment",
+        "inconsistent practices",
+        "dedication"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "virgo",
+    "hebrew_letter": "",
+    "numerology": 11,
+    "planet": "mercury",
+    "season": "winter",
+    "time_of_day": "mid-morning",
+    "colors": [
+      "green",
+      "brown",
+      "gold"
+    ],
+    "crystals": [
+      "malachite",
+      "tiger's eye",
+      "aventurine"
+    ],
+    "herbs": [
+      "mint",
+      "rosemary",
+      "sage"
+    ]
+  },
+  "symbols": {
+    "pentacle_coin": "focus on material growth and learning",
+    "green_fields": "fertility of new ideas and potential",
+    "plowed_earth": "foundation work and readiness for planting future"
+  },
+  "affirmations": [
+    "I am dedicated to my growth and learning.",
+    "I find joy in every step of the learning process.",
+    "My focus leads to mastery and success.",
+    "I align my ambitions with practical actions."
+  ],
+  "journaling_prompts": [
+    "What new skill or knowledge am I excited to pursue?",
+    "How can I turn distractions into tools for learning?",
+    "What foundations do I need to lay for future success?",
+    "Where do I need to apply more focus and dedication?"
+  ],
+  "meditation_focus": "Visualizing your intentions blossoming from seeds into abundant fruition. Ground your dreams in practical soil.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:48:40.795748",
+    "card_info": {
+      "name": "Page of Pentacles",
+      "number": 11,
+      "suit": "pentacles"
+    },
+    "filename": "p11.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_magician": {
+        "interpretation": "Turning learning into mastery. Focused manifestation of goals.",
+        "keywords": [
+          "turning",
+          "learning",
+          "mastery",
+          "focused"
+        ]
+      },
+      "three_of_pentacles": {
+        "interpretation": "Collaborative learning and skill development. Shared growth.",
+        "keywords": [
+          "collaborative",
+          "learning",
+          "skill",
+          "development"
+        ]
+      },
+      "ace_of_pentacles": {
+        "interpretation": "New beginnings with tangible rewards. Fertile ground for success.",
+        "keywords": [
+          "beginnings",
+          "tangible",
+          "rewards",
+          "fertile"
+        ]
+      }
+    },
+    "challenges": {
+      "seven_of_cups": {
+        "interpretation": "Overwhelmed by choices. Difficulty in focusing energy.",
+        "keywords": [
+          "overwhelmed",
+          "choices",
+          "difficulty",
+          "focusing"
+        ]
+      },
+      "ten_of_wands": {
+        "interpretation": "Burden of responsibilities threatening to distract from learning.",
+        "keywords": [
+          "burden",
+          "responsibilities",
+          "threatening",
+          "distract"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Intellectual conflict or dishonesty leading to stagnation.",
+        "keywords": [
+          "intellectual",
+          "conflict",
+          "dishonesty",
+          "leading"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_high_priestess": {
+        "interpretation": "Intuition meets practical knowledge. Inner wisdom guiding scholarly pursuits.",
+        "keywords": [
+          "intuition",
+          "meets",
+          "practical",
+          "knowledge"
+        ]
+      },
+      "the_emperor": {
+        "interpretation": "Earthly discipline reinforcing potential. Structure enhancing learning.",
+        "keywords": [
+          "earthly",
+          "discipline",
+          "reinforcing",
+          "potential"
+        ]
+      },
+      "two_of_wands": {
+        "interpretation": "Vision aligns with practical planning. Strategic forward motion.",
+        "keywords": [
+          "vision",
+          "aligns",
+          "practical",
+          "planning"
+        ]
+      }
+    },
+    "similar_energy": {
+      "knight_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "ace_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "page_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

@@ -1,0 +1,683 @@
+{
+  "card_id": "king_of_swords",
+  "card_name": "King of Swords",
+  "card_number": 14,
+  "suit": "swords",
+  "archetype": "the_ruler",
+  "core_meanings": {
+    "upright": {
+      "essence": "Master of intellect and clear communication. Embodies authority and fairness through mental clarity and analytical prowess.",
+      "keywords": [
+        "clarity",
+        "authority",
+        "intellect",
+        "justice",
+        "analytical",
+        "truthful",
+        "strategic",
+        "fair"
+      ],
+      "psychological": "Represents the conscious mind's capacity for logical thought and clear judgment, cutting through illusions with precision.",
+      "spiritual": "A connection to higher truths and ethical understanding. Represents wisdom that transcends personal bias.",
+      "practical": "Indicates the need for strategic planning and rational decision-making. Time to lead with wisdom and integrity.",
+      "shadow": "Tendency toward coldness or detachment. Overemphasis on logic to the exclusion of emotion can create disconnection."
+    },
+    "reversed": {
+      "essence": "Distorted intellect, misuse of power, or judgment clouded by excessive rationalization. Bias interferes with clear thinking.",
+      "keywords": [
+        "manipulation",
+        "abuse of power",
+        "lack of clarity",
+        "emotional disconnection",
+        "dogmatic",
+        "rigid"
+      ],
+      "psychological": "Intellectual arrogance or self-deception may prevent authentic understanding. Mind overextends its domain.",
+      "spiritual": "A disconnect from the ethical heart, leading to dogmatism or rigid thinking. Lost in abstract intellect without compassion.",
+      "practical": "Beware hasty judgments or decisions based solely on intellect. Embrace a balanced approach considering emotional insights.",
+      "shadow": "Control and manipulation masquerading as wisdom. The ruthless application of intellect without regard for its impact."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A past decision made with clarity and insight laid the foundation for your current position of authority or understanding.",
+        "reversed": "Previous misuse of intellect or power resulted in present complications. Past rigidity blocked authentic growth.",
+        "keywords": [
+          "past clarity",
+          "foundational decision",
+          "misused power",
+          "rigidity"
+        ]
+      },
+      "distant_past": {
+        "upright": "An early influence from a wise authority figure shaped your values of truth and fairness, guiding present judgments.",
+        "reversed": "Previous conditioning led to narrow thinking or intellectual arrogance, impacting current perspectives.",
+        "keywords": [
+          "early influence",
+          "formative wisdom",
+          "narrow thinking",
+          "arrogance"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent experiences required clear communication and strategic thinking, setting the stage for current circumstances.",
+        "reversed": "A recent lapse in judgment due to emotional bias or manipulation is influencing today's challenges.",
+        "keywords": [
+          "recent clarity",
+          "strategic decision",
+          "emotional bias",
+          "manipulation"
+        ]
+      },
+      "present": {
+        "upright": "You are called to exercise authority and intellect with fairness and clarity. Be decisive and impartial.",
+        "reversed": "Current challenges may arise from distorted logic or biased thinking. Re-evaluate your approach with honesty.",
+        "keywords": [
+          "current authority",
+          "clarity needed",
+          "distorted logic",
+          "bias"
+        ]
+      },
+      "present_situation": {
+        "upright": "Involves navigating complexities with calm intellect and retaining an unbiased perspective.",
+        "reversed": "Struggling with making clear decisions due to a clouded judgment or emotional entanglement.",
+        "keywords": [
+          "calm intellect",
+          "neutral perspective",
+          "clouded judgment",
+          "entanglement"
+        ]
+      },
+      "future": {
+        "upright": "Your clear thinking and strategic planning will lead to success and recognition of your leadership abilities.",
+        "reversed": "Future problems may arise from current intellectual rigidity or misuse of power. Flexibility is key.",
+        "keywords": [
+          "future success",
+          "leadership",
+          "rigidity issues",
+          "flexibility"
+        ]
+      },
+      "near_future": {
+        "upright": "Upcoming decisions will call for strategic insights and honesty. Prepare to act from a place of wisdom.",
+        "reversed": "Anticipate challenges from dogmatic thinking or stubbornness that could derail plans.",
+        "keywords": [
+          "strategic insight",
+          "upcoming decisions",
+          "dogmatism",
+          "stubbornness"
+        ]
+      },
+      "distant_future": {
+        "upright": "Projected success and recognition from consistently applying wisdom and justice throughout your journey.",
+        "reversed": "Consequences of past intellectual arrogance may resurface, requiring a reevaluation of approaches.",
+        "keywords": [
+          "projected success",
+          "journey wisdom",
+          "resurfacing issues",
+          "approach reevaluation"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Maintain impartiality and dedication to truth despite pressures to compromise integrity.",
+        "reversed": "Overcome tendencies toward rigidity and embrace a more inclusive approach that considers emotional intelligence.",
+        "keywords": [
+          "impartiality",
+          "truth dedication",
+          "overcoming rigidity",
+          "inclusive approach"
+        ]
+      },
+      "cross": {
+        "upright": "Others challenge your authority, questioning your decisions and pushing for transparency and fairness.",
+        "reversed": "Your own inner cynicism or rigid beliefs obstruct your natural wisdom and clouded your judgment.",
+        "keywords": [
+          "authority challenge",
+          "decision scrutiny",
+          "inner cynicism",
+          "belief obstruction"
+        ]
+      },
+      "obstacle": {
+        "upright": "Over-reliance on logic may restrict emotional depth and lead to disconnects in personal relationships.",
+        "reversed": "Allowing biases or manipulation to control outcomes presents significant hurdles to genuine understanding.",
+        "keywords": [
+          "logic reliance",
+          "emotional disconnect",
+          "bias control",
+          "understanding hurdles"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to temper your intellect with empathy and heart, finding power in balanced wisdom.",
+        "reversed": "Lesson lies in recognizing when authoritative logic stifles growth and adapting a flexible mindset.",
+        "keywords": [
+          "balanced wisdom",
+          "tempered intellect",
+          "stifled growth",
+          "flexible mindset"
+        ]
+      },
+      "shadow": {
+        "upright": "The hidden fear of losing control needs acknowledgment and gentle transformation into nurturing strength.",
+        "reversed": "Confront internal dogmatism and embrace a journey towards comprehensive understanding of self and others.",
+        "keywords": [
+          "fear of losing control",
+          "shadow acknowledgment",
+          "internal dogmatism",
+          "comprehensive understanding"
+        ]
+      },
+      "what_hinders": {
+        "upright": "A desire for control and excess focus on objectivity hinder creativity and close off intuitive insights.",
+        "reversed": "An unwillingness to let go of outdated beliefs or assumptions stifles new growth and perspectives.",
+        "keywords": [
+          "control desire",
+          "objective focus",
+          "belief rigidity",
+          "growth stifling"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Lead with clarity and justice, ensuring that communication is open, honest, and devoid of personal biases.",
+        "reversed": "Reassess your boundaries and consider opening your mind to differing perspectives and emotional nuance.",
+        "keywords": [
+          "lead with justice",
+          "honest communication",
+          "boundary reassessment",
+          "open mind"
+        ]
+      },
+      "action": {
+        "upright": "Take decisive action based on rational assessment of the facts, embracing fairness and logical reasoning.",
+        "reversed": "Hold back from impulsive decisions and re-evaluate biases before proceeding with authority.",
+        "keywords": [
+          "decisive action",
+          "rational assessment",
+          "impulsive restraint",
+          "bias evaluation"
+        ]
+      },
+      "your_approach": {
+        "upright": "See yourself as a fair and strategic leader, guided by clarity and truth in navigating life's complexities.",
+        "reversed": "You may perceive yourself as aloof or overly rational, missing out on the benefits of emotional balance.",
+        "keywords": [
+          "strategic leader",
+          "fair perception",
+          "aloofness",
+          "emotional balance"
+        ]
+      },
+      "what_helps": {
+        "upright": "An environment rich in intellectual stimulation and ethical discourse supports your development.",
+        "reversed": "Seeking mentorship or dialogue with diverse perspectives assists in overcoming intellectual myopia.",
+        "keywords": [
+          "intellectual stimulation",
+          "ethical discourse",
+          "mentorship",
+          "diverse perspectives"
+        ]
+      },
+      "guidance": {
+        "upright": "Let spiritual wisdom guide your intellect, aligning your thoughts with higher truths and ethical integrity.",
+        "reversed": "Advice to soften your rational approach with compassion, allowing the heart's wisdom to balance the mind.",
+        "keywords": [
+          "spiritual wisdom",
+          "ethical alignment",
+          "rational softness",
+          "heart wisdom"
+        ]
+      },
+      "best_course": {
+        "upright": "Follow the path of truth and clarity, ensuring your actions align with both intelligence and fairness.",
+        "reversed": "Best approach involves dismantling intellectual barriers and embracing adaptability and open dialogue.",
+        "keywords": [
+          "truth path",
+          "alignment",
+          "dismantling barriers",
+          "adaptability"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for recognition of your intellect and fairness, yet fear losing touch with the heart's innate wisdom.",
+        "reversed": "Fear of being seen as cold or disconnected hampers your willingness to explore emotional depths.",
+        "keywords": [
+          "intellect recognition",
+          "losing touch",
+          "coldness fear",
+          "emotional exploration"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope to lead with wisdom that blends intellect and empathy, creating harmony and fairness.",
+        "reversed": "Desire for unattainable intellectual perfection isolates you from genuine human connection.",
+        "keywords": [
+          "wisdom leadership",
+          "intellect empathy",
+          "perfection desire",
+          "human connection"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of making unjust decisions or being perceived as overly rigid challenges your confidence in leadership.",
+        "reversed": "Anxiety about losing control or being manipulated by emotions clouds the clarity of judgment.",
+        "keywords": [
+          "unjust decisions",
+          "perceived rigidity",
+          "control anxiety",
+          "judgment clarity"
+        ]
+      },
+      "subconscious": {
+        "upright": "At a deep level, you are driven by an innate drive for truth and justice, guiding your subconscious choices.",
+        "reversed": "Subconscious beliefs may involve an aversion to vulnerability or fear of intellectual challenge.",
+        "keywords": [
+          "truth drive",
+          "justice drive",
+          "vulnerability aversion",
+          "intellectual fear"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you aim to project authority and clarity, seeking to communicate truth with precision.",
+        "reversed": "Awareness may be clouded by overthinking or a reliance on intellectual defenses against emotional honesty.",
+        "keywords": [
+          "authority projection",
+          "truth communication",
+          "clouded awareness",
+          "intellectual defense"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel composed and centered, grounded in rational thought and ethical considerations.",
+        "reversed": "Possibly feeling detached or overwhelmed by intellectual demands, creating internal tension.",
+        "keywords": [
+          "emotional composure",
+          "centeredness",
+          "detachment",
+          "intellectual tension"
+        ]
+      },
+      "heart": {
+        "upright": "The heart desires thoughtful clarity that harmonizes mind and spirit, longing for intellectual connection.",
+        "reversed": "Ignoring emotional wisdom results in a heart hardened by isolation or misunderstood intentions.",
+        "keywords": [
+          "thoughtful clarity",
+          "mind-spirit harmony",
+          "hardened heart",
+          "ignored wisdom"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally disciplined, you work towards bridging insight and strategic action with calculated intelligence.",
+        "reversed": "Mind may be overwhelmed by analysis or rigidity, needing flexibility to adapt and grow.",
+        "keywords": [
+          "mental discipline",
+          "insight-action bridge",
+          "analytical overwhelm",
+          "flexibility need"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others perceive you as a wise and just leader, valuing your fair and intellectual approach.",
+        "reversed": "Some may see you as aloof or arrogant, creating distance or tension in relationships.",
+        "keywords": [
+          "wise leader",
+          "just perception",
+          "aloofness",
+          "arrogance"
+        ]
+      },
+      "others": {
+        "upright": "Support comes from those who respect your clarity and truth-seeking mission, thriving on intellectual exchange.",
+        "reversed": "You may find resistance from others feeling controlled or misunderstood by your logical dominance.",
+        "keywords": [
+          "support respect",
+          "truth mission",
+          "resistance",
+          "misunderstanding"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment encourages intellectual growth and values transparent, ethical conduct.",
+        "reversed": "External pressures or hidden agendas challenge your path of logical integrity.",
+        "keywords": [
+          "intellectual growth",
+          "ethical conduct",
+          "external pressures",
+          "hidden agendas"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a figure of authority and wisdom, people look to you for guidance and fair judgment.",
+        "reversed": "Others may view you as inflexible or overly focused on rationality, missing broader emotional contexts.",
+        "keywords": [
+          "authority figure",
+          "wise guidance",
+          "inflexible view",
+          "emotional context"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen support from ethical alliances and synchronicities guide your mission toward truth and fair leadership.",
+        "reversed": "Hidden biases or suppressed emotions affect your decisions, influencing outcomes beyond immediate awareness.",
+        "keywords": [
+          "ethical support",
+          "truth mission",
+          "hidden biases",
+          "suppressed emotions"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Recognition and respect through balanced intellectual leadership and fair, clear decision-making.",
+        "reversed": "Challenges through misuse of power or biased thinking, needing re-evaluation of priorities and methods.",
+        "keywords": [
+          "recognition",
+          "intellectual leadership",
+          "power misuse",
+          "priority reevaluation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Achievement of goals through strategic planning and maintaining ethical integrity, leading to lasting respect.",
+        "reversed": "Potential for isolation or conflict from unbalanced authority or uncompromising attitudes.",
+        "keywords": [
+          "goal achievement",
+          "strategic planning",
+          "isolation potential",
+          "conflict"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Positively, triumph through justice and wisdom, marking the path to influential leadership.",
+        "reversed": "Possibly, outcomes may involve learning through difficulties arisen from unchecked biases or authority misuse.",
+        "keywords": [
+          "justice triumph",
+          "wisdom influence",
+          "difficulty lessons",
+          "bias consequences"
+        ]
+      },
+      "best_case": {
+        "upright": "Alignment with ethical missions and the realization of visionary leadership through considered action.",
+        "reversed": "Best case involves re-thinking rigid stances, inviting growth and mutual understanding from challenges.",
+        "keywords": [
+          "ethical alignment",
+          "visionary leadership",
+          "stance re-thinking",
+          "mutual understanding"
+        ]
+      },
+      "worst_case": {
+        "upright": "Miscommunication or inflexible decisions could lead to misunderstandings despite best intentions.",
+        "reversed": "Unseen pitfalls from emotional disconnect or intellectual hubris could derail intentions and trust.",
+        "keywords": [
+          "miscommunication",
+          "inflexible decisions",
+          "emotional disconnect",
+          "hubris pitfalls"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship represents the highest expression of intellectual wisdom and ethical communication. The dynamic between you serves truth and justice above personal interest, combining sharp intelligence with compassion and the ability to guide others toward clarity.",
+        "reversed": "The intellectual wisdom may be corrupted by power or personal agenda. Communication might serve self-interest rather than truth. The relationship could involve manipulation disguised as wisdom or using intelligence to control rather than liberate.",
+        "keywords": [
+          "intellectual wisdom",
+          "ethical communication",
+          "truth",
+          "guidance"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Approach relationships with honesty and clear communication. Fairness and intellectual connection strengthen bonds.",
+      "reversed": "Overthinking or emotional detachment could lead to misunderstandings or coldness in romantic partnerships.",
+      "keywords": [
+        "clear communication",
+        "fairness",
+        "overthinking",
+        "emotional detachment"
+      ]
+    },
+    "career": {
+      "upright": "Leadership roles or strategic opportunities arise, asking for clear thinking and ethical decision-making.",
+      "reversed": "Rigid thinking or power struggles may undermine authority and limit growth in professional spheres.",
+      "keywords": [
+        "leadership opportunity",
+        "strategic role",
+        "power struggle",
+        "growth limit"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual clarity and wisdom through disciplined practice and alignment with high moral standards.",
+      "reversed": "Excessive rationalization can obstruct spiritual growth, leading to rigid dogmas and ethical dissonance.",
+      "keywords": [
+        "spiritual clarity",
+        "moral alignment",
+        "rational obstruction",
+        "ethical dissonance"
+      ]
+    },
+    "financial": {
+      "upright": "Success through strategic planning and rational management of resources, achieving financial goals.",
+      "reversed": "Financial challenges arise from impulsive decisions or manipulative practices, needing restraint and ethics.",
+      "keywords": [
+        "financial success",
+        "strategic planning",
+        "impulsive challenges",
+        "ethical management"
+      ]
+    },
+    "health": {
+      "upright": "Incorporate systems and strategies for maintaining wellness through balanced, mindful habits.",
+      "reversed": "Detachment from physical or emotional health may lead to neglect or overcontrol, address balance.",
+      "keywords": [
+        "wellness systems",
+        "mindful habits",
+        "detachment",
+        "health neglect"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "aquarius",
+    "hebrew_letter": "zayin",
+    "numerology": 14,
+    "planet": "saturn",
+    "season": "winter",
+    "time_of_day": "twilight",
+    "colors": [
+      "blue",
+      "silver",
+      "gray"
+    ],
+    "crystals": [
+      "sapphire",
+      "lapis lazuli",
+      "fluorite"
+    ],
+    "herbs": [
+      "sage",
+      "mint",
+      "thyme"
+    ]
+  },
+  "symbols": {
+    "sword": "truth and clarity",
+    "throne": "authority and solidity",
+    "clouds": "intellectual movement, mental agility",
+    "butterfly": "transformation through wisdom",
+    "spires": "aspirations and ethical heights"
+  },
+  "affirmations": [
+    "I lead with integrity and clarity in all my decisions",
+    "My intellect and wisdom guide me to fair and just outcomes",
+    "I balance rationality with empathy to create harmony",
+    "I trust in my ability to discern truth with precision"
+  ],
+  "journaling_prompts": [
+    "How can I utilize my intellect while staying open to emotional insights?",
+    "Where in my life do I need to assert authority with clarity and fairness?",
+    "What beliefs might be limiting my ability to see the bigger picture?",
+    "How can I align my actions with my highest ethical standards?"
+  ],
+  "meditation_focus": "Visualize your mind as a clear lake, reflecting truth and clarity without distortion. Embrace the balance of intellect and heart.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:34:34.887535",
+    "card_info": {
+      "name": "King of Swords",
+      "number": 14,
+      "suit": "swords"
+    },
+    "filename": "s14.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_emperor": {
+        "interpretation": "Strengthens authority and structured leadership, defining a powerful presence of order.",
+        "keywords": [
+          "strengthens",
+          "authority",
+          "structured",
+          "leadership"
+        ]
+      },
+      "justice": {
+        "interpretation": "Reinforces themes of truth and fairness, encouraging impartial judgment and balance.",
+        "keywords": [
+          "reinforces",
+          "themes",
+          "truth",
+          "fairness"
+        ]
+      },
+      "the_hermit": {
+        "interpretation": "Deepens introspective wisdom, combining strategic foresight with internal reflection.",
+        "keywords": [
+          "deepens",
+          "introspective",
+          "wisdom",
+          "combining"
+        ]
+      }
+    },
+    "challenges": {
+      "the_moon": {
+        "interpretation": "Complex emotions and hidden truths challenge rational clarity and straightforward thinking.",
+        "keywords": [
+          "complex",
+          "emotions",
+          "hidden",
+          "truths"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Daydreams and wishful thinking obscure practical judgment, creating confusion.",
+        "keywords": [
+          "daydreams",
+          "wishful",
+          "thinking",
+          "obscure"
+        ]
+      },
+      "five_of_wands": {
+        "interpretation": "Conflict and competition hinder clear decision-making, demanding resolve and clarity.",
+        "keywords": [
+          "conflict",
+          "competition",
+          "hinder",
+          "clear"
+        ]
+      }
+    },
+    "clarifies": {
+      "two_of_swords": {
+        "interpretation": "Breaking stalemates with clear insight and decision, steering through impasses with clarity.",
+        "keywords": [
+          "breaking",
+          "stalemates",
+          "clear",
+          "insight"
+        ]
+      },
+      "queen_of_swords": {
+        "interpretation": "Aligning emotional intelligence with rational analysis, enhancing understanding.",
+        "keywords": [
+          "aligning",
+          "emotional",
+          "intelligence",
+          "rational"
+        ]
+      },
+      "three_of_pentacles": {
+        "interpretation": "Collaborative endeavors flourish through fair leadership and logical strategy.",
+        "keywords": [
+          "collaborative",
+          "endeavors",
+          "flourish",
+          "fair"
+        ]
+      }
+    },
+    "similar_energy": {
+      "justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_emperor": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hermit": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "page_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "knight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "king_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

@@ -1,0 +1,680 @@
+{
+  "card_id": "ten_of_swords",
+  "card_name": "Ten of Swords",
+  "card_number": 10,
+  "suit": "swords",
+  "archetype": "the_wounded_warrior",
+  "core_meanings": {
+    "upright": {
+      "essence": "A painful end or release, where things cannot get worse. Acknowledgement of finality paves the way to acceptance and new beginnings.",
+      "keywords": [
+        "betrayal",
+        "endings",
+        "defeat",
+        "rock bottom",
+        "surrender",
+        "acceptance"
+      ],
+      "psychological": "The culmination of mental anguish leads to a critical breakthrough. A chance to shed old wounds and create space for healing.",
+      "spiritual": "An end to karmic cycles, where spiritual awakening emerges through surrender and release of attachment.",
+      "practical": "The conclusion of a difficult situation or relationship, signaling it is time to move on and rebuild.",
+      "shadow": "Self-pity or victimhood traps you in endless cycles of blame, preventing healing and growth."
+    },
+    "reversed": {
+      "essence": "Recovery from rock bottom; rising after a fall. A potential shift from pain towards healing and giving things another chance.",
+      "keywords": [
+        "resilience",
+        "healing",
+        "regeneration",
+        "hope",
+        "improvement",
+        "relief"
+      ],
+      "psychological": "Moving beyond mental distress, embracing forgiveness, and allowing the mind to find peace.",
+      "spiritual": "Renewed faith as a result of spiritual endurance. The soul finds light after a dark night.",
+      "practical": "Gradual improvement of a challenging situation. Time to carefully rebuild with newfound resilience.",
+      "shadow": "Avoidance of necessary endings, leading to prolonged suffering or missed opportunities for renewal."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past betrayals or deep endings shaped you, providing the wisdom to understand true resilience and strength.",
+        "reversed": "A painful past no longer defines you. You have risen from the ashes, carrying forward the lessons of survival.",
+        "keywords": [
+          "endured betrayal",
+          "past endings",
+          "historical resilience",
+          "wisdom gained"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a critical ending shifted your life path entirely, leading to who you are today.",
+        "reversed": "Early experiences of hardship or survival left an indelible mark, though not all wounds are healed.",
+        "keywords": [
+          "formative endings",
+          "distant sorrows",
+          "early resilience",
+          "life shifts"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent events have felt like reaching rock bottom, highlighting the necessity of letting go and accepting change.",
+        "reversed": "You’ve begun the healing process, allowing hope to return after a recent difficult period.",
+        "keywords": [
+          "recent pain",
+          "letting go",
+          "recent resilience",
+          "beginning recovery"
+        ]
+      },
+      "present": {
+        "upright": "Current circumstances feel dire, but they signal an unavoidable end, clearing space for new possibilities.",
+        "reversed": "You are in the midst of recovery, finding strength in overcoming adversity. This marks a shift toward healing.",
+        "keywords": [
+          "dire situation",
+          "necessary ending",
+          "current healing",
+          "turning point"
+        ]
+      },
+      "present_situation": {
+        "upright": "The core current reality requires acceptance of what cannot be changed, offering liberation through surrender.",
+        "reversed": "Internal shifts are leading to recovery, as acceptance allows you to glimpse the light beyond.",
+        "keywords": [
+          "acceptance",
+          "surrender",
+          "core reality",
+          "glimpse of hope"
+        ]
+      },
+      "future": {
+        "upright": "Embrace the approach of closure; it will ultimately bring about necessary transformation and liberation.",
+        "reversed": "A future where you rise with renewed strength and perspective, healed from past wounds.",
+        "keywords": [
+          "closure",
+          "future transformation",
+          "liberation",
+          "renewed strength"
+        ]
+      },
+      "near_future": {
+        "upright": "An imminent ending will provide clarity and freedom, as finality helps release burdens.",
+        "reversed": "Remnants of past burdens will soon be left behind, signaling regeneration and new hope.",
+        "keywords": [
+          "imminent ending",
+          "clarity",
+          "upcoming release",
+          "regeneration"
+        ]
+      },
+      "distant_future": {
+        "upright": "Long-term, this period will be remembered as a turning point that liberated you from stagnation.",
+        "reversed": "Distant horizons promise renewal, as the adversity of today transforms into strength of tomorrow.",
+        "keywords": [
+          "turning point",
+          "long-term liberation",
+          "renewal",
+          "future strength"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Facing the inevitability of endings with grace and courage, allowing yourself to let go fully.",
+        "reversed": "The challenge lies in truly embracing healing and not just patching wounds temporarily.",
+        "keywords": [
+          "graceful acceptance",
+          "courage to let go",
+          "embracing healing",
+          "lasting change"
+        ]
+      },
+      "cross": {
+        "upright": "Resistance to change from external circumstances stands against your need to surrender and release.",
+        "reversed": "Internal cycles of negativity may block your ability to see opportunities for recovery.",
+        "keywords": [
+          "external resistance",
+          "surrender",
+          "internal blocks",
+          "recovery"
+        ]
+      },
+      "obstacle": {
+        "upright": "The inability to accept what is ending and move forward keeps you trapped in the past.",
+        "reversed": "A reluctance to open to healing prevents genuine turnover from despair to hope.",
+        "keywords": [
+          "acceptance issues",
+          "moving forward",
+          "closed to healing",
+          "turnover"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to recognize when a cycle has completed, accepting its end as a means to unlock new beginnings.",
+        "reversed": "Understand the value of resilience, allowing wounds to become stepping stones for growth.",
+        "keywords": [
+          "cycle completion",
+          "unlock beginnings",
+          "resilience",
+          "growth"
+        ]
+      },
+      "shadow": {
+        "upright": "The shadow reveals embedded patterns of victimhood that stagnate evolution until released.",
+        "reversed": "Fear of repeated betrayal may prevent opening to new growth and change.",
+        "keywords": [
+          "victim patterns",
+          "shadow stagnation",
+          "fear of betrayal",
+          "evolution"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Attachment to suffering hinders authentic healing and renewal.",
+        "reversed": "Avoidance of addressing core issues prolongs the cycle of pain inadvertently.",
+        "keywords": [
+          "attachment to suffering",
+          "hinders healing",
+          "issue avoidance",
+          "prolonged pain"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Accept closure with open arms. Release the past's grip by embracing the learning and letting go.",
+        "reversed": "Commit to the journey of healing; growth comes from acknowledging pain but not dwelling in it.",
+        "keywords": [
+          "accept closure",
+          "release past",
+          "embrace learning",
+          "heal journey"
+        ]
+      },
+      "action": {
+        "upright": "Let things end naturally; do not resist the flow that propels you forward into light.",
+        "reversed": "Focus energy on healing practices to rebuild your sense of self and cultivate hope.",
+        "keywords": [
+          "natural ending",
+          "propel forward",
+          "healing practices",
+          "rebuild hope"
+        ]
+      },
+      "your_approach": {
+        "upright": "You face challenges with an understanding that endings are necessary for renewal and growth.",
+        "reversed": "You are learning to find balance between feeling pain and moving toward healing actively.",
+        "keywords": [
+          "embracing endings",
+          "renewal approach",
+          "balance in healing",
+          "active recovery"
+        ]
+      },
+      "what_helps": {
+        "upright": "Embracing the release of tension and allowing life to guide you towards clarity and peace.",
+        "reversed": "Surround yourself with positive energies and support systems that encourage resilience.",
+        "keywords": [
+          "release tension",
+          "clarity guidance",
+          "positive energies",
+          "support systems"
+        ]
+      },
+      "guidance": {
+        "upright": "Spirit encourages openness to closure, seeing beyond the veil of pain to the potential of new life.",
+        "reversed": "Your spiritual path hinges on the willingness to heal and evolve, guided by faith in rebirth.",
+        "keywords": [
+          "openness to closure",
+          "beyond pain",
+          "healing potential",
+          "rebirth faith"
+        ]
+      },
+      "best_course": {
+        "upright": "Allow the natural dissolution of old ties, knowing fresh energy awaits when burdens are relinquished.",
+        "reversed": "Prioritize inner transformation through active healing, embracing change as vital to renewal.",
+        "keywords": [
+          "dissolution",
+          "fresh energy",
+          "inner transformation",
+          "embrace change"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for release from suffering; fear that pain is insurmountable or never-ending.",
+        "reversed": "Hope for regeneration, yet fear of vulnerability in starting anew.",
+        "keywords": [
+          "release hope",
+          "fear of suffering",
+          "regeneration hope",
+          "vulnerability fear"
+        ]
+      },
+      "hopes": {
+        "upright": "Your greatest hope is to emerge from challenges renewed, carrying forward the lessons learned.",
+        "reversed": "You hope to rebuild and grow stronger, gaining clarity and wisdom from what was once painful.",
+        "keywords": [
+          "emerge renewed",
+          "lesson carry",
+          "rebuild hope",
+          "clarity wisdom"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of being defined by moments of darkness, or that healing will never fully complete.",
+        "reversed": "Fear of exposing wounds again by entering new territories or relationships.",
+        "keywords": [
+          "darkness fear",
+          "healing fear",
+          "wound exposure",
+          "new territories fear"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously, the mind clings to past hurts, even while longing for liberation from them.",
+        "reversed": "Healing desires are stirring beneath your awareness, awaiting conscious acknowledgment.",
+        "keywords": [
+          "subconscious clinging",
+          "liberation longing",
+          "healing desires",
+          "acknowledgment"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you're aware of the need to let go, though grappling with the weight of acceptance.",
+        "reversed": "Your conscious focus is on rebirth, forging new paths from the ruins of before.",
+        "keywords": [
+          "letting go",
+          "grappling weight",
+          "focus on rebirth",
+          "new paths"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotional exhaustion is present; yet beneath the fatigue, a sense of peace slowly blooms.",
+        "reversed": "A cautious optimism arises as hope begins to outweigh despair, heralding fresh beginnings.",
+        "keywords": [
+          "emotional exhaustion",
+          "blooming peace",
+          "cautious optimism",
+          "fresh beginnings"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart seeks release from the chains of past pain, longing to beat freely with renewed hope.",
+        "reversed": "A call for healing within your heart invites you to gently nurture your own resilience.",
+        "keywords": [
+          "release chains",
+          "renewed hope",
+          "healing call",
+          "nurture resilience"
+        ]
+      },
+      "mind": {
+        "upright": "Mental clarity is hindered by persistent worry; though insight is just within reach if sought.",
+        "reversed": "The mind is gradually embracing healing, easing burdens and opening to transformative possibilities.",
+        "keywords": [
+          "mental clarity",
+          "persistent worry",
+          "insight reach",
+          "embracing healing"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "External pressures highlight the need for closure, as circumstances push towards concluding chapters.",
+        "reversed": "Outside support aids your recovery, offering healing energies as you mend from within.",
+        "keywords": [
+          "external pressures",
+          "concluding push",
+          "outside support",
+          "healing energies"
+        ]
+      },
+      "others": {
+        "upright": "Others perceive your struggles and offer empathy, witnessing your journey toward healing.",
+        "reversed": "People around you provide encouragement and strength, seeing your resilience as inspiring.",
+        "keywords": [
+          "empathy",
+          "witnessing journey",
+          "encouragement",
+          "inspiring resilience"
+        ]
+      },
+      "environment": {
+        "upright": "The environment feels pressing, overwhelming at times, necessitating personal release and transformation.",
+        "reversed": "Surroundings begin to reflect a shift towards positivity and renewal, supporting your recovery.",
+        "keywords": [
+          "pressing environment",
+          "necessitating release",
+          "surrounding positivity",
+          "renewal support"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others see you as weathering a storm, acknowledging your silent endurance as a testament to strength.",
+        "reversed": "Seen as resilient and hopeful, your progress towards recovery is admired by those around you.",
+        "keywords": [
+          "weathering storm",
+          "silent endurance",
+          "resilient presence",
+          "admired progress"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen influences encourage you to let go of burdens, offering hidden strength to do so.",
+        "reversed": "Hidden energies support your revitalization, unseen forces nurturing your growth quietly.",
+        "keywords": [
+          "encouragement to let go",
+          "hidden strength",
+          "unseen revitalization",
+          "nurtured growth"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Acknowledgment of an ending brings freedom, allowing the next chapter to begin anew.",
+        "reversed": "Recovery leads to profound healing and personal growth, as new paths open before you.",
+        "keywords": [
+          "freedom through end",
+          "begin anew",
+          "profound healing",
+          "personal growth"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, you will understand this chapter as a necessary shedding, paving the way for future renewal.",
+        "reversed": "Final outcome heralds a phoenix-like rise, reborn from adversity into a new beginning.",
+        "keywords": [
+          "necessary shedding",
+          "future renewal",
+          "phoenix rise",
+          "reborn adversity"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Potential for profound release, where accepting the end enables liberation from past cycles.",
+        "reversed": "A new horizon emerges, with possibilities abundant as you rise from the depths to explore them.",
+        "keywords": [
+          "profound release",
+          "end liberation",
+          "new horizon",
+          "exploration"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case, you gracefully accept closure and move forward unburdened, embracing life anew.",
+        "reversed": "Optimally, healing is not just achieved but transformed into strength and vibrant renewal.",
+        "keywords": [
+          "graceful closure",
+          "unburdened freedom",
+          "vibrant renewal",
+          "transformed strength"
+        ]
+      },
+      "worst_case": {
+        "upright": "The worst case involves resistance to acceptance, leading to stagnation and prolonged distress.",
+        "reversed": "Remaining oblivious to healing opportunities fosters further cycles of struggle and limitation.",
+        "keywords": [
+          "resistance",
+          "stagnation",
+          "prolonged distress",
+          "struggle cycles"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship has experienced betrayal, painful endings, or the complete breakdown of trust and communication. The dynamic involves rock bottom, backstabbing, or the painful but necessary end of illusions about what was possible between you.",
+        "reversed": "The worst is over and healing can begin. Betrayal may be forgiven or new beginnings may be possible. The relationship involves rising from rock bottom toward restoration and renewed trust.",
+        "keywords": [
+          "betrayal",
+          "rock bottom",
+          "painful ending",
+          "backstabbing"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Acknowledging the end of a relationship or harmful patterns, making space for healthier beginnings.",
+      "reversed": "Healing past wounds in relationships, allowing love to grow anew with understanding and compassion.",
+      "keywords": [
+        "relationship endings",
+        "healthy beginnings",
+        "relationship healing",
+        "compassionate growth"
+      ]
+    },
+    "career": {
+      "upright": "An end of a career phase signals the opportunity to pave a new, more fulfilling professional path.",
+      "reversed": "Rising from career setbacks with renewed determination and clarity about desired goals.",
+      "keywords": [
+        "career phase end",
+        "new professional path",
+        "career setbacks",
+        "renewed determination"
+      ]
+    },
+    "spiritual": {
+      "upright": "A dawning spiritual chapter as past cycles are released, awaiting enlightenment through surrender.",
+      "reversed": "Finding spiritual growth in recovery, embracing a deeper understanding beyond past limitations.",
+      "keywords": [
+        "spiritual chapter",
+        "release cycles",
+        "spiritual recovery",
+        "deeper understanding"
+      ]
+    },
+    "financial": {
+      "upright": "Financial struggles approach conclusion, calling for acceptance and strategic realignment.",
+      "reversed": "Improving financial situation through learned resilience and careful planning for growth.",
+      "keywords": [
+        "financial struggle end",
+        "strategic realignment",
+        "improvement",
+        "resilience"
+      ]
+    },
+    "health": {
+      "upright": "Letting go of unhealthy habits and embracing necessary changes for long-term well-being.",
+      "reversed": "Progress in healing health issues, recovery fueled by resilience and healthy practices.",
+      "keywords": [
+        "unhealthy habits",
+        "necessary changes",
+        "health recovery",
+        "healthy practices"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "sun in gemini",
+    "hebrew_letter": "yod",
+    "numerology": 10,
+    "planet": "mercury",
+    "season": "winter",
+    "time_of_day": "dusk",
+    "colors": [
+      "black",
+      "dark blue",
+      "grey"
+    ],
+    "crystals": [
+      "black tourmaline",
+      "obsidian",
+      "sodalite"
+    ],
+    "herbs": [
+      "sage",
+      "rosemary",
+      "mugwort"
+    ]
+  },
+  "symbols": {
+    "dark_sky": "foreboding future or current distress",
+    "piercing_swords": "painful truths and necessary endings",
+    "dawn_on_horizon": "hope following despair, new beginnings",
+    "still_body": "surrender and acceptance"
+  },
+  "affirmations": [
+    "With each ending, I find new beginnings and the strength to rise.",
+    "I embrace necessary change, even when it arrives as pain.",
+    "I allow past wounds to transform into wisdom and growth.",
+    "I am resilient, finding hope in the horizon beyond."
+  ],
+  "journaling_prompts": [
+    "What part of my life is ready to come to a close?",
+    "How can I find peace in situations that feel overwhelming?",
+    "What new beginnings might emerge from current challenges?",
+    "Where have I found strength in past difficulties?"
+  ],
+  "meditation_focus": "Visualize releasing what no longer serves you, embracing the dawn of a new beginning with open arms.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:29:29.246443",
+    "card_info": {
+      "name": "Ten of Swords",
+      "number": 10,
+      "suit": "swords"
+    },
+    "filename": "s10.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "death": {
+        "interpretation": "Enhances themes of endings and transformation, a complete rebirth from darkness to light.",
+        "keywords": [
+          "enhances",
+          "themes",
+          "endings",
+          "transformation"
+        ]
+      },
+      "the_tower": {
+        "interpretation": "Intensifies the energy of disastrous change, bringing opportunity for profound growth.",
+        "keywords": [
+          "intensifies",
+          "energy",
+          "disastrous",
+          "change"
+        ]
+      },
+      "three_of_swords": {
+        "interpretation": "Prolongs heartache but fosters healing by confronting emotional wounds directly.",
+        "keywords": [
+          "prolongs",
+          "heartache",
+          "fosters",
+          "healing"
+        ]
+      }
+    },
+    "challenges": {
+      "the_star": {
+        "interpretation": "Challenges hopeful outlook with doubts and fears, testing faith in renewal and recovery.",
+        "keywords": [
+          "challenges",
+          "hopeful",
+          "outlook",
+          "doubts"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "Opposes optimism by confronting the darkest shadow, emphasizing life's impermanent nature.",
+        "keywords": [
+          "opposes",
+          "optimism",
+          "confronting",
+          "darkest"
+        ]
+      },
+      "four_of_wands": {
+        "interpretation": "Celebrations of stability feel undermined by lingering tension or unresolved endings.",
+        "keywords": [
+          "celebrations",
+          "stability",
+          "feel",
+          "undermined"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hanged_man": {
+        "interpretation": "Illuminates the necessity of surrender and shifting perspective for genuine liberation.",
+        "keywords": [
+          "illuminates",
+          "necessity",
+          "surrender",
+          "shifting"
+        ]
+      },
+      "the_moon": {
+        "interpretation": "Clarifies emotional confusion, bringing unconscious fears and doubts to the light.",
+        "keywords": [
+          "clarifies",
+          "emotional",
+          "confusion",
+          "bringing"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Redefines the past, signaling the arrival of closure and the certainty of a new start.",
+        "keywords": [
+          "redefines",
+          "past",
+          "signaling",
+          "arrival"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "death": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "nine_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "page_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

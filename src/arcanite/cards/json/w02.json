@@ -1,0 +1,681 @@
+{
+  "card_id": "two_of_wands",
+  "card_name": "Two of Wands",
+  "card_number": 2,
+  "suit": "wands",
+  "archetype": "the_planner",
+  "core_meanings": {
+    "upright": {
+      "essence": "The power of vision and decision. The moment of contemplating future paths and deciding where to channel creative energy.",
+      "keywords": [
+        "planning",
+        "vision",
+        "choices",
+        "control",
+        "exploration",
+        "foresight",
+        "enterprise"
+      ],
+      "psychological": "Represents the mind's ability to weigh options and set intentions for manifestation. Balancing ambition with practicality.",
+      "spiritual": "The soul’s moment of pause before embarking on new adventures. Channeling inner fire toward purposeful exploration.",
+      "practical": "Time to make informed decisions and set clear goals. Harness potential through strategic planning and foresight.",
+      "shadow": "Paralysis by indecision or fear of leaving the comfort zone. Potential for stagnation due to overthinking."
+    },
+    "reversed": {
+      "essence": "Blocked vision and fear of moving forward. Hesitation and confusion cloud the sense of direction.",
+      "keywords": [
+        "indecision",
+        "stagnation",
+        "fear of change",
+        "restricted options",
+        "lack of foresight"
+      ],
+      "psychological": "Struggling with trust in one's ability to make the right choice. Anxiety about the unknown future.",
+      "spiritual": "Disconnected from the inner guide - either ignoring prompts or unable to channel the inner fire authentically.",
+      "practical": "Reevaluate current plans. Either too cautious to progress or rushing without proper foresight.",
+      "shadow": "Avoiding decisions due to fear of mistakes. Staying within the known to avoid vulnerability."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Previous plans and visions have shaped your current circumstances. A past decision to seek new horizons laid current foundations.",
+        "reversed": "Past hesitations or refusal to commit have delayed progress. Previous indecision has led to unresolved situations now.",
+        "keywords": [
+          "past planning",
+          "foundational vision",
+          "hesitation",
+          "unresolved decisions"
+        ]
+      },
+      "distant_past": {
+        "upright": "Early aspirations set your trajectory - a long-established desire to explore new realms.",
+        "reversed": "Ancient fears or doubts from long ago still affect your willingness to venture beyond the familiar.",
+        "keywords": [
+          "early aspirations",
+          "historical vision",
+          "long-ago doubts",
+          "past ambitions"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent choices made with insight and clarity are now bearing fruit. You’ve decided to explore new ventures.",
+        "reversed": "Recent confusion or second-guessing has stalled progress. Recent plans have yet to materialize effectively.",
+        "keywords": [
+          "recent decisions",
+          "clarity",
+          "recent hesitation",
+          "stalled progress"
+        ]
+      },
+      "present": {
+        "upright": "Standing at a crossroads, now is the moment to expand your vision and solidify plans. Act with foresight and inspiration.",
+        "reversed": "Current fear of venturing beyond comfort zones leads to stagnation. Clarity is needed before advancing.",
+        "keywords": [
+          "crossroads",
+          "expansion",
+          "current vision",
+          "stagnation"
+        ]
+      },
+      "present_situation": {
+        "upright": "Your present experience is rich with potential and decision-making. Use this time to strategize and envision lasting growth.",
+        "reversed": "Internally conflicted, you struggle to find direction. Reevaluate current aims and adjust plans for alignment.",
+        "keywords": [
+          "strategy",
+          "potential",
+          "conflict",
+          "redirection"
+        ]
+      },
+      "future": {
+        "upright": "An exciting journey awaits once decisions are made. Prepare to embark on new paths with confidence and insight.",
+        "reversed": "Without clear direction, stagnation and missed opportunities may arise. Need for careful planning and trust going forward.",
+        "keywords": [
+          "new journey",
+          "confidence",
+          "future stagnation",
+          "missed opportunities"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, an opportunity will appear that aligns with your vision. Be open to acting on new potentials.",
+        "reversed": "In the immediate future, without decisive action, opportunities may pass unnoticed. Prepare by clarifying intentions.",
+        "keywords": [
+          "opportunity",
+          "alignment",
+          "immediate chance",
+          "clarification"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, your ability to plan and envision will lead to successful outcomes and personal growth. The path opens wide.",
+        "reversed": "In the long term, lack of decisiveness may prevent growth. Resolve inner conflicts to realize potential.",
+        "keywords": [
+          "successful outcomes",
+          "wide path",
+          "limited growth",
+          "unresolved potential"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Challenge lies in maintaining balance between vision and action. Avoid overthinking and instead, set clear intentions.",
+        "reversed": "Struggling with fear of making wrong choices. Challenge is to trust yourself and commit to a path.",
+        "keywords": [
+          "balance",
+          "clear intentions",
+          "fear of choice",
+          "trust"
+        ]
+      },
+      "cross": {
+        "upright": "External expectations challenge your authentic path. Remain true to your vision despite outside pressures.",
+        "reversed": "Internal conflicts hinder progress. Overcome self-imposed barriers to achieve true clarity.",
+        "keywords": [
+          "external expectations",
+          "authentic path",
+          "internal conflicts",
+          "clarity"
+        ]
+      },
+      "obstacle": {
+        "upright": "Resistance to change or leaving comfort zones may block your path. Embrace courage to step forward.",
+        "reversed": "Indecision and fear of failure are obstructive. Trust the process without needing all answers upfront.",
+        "keywords": [
+          "resistance",
+          "comfort zone",
+          "indecision",
+          "trust"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to trust your vision and structure. Striking a balance between dreaming and doing transforms potential into reality.",
+        "reversed": "The lesson is to face fear and embrace the unknown. Allow decisiveness to guide you to new beginnings.",
+        "keywords": [
+          "trust vision",
+          "balance",
+          "embrace unknown",
+          "decisiveness"
+        ]
+      },
+      "shadow": {
+        "upright": "Hidden within is the fear of unknown territory. Shine light on apprehensions to cultivate bold steps.",
+        "reversed": "Unacknowledged doubt about your capacities. Recognize this to liberate your potential.",
+        "keywords": [
+          "fear of unknown",
+          "bold steps",
+          "doubt",
+          "liberation"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Clinging to past successes hinders growth. Embrace the need for continual evolution and exploration.",
+        "reversed": "Fear of inadequacy or past failures thwarts new efforts. Break these chains to progress.",
+        "keywords": [
+          "past successes",
+          "exploration",
+          "fear of inadequacy",
+          "progress"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Act with confidence. Seize the helm of your destiny and carefully map your journey toward future potential.",
+        "reversed": "Pause to reassess plans; then move forward with renewed clarity. Trust in your ability to choose wisely.",
+        "keywords": [
+          "confidence",
+          "destiny",
+          "reassess",
+          "renewed clarity"
+        ]
+      },
+      "action": {
+        "upright": "Engage actively in plotting your future. Respond to challenges with bold yet considered action.",
+        "reversed": "Step back and gather insights before proceeding. Your next move requires both introspection and courage.",
+        "keywords": [
+          "active engagement",
+          "bold action",
+          "introspection",
+          "gather insights"
+        ]
+      },
+      "your_approach": {
+        "upright": "See yourself as a visionary with the power to shape your path through thoughtful planning and intention.",
+        "reversed": "Acknowledge any present indecision. Understanding yourself helps to accurately direct your energies.",
+        "keywords": [
+          "visionary",
+          "planning",
+          "self-understanding",
+          "direct energy"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your ability to intuitively foresee outcomes and make strategic plans. Use insight to guide actions.",
+        "reversed": "Support comes from embracing flexibility and trusting the process. Align with your inner guide.",
+        "keywords": [
+          "foresight",
+          "strategic planning",
+          "flexibility",
+          "inner guide"
+        ]
+      },
+      "guidance": {
+        "upright": "Listen to your inner call to create and explore. Trust your sense of direction, and let it lead you boldly.",
+        "reversed": "Spiritual guidance suggests patience in finding alignment. Clarity will emerge from contemplation.",
+        "keywords": [
+          "inner call",
+          "exploration",
+          "patience",
+          "clarity"
+        ]
+      },
+      "best_course": {
+        "upright": "The optimal path involves practical yet daring choices. Use your gifts to enhance your vision and pursue possibilities.",
+        "reversed": "Seek to resolve doubts before proceeding. Clear inner vision is the compass to your best path.",
+        "keywords": [
+          "daring choices",
+          "enhanced vision",
+          "resolve doubts",
+          "inner compass"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hopes to realize potential and embark on meaningful quests. Fears involve losing control or unfulfilled ambitions.",
+        "reversed": "Fear of making wrong decisions or stagnation looms large. Hope lies in discovering true direction.",
+        "keywords": [
+          "realized potential",
+          "meaningful quests",
+          "control",
+          "direction"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to stand confidently at the helm of your future, creating a life of intention and exploration.",
+        "reversed": "Uncover hopes buried under fears. Dreams wish to emerge into the light of consciousness.",
+        "keywords": [
+          "confident future",
+          "intention",
+          "buried hopes",
+          "emergence"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of leaving the known for unexplored realms might hold you back. Resist allowing fear to paralyze progress.",
+        "reversed": "Fears of inadequacy may cloud judgment. Liberation rests in recognizing your inherent worth.",
+        "keywords": [
+          "unknown realms",
+          "fear paralysis",
+          "inadequacy",
+          "inherent worth"
+        ]
+      },
+      "subconscious": {
+        "upright": "Deep within, a drive to innovate and pioneer stirs. Unseen potential waits for conscious acknowledgment.",
+        "reversed": "Unconsciously harboring doubts about your capability to lead desired pathways. Invite self-reflection.",
+        "keywords": [
+          "innovation",
+          "pioneering spirit",
+          "unseen potential",
+          "self-doubt"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously drawn toward expansion and ambition. Your awareness of choices will sculpt your journey.",
+        "reversed": "Your conscious mind wrestles with uncertainty. Focus on uncovering true desires and releasing fear.",
+        "keywords": [
+          "expansion",
+          "ambition",
+          "awareness",
+          "true desires"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel inspired and ready to explore possibilities. Hope invigorates your vision.",
+        "reversed": "Emotions fluctuate between eagerness and apprehension. Balance is key to emotional clarity.",
+        "keywords": [
+          "inspiration",
+          "readiness",
+          "fluctuation",
+          "balance"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart yearns for adventure and meaningful creation. Follow its calling to realize your passion.",
+        "reversed": "Acknowledge heart-driven fears that restrict you. Allow heartfelt desires to bolster courage.",
+        "keywords": [
+          "adventure",
+          "creation",
+          "heart-driven fears",
+          "courage"
+        ]
+      },
+      "mind": {
+        "upright": "Your mind thrives on planning and envisioning the future. Let clear goals refine your mental focus.",
+        "reversed": "Distraction and uncertainty cloud mental clarity. Meditate on alignment and insight.",
+        "keywords": [
+          "planning",
+          "envisioning",
+          "distraction",
+          "alignment"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Surroundings support visionary efforts and encourage progress. Opportunities arise to expand.",
+        "reversed": "External constraints create hesitation. Navigate resistance with internal clarity.",
+        "keywords": [
+          "support",
+          "progress",
+          "constraints",
+          "resistance"
+        ]
+      },
+      "others": {
+        "upright": "Others perceive you as influential and decisive. Your vision carries weight among peers.",
+        "reversed": "Others may doubt your resolution, projecting their fears onto your path. Seek your truth.",
+        "keywords": [
+          "influential",
+          "decisive",
+          "projected fears",
+          "truth-seeking"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment offers fertile ground for inspired action. Align with external opportunities.",
+        "reversed": "Environmental blocks hint at lessons in patience. Adapt and willfully pave your way.",
+        "keywords": [
+          "inspired action",
+          "alignment",
+          "environmental blocks",
+          "patience"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Regarded as a forward-thinker with an expansive vision, others respect your strategic mindset.",
+        "reversed": "Seen as overly cautious or hesitant, others might question your readiness to act.",
+        "keywords": [
+          "forward-thinker",
+          "expansive vision",
+          "cautious",
+          "hesitant"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen opportunities beckon from the shadows, waiting for readiness to reveal their bounty.",
+        "reversed": "Hidden influences include lurking fears that demand courage to face. Illuminating them channels power.",
+        "keywords": [
+          "unseen opportunities",
+          "readiness",
+          "lurking fears",
+          "illumination"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Successfully planning your path leads to fruitful achievements and new expansions. The world opens to you.",
+        "reversed": "Hesitation or indecision leads to a narrowed path with limited prospects. Re-evaluate to expand possibilities.",
+        "keywords": [
+          "successful planning",
+          "fruitful achievements",
+          "limited prospects",
+          "re-evaluation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, decisions made now cultivate abundance, opportunity, and fulfillment. Your journey finds purpose.",
+        "reversed": "Final outcomes may reflect missed opportunities or unresolved potential. Finding clarity is vital.",
+        "keywords": [
+          "abundance",
+          "opportunity",
+          "missed chances",
+          "clarity"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possibly achieving your vision with courage yields rich experiences and dynamic growth.",
+        "reversed": "Staying unfocused or indecisive could end in stagnation or frustration. Recognize potential missed moments.",
+        "keywords": [
+          "achievement",
+          "dynamic growth",
+          "stagnation",
+          "missed moments"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case sees pathways dominate with opportunity and progress aligned perfectly with inner vision.",
+        "reversed": "Ideally, grounding discernment prevents over-caution, leading to a compassionate journey.",
+        "keywords": [
+          "domination with opportunity",
+          "internal alignment",
+          "grounding discernment",
+          "compassionate journey"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case risks underestimating potential, resulting in unexplored paths and loss of growth.",
+        "reversed": "The worst involves succumbing to fear and indecision leading to stagnancy and missed adventures.",
+        "keywords": [
+          "underestimated potential",
+          "unexplored paths",
+          "stagnancy",
+          "missed adventures"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship involves making plans together and looking toward future possibilities. The dynamic between you is one of personal power and the ability to influence your shared world. You inspire each other to think big and take control of your destiny.",
+        "reversed": "The connection may lack long-term vision or personal power. Plans may be unrealistic or constantly changing. The relationship could involve power imbalances or inability to effectively work together toward mutual goals.",
+        "keywords": [
+          "planning",
+          "personal power",
+          "future vision",
+          "control"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A crossroads in love: it's time to plan for shared dreams and make commitments to deepen the partnership.",
+      "reversed": "Fear of change could create stagnation. Important decisions in the relationship are being avoided.",
+      "keywords": [
+        "shared dreams",
+        "commitment",
+        "fear in love",
+        "relationship decisions"
+      ]
+    },
+    "career": {
+      "upright": "Career offers are ripe for exploration. Strategize for success and pursue new business interests with vigor.",
+      "reversed": "Career prospects clouded by hesitancy. Unwillingness to take risks holds back progress.",
+      "keywords": [
+        "career exploration",
+        "strategize success",
+        "hesitancy",
+        "risk aversion"
+      ]
+    },
+    "spiritual": {
+      "upright": "A spiritual journey begins as you set intentions to explore deeper truths and expand your awareness.",
+      "reversed": "Spiritual doubts may inhibit growth. A time to examine beliefs and seek paths that resonate.",
+      "keywords": [
+        "spiritual exploration",
+        "intention setting",
+        "doubt",
+        "belief examination"
+      ]
+    },
+    "financial": {
+      "upright": "Financial planning and foresight pave the way to prosperity. Engage in bold yet strategic investments.",
+      "reversed": "Financial opportunities may be missed due to indecision. Time to reassess financial priorities.",
+      "keywords": [
+        "finances planning",
+        "prosperity path",
+        "missed opportunities",
+        "financial reassessment"
+      ]
+    },
+    "health": {
+      "upright": "Health benefits come from new routines and strategies. Plan for sustainable wellness.",
+      "reversed": "Involvement in unhealthy habits or indecision about health pathways may hinder wellbeing.",
+      "keywords": [
+        "health strategy",
+        "wellness planning",
+        "unhealthy habits",
+        "health indecision"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "aries",
+    "hebrew_letter": "vav",
+    "numerology": 2,
+    "planet": "mars",
+    "season": "spring",
+    "time_of_day": "midday",
+    "colors": [
+      "red",
+      "orange",
+      "gold"
+    ],
+    "crystals": [
+      "citrine",
+      "carnelian",
+      "sunstone"
+    ],
+    "herbs": [
+      "ginger",
+      "cinnamon",
+      "chili"
+    ]
+  },
+  "symbols": {
+    "globe": "worldly vision and expansion",
+    "wand": "potential and personal power",
+    "stone_wall": "support and foundations",
+    "figure_facing_sea": "introspection and contemplation",
+    "merchant": "trade and enterprise"
+  },
+  "affirmations": [
+    "I embrace my vision and confidently step forward on my path",
+    "I trust my decisions and welcome exploration beyond my comfort zone",
+    "My plans align with my inner purpose and direct my journey",
+    "I balance vision with action to create my desired future"
+  ],
+  "journaling_prompts": [
+    "What future vision am I currently contemplating?",
+    "How can I balance my ambition with practical steps?",
+    "What fears are holding me back from exploring new paths?",
+    "Where do I need clarity to move forward confidently?"
+  ],
+  "meditation_focus": "Visualizing future paths with open-hearted curiosity and the courage to plan new adventures with insight.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:59:56.258780",
+    "card_info": {
+      "name": "Two of Wands",
+      "number": 2,
+      "suit": "wands"
+    },
+    "filename": "w02.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_hermit": {
+        "interpretation": "Gaining insight through contemplation and solitude. Deep wisdom informing future paths.",
+        "keywords": [
+          "gaining",
+          "insight",
+          "contemplation",
+          "solitude"
+        ]
+      },
+      "three_of_wands": {
+        "interpretation": "Vision expands into successful enterprise. Results materialize from careful planning.",
+        "keywords": [
+          "vision",
+          "expands",
+          "successful",
+          "enterprise"
+        ]
+      },
+      "the_world": {
+        "interpretation": "Global perspective enhances ambition with a grounding sense of purpose and fulfillment.",
+        "keywords": [
+          "global",
+          "perspective",
+          "enhances",
+          "ambition"
+        ]
+      }
+    },
+    "challenges": {
+      "the_moon": {
+        "interpretation": "Illusions and uncertainty challenge decision making. Seek clarity amid emotional fog.",
+        "keywords": [
+          "illusions",
+          "uncertainty",
+          "challenge",
+          "decision"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Disappointment may challenge vision. Learning resilience amid setbacks.",
+        "keywords": [
+          "disappointment",
+          "challenge",
+          "vision",
+          "learning"
+        ]
+      },
+      "the_hanged_man": {
+        "interpretation": "Inaction or sacrifice complicates progress. Navigating necessary delays.",
+        "keywords": [
+          "inaction",
+          "sacrifice",
+          "complicates",
+          "progress"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_lovers": {
+        "interpretation": "Choices become clearer as alignment in values emerges. Uniting paths in harmonious decision.",
+        "keywords": [
+          "choices",
+          "become",
+          "clearer",
+          "alignment"
+        ]
+      },
+      "ace_of_swords": {
+        "interpretation": "Clarity cutting through hesitation. Sharp insight driving decisive action.",
+        "keywords": [
+          "clarity",
+          "cutting",
+          "hesitation",
+          "sharp"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Discernment amid many options. Prioritizing dreams into actionable plans.",
+        "keywords": [
+          "discernment",
+          "amid",
+          "many",
+          "options"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_emperor": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "ace_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

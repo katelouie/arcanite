@@ -1,0 +1,652 @@
+{
+  "card_id": "two_of_cups",
+  "card_name": "Two of Cups",
+  "card_number": 2,
+  "suit": "cups",
+  "archetype": "the_union",
+  "core_meanings": {
+    "upright": {
+      "essence": "A harmonious union of souls, where connection and mutual understanding flow effortlessly. A deep bond characterized by respect and emotional balance.",
+      "keywords": [
+        "partnership",
+        "connection",
+        "harmony",
+        "mutual respect",
+        "emotional balance",
+        "union"
+      ],
+      "psychological": "Represents the mind's yearning for connection and balance, reflecting a state where relationships enhance self-understanding and fulfillment.",
+      "spiritual": "A deep spiritual connection that transcends superficial interactions, emphasizing the sacred bond between two beings.",
+      "practical": "Time for nurturing partnerships that serve mutual growth and understanding. Opportunities to collaborate and build lasting relationships.",
+      "shadow": "Potential codependency or loss of individuality in pursuit of harmony. The danger of neglecting personal needs for the sake of peace."
+    },
+    "reversed": {
+      "essence": "Fractured bonds or discord in relationships, where imbalance or unfulfilled emotional needs disrupt connection.",
+      "keywords": [
+        "imbalance",
+        "disharmony",
+        "disconnection",
+        "emotional conflict",
+        "misunderstanding"
+      ],
+      "psychological": "Reflects inner turmoil projected into relationships, resulting from unmet needs or unresolved personal conflicts.",
+      "spiritual": "Difficulty connecting at a soul level, where shallow interactions replace genuine spiritual connection.",
+      "practical": "Apparent conflicts within partnerships or business endeavors. A need to address overlooked issues causing friction.",
+      "shadow": "Tendency to cling to unhealthy relationships or manipulate emotional connections to maintain control or avoid loneliness."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A period of deep connection and partnership that set the stage for current emotional fulfillment and understanding.",
+        "reversed": "A past disconnection or breakup that influences present emotional patterns and relationship dynamics.",
+        "keywords": [
+          "past union",
+          "relationship foundation",
+          "past rift",
+          "breakup impact"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago relationships or connections that taught early lessons in love and mutual respect.",
+        "reversed": "Old wounds from relationships or partnerships left an enduring impact on your emotional worldview.",
+        "keywords": [
+          "early connections",
+          "ancient bond",
+          "enduring wounds",
+          "emotional history"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent developments in a key relationship have led you to a place of emotional balance or partnership.",
+        "reversed": "Recent misunderstandings or conflict disrupting a previously harmonious connection.",
+        "keywords": [
+          "recent connection",
+          "emotional balance",
+          "recent discord",
+          "relationship shift"
+        ]
+      },
+      "present": {
+        "upright": "Currently immersed in a period of harmonious partnership and emotional equilibrium. Embrace shared joy and mutual support.",
+        "reversed": "Present conflicts or misunderstandings in need of attention to restore harmony and balance within relationships.",
+        "keywords": [
+          "current harmony",
+          "emotional equilibrium",
+          "conflict",
+          "miscommunication"
+        ]
+      },
+      "present_situation": {
+        "upright": "On a foundational level, your current experience involves union and cooperation, aiding growth and understanding.",
+        "reversed": "Underlying disharmony affects interactions, and acknowledging this is necessary for peace.",
+        "keywords": [
+          "foundational union",
+          "cooperation",
+          "underlying disharmony",
+          "needed acknowledgment"
+        ]
+      },
+      "future": {
+        "upright": "Forthcoming opportunities for connection and joy, where partnerships flourish under mutual respect and care.",
+        "reversed": "Future potential for conflict or misunderstandings if communication isn't prioritized.",
+        "keywords": [
+          "upcoming harmony",
+          "partnership growth",
+          "potential conflict",
+          "communication needs"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon you'll find moments of shared joy and emotional connection enhancing your personal journey.",
+        "reversed": "Impending challenges in relationships require open communication to prevent lasting discord.",
+        "keywords": [
+          "imminent joy",
+          "emotional connection",
+          "upcoming challenges",
+          "needed dialogue"
+        ]
+      },
+      "distant_future": {
+        "upright": "Long-term fulfillment through nurturing meaningful relationships and partnerships.",
+        "reversed": "Prolonged turbulence in relationships if underlying issues remain unresolved.",
+        "keywords": [
+          "long-term fulfillment",
+          "meaningful relationships",
+          "prolonged turbulence",
+          "resolution necessity"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Maintaining emotional balance while nurturing your individuality in relationships.",
+        "reversed": "Facing the challenge of dealing with emotional discord or misunderstanding that's hindering growth.",
+        "keywords": [
+          "emotional balance",
+          "individuality",
+          "emotional discord",
+          "growth hindrance"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures or societal expectations challenge the harmony of your relationships.",
+        "reversed": "Inner fears and insecurities create unnecessary barriers to connection and understanding.",
+        "keywords": [
+          "external pressures",
+          "societal expectations",
+          "inner fears",
+          "connection barriers"
+        ]
+      },
+      "obstacle": {
+        "upright": "Communication barriers or withheld emotions obstruct deeper connection and understanding.",
+        "reversed": "Unresolved emotional baggage creates hurdles in forming new or maintaining existing relationships.",
+        "keywords": [
+          "communication barriers",
+          "withheld emotions",
+          "unresolved baggage",
+          "relationship hurdles"
+        ]
+      },
+      "lesson": {
+        "upright": "Learning to embrace and celebrate the differences in others, enhancing mutual growth and understanding.",
+        "reversed": "Understanding the impact of unresolved issues and the importance of transparent communication in relationships.",
+        "keywords": [
+          "embrace differences",
+          "mutual growth",
+          "impact of issues",
+          "transparent communication"
+        ]
+      },
+      "shadow": {
+        "upright": "Hidden fears of vulnerability or dependency may hinder the full experience of authentic connection.",
+        "reversed": "Insecurity or jealousy arises from unresolved internal conflicts, projecting onto relationships.",
+        "keywords": [
+          "fears of vulnerability",
+          "hidden dependency",
+          "insecurity",
+          "jealousy"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Fear of losing independence hinders the ability to fully engage with shared emotional experiences.",
+        "reversed": "Avoidance of emotional confrontation and owning your feelings creates barriers to intimacy.",
+        "keywords": [
+          "fear of losing independence",
+          "shared emotion",
+          "emotional confrontation",
+          "barriers to intimacy"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Nurture connections with intention and open dialogue. Celebrate joyous interactions and emotional support.",
+        "reversed": "Address misunderstandings directly with honesty and care to restore balance and trust.",
+        "keywords": [
+          "nurture connections",
+          "open dialogue",
+          "address misunderstandings",
+          "restore trust"
+        ]
+      },
+      "action": {
+        "upright": "Take proactive steps to deepen emotional bonds. Invest time and energy in mutual understanding.",
+        "reversed": "Actively seek resolution to discord by confronting issues and clarifying intentions.",
+        "keywords": [
+          "deepen bonds",
+          "mutual understanding",
+          "seek resolution",
+          "clarify intentions"
+        ]
+      },
+      "your_approach": {
+        "upright": "Your approach is one of openness and receptivity to shared experiences and emotional wisdom.",
+        "reversed": "You may unknowingly approach situations with guarded emotions, risking misunderstanding.",
+        "keywords": [
+          "openness",
+          "receptivity",
+          "guarded emotions",
+          "risk of misunderstanding"
+        ]
+      },
+      "what_helps": {
+        "upright": "Expressing gratitude and appreciation builds stronger connections and fosters trust.",
+        "reversed": "Seeking insight and external guidance helps untangle emotional complexities.",
+        "keywords": [
+          "gratitude",
+          "appreciation",
+          "external guidance",
+          "emotional insight"
+        ]
+      },
+      "guidance": {
+        "upright": "Allow your intuition and empathy to guide you in forming and maintaining meaningful connections.",
+        "reversed": "Engage your practical wisdom as much as your heart to navigate emotional challenges.",
+        "keywords": [
+          "intuition",
+          "empathy",
+          "practical wisdom",
+          "navigate challenges"
+        ]
+      },
+      "best_course": {
+        "upright": "Foster collaboration and partnership with an open heart and supportive spirit. Keep boundaries healthy.",
+        "reversed": "Develop clear communication strategies to prevent or resolve relational discord.",
+        "keywords": [
+          "foster collaboration",
+          "supportive spirit",
+          "clear communication",
+          "resolve discord"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for deep, lasting partnerships bringing joy and emotional fulfillment. Fear of losing connection.",
+        "reversed": "Fear of chaos and misunderstanding in relationships. Hope to overcome emotional discord.",
+        "keywords": [
+          "hope for connection",
+          "fear of loss",
+          "fear of chaos",
+          "overcome discord"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire to create harmonious partnerships that uplift and inspire, ensuring emotional growth.",
+        "reversed": "Hope to heal and harmonize division within current relationships or personal psyche.",
+        "keywords": [
+          "harmonious partnerships",
+          "emotional growth",
+          "heal division",
+          "internal harmony"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of betrayal or loss disturbing peaceful connections. Worry that authentic emotional exchange won't occur.",
+        "reversed": "Fear of permanent disconnection or inability to repair broken relationships.",
+        "keywords": [
+          "fear of betrayal",
+          "loss of peace",
+          "permanent disconnection",
+          "relationship repair"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconscious yearnings for mutual respect and balance in relationships drive your emotional landscape.",
+        "reversed": "Unconscious fears of inadequacy or rejection influence your relational patterns and behaviors.",
+        "keywords": [
+          "yearning for respect",
+          "emotional balance",
+          "fear of inadequacy",
+          "relational patterns"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you're oriented towards growth through shared understanding and collaborative partnerships.",
+        "reversed": "Awareness of present discord prompts you to work actively on resolving emotional tensions.",
+        "keywords": [
+          "oriented for growth",
+          "shared understanding",
+          "awareness of discord",
+          "active resolution"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Feeling emotionally secure, supported, and energized by the harmonious connections in your life.",
+        "reversed": "Conflicted emotions and disconnection causing stress and tension in your emotional state.",
+        "keywords": [
+          "emotional security",
+          "support",
+          "energized",
+          "conflicted emotions"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart seeks genuine connection that reflects mutual growth and shared joy without strings attached.",
+        "reversed": "There's a need to forgive past hurts and open the heart to renewed connections.",
+        "keywords": [
+          "genuine connection",
+          "shared joy",
+          "forgiveness",
+          "open heart"
+        ]
+      },
+      "mind": {
+        "upright": "Your mind engages with the concept of unity and the power of partnerships to enrich life experience.",
+        "reversed": "Cognitive dissonance or overthinking strains relationships instead of facilitating understanding.",
+        "keywords": [
+          "unity",
+          "enrichment",
+          "cognitive dissonance",
+          "strained relationships"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Supportive relationships or environments foster your growth and amplify your emotional well-being.",
+        "reversed": "External conflicts or pressures test the strength of your relationships and require navigation.",
+        "keywords": [
+          "supportive environment",
+          "emotional growth",
+          "external conflicts",
+          "relationship test"
+        ]
+      },
+      "others": {
+        "upright": "Others are encouraging and supportive, valuing the connection they share with you.",
+        "reversed": "People around you may trigger misunderstandings or emotional instability, reflecting their own issues.",
+        "keywords": [
+          "supportive others",
+          "valued connections",
+          "trigger misunderstandings",
+          "reflected issues"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment encourages partnership and collaboration, creating a fertile ground for growth.",
+        "reversed": "Current surroundings bring challenges to your relationships, requiring adaptability and openness.",
+        "keywords": [
+          "encouraging environment",
+          "fertile ground",
+          "challenge surroundings",
+          "adaptability"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as someone who fosters peace and harmony, others appreciate your ability to build relationships.",
+        "reversed": "May be perceived as aloof or emotionally withdrawn due to current conflicts or misunderstandings.",
+        "keywords": [
+          "peacemaker",
+          "relationship builder",
+          "perceived aloofness",
+          "emotional withdrawal"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces are aligning to support your emotional connections and enhance partnership success.",
+        "reversed": "Unresolved emotional patterns from the past subtly affect your current relationship dynamics.",
+        "keywords": [
+          "supportive forces",
+          "partnership success",
+          "unresolved patterns",
+          "relationship dynamics"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Successful and fulfilling partnerships lead to enrichment, joy, and shared achievements.",
+        "reversed": "If unresolved, misunderstandings or emotional conflict may result in relationship breakdowns.",
+        "keywords": [
+          "successful partnership",
+          "enrichment",
+          "relationship breakdown",
+          "emotional conflict"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Deep, enduring connections that contribute to a balanced and harmonious life path.",
+        "reversed": "Ongoing discord without resolution could lead to long-term separation or disconnection.",
+        "keywords": [
+          "enduring connections",
+          "harmonious life",
+          "long-term separation",
+          "perpetual discord"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possibility of forming significant alliances and partnerships that elevate your life experience.",
+        "reversed": "Potential for persistent emotional clashes leads to opportunity for growth through challenge.",
+        "keywords": [
+          "significant alliances",
+          "life elevation",
+          "persistent clashes",
+          "growth through challenge"
+        ]
+      },
+      "best_case": {
+        "upright": "The best scenario involves synergistic partnerships with rich mutual respect and shared vision.",
+        "reversed": "Learn and grow from conflicts, developing stronger, more resilient relationships as a result.",
+        "keywords": [
+          "synergistic partnerships",
+          "mutual respect",
+          "conflict growth",
+          "resilient relationships"
+        ]
+      },
+      "worst_case": {
+        "upright": "Lack of nurturing leads to stagnation, missing out on the richness of emotional partnership.",
+        "reversed": "Worst case involves irreparable misunderstandings causing lasting damage to important relationships.",
+        "keywords": [
+          "lack of nurturing",
+          "emotional stagnation",
+          "irreparable misunderstandings",
+          "lasting damage"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship is built on mutual understanding, emotional harmony, and balanced partnership. The dynamic between you involves deep friendship, cooperation, and the ability to work together toward shared emotional goals.",
+        "reversed": "The partnership may be unbalanced or lack emotional harmony. Understanding could be one-sided or communication may be poor. The relationship might involve codependency, unrequited feelings, or inability to cooperate emotionally.",
+        "keywords": [
+          "partnership",
+          "harmony",
+          "understanding",
+          "cooperation"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A promising relationship evolving with emotional depth and mutual admiration. Opportunities for romantic partnership or rekindling love.",
+      "reversed": "Emotional blockages or misalignments causing disharmony. Need open-hearted communication to bridge gaps.",
+      "keywords": [
+        "emotional depth",
+        "romantic partnership",
+        "disharmony",
+        "open communication"
+      ]
+    },
+    "career": {
+      "upright": "Collaborations and partnerships at work bring successful results. A harmonious workplace or new professional alliance.",
+      "reversed": "Workplace conflicts hinder progress; require resolution through understanding and communication.",
+      "keywords": [
+        "successful collaboration",
+        "harmonious workplace",
+        "conflict resolution",
+        "professional alliance"
+      ]
+    },
+    "spiritual": {
+      "upright": "Unity with others in spiritual pursuits leads to growth and enlightenment. Joint spiritual endeavors offer deep insight.",
+      "reversed": "Spiritual disconnect or discord; seek alignment and understanding with your spiritual circle.",
+      "keywords": [
+        "spiritual unity",
+        "growth",
+        "spiritual discord",
+        "alignment"
+      ]
+    },
+    "financial": {
+      "upright": "Financial partnerships or ventures blessed with harmony and understanding; potential for mutual prosperity.",
+      "reversed": "Imbalances in financial dealings require fair and transparent communication.",
+      "keywords": [
+        "financial harmony",
+        "mutual prosperity",
+        "imbalances",
+        "transparent dealings"
+      ]
+    },
+    "health": {
+      "upright": "Nurturing emotional connections contribute to physical and mental well-being; shared support in health endeavors.",
+      "reversed": "Emotional stress or disconnection affects health; time for emotional recalibration and healing.",
+      "keywords": [
+        "emotional connections",
+        "well-being",
+        "stress impact",
+        "emotional healing"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "cancer",
+    "hebrew_letter": "",
+    "numerology": 2,
+    "planet": "venus",
+    "season": "summer",
+    "time_of_day": "evening",
+    "colors": [
+      "blue",
+      "pink",
+      "silver"
+    ],
+    "crystals": [
+      "rose quartz",
+      "moonstone",
+      "aquamarine"
+    ],
+    "herbs": [
+      "rose",
+      "jasmine",
+      "chamomile"
+    ]
+  },
+  "symbols": {
+    "caduceus": "balance and the intertwining of forces",
+    "lion_head": "passionate connection, strength in union",
+    "two_cups": "mutual exchange and emotional sharing",
+    "intertwined_figures": "unity, partnership, embracing differences"
+  },
+  "affirmations": [
+    "I honor the sacred bond of partnership in my life.",
+    "I embrace harmony and balance in all my relationships.",
+    "Mutual respect and understanding guide my connections.",
+    "I am open to the joys of deep emotional union."
+  ],
+  "journaling_prompts": [
+    "What does partnership mean to me on a deep level?",
+    "How can I enhance mutual understanding in my relationships?",
+    "What fears do I have about connecting deeply with others?",
+    "Where in my life am I called to foster harmony and balance?"
+  ],
+  "meditation_focus": "Visualize the flow of love and understanding between yourself and another, infusing your connection with light and harmony.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:36:44.793932",
+    "card_info": {
+      "name": "Two of Cups",
+      "number": 2,
+      "suit": "cups"
+    },
+    "filename": "c02.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_lovers": {
+        "interpretation": "Intensifies romantic connections and deepens soul bonds; promotes union and shared love.",
+        "keywords": [
+          "intensifies",
+          "romantic",
+          "connections",
+          "deepens"
+        ]
+      },
+      "the_empress": {
+        "interpretation": "Nurturing, abundant energy infuses relationships, enhancing creativity and growth.",
+        "keywords": [
+          "nurturing",
+          "abundant",
+          "energy",
+          "infuses"
+        ]
+      }
+    },
+    "challenges": {
+      "five_of_wands": {
+        "interpretation": "Discord and competition challenge harmony; need for cooperation and alignment.",
+        "keywords": [
+          "discord",
+          "competition",
+          "challenge",
+          "harmony"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Conflict and betrayal risk disrupting emotional connections; call for resolution.",
+        "keywords": [
+          "conflict",
+          "betrayal",
+          "risk",
+          "disrupting"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hierophant": {
+        "interpretation": "Clarifies the spiritual purpose of a union; emphasizes commitment and shared belief.",
+        "keywords": [
+          "clarifies",
+          "spiritual",
+          "purpose",
+          "union"
+        ]
+      },
+      "three_of_pentacles": {
+        "interpretation": "Underscores the importance of teamwork and harmonious effort in shared goals.",
+        "keywords": [
+          "underscores",
+          "importance",
+          "teamwork",
+          "harmonious"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_lovers": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "two_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

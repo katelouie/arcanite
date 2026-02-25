@@ -1,0 +1,687 @@
+{
+  "card_id": "six_of_pentacles",
+  "card_name": "Six of Pentacles",
+  "card_number": 6,
+  "suit": "pentacles",
+  "archetype": "the_balanced_giver",
+  "core_meanings": {
+    "upright": {
+      "essence": "Generosity in balance, the flow of giving and receiving. An abundant cycle where kindness nurtures community and prosperity multiplies.",
+      "keywords": [
+        "generosity",
+        "charity",
+        "balance",
+        "sharing",
+        "support",
+        "benevolence",
+        "gratitude",
+        "abundance"
+      ],
+      "psychological": "Represents the ability to give and accept support gracefully, understanding the interconnectedness of relationships.",
+      "spiritual": "A reminder of the spiritual law: as we give, so we receive. Encourages seeing abundance in the act of sharing.",
+      "practical": "Time to offer help or resources, or to humbly accept aid. Balancing financial or material situations through fair exchanges.",
+      "shadow": "Hidden motives in charity, or imbalanced relationships where giving or taking is unequal. Potential exploitation or dependency."
+    },
+    "reversed": {
+      "essence": "Misalignment in giving and receiving. Either withholding support out of fear or giving with strings attached, leading to imbalance.",
+      "keywords": [
+        "selfishness",
+        "stinginess",
+        "debt",
+        "dependency",
+        "exploitation",
+        "unequal exchange",
+        "hidden motives"
+      ],
+      "psychological": "Fear of not having enough fosters insecurity, leading to either excessive generosity or reluctance to share.",
+      "spiritual": "Spiritual lessons in surrendering fear and control, recognizing abundance as a state of mind, not material possession.",
+      "practical": "Review your financial transactions—are they truly fair? Either address overspending or open yourself to needed support.",
+      "shadow": "Using generosity to manipulate or control, or refusing assistance due to pride, leading to isolation or lack."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A past act of generosity continues to ripple through your life, providing unexpected blessings and connections.",
+        "reversed": "Previous financial imbalances or debts still affect you, either through dependency or lingering insecurity.",
+        "keywords": [
+          "past generosity",
+          "foundation of giving",
+          "earlier debts",
+          "lingering insecurity"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-term patterns of sharing resources or supporting others have shaped your current values and approach to money.",
+        "reversed": "An ingrained habit of either refusing help or being overly dependent stems from early financial situations.",
+        "keywords": [
+          "patterns of generosity",
+          "early support",
+          "habitual imbalance",
+          "formative financial habits"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent exchange of generosity or support set the stage for your present circumstances, fostering growth or connection.",
+        "reversed": "Recent unmet financial obligations or disparities in give-and-take have led to current tensions or stress.",
+        "keywords": [
+          "recent support",
+          "foundation of sharing",
+          "financial tension",
+          "current stress"
+        ]
+      },
+      "present": {
+        "upright": "Currently, you stand in a flow of reciprocity. Embrace the opportunity to give and receive equally within your community.",
+        "reversed": "Presently, an imbalance in financial matters requires attention, whether it's unfulfilled support or undue generosity.",
+        "keywords": [
+          "current reciprocity",
+          "flow of exchange",
+          "financial imbalance",
+          "needed attention"
+        ]
+      },
+      "present_situation": {
+        "upright": "The essence of your situation involves cultivating generosity and finding harmony in sharing resources with others.",
+        "reversed": "Central to your current experience is the imbalance in giving or receiving, impacting your relationships and resources.",
+        "keywords": [
+          "generous essence",
+          "core balance",
+          "sharing harmony",
+          "uneven exchange"
+        ]
+      },
+      "future": {
+        "upright": "A promising opportunity for reciprocal support awaits. Prepare to both offer and accept help, fostering prosperity.",
+        "reversed": "Future financial complications may arise if imbalances continue. Correct course to prevent dependency or lack.",
+        "keywords": [
+          "future balance",
+          "promising support",
+          "prosperity opportunity",
+          "financial corrections"
+        ]
+      },
+      "near_future": {
+        "upright": "Imminently, you're encouraged to actively participate in generous exchanges, enhancing wealth and connections.",
+        "reversed": "Soon, a missed opportunity or imbalance in support could create challenges if not addressed promptly.",
+        "keywords": [
+          "immediate exchange",
+          "upcoming generosity",
+          "missed opportunities",
+          "needed adjustment"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, sustainable prosperity and community will stem from balanced, generous interactions and open-heartedness.",
+        "reversed": "Long-term impact of neglecting balance in giving may lead to isolation, scarcity, or exploitation.",
+        "keywords": [
+          "sustainable prosperity",
+          "community foundation",
+          "long-term balance",
+          "isolation risk"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to maintain open hands both in giving and receiving, trusting the cycle of abundance to support you.",
+        "reversed": "You must overcome fear-based hoarding or giving with conditions. Trust that true generosity enriches all parties.",
+        "keywords": [
+          "open-handedness",
+          "trust abundance",
+          "generosity with conditions",
+          "overcoming fear"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures challenge your natural inclination to be generous; balance this with healthy boundaries.",
+        "reversed": "Fear of exploitive dynamics or poverty leads you to guard resources tightly, crossing natural abundance flow.",
+        "keywords": [
+          "external pressures",
+          "generosity boundaries",
+          "resource guarding",
+          "fear of loss"
+        ]
+      },
+      "obstacle": {
+        "upright": "Skepticism about the motives of others may prevent the free flow of sharing or accepting help where needed.",
+        "reversed": "Pride or ego may block accepting help, or scarcity mindset restricts giving, leading to unconnectedness.",
+        "keywords": [
+          "skepticism",
+          "motives questioning",
+          "pride obstacles",
+          "scarcity mindset"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson is in understanding the universal law of abundance through mutual support and reciprocal acts of love.",
+        "reversed": "Learning to discern healthy boundaries in generosity while recognizing the difference between help and control.",
+        "keywords": [
+          "abundance understanding",
+          "mutual support",
+          "healthy boundaries",
+          "discernment"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow may hold fears about not having enough or being taken advantage of, preventing open-hearted generosity.",
+        "reversed": "Within lies either manipulation through giving or paralyzing fear of loss that needs bringing to light and healing.",
+        "keywords": [
+          "fear of lack",
+          "manipulation through giving",
+          "loss fear",
+          "healing needed"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Past betrayals or ungratefulness may impede your willingness to give openly and trust the cycle of support.",
+        "reversed": "What hinders you is the fear of vulnerability in accepting help or burdening others with your needs.",
+        "keywords": [
+          "past betrayals",
+          "trusting support",
+          "fear of vulnerability",
+          "accepting help"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Engage in sharing what you have with an open heart, allowing yourself to be both giver and receiver in equal measure.",
+        "reversed": "Either liberate yourself from the fear of depletion or allow for the grace of accepting support. Balance is key.",
+        "keywords": [
+          "open-hearted sharing",
+          "balanced giving",
+          "depletion liberation",
+          "graceful acceptance"
+        ]
+      },
+      "action": {
+        "upright": "Take concrete steps to offer assistance without expectation and welcome help without pride, fostering community.",
+        "reversed": "Examine motivations behind your generosity and release any strings attached. Strive for genuine and fair exchanges.",
+        "keywords": [
+          "assist freely",
+          "welcome help",
+          "examined motivations",
+          "fair exchanges"
+        ]
+      },
+      "your_approach": {
+        "upright": "You approach life with generosity at your core, aiming to create harmony and shared abundance.",
+        "reversed": "There may be a tendency to give conditionally or not give at all, possibly slipping into fear-based conservatism.",
+        "keywords": [
+          "generous core",
+          "harmony creation",
+          "conditional giving",
+          "conservatism"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your natural generosity and willingness to share resources enhance communal bonds and personal well-being.",
+        "reversed": "Healing from past losses or betrayals allows you to embrace giving and receiving without fear.",
+        "keywords": [
+          "enhanced bonds",
+          "well-being",
+          "healing from loss",
+          "embracing exchange"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual guidance encourages you to see abundance as flowing and cyclical, a dance of give-and-take that supports all.",
+        "reversed": "Guidance involves discerning genuine need from want, and calibrating your giving based on wisdom and intuition.",
+        "keywords": [
+          "abundance flow",
+          "cyclical dance",
+          "genuine need",
+          "balanced intuition"
+        ]
+      },
+      "best_course": {
+        "upright": "The best path forward involves cultivating generosity, approaching giving as a graceful dance that enriches all involved.",
+        "reversed": "Consider all aspects of financial dealings carefully. Ensure that your support is both wise and compassionate.",
+        "keywords": [
+          "cultivation of generosity",
+          "enriching dance",
+          "careful dealings",
+          "compassionate support"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope is in joining a communal, supportive network. Fear lies in the possibility that your generosity won't be reciprocated.",
+        "reversed": "Fear of vulnerability prevents fully participating in supportive exchanges; hope to sustain independence despite dependency fears.",
+        "keywords": [
+          "communal hope",
+          "reciprocation fear",
+          "vulnerability",
+          "independence"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to foster equality and mutual support in relationships, where everyone has enough and abundance is shared.",
+        "reversed": "The hope to maintain control over resources stems from fear of being taken advantage of or left unbalanced.",
+        "keywords": [
+          "foster equality",
+          "mutual support",
+          "control hope",
+          "resource balance"
+        ]
+      },
+      "fears": {
+        "upright": "Fear that giving will leave you depleted or that others may take advantage of your generosity.",
+        "reversed": "Fear of needing help or appearing weak and dependent on others' goodwill restricts genuine engagement.",
+        "keywords": [
+          "depletion fear",
+          "advantage fear",
+          "help need fear",
+          "appearance of weakness"
+        ]
+      },
+      "subconscious": {
+        "upright": "Deep down, you're driven by a soul-level understanding that abundance comes through the act of giving openly.",
+        "reversed": "Subconscious mistrust in others' intentions or fear of poverty guides unbalanced giving or hoarding.",
+        "keywords": [
+          "soul abundance",
+          "open giving",
+          "mistrust",
+          "unbalanced guidance"
+        ]
+      },
+      "conscious": {
+        "upright": "You consciously aim to balance your resources, ensuring fair exchanges and nurturing community.",
+        "reversed": "Your conscious mind may be overwhelmed with thoughts of scarcity, leading to a protective or withdrawn stance.",
+        "keywords": [
+          "resource balance",
+          "fair exchange",
+          "scarcity thoughts",
+          "protective stance"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you experience satisfaction in giving and receiving, feeling connected and grounded.",
+        "reversed": "Feelings of guilt, resentment, or fear may cloud your emotional state in relation to sharing and resources.",
+        "keywords": [
+          "emotional satisfaction",
+          "connection",
+          "guilt",
+          "resentment"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart's desire lies in creating circles of giving where compassion and generosity nourish all.",
+        "reversed": "Heart wisdom urges releasing fear of rejection or exploitation and embracing trust in relational abundance.",
+        "keywords": [
+          "compassion circles",
+          "generous heart",
+          "fear release",
+          "relationship trust"
+        ]
+      },
+      "mind": {
+        "upright": "You approach resource management with practicality and fairness, valuing the flow of balanced exchange.",
+        "reversed": "Cognitive concerns may involve calculating protection of assets or distrust in true reciprocity.",
+        "keywords": [
+          "practical management",
+          "balanced exchange",
+          "protection calculation",
+          "distrust"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Those around you recognize your generosity, encouraging a sense of community and reciprocity.",
+        "reversed": "External factors could involve pressures to conform or obligations that sap resources without fair return.",
+        "keywords": [
+          "community encouragement",
+          "reciprocity",
+          "external pressure",
+          "unfair obligations"
+        ]
+      },
+      "others": {
+        "upright": "Others are attracted to your generous spirit and may offer support in return, forming a network of mutual aid.",
+        "reversed": "There may be those who take advantage of your kindness, creating dynamics that are uneven and strained.",
+        "keywords": [
+          "attractive generosity",
+          "mutual aid",
+          "taking advantage",
+          "strained dynamics"
+        ]
+      },
+      "environment": {
+        "upright": "Your surroundings are conducive to growth through sharing—a supportive environment for giving and receiving.",
+        "reversed": "The environment may be limiting, with resources scarce or dynamics that block true generosity.",
+        "keywords": [
+          "growth environment",
+          "supportive surroundings",
+          "scarcity",
+          "generosity block"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You're seen as a benefactor or a fair individual who brings balance and abundance to relationships and groups.",
+        "reversed": "Others may perceive you as overly cautious or self-interested, fearing loss and therefore restricting flow.",
+        "keywords": [
+          "benefactor perception",
+          "fairness",
+          "cautious perception",
+          "self-interest"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen support and spiritual forces encourage your generous nature, paving the way for abundance.",
+        "reversed": "Hidden undercurrents may involve unresolved financial issues or attitudes that block prosperity.",
+        "keywords": [
+          "unseen support",
+          "spiritual encouragement",
+          "underlying issues",
+          "prosperity block"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "A harmonious conclusion through balanced giving and receiving, enriching your environment with abundance.",
+        "reversed": "Possible inequities in relationships or missed opportunities for generosity may lead to stagnation or stress.",
+        "keywords": [
+          "harmonious conclusion",
+          "enriched environment",
+          "inequities",
+          "stagnation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, your life is characterized by abundance and support, as reciprocal relationships nurture personal and collective growth.",
+        "reversed": "Final outcome could involve learning hard lessons about reciprocity and the need to restore balance and trust.",
+        "keywords": [
+          "abundant life",
+          "reciprocal growth",
+          "hard lessons",
+          "restored balance"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "One likely outcome is harmony and prosperity, where generosity ensures all needs within your circle are met.",
+        "reversed": "A possible issue might be persistent scarcity thinking or dependency, leading to unequal relationships remaining unresolved.",
+        "keywords": [
+          "harmony",
+          "prosperity",
+          "scarcity thinking",
+          "dependency"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case involves flourishing through shared resources and a community of mutual support and trust.",
+        "reversed": "Seemingly beneficial situations may mask underlying inequality or exploitation that needs addressing.",
+        "keywords": [
+          "flourishing",
+          "mutual support",
+          "masked inequality",
+          "addressing issues"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves temporary setbacks due to overly optimistic generosity, though relationships may still ultimately benefit.",
+        "reversed": "Failure to correct imbalances may result in enduring strain and financial or relational depletion.",
+        "keywords": [
+          "temporary setbacks",
+          "enduring strain",
+          "financial depletion",
+          "relational issues"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship involves generosity, charity, and the fair sharing of resources. The dynamic includes giving and receiving in balance, supporting each other's material needs, and creating equity in your shared resources and opportunities.",
+        "reversed": "Generosity may be one-sided or charity might come with strings attached. Sharing could be unfair or resources might be hoarded. The relationship may involve financial manipulation, debt, or unequal exchange of support.",
+        "keywords": [
+          "generosity",
+          "charity",
+          "sharing",
+          "reciprocity"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Mutual support and generosity thrive in your relationship, building a foundation of trust and shared dreams.",
+      "reversed": "Imbalance in giving and receiving could breed resentment or feeling used. Need to reassess relationship dynamics.",
+      "keywords": [
+        "mutual support",
+        "trust foundation",
+        "resentment",
+        "dynamic reassessment"
+      ]
+    },
+    "career": {
+      "upright": "Career opportunities arise through networking and collaborative projects. Giving leads to unexpected growth and success.",
+      "reversed": "Be wary of colleagues or partners who may exploit your generosity. Balance work relationships to prevent burnout.",
+      "keywords": [
+        "networking",
+        "collaboration",
+        "exploitation risk",
+        "relationship balance"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual growth is supported by altruism and compassion. Sharing your gifts enriches both giver and receiver spiritually.",
+      "reversed": "Spiritual imbalance or stagnation may occur if acts of kindness are motivated by ego or obligation, not true compassion.",
+      "keywords": [
+        "altruism",
+        "spiritual enrichment",
+        "ego motivation",
+        "stagnation"
+      ]
+    },
+    "financial": {
+      "upright": "Financial flow improves through wise investments in community or charity. A balance between saving and sharing brings prosperity.",
+      "reversed": "Financial strain or debt may arise from imbalanced spending or reluctance to adapt to changing situations.",
+      "keywords": [
+        "investment",
+        "prosperity",
+        "financial strain",
+        "adaptive management"
+      ]
+    },
+    "health": {
+      "upright": "Health improves through balanced lifestyle choices, including giving time or resources to help others, thereby bolstering well-being.",
+      "reversed": "Imbalanced self-care between giving to others and nurturing oneself can lead to stress or burnout.",
+      "keywords": [
+        "balanced lifestyle",
+        "well-being",
+        "self-care imbalance",
+        "burnout"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "taurus",
+    "hebrew_letter": "vav",
+    "numerology": 6,
+    "planet": "venus",
+    "season": "late spring",
+    "time_of_day": "early afternoon",
+    "colors": [
+      "green",
+      "gold",
+      "brown"
+    ],
+    "crystals": [
+      "emerald",
+      "jade",
+      "citrine"
+    ],
+    "herbs": [
+      "basil",
+      "thyme",
+      "ivy"
+    ]
+  },
+  "symbols": {
+    "scales": "balance and fairness",
+    "coins": "wealth and material resources",
+    "giving_hand": "generosity and support",
+    "receiving_hand": "openness to receiving help"
+  },
+  "affirmations": [
+    "I am open to give and receive generously with balance and grace.",
+    "My abundance increases through acts of kindness and support.",
+    "I trust the cycle of prosperity and engage fully in its flow.",
+    "I create harmonious relationships through generosity and fairness."
+  ],
+  "journaling_prompts": [
+    "How do I currently balance giving and receiving in my life?",
+    "When have I felt most supported, and how did I return that support?",
+    "What fears arise when I think of giving or receiving help? How can I address them?",
+    "In what ways can I practice gratitude for the abundance that surrounds me?"
+  ],
+  "meditation_focus": "Visualize the cycle of giving and receiving, allowing yourself to feel the flow of abundance and community support.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:41:52.939929",
+    "card_info": {
+      "name": "Six of Pentacles",
+      "number": 6,
+      "suit": "pentacles"
+    },
+    "filename": "p06.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "ten_of_pentacles": {
+        "interpretation": "Generosity within the family or legacy. Prosperity multiplies through shared values and resources.",
+        "keywords": [
+          "generosity",
+          "within",
+          "family",
+          "legacy"
+        ]
+      },
+      "the_empress": {
+        "interpretation": "Nurturing abundance and creativity flourish, bringing both prosperity and deeper connections.",
+        "keywords": [
+          "nurturing",
+          "abundance",
+          "creativity",
+          "flourish"
+        ]
+      },
+      "three_of_cups": {
+        "interpretation": "Celebrations and community gatherings enhanced by acts of kindness and sharing.",
+        "keywords": [
+          "celebrations",
+          "community",
+          "gatherings",
+          "enhanced"
+        ]
+      }
+    },
+    "challenges": {
+      "five_of_pentacles": {
+        "interpretation": "Contrast between scarcity and prosperity highlights the need for fair exchanges and supporting one another.",
+        "keywords": [
+          "contrast",
+          "scarcity",
+          "prosperity",
+          "highlights"
+        ]
+      },
+      "the_devil": {
+        "interpretation": "Fears of control or manipulation in financial dealings reveal where freedom and balance must be sought.",
+        "keywords": [
+          "fears",
+          "control",
+          "manipulation",
+          "financial"
+        ]
+      },
+      "four_of_pentacles": {
+        "interpretation": "Resistance to change and clinging to resources challenge the flow of generosity.",
+        "keywords": [
+          "resistance",
+          "change",
+          "clinging",
+          "resources"
+        ]
+      }
+    },
+    "clarifies": {
+      "justice": {
+        "interpretation": "Emphasizes fairness and balance in legal or financial situations, promoting ethics in all exchanges.",
+        "keywords": [
+          "emphasizes",
+          "fairness",
+          "balance",
+          "legal"
+        ]
+      },
+      "the_star": {
+        "interpretation": "Hope and generosity illuminate the path forward, aligning desires with reality.",
+        "keywords": [
+          "hope",
+          "generosity",
+          "illuminate",
+          "path"
+        ]
+      },
+      "ace_of_pentacles": {
+        "interpretation": "Potential for new financial opportunities through balanced, generous actions and investments.",
+        "keywords": [
+          "potential",
+          "financial",
+          "opportunities",
+          "balanced"
+        ]
+      }
+    },
+    "similar_energy": {
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_devil": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "two_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "six_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

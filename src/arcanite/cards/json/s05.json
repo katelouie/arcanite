@@ -1,0 +1,681 @@
+{
+  "card_id": "five_of_swords",
+  "card_name": "Five of Swords",
+  "card_number": 5,
+  "suit": "swords",
+  "archetype": "the Challenger",
+  "core_meanings": {
+    "upright": {
+      "essence": "Conflict and victory at a cost; winning the battle but potentially losing the war.",
+      "keywords": [
+        "conflict",
+        "defeat",
+        "disagreement",
+        "self-interest",
+        "hollow victory",
+        "competition"
+      ],
+      "psychological": "Represents the inner drive to win at all costs, often masking a deeper fear of vulnerability and loss.",
+      "spiritual": "A spiritual reminder that true victory lies beyond material or superficial gain, urging a reconsideration of priorities.",
+      "practical": "Time to evaluate if the struggle is worth the outcome; consider the long-term implications of current conflicts.",
+      "shadow": "Cruelty, gloating, or manipulation leading to isolation and regret. The hollow nature of pyrrhic victories."
+    },
+    "reversed": {
+      "essence": "The potential for reconciliation and healing, or ongoing deceit and unresolved conflicts.",
+      "keywords": [
+        "reconciliation",
+        "regret",
+        "compromise",
+        "forgiveness",
+        "lingering resentment",
+        "deceit"
+      ],
+      "psychological": "Opens a door to self-reflection about whether pride is overshadowing peace and connection.",
+      "spiritual": "Calls for release from ego-driven conflicts, welcoming deeper connection with one's higher self and others.",
+      "practical": "An opportunity to mend bridges and soften positions; strategic yielding can lead to greater gains.",
+      "shadow": "Resentment festering beneath the surface, or passive-aggressive dynamics eroding trust."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A significant conflict or disagreement in your past shaped your current reality, its echoes still resonating.",
+        "reversed": "Unresolved past disagreements may continue to cast shadows over current interactions and perceptions.",
+        "keywords": [
+          "past conflict",
+          "ongoing effect",
+          "unresolved history",
+          "disagreement's echo"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-past struggles forged a defensive stance in life, affecting how you deal with others.",
+        "reversed": "Old wounds and unresolved arguments linger, unconsciously influencing present-day relationships.",
+        "keywords": [
+          "deep-rooted conflict",
+          "historical discord",
+          "impactful arguments",
+          "hidden wounds"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent argument or confrontation has led to current feelings of discord or unease.",
+        "reversed": "Recent efforts to mend old disagreements may have set the stage for a new phase of understanding.",
+        "keywords": [
+          "recent discord",
+          "confrontation's aftermath",
+          "reconciliation efforts",
+          "resolution attempts"
+        ]
+      },
+      "present": {
+        "upright": "You are navigating a situation rife with conflict and the temptation to prioritize victory over harmony.",
+        "reversed": "A chance to lay down arms and seek peace presents itself, but requires humility and discernment.",
+        "keywords": [
+          "current conflict",
+          "decision point",
+          "seek peace",
+          "strategic choices"
+        ]
+      },
+      "present_situation": {
+        "upright": "The heart of your current experience centers on a difficult decision regarding conflict and compromise.",
+        "reversed": "Present dynamics urge for healing and understanding, highlighting the path of forgiveness.",
+        "keywords": [
+          "compromise",
+          "core tension",
+          "healing space",
+          "forgiveness potential"
+        ]
+      },
+      "future": {
+        "upright": "Without resolution, current tensions may lead to more exhaustive battles in the future.",
+        "reversed": "Approaching events may provide opportunities to repair past damage and forge new, healthier pathways.",
+        "keywords": [
+          "future conflict",
+          "repair opportunity",
+          "new pathways",
+          "tension's evolution"
+        ]
+      },
+      "near_future": {
+        "upright": "Prepare for imminent conflicts and consider their deeper implications and motivations.",
+        "reversed": "A chance soon arises to resolve an issue and move toward a more stable peace.",
+        "keywords": [
+          "upcoming conflict",
+          "resolution chance",
+          "immediate discord",
+          "peace potential"
+        ]
+      },
+      "distant_future": {
+        "upright": "Future conflicts may force a reevaluation of what winning truly means to you.",
+        "reversed": "Long-term outcomes hinge on your ability to foster understanding and leave pride behind.",
+        "keywords": [
+          "reevaluation",
+          "long-term peace",
+          "understanding",
+          "pride release"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Challenge lies in discerning when to fight and when to let go, balancing ambition with empathy.",
+        "reversed": "The toughest challenge is overcoming pride and embracing the vulnerability needed for reconciliation.",
+        "keywords": [
+          "discernment",
+          "balance ambition",
+          "overcome pride",
+          "embrace vulnerability"
+        ]
+      },
+      "cross": {
+        "upright": "Self-interest and ambition are at odds with relationships and community, creating internal conflict.",
+        "reversed": "Interpersonal healing is being crossed by lingering resentment and past grievances.",
+        "keywords": [
+          "self-interest vs. community",
+          "relational healing",
+          "lingering resentment",
+          "internal conflict"
+        ]
+      },
+      "obstacle": {
+        "upright": "Pride and an uncompromising stance obstruct potential for peace and mutual understanding.",
+        "reversed": "Unresolved tensions and unvoiced resentments hinder healing and forward movement.",
+        "keywords": [
+          "pride obstruction",
+          "uncompromising",
+          "unresolved tension",
+          "hindered healing"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn that true strength includes knowing when to wield power and when to walk away gracefully.",
+        "reversed": "Lessons revolve around cultivating forgiveness and finding peace without external validation.",
+        "keywords": [
+          "true strength",
+          "power dynamics",
+          "cultivating forgiveness",
+          "peace quest"
+        ]
+      },
+      "shadow": {
+        "upright": "The shadow reveals desires for domination and fear-driven conflicts best integrated through conscious awareness.",
+        "reversed": "Hidden within you is the resentment that must be acknowledged to release its negative hold.",
+        "keywords": [
+          "domination desires",
+          "fear-driven conflict",
+          "hidden resentment",
+          "awareness needed"
+        ]
+      },
+      "what_hinders": {
+        "upright": "The need to be right at all costs hinders true connection and constructive dialogue.",
+        "reversed": "Unwillingness to forgive hinders the potential for transforming past adversities into peace.",
+        "keywords": [
+          "need to be right",
+          "constructive dialogue",
+          "forgiveness blockage",
+          "transformation block"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Consider long-term impacts of current actions. Strive for wisdom over impulsive reactions.",
+        "reversed": "Let go of the need to win. Focus on healing and stepping toward reconciliation.",
+        "keywords": [
+          "long-term impact",
+          "impulsive caution",
+          "healing focus",
+          "reconciliation steps"
+        ]
+      },
+      "action": {
+        "upright": "Act with precaution and clarity. Seek collaborative solutions that consider all perspectives.",
+        "reversed": "Consider taking the first step toward mending rifts, regardless of past grievances.",
+        "keywords": [
+          "precaution",
+          "clarity",
+          "collaborative solutions",
+          "mending rifts"
+        ]
+      },
+      "your_approach": {
+        "upright": "You may approach conflicts with a sharp mind and determined attitude, valuing victories.",
+        "reversed": "Approached with softness and the desire to understand, seeing beyond immediate clashes.",
+        "keywords": [
+          "determined attitude",
+          "value victory",
+          "softness",
+          "understanding desire"
+        ]
+      },
+      "what_helps": {
+        "upright": "The ability to step back and gain perspective helps navigate conflict wisely.",
+        "reversed": "Openness to forgiveness and change can guide you toward rebuilding strength.",
+        "keywords": [
+          "gain perspective",
+          "navigate wisely",
+          "openness",
+          "rebuild strength"
+        ]
+      },
+      "guidance": {
+        "upright": "Insight advises using discernment to determine the battles worth engaging in.",
+        "reversed": "Guidance suggests creating peace through empathy and a forgiving heart.",
+        "keywords": [
+          "discernment",
+          "engage wisely",
+          "empathy",
+          "forgiving heart"
+        ]
+      },
+      "best_course": {
+        "upright": "Choosing a strategic path that values peace and understanding offers the greatest rewards.",
+        "reversed": "The most beneficial path lies in extending an olive branch and seeking harmony.",
+        "keywords": [
+          "strategic path",
+          "value peace",
+          "olive branch",
+          "seek harmony"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for control and victory; fear of losing or being undervalued by others.",
+        "reversed": "Hope for peace and healing; fear of unresolved issues continuing to dominate life.",
+        "keywords": [
+          "control",
+          "victory",
+          "undervalued fear",
+          "peace hope"
+        ]
+      },
+      "hopes": {
+        "upright": "Hoping to assert strength and achieve desired outcomes even through conflict.",
+        "reversed": "Hoping for a future where peace outweighs the need for constant battles.",
+        "keywords": [
+          "assert strength",
+          "desired outcomes",
+          "peaceful future",
+          "hope for balance"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of loss and vulnerability in the face of conflict; consequences of fighting 'til the end.",
+        "reversed": "Fear of being unable to heal from past grievances and trapped in cycles of tension.",
+        "keywords": [
+          "loss fear",
+          "vulnerability",
+          "healing difficulty",
+          "trapped tension"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by a desire to assert power and feel recognized and respected.",
+        "reversed": "Unacknowledged wounds and a longing for reconciliation reside beneath the surface.",
+        "keywords": [
+          "assert power",
+          "recognition desire",
+          "hidden wounds",
+          "reconciliation longing"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of current challenges and the need to assert a strong position.",
+        "reversed": "Aware of desires for peace and resolving inner and outer conflicts creatively.",
+        "keywords": [
+          "challenges",
+          "strong position",
+          "creative resolution",
+          "peace awareness"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally charged with drive, determination, and the intent to prevail.",
+        "reversed": "Emotionally open to healing, willing to embrace tenderness and empathy.",
+        "keywords": [
+          "drive",
+          "determination",
+          "emotional charge",
+          "tenderness"
+        ]
+      },
+      "heart": {
+        "upright": "The heart's core yearns to prove its valor and maintain its stance amidst conflict.",
+        "reversed": "Deep within, it seeks harmony and the release from burdens of bitterness.",
+        "keywords": [
+          "valor",
+          "maintain stance",
+          "seek harmony",
+          "release burdens"
+        ]
+      },
+      "mind": {
+        "upright": "The mind strategizes to maintain control, valuing logic and calculated moves.",
+        "reversed": "Open to new ideas and perspectives that prioritize peace over conflict.",
+        "keywords": [
+          "strategizes",
+          "control",
+          "new ideas",
+          "peace focus"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "The environment is fraught with tension, calling for clear communication and boundaries.",
+        "reversed": "Opportunities arise to transform conflict into collaboration with patience and understanding.",
+        "keywords": [
+          "tension",
+          "clear communication",
+          "collaboration",
+          "patience"
+        ]
+      },
+      "others": {
+        "upright": "Others may seem competitive or antagonistic, mirroring your own fight-driven attitudes.",
+        "reversed": "There is room for resolution as others become more receptive to dialogue and compromise.",
+        "keywords": [
+          "competitive",
+          "antagonistic",
+          "resolution space",
+          "receptive others"
+        ]
+      },
+      "environment": {
+        "upright": "The current environment fosters competition and the need for strategic positioning.",
+        "reversed": "A shift toward healing environments that encourage open exchange and cooperation.",
+        "keywords": [
+          "competition",
+          "strategy",
+          "healing environment",
+          "open exchange"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Perceived as a strong, perhaps intimidating presence, willing to assert your will.",
+        "reversed": "Seen as seeking reconciliation and desiring a peaceful resolution over remaining in discord.",
+        "keywords": [
+          "strong presence",
+          "intimidating",
+          "reconciliation seeker",
+          "peaceful resolver"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen influences may include power struggles that are subtly undermining your goals.",
+        "reversed": "Hidden support for healing and harmony is ready to reveal itself in unexpected ways.",
+        "keywords": [
+          "power struggles",
+          "subtle undermining",
+          "hidden support",
+          "unexpected harmony"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Victory through struggle, yet with accompanying costs and need for eventual reconciliation.",
+        "reversed": "Paths to resolution bring inner peace and healing, settling old scores amicably.",
+        "keywords": [
+          "struggle victory",
+          "costs",
+          "reconciliation",
+          "inner peace"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Final triumph may come with unforeseen consequences and a need for future amends.",
+        "reversed": "Resolution fosters growth and renewals, allowing for vibrant new beginnings.",
+        "keywords": [
+          "final triumph",
+          "unforeseen consequences",
+          "growth",
+          "renewal"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possible outcomes include exhausted resources and strained relationships needing mending.",
+        "reversed": "A potential resolution leads to a healthier dynamic and deeper connections.",
+        "keywords": [
+          "exhaustion",
+          "strained relationships",
+          "healthier dynamic",
+          "deeper connections"
+        ]
+      },
+      "best_case": {
+        "upright": "Best cases see victory with wisdom and the foresight to restore balance when needed.",
+        "reversed": "Achieving harmonious relations and enduring peace through genuine dialogue and compassion.",
+        "keywords": [
+          "wisdom victory",
+          "balance",
+          "harmony",
+          "dialogue"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst outcomes involve isolated victories with lingering resentment and unresolved issues.",
+        "reversed": "Stagnation caused by inability to forgive, continuing cycles of misunderstanding.",
+        "keywords": [
+          "isolated victory",
+          "lingering resentment",
+          "stagnation",
+          "misunderstanding cycle"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves conflict, winning at others' expense, and the aftermath of intellectual or verbal battles. Between you exists competition where victory comes with costs and relationships may be damaged by the need to be right.",
+        "reversed": "The conflict is resolving or you're learning to disagree without damage. Competition may be giving way to cooperation. The relationship involves finding ways to resolve differences that honor both parties' perspectives.",
+        "keywords": [
+          "conflict",
+          "defeat",
+          "victory",
+          "competition"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Conflicts or disagreements in a relationship that need addressing under the light of truth.",
+      "reversed": "A chance for reconciliation and healing broken trust. Open to exploring deeper connections.",
+      "keywords": [
+        "relationship conflict",
+        "truthful address",
+        "reconciliation",
+        "trust healing"
+      ]
+    },
+    "career": {
+      "upright": "Potential for work-related conflicts or competitive environments; requires strategic navigation.",
+      "reversed": "Opportunities to repair professional relationships and achieve collaboration rather than rivalry.",
+      "keywords": [
+        "work conflict",
+        "competitive environment",
+        "relationship repair",
+        "collaboration"
+      ]
+    },
+    "spiritual": {
+      "upright": "Inner conflict struggles mirrored by outer conflicts; spiritual discipline needed for alignment.",
+      "reversed": "Chances to transcend ego-based struggles in favor of a deeper spiritual harmony.",
+      "keywords": [
+        "inner conflict",
+        "spiritual discipline",
+        "transcend struggle",
+        "harmony"
+      ]
+    },
+    "financial": {
+      "upright": "Financial disputes or competitive dynamics; consider strategic compromise for mutual benefit.",
+      "reversed": "Resolve older financial tensions through negotiation, leading to more stable opportunities.",
+      "keywords": [
+        "financial dispute",
+        "competition",
+        "negotiation",
+        "stability"
+      ]
+    },
+    "health": {
+      "upright": "Stress from conflicts may impact well-being; time to let go of inner battles.",
+      "reversed": "Healing opportunities arise from releasing grudges and embracing peace within.",
+      "keywords": [
+        "stress impact",
+        "inner battles",
+        "release grudges",
+        "peaceful healing"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "aquarius",
+    "hebrew_letter": "heh",
+    "numerology": 5,
+    "planet": "venus",
+    "season": "winter",
+    "time_of_day": "twilight",
+    "colors": [
+      "gray",
+      "silver",
+      "blue"
+    ],
+    "crystals": [
+      "aquamarine",
+      "fluorite",
+      "sodalite"
+    ],
+    "herbs": [
+      "sage",
+      "peppermint",
+      "rosemary"
+    ]
+  },
+  "symbols": {
+    "cloudy_sky": "emotional turmoil and uncertainty",
+    "swords": "conflict, decision, and cutting through illusions",
+    "retreating_figures": "loss and retreat, potential for reconciliation",
+    "standing_figure": "tenacity, self-interest, or victory with a cost",
+    "choppy_sea": "volatile emotions and unstable situations"
+  },
+  "affirmations": [
+    "I seek peace and understanding amidst life's challenges.",
+    "My strength grows in balance with wisdom and empathy.",
+    "I release the need to win in favor of harmony and compassion.",
+    "Through every conflict, I learn to honor my truth and heal."
+  ],
+  "journaling_prompts": [
+    "What conflicts in my life invite resolution and understanding?",
+    "Where might I choose peace over victory in my current situation?",
+    "How can I honor my heart without compromising my values?",
+    "What past grievances am I ready to release now?"
+  ],
+  "meditation_focus": "Visualize laying down your swords and letting the turbulent winds of conflict settle into peace, embracing stillness and clarity.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:23:01.041081",
+    "card_info": {
+      "name": "Five of Swords",
+      "number": 5,
+      "suit": "swords"
+    },
+    "filename": "s05.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_tower": {
+        "interpretation": "Intensification of turmoil or chaotic change requiring adaptability and resilience.",
+        "keywords": [
+          "intensification",
+          "turmoil",
+          "chaotic",
+          "change"
+        ]
+      },
+      "seven_of_wands": {
+        "interpretation": "Amplified defensive stance needing courage and unwavering determination.",
+        "keywords": [
+          "amplified",
+          "defensive",
+          "stance",
+          "needing"
+        ]
+      },
+      "three_of_wands": {
+        "interpretation": "Boosted ambition and the readiness to explore beyond the current conflict.",
+        "keywords": [
+          "boosted",
+          "ambition",
+          "readiness",
+          "explore"
+        ]
+      }
+    },
+    "challenges": {
+      "the_star": {
+        "interpretation": "Conflict with hope and renewal; finding it hard to align with inner faith amidst challenge.",
+        "keywords": [
+          "conflict",
+          "hope",
+          "renewal",
+          "finding"
+        ]
+      },
+      "ten_of_cups": {
+        "interpretation": "Challenges familial harmony and the promise of domestic peace and understanding.",
+        "keywords": [
+          "challenges",
+          "familial",
+          "harmony",
+          "promise"
+        ]
+      },
+      "nine_of_pentacles": {
+        "interpretation": "Difficulties balancing personal success with relational integrity and ethics.",
+        "keywords": [
+          "difficulties",
+          "balancing",
+          "personal",
+          "success"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hanged_man": {
+        "interpretation": "Illumination through conflict seeks the perspective gained from pause and reflection.",
+        "keywords": [
+          "illumination",
+          "conflict",
+          "seeks",
+          "perspective"
+        ]
+      },
+      "the_hermit": {
+        "interpretation": "Solitude offers clarity and wisdom arising from stepping back from the fray.",
+        "keywords": [
+          "solitude",
+          "offers",
+          "clarity",
+          "wisdom"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Clearer decision-making as conflicts bring hidden truths to the surface.",
+        "keywords": [
+          "clearer",
+          "decision",
+          "making",
+          "conflicts"
+        ]
+      }
+    },
+    "similar_energy": {
+      "seven_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "ace_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

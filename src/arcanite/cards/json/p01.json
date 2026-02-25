@@ -1,0 +1,679 @@
+{
+  "card_id": "ace_of_pentacles",
+  "card_name": "Ace of Pentacles",
+  "card_number": 1,
+  "suit": "pentacles",
+  "archetype": "the_manifestation",
+  "core_meanings": {
+    "upright": {
+      "essence": "Material blessings and opportunities emerging into the tangible world. The seed of prosperity and abundance taking root.",
+      "keywords": [
+        "new beginnings",
+        "prosperity",
+        "manifestation",
+        "abundance",
+        "growth",
+        "material success"
+      ],
+      "psychological": "Represents the psyche's ability to envision and manifest desires into reality, grounded in practical effort and intention.",
+      "spiritual": "Symbolizes divine blessing coming into physical form, affirming the interconnectedness of spirit and matter.",
+      "practical": "An ideal time to start new ventures or projects, especially those related to finances, career, or home. Ground your dreams.",
+      "shadow": "Focusing solely on material gain at the expense of spiritual or emotional fulfillment. Neglecting the bigger picture."
+    },
+    "reversed": {
+      "essence": "Blocked opportunities, missed chances for growth, or material setbacks. A need to reassess intentions and grounding.",
+      "keywords": [
+        "missed opportunities",
+        "financial hardship",
+        "material delay",
+        "impracticality",
+        "poor planning"
+      ],
+      "psychological": "Reflects a disconnection between dreams and actions, where intentions remain unfulfilled due to lack of focus or follow-through.",
+      "spiritual": "Ignoring the spiritual purpose behind material pursuits, leading to dissatisfaction or feelings of lack despite external success.",
+      "practical": "Reevaluate plans and ensure there's a solid foundation. Avoid risks until clear structures and resources are established.",
+      "shadow": "Greed or overvaluation of wealth leading to imbalance. Fear of scarcity driving poor decisions."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A foundational moment in your past where an opportunity or gift planted the seeds for your current stability and success.",
+        "reversed": "A time when a potential opportunity was ignored or squandered, affecting current circumstances.",
+        "keywords": [
+          "foundational gift",
+          "past opportunity",
+          "missed potential",
+          "ignored chance"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a significant material or financial influence shaped your values and approach to abundance.",
+        "reversed": "Old patterns of financial neglect or mismanagement continue to reappear, influencing present situations.",
+        "keywords": [
+          "early influence",
+          "distant potential",
+          "forgotten seed",
+          "old neglect"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently, a new opportunity or project has taken root, shaping your current path toward prosperity.",
+        "reversed": "Recent material or financial disappointments impacting current outlook and plans.",
+        "keywords": [
+          "recent seed",
+          "current project",
+          "disappointment",
+          "recent impact"
+        ]
+      },
+      "present": {
+        "upright": "Currently, you stand at the threshold of tangible growth or new material opportunities. Embrace them with intention.",
+        "reversed": "Obstacles in manifesting your desires call for patience and reassessment of your current plans.",
+        "keywords": [
+          "current opportunity",
+          "growth potential",
+          "material threshold",
+          "manifesting obstacle"
+        ]
+      },
+      "present_situation": {
+        "upright": "At this moment, the focus lies on nurturing tangible opportunities and staying grounded in practical plans.",
+        "reversed": "The situation reveals blockages or unfulfilled promises in material aspects, urging cautious redirection.",
+        "keywords": [
+          "nurturing growth",
+          "grounded plans",
+          "present block",
+          "tangible focus"
+        ]
+      },
+      "future": {
+        "upright": "A promising new venture or financial prospect awaits, offering prosperity and growth if approached with diligence.",
+        "reversed": "Warnings of future financial challenges or missed opportunities, reminding caution and wisdom in decisions.",
+        "keywords": [
+          "future blessing",
+          "new venture",
+          "financial prospect",
+          "challenge warning"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, the manifestation of your efforts will become apparent, ushering in new growth and opportunities.",
+        "reversed": "In the near future, delay or reevaluation will be necessary before proceeding with plans.",
+        "keywords": [
+          "imminent growth",
+          "soon manifestation",
+          "delay",
+          "reevaluation"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, dedication to nurturing your talents will culminate in material and spiritual fulfillment.",
+        "reversed": "Long-term challenges around abundance remind you of the importance of perseverance and adjustment.",
+        "keywords": [
+          "ultimate fulfillment",
+          "long-term growth",
+          "persistent challenge",
+          "future adjustment"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Balancing practicality with vision. Don't let immediate gain overshadow long-term potential.",
+        "reversed": "Challenge lies in overcoming fear of failure or scarcity, blocking your ability to manifest desired outcomes.",
+        "keywords": [
+          "balance vision",
+          "long-term focus",
+          "overcoming fear",
+          "scarcity mindset"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures or societal expectations may challenge your path to material success.",
+        "reversed": "Self-sabotage or internal fears cross your journey, hindering material or financial progress.",
+        "keywords": [
+          "external pressure",
+          "societal expectation",
+          "self-sabotage",
+          "internal fear"
+        ]
+      },
+      "obstacle": {
+        "upright": "Impatience or lack of grounding can impede your progress in successfully manifesting abundance.",
+        "reversed": "Misaligned priorities or distractions might block your path to prosperity.",
+        "keywords": [
+          "impatience",
+          "grounding needed",
+          "misaligned priorities",
+          "distraction"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to trust the slow, steady growth process. Cultivate patience and focus for tangible results.",
+        "reversed": "Lesson involves adapting to setbacks and finding sustainable ways to achieve your goals.",
+        "keywords": [
+          "patience",
+          "steady growth",
+          "adaptability",
+          "sustainable approach"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow contains neglected talents or dreams awaiting realization; dare to bring them to light.",
+        "reversed": "Unexamined greed or scarcity mentality may sabotage your journey; confront these shadows with grace.",
+        "keywords": [
+          "hidden potential",
+          "neglected dream",
+          "scarcity mentality",
+          "unexamined desire"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Over-attachment to material outcomes can hinder the flow of abundance and creativity.",
+        "reversed": "Hindered by fear of failure, preventing you from taking worthy risks or necessary steps forward.",
+        "keywords": [
+          "material attachment",
+          "creativity block",
+          "fear of failure",
+          "risk aversion"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Plant your seeds wisely, focusing on projects and plans that promise tangible growth. Tend carefully to your ambitions.",
+        "reversed": "Reassess current endeavors and ensure they align with your core values. Allow time for recalibration if needed.",
+        "keywords": [
+          "wise planting",
+          "tangible growth",
+          "realignment",
+          "recalibration"
+        ]
+      },
+      "action": {
+        "upright": "Take concrete steps in ambitious projects and nurture new opportunities; grounding ensures their success.",
+        "reversed": "Hold off major actions until you have reassessed plans and cleared any financial or material concerns.",
+        "keywords": [
+          "concrete steps",
+          "grounding action",
+          "reassessment",
+          "financial caution"
+        ]
+      },
+      "your_approach": {
+        "upright": "Your strength lies in your diligent pursuit of goals, driven by a vision of sustainable prosperity.",
+        "reversed": "You may be prone to impatience or misdirect your efforts; reevaluate where your energy is best applied.",
+        "keywords": [
+          "diligent pursuit",
+          "sustainable vision",
+          "impatience",
+          "misdirection"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your ability to nurture and sustain practical endeavors without losing sight of broader growth helps you thrive.",
+        "reversed": "Wise counsel and revisiting your foundational goals may provide the clarity needed to proceed correctly.",
+        "keywords": [
+          "nurturing ability",
+          "sustainability",
+          "wise counsel",
+          "foundational goal"
+        ]
+      },
+      "guidance": {
+        "upright": "Divine forces encourage grounding your dreams into reality with care and intention, trusting the process.",
+        "reversed": "Guidance suggests reassessing your motives and aligning actions with your greater path to find true fulfillment.",
+        "keywords": [
+          "divine grounding",
+          "trust process",
+          "motive reassessment",
+          "alignment"
+        ]
+      },
+      "best_course": {
+        "upright": "Embrace a balanced approach where visions of abundance are nurtured with consistent effort and practicality.",
+        "reversed": "Seek stability while avoiding impulsive decisions; a well-thought-out plan leads to eventual success.",
+        "keywords": [
+          "balanced approach",
+          "consistent effort",
+          "stability",
+          "thoughtful planning"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "You hope for security and growth, dreaming of abundant prosperity while fearing the risks involved.",
+        "reversed": "Fear of instability or financial loss may cloud your judgment or squash your creative potential.",
+        "keywords": [
+          "security dream",
+          "abundance hope",
+          "fear of risk",
+          "instability concern"
+        ]
+      },
+      "hopes": {
+        "upright": "Your heart longs for material security and success, envisioning a future rich in both substance and spirit.",
+        "reversed": "Hopes might be thwarted by unrealistic expectations or urgency, obscuring realistic pathways to success.",
+        "keywords": [
+          "material security",
+          "future vision",
+          "unrealistic expectation",
+          "success path"
+        ]
+      },
+      "fears": {
+        "upright": "Underlying fears about scarcity may prevent you from fully committing to potential opportunities for growth.",
+        "reversed": "Fear of failure or judgment could paralyze your determination, hindering material and personal fulfillment.",
+        "keywords": [
+          "scarcity fear",
+          "uncommitted",
+          "fear of failure",
+          "paralysis"
+        ]
+      },
+      "subconscious": {
+        "upright": "On a subconscious level, the drive for prosperity aligns with your soul's purpose, urging tangible creation.",
+        "reversed": "Unconscious beliefs in lack or undeservingness might block your ability to manifest abundance.",
+        "keywords": [
+          "soul alignment",
+          "tangible creation",
+          "lack belief",
+          "undeservingness"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you're aware of opportunities and ready to take steps toward fruitful endeavors.",
+        "reversed": "Your conscious mind may struggle with defining clear goals or grappling with obstacles you're experiencing.",
+        "keywords": [
+          "opportunity awareness",
+          "fruitful endeavor",
+          "goal struggle",
+          "obstacle grappling"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel eager and inspired to embark on new ventures, filled with confidence in your capabilities.",
+        "reversed": "Internal frustration may arise from perceived blocks, affecting your emotional energy and assurance.",
+        "keywords": [
+          "eager",
+          "inspired",
+          "frustration",
+          "blocks"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart desires growth and creativity, seeking the fulfillment of bringing ideas into the material realm.",
+        "reversed": "Ignoring the heart’s call for nurturing and alignment may lead to empty achievements without satisfaction.",
+        "keywords": [
+          "creative desire",
+          "material fulfillment",
+          "ignored call",
+          "satisfaction lacking"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, you're focused and clear, prepared to organize and nurture plans into fruition.",
+        "reversed": "Cluttered thoughts and undefined goals may cloud mental clarity, calling for focus and intention.",
+        "keywords": [
+          "focused mind",
+          "clear organization",
+          "clutter",
+          "clarity needed"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "The environment is rich with opportunities and support for new growth, fostering an abundance mindset.",
+        "reversed": "External pressures may seem hostile to progress, pushing resilience and resourcefulness to the fore.",
+        "keywords": [
+          "opportunity-rich",
+          "supportive environment",
+          "external pressure",
+          "resourcefulness"
+        ]
+      },
+      "others": {
+        "upright": "Others perceive your potential and may offer support or collaboration, enhancing your endeavors.",
+        "reversed": "Others might doubt your efforts or unintentionally discourage your aspirations; discernment is needed.",
+        "keywords": [
+          "perceived potential",
+          "support offered",
+          "doubt",
+          "discouragement"
+        ]
+      },
+      "environment": {
+        "upright": "Your surroundings are fertile ground for growth and manifestation, setting the stage for success.",
+        "reversed": "Challenging conditions demand innovation and adaptive strategies to materialize goals.",
+        "keywords": [
+          "fertile ground",
+          "growth environment",
+          "challenging condition",
+          "adaptive strategy"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You are viewed as determined and resourceful, someone capable of transforming potential into prosperity.",
+        "reversed": "They might see you as directionless or hesitant, urging you to project confidence and clarity.",
+        "keywords": [
+          "determined",
+          "resourceful",
+          "directionless perception",
+          "confidence needed"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Invisible threads connect you to opportunities you may not fully recognize, ready to be claimed.",
+        "reversed": "Hidden challenges such as doubt or sabotage may affect your path; awareness is critical.",
+        "keywords": [
+          "invisible connection",
+          "opportunity awaiting",
+          "hidden challenge",
+          "awareness"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Material success and personal growth flourish through dedication, ushering in a time of prosperity.",
+        "reversed": "Results may bring lessons of restructuring or resignation, signaling change to hold onto or let go of.",
+        "keywords": [
+          "material success",
+          "personal growth",
+          "restructuring",
+          "resignation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, your pathway will lead to fulfillment and sustainable abundance, aligning with your truest dreams.",
+        "reversed": "A need for reevaluation and strategic shifts could shape your final outcome, determining future trajectory.",
+        "keywords": [
+          "ultimate fulfillment",
+          "sustainable abundance",
+          "reevaluation",
+          "strategic shift"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Success and manifestation align, suggesting new heights and broadening horizons of capability.",
+        "reversed": "Potential unrealized might reflect current blocks or the need to reexamine current efforts.",
+        "keywords": [
+          "aligned success",
+          "new height",
+          "unrealized potential",
+          "examination needed"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case is one where ideas and aspirations sprout into solid achievement, marked by joy and satisfaction.",
+        "reversed": "What appears best could involve overextending resources without due care, leading to instability.",
+        "keywords": [
+          "solid achievement",
+          "joy",
+          "satisfaction",
+          "overextension"
+        ]
+      },
+      "worst_case": {
+        "upright": "Naivety or overconfidence may lead to wasted efforts, yet offer vital lessons and experience.",
+        "reversed": "Without care, stagnation or loss may manifest, demanding a recalibration of purpose and effort.",
+        "keywords": [
+          "wasted effort",
+          "lessons",
+          "stagnation",
+          "recalibration"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic is grounded in new material opportunities, practical learning, and building something tangible together. Between you exists the potential for financial growth, career advancement, or the beginning of a solid foundation for shared prosperity.",
+        "reversed": "Material opportunities may be lost or learning might be impractical. New beginnings could lack foundation or resources may be mismanaged. The relationship might involve unrealistic material expectations or poor financial decisions.",
+        "keywords": [
+          "opportunity",
+          "learning",
+          "foundation",
+          "material beginnings"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "New relationships or renewal in existing ones promise stability and growth. Nurture these connections with care.",
+      "reversed": "Lack of grounding in love life can lead to insecurity. Evaluate realistic expectations and common values.",
+      "keywords": [
+        "new relationship",
+        "stability",
+        "renewal",
+        "insecurity"
+      ]
+    },
+    "career": {
+      "upright": "Career growth is on the horizon. A good time for beginning new roles, ventures, or projects that bring abundance.",
+      "reversed": "Career disappointments urge reevaluation of goals and plans; patience is needed for true alignment.",
+      "keywords": [
+        "career growth",
+        "new venture",
+        "disappointment",
+        "reevaluation"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual practices leading to material blessings and tangible support, reflecting growth in both internal and external worlds.",
+      "reversed": "Disconnect between spiritual and material pursuits might hinder both; integration and balance are essential.",
+      "keywords": [
+        "spiritual growth",
+        "material blessings",
+        "disconnect",
+        "balance needed"
+      ]
+    },
+    "financial": {
+      "upright": "Solid financial prospects shine; trust wise investments and practical savings for future security.",
+      "reversed": "Financial difficulties highlight mismanagement or lack of grounding; seek knowledgeable advice.",
+      "keywords": [
+        "financial prospect",
+        "wise investment",
+        "difficulty",
+        "mismanagement"
+      ]
+    },
+    "health": {
+      "upright": "Beginning of a healthier lifestyle, grounded in practical routines that promote long-term vitality.",
+      "reversed": "Ignoring health advice or poor self-care habits can affect well-being; develop structured habits.",
+      "keywords": [
+        "healthy lifestyle",
+        "long-term vitality",
+        "poor self-care",
+        "structured habits"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "taurus",
+    "hebrew_letter": "he",
+    "numerology": 1,
+    "planet": "venus",
+    "season": "spring",
+    "time_of_day": "morning",
+    "colors": [
+      "green",
+      "gold",
+      "brown"
+    ],
+    "crystals": [
+      "green aventurine",
+      "jade",
+      "emerald"
+    ],
+    "herbs": [
+      "basil",
+      "sage",
+      "thyme"
+    ]
+  },
+  "symbols": {
+    "golden_coin": "prosperity and wealth potential",
+    "lush_garden": "flourishing growth and fertility",
+    "pathway": "journey ahead and potential achievements",
+    "hand_offering": "divine gifts and opportunities"
+  },
+  "affirmations": [
+    "I am open to receiving abundance in all forms.",
+    "I nurture my potential and manifest my desires with grounded effort.",
+    "Opportunities flow to me with ease and grace.",
+    "I trust in the process of growth and harvest blessings with an open heart."
+  ],
+  "journaling_prompts": [
+    "What seeds am I ready to plant for future growth?",
+    "How do I balance material pursuits with spiritual growth?",
+    "What opportunities are waiting for my attention and action?",
+    "Where in my life can I bring more grounding and stability?"
+  ],
+  "meditation_focus": "Envisioning roots growing deep into the earth, drawing up energy and abundance, while connecting with divine opportunities above.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:35:56.107026",
+    "card_info": {
+      "name": "Ace of Pentacles",
+      "number": 1,
+      "suit": "pentacles"
+    },
+    "filename": "p01.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Abundance and nurturing energy merge, fostering bounty and creativity in all endeavors.",
+        "keywords": [
+          "abundance",
+          "nurturing",
+          "energy",
+          "merge"
+        ]
+      },
+      "nine_of_cups": {
+        "interpretation": "Manifested wishes and happiness. Joyful satisfaction coming to fruition.",
+        "keywords": [
+          "manifested",
+          "wishes",
+          "happiness",
+          "joyful"
+        ]
+      },
+      "ten_of_pentacles": {
+        "interpretation": "Long-term wealth and family legacy established through wise opportunities.",
+        "keywords": [
+          "long",
+          "term",
+          "wealth",
+          "family"
+        ]
+      }
+    },
+    "challenges": {
+      "the_devil": {
+        "interpretation": "Risk of over-attachment to material pursuits. Need for freeing oneself from financial chains.",
+        "keywords": [
+          "risk",
+          "attachment",
+          "material",
+          "pursuits"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Deceptive opportunities or untrustworthy advice; discernment is crucial.",
+        "keywords": [
+          "deceptive",
+          "opportunities",
+          "untrustworthy",
+          "advice"
+        ]
+      },
+      "five_of_pentacles": {
+        "interpretation": "Potential financial challenge or insecurity, highlighting the importance of support and planning.",
+        "keywords": [
+          "potential",
+          "financial",
+          "challenge",
+          "insecurity"
+        ]
+      }
+    },
+    "clarifies": {
+      "four_of_wands": {
+        "interpretation": "Celebratory new beginnings rooted in reality; foundations laid for joyful experiences.",
+        "keywords": [
+          "celebratory",
+          "beginnings",
+          "rooted",
+          "reality"
+        ]
+      },
+      "the_moon": {
+        "interpretation": "Hidden financial potentials or creative projects coming into light.",
+        "keywords": [
+          "hidden",
+          "financial",
+          "potentials",
+          "creative"
+        ]
+      },
+      "temperance": {
+        "interpretation": "Balance required for successful material manifestation; moderation is key.",
+        "keywords": [
+          "balance",
+          "required",
+          "successful",
+          "material"
+        ]
+      }
+    },
+    "similar_energy": {
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "ace_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

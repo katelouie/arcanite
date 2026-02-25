@@ -1,0 +1,681 @@
+{
+  "card_id": "knight_of_swords",
+  "card_name": "Knight of Swords",
+  "card_number": 12,
+  "suit": "swords",
+  "archetype": "the_crusader",
+  "core_meanings": {
+    "upright": {
+      "essence": "A forceful charge into action driven by conviction and mental clarity. Represents the pursuit of truth and justice without hesitation.",
+      "keywords": [
+        "determination",
+        "focus",
+        "action",
+        "boldness",
+        "intellectual courage",
+        "swift movement",
+        "conviction"
+      ],
+      "psychological": "Embodies the part of the psyche that stands resolute in its beliefs and rushes to action with intellectual precision.",
+      "spiritual": "The seeker of truth, advancing toward enlightenment through mental clarity and decisive actions.",
+      "practical": "Time to act on your ideas with speed and focus. Bold decisions propel you forward with efficiency.",
+      "shadow": "Impatience and aggression lead to rash decisions. The danger of pursuing ideas without considering their impact."
+    },
+    "reversed": {
+      "essence": "Misguided ambitions and chaotic actions. Hasty decisions made without full understanding or foresight.",
+      "keywords": [
+        "recklessness",
+        "impulsiveness",
+        "unpredictability",
+        "conflict",
+        "miscommunication",
+        "lack of direction"
+      ],
+      "psychological": "Inner restlessness drives impulsive actions lacking grounding in reality, leading to mental chaos.",
+      "spiritual": "Disconnected from deeper spiritual wisdom, resulting in superficial pursuit of external goals without inner insight.",
+      "practical": "Unnecessary haste leads to errors and conflict. Pause to gather more information before proceeding.",
+      "shadow": "Using intellect to dominate others, potentially causing harm. Impulsivity masked as confidence leads to downfall."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past decisive action or bold decision shaped current circumstances. A time of intellectual clarity driving progress.",
+        "reversed": "Previous rash actions or lack of foresight continue to affect your current path. Errors born from hasty judgments.",
+        "keywords": [
+          "decisive past",
+          "bold decision",
+          "reckless action",
+          "hasty mistake"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a pursuit of truth and justice set your path. Early drive established your current beliefs and goals.",
+        "reversed": "Old patterns of impulsive behavior hinder your progress. Deep-rooted impatience still influences decisions.",
+        "keywords": [
+          "early pursuit",
+          "foundational beliefs",
+          "impulsive past",
+          "deep-rooted impatience"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent focused efforts or intellectual breakthroughs propel you towards your goals. Swift action taken for clarity.",
+        "reversed": "Lately, impulsivity has led to conflict and confusion. Recent events need recalibration to address missteps.",
+        "keywords": [
+          "focused effort",
+          "intellectual breakthrough",
+          "impulsive move",
+          "recent conflict"
+        ]
+      },
+      "present": {
+        "upright": "Currently engaged in a pursuit requiring swift decision-making and sharp focus. Embrace mental agility and action.",
+        "reversed": "Present moment characterized by scattered energy and lack of direction. Time to pause and reassess your course.",
+        "keywords": [
+          "active pursuit",
+          "sharp focus",
+          "scattered energy",
+          "directionlessness"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, your situation demands clarity and rapid action. Stand resolute in your beliefs and move forward boldly.",
+        "reversed": "Disorder at the center hinders progress. Misalignment in actions and thoughts requires inner reflection.",
+        "keywords": [
+          "clarity needed",
+          "decisive action",
+          "disorder",
+          "inner reflection"
+        ]
+      },
+      "future": {
+        "upright": "Future demands swiftness and courage. Opportunities arise to act decisively and pursue your ambitions.",
+        "reversed": "Upcoming disarray from impulsive decisions. Consider the potential chaos if thoughts aren't aligned with actions.",
+        "keywords": [
+          "upcoming swiftness",
+          "decisive future",
+          "possible chaos",
+          "misaligned actions"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a call to action will require clarity and boldness. Prepare to advance with speed and focus.",
+        "reversed": "Immediate future may bring reckless decisions. Mindfulness needed to avoid unnecessary conflicts and errors.",
+        "keywords": [
+          "immediate action",
+          "bold advancement",
+          "reckless decision",
+          "caution required"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, clear vision and courage lead you to success. Your path reveals the rewards of disciplined action.",
+        "reversed": "Long-term consequences of poor judgments manifest. Lessons about impulsivity will become evident.",
+        "keywords": [
+          "future success",
+          "clear vision",
+          "poor judgment",
+          "learned lessons"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to harness mental energy without being overbearing. Balance conviction with empathy and understanding.",
+        "reversed": "The real challenge lies in tempering impulsivity. Learn to differentiate between boldness and chaos.",
+        "keywords": [
+          "mental harness",
+          "balance conviction",
+          "temper impulsivity",
+          "empathy"
+        ]
+      },
+      "cross": {
+        "upright": "External resistance to your ideas requires navigating with diplomacy. Others may challenge your drive for swift action.",
+        "reversed": "Internal confusion crosses personal growth. The mind's chaos prevents clear vision and progress.",
+        "keywords": [
+          "external resistance",
+          "diplomatic navigation",
+          "internal confusion",
+          "blocked growth"
+        ]
+      },
+      "obstacle": {
+        "upright": "Impatience blocks completion of desired goals. The need for immediate results clouds long-term vision.",
+        "reversed": "Your obstacle is impulsivity, leading to unwanted consequences. Slow down to achieve clarity and purpose.",
+        "keywords": [
+          "impatience",
+          "immediate results",
+          "impulsivity",
+          "clarity needed"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to wield your mental sword with precision, aligning actions with both intellect and heart.",
+        "reversed": "The lesson involves recognizing the impact of hurried decisions. Understanding the value of patience and foresight.",
+        "keywords": [
+          "mental precision",
+          "intellect alignment",
+          "hurried decisions",
+          "patience"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow holds aggression masked as strength. Integrate urgency with wisdom and discernment.",
+        "reversed": "Recklessness and lack of forethought lie in the shadow. Bring awareness to mind's restless nature.",
+        "keywords": [
+          "aggressive shadow",
+          "urgent wisdom",
+          "recklessness",
+          "mind's restlessness"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Unyielding focus on ideas hinders flexibility. Being too rigid blocks organic flow and creativity.",
+        "reversed": "Your quick fixes hinder true solutions. Rushed decisions prevent long-term fulfillment.",
+        "keywords": [
+          "unyielding focus",
+          "rigid beliefs",
+          "quick fixes",
+          "true solutions"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Take decisive action guided by logic. Channel your energy into pursuits of truth with integrity and focus.",
+        "reversed": "Pause to reassess before moving forward. Ensure your actions align with your core values and true intentions.",
+        "keywords": [
+          "decisive action",
+          "logic and integrity",
+          "reassess",
+          "value alignment"
+        ]
+      },
+      "action": {
+        "upright": "Move forward with swiftness and clear intent. Allow mental clarity to guide timely decisions.",
+        "reversed": "Resist the urge to act impulsively. Pace your actions and consider all ramifications.",
+        "keywords": [
+          "swift movement",
+          "clear intent",
+          "resist impulse",
+          "paced action"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as a decisive force, driven by clarity and purpose to achieve your goals.",
+        "reversed": "Your self-view may be skewed towards invincibility or confusion, needing balanced self-awareness.",
+        "keywords": [
+          "decisive force",
+          "clarity and purpose",
+          "skewed self-view",
+          "balanced awareness"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your natural focus and determination aid in cutting through confusion. Trust your mental prowess.",
+        "reversed": "Seeking alternative perspectives helps balance impulsivity. Ground yourself with supportive insights.",
+        "keywords": [
+          "natural focus",
+          "mental prowess",
+          "alternative perspectives",
+          "grounded insights"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust in your intellectual abilities. Allow your mind to lead with clarity, supported by compassionate understanding.",
+        "reversed": "Spiritual guidance suggests slowing the mind, allowing true introspection and gentle wisdom to emerge.",
+        "keywords": [
+          "intellectual trust",
+          "mental leadership",
+          "slow mind",
+          "gentle wisdom"
+        ]
+      },
+      "best_course": {
+        "upright": "The best path involves direct action paired with insightful awareness. Pursue goals with both speed and clarity.",
+        "reversed": "Choose a path that allows reflection. The course of patience and careful planning leads to success.",
+        "keywords": [
+          "direct action",
+          "insightful path",
+          "reflection",
+          "careful planning"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for swift progress intersects with fear of delayed outcomes. Emotional drive toward achievement.",
+        "reversed": "Fear of chaos infiltrates decision-making. Desire to act without contemplation weighs heavily.",
+        "keywords": [
+          "swift progress",
+          "delayed outcomes",
+          "chaos fear",
+          "action without thought"
+        ]
+      },
+      "hopes": {
+        "upright": "You aspire for precision in action, clear communication, and achieving goals with intellectual courage.",
+        "reversed": "Hopes may include unrealistic expectations of rapid success without thoughtful planning.",
+        "keywords": [
+          "precision",
+          "clear communication",
+          "intellectual courage",
+          "unrealistic expectations"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing momentum or hitting roadblocks. Worry about being misunderstood despite good intentions.",
+        "reversed": "Fear of the unknown sabotages clarity. Dread of chaos disrupts focused endeavors.",
+        "keywords": [
+          "losing momentum",
+          "misunderstood intentions",
+          "unknown fear",
+          "chaos dread"
+        ]
+      },
+      "subconscious": {
+        "upright": "Driving you is a subconscious yearning for truth and conviction. An innate urge to pursue knowledge.",
+        "reversed": "Subconscious fear of losing control over the mind's workings creates inner turmoil.",
+        "keywords": [
+          "yearning for truth",
+          "conviction pursuit",
+          "fear of losing control",
+          "inner turmoil"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of your need for swift action and engagement with the world through determined efforts.",
+        "reversed": "Mind may be clouded by overthinking or rash impulses, challenging your clarity and decisions.",
+        "keywords": [
+          "swift action",
+          "determined effort",
+          "clouded mind",
+          "rash impulses"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally charged with purpose and intellectual excitement. Ready to face challenges head-on.",
+        "reversed": "Emotions may feel erratic, driven by impatience and imbalance. Seek emotional grounding.",
+        "keywords": [
+          "charged with purpose",
+          "intellectual excitement",
+          "erratic emotions",
+          "emotional grounding"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart desires progress and meaningful accomplishments, driven by intellectual courage.",
+        "reversed": "Heart's wisdom suggests needing patience and a gentle approach to balance relentless drive.",
+        "keywords": [
+          "desired progress",
+          "meaningful accomplishment",
+          "heart's wisdom",
+          "gentle approach"
+        ]
+      },
+      "mind": {
+        "upright": "A sharp, agile mind ready to engage fully with goals. Your thoughts are fueled by clarity and precision.",
+        "reversed": "Mind tangled in chaos and conflicted thoughts. Find harmony to ease mental turmoil.",
+        "keywords": [
+          "agile mind",
+          "clarity and precision",
+          "mental chaos",
+          "find harmony"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Your dynamic energy inspires others. Seen as a catalyst for action often propelling collective goals forward.",
+        "reversed": "Conflicting opinions and external pressures shape your actions. Misunderstandings need careful handling.",
+        "keywords": [
+          "dynamic energy",
+          "catalyst",
+          "conflicting opinions",
+          "external pressures"
+        ]
+      },
+      "others": {
+        "upright": "People around you admire your decisive nature and ability to act with speed and conviction.",
+        "reversed": "Others may view your actions as reckless or inconsiderate if not properly communicated.",
+        "keywords": [
+          "decisive nature",
+          "admiration",
+          "reckless actions",
+          "inconsiderate view"
+        ]
+      },
+      "environment": {
+        "upright": "Current environment supports swift progress and provides opportunities to act decisively on your goals.",
+        "reversed": "Environmental chaos disrupts focus and direction. Grounding influences are needed.",
+        "keywords": [
+          "supportive environment",
+          "opportunity",
+          "environmental chaos",
+          "grounding needed"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a leader with clear vision and willingness to charge toward objectives with strength.",
+        "reversed": "Perceived as impulsive or overbearing by those who misunderstand your intentions.",
+        "keywords": [
+          "leader",
+          "clear vision",
+          "impulsive",
+          "overbearing"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces align in your favor, guiding your clear actions toward fulfilling your ambitions.",
+        "reversed": "Hidden influences stir confusion and lead astray. Awareness and insight are crucial for alignment.",
+        "keywords": [
+          "unseen forces",
+          "hidden alignment",
+          "stirred confusion",
+          "awareness"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Outcomes are achieved through focused drive and intellectual courage. Expect decisive success.",
+        "reversed": "Results may fall short of expectations due to hasty actions and lack of thorough planning.",
+        "keywords": [
+          "focused drive",
+          "decisive success",
+          "hasty outcomes",
+          "poor planning"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, triumph through mental clarity and action. Success realized in goals pursued with precision.",
+        "reversed": "Final outcomes show lessons from impulsivity and the need for steadiness in future endeavors.",
+        "keywords": [
+          "mental clarity",
+          "realized success",
+          "lessons in impulsivity",
+          "steadiness needed"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Likely result is efficient accomplishment of goals. Swift movement leads to tangible progress.",
+        "reversed": "Potential for disorder from unconsidered decisions. Missteps highlight the necessity for patience.",
+        "keywords": [
+          "efficient accomplishment",
+          "tangible progress",
+          "disorder potential",
+          "patience needed"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenario unfolds through seamless execution of plans and actions. Intellectual bravery pays off.",
+        "reversed": "Best case from learning strategic patience. Considered decisions prevent chaos.",
+        "keywords": [
+          "seamless execution",
+          "intellectual bravery",
+          "strategic patience",
+          "considered decisions"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves burnout from excessive speed without respite. Overexertion compromises results.",
+        "reversed": "Chaos and derailment result from unchecked impulsivity. Learn to curb urgency for better outcomes.",
+        "keywords": [
+          "burnout",
+          "overexertion",
+          "chaos",
+          "unchecked impulsivity"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship involves someone with intellectual authority, clear judgment, and the ability to make fair decisions. The dynamic includes rational analysis, objective perspective, and the wisdom that comes from experience and study.",
+        "reversed": "The intellectual authority may be biased or overly harsh. Judgment might be clouded by personal interests or emotion. The relationship could involve unfair criticism, intellectual bullying, or decisions made without heart or compassion.",
+        "keywords": [
+          "intellectual authority",
+          "judgment",
+          "analysis",
+          "fairness"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Direct communication propels relationships forward. Embrace mental connection and shared vision for the future.",
+      "reversed": "Impulsive words lead to misunderstandings. Slow down and listen to nurture heartfelt connections.",
+      "keywords": [
+        "direct communication",
+        "mental connection",
+        "impulsive words",
+        "nurture connections"
+      ]
+    },
+    "career": {
+      "upright": "Time to push forward with career ambitions. Swift action and clear plans bring professional success.",
+      "reversed": "Hasty career decisions may lead to setbacks. Exercise patience and thorough research.",
+      "keywords": [
+        "career ambitions",
+        "professional success",
+        "hasty decisions",
+        "thorough research"
+      ]
+    },
+    "spiritual": {
+      "upright": "Embark on a quest for spiritual truths with mental clarity and determination. Enlightenment awaits.",
+      "reversed": "Superficial seeking can lead to spiritual confusion. Delve deeper with introspection and patience.",
+      "keywords": [
+        "spiritual quest",
+        "mental clarity",
+        "superficial seeking",
+        "introspection"
+      ]
+    },
+    "financial": {
+      "upright": "Financial goals are within reach through focused action and swift decision-making.",
+      "reversed": "Rash investments or spending lead to complications. Approach financial decisions with caution.",
+      "keywords": [
+        "financial goals",
+        "focused action",
+        "rash investments",
+        "cautious decisions"
+      ]
+    },
+    "health": {
+      "upright": "Commit to proactive health measures. Swift adjustments and clear plans yield positive results.",
+      "reversed": "Impulse-driven health choices may disrupt wellbeing. Take time for mindful health planning.",
+      "keywords": [
+        "proactive health",
+        "positive outcomes",
+        "impulse-driven choices",
+        "mindful planning"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "gemini",
+    "hebrew_letter": "",
+    "numerology": 12,
+    "planet": "mercury",
+    "season": "spring",
+    "time_of_day": "midday",
+    "colors": [
+      "silver",
+      "bright blue",
+      "grey"
+    ],
+    "crystals": [
+      "sodalite",
+      "blue kyanite",
+      "fluorite"
+    ],
+    "herbs": [
+      "sage",
+      "peppermint",
+      "eucalyptus"
+    ]
+  },
+  "symbols": {
+    "charging_horse": "unstoppable momentum and action",
+    "sword_held_high": "commitment to truth and clarity",
+    "stormy_skies": "turbulent challenges and intellectual struggle",
+    "feathered_crest": "mental agility and speed of thought"
+  },
+  "affirmations": [
+    "I act with clarity and courage, pursuing my goals with determination.",
+    "My mind is my sword, cutting through confusion with precision.",
+    "I balance swift action with thoughtful consideration.",
+    "I trust my mental prowess and remain open to wisdom."
+  ],
+  "journaling_prompts": [
+    "Where in my life am I ready to take decisive action?",
+    "How can I balance speed with thoughtful consideration?",
+    "What truths am I pursuing with vigor?",
+    "How do I use my mental agility to overcome challenges?"
+  ],
+  "meditation_focus": "Visualize the charging knight, embodying courage and clarity. Breathe in purpose, breathe out indecision.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:32:27.859465",
+    "card_info": {
+      "name": "Knight of Swords",
+      "number": 12,
+      "suit": "swords"
+    },
+    "filename": "s12.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_emperor": {
+        "interpretation": "Focused mastery brings structural success. Practical authority meets determined action.",
+        "keywords": [
+          "focused",
+          "mastery",
+          "brings",
+          "structural"
+        ]
+      },
+      "the_chariot": {
+        "interpretation": "Unstoppable momentum. Victory through relentless pursuit of goals with disciplined control.",
+        "keywords": [
+          "unstoppable",
+          "momentum",
+          "victory",
+          "relentless"
+        ]
+      },
+      "ace_of_swords": {
+        "interpretation": "Mentally sharp breakthroughs and clarity. New ideas executed with precision.",
+        "keywords": [
+          "mentally",
+          "sharp",
+          "breakthroughs",
+          "clarity"
+        ]
+      }
+    },
+    "challenges": {
+      "the_moon": {
+        "interpretation": "Confusion clouds reason. Emotional uncertainty stands in the way of intellectual certainty.",
+        "keywords": [
+          "confusion",
+          "clouds",
+          "reason",
+          "emotional"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Overwhelming choices dilute focus. Determine which illusions hinder clear action.",
+        "keywords": [
+          "overwhelming",
+          "choices",
+          "dilute",
+          "focus"
+        ]
+      },
+      "ten_of_wands": {
+        "interpretation": "Burnout threatens progress. Excessive burdens slow decisive movement.",
+        "keywords": [
+          "burnout",
+          "threatens",
+          "progress",
+          "excessive"
+        ]
+      }
+    },
+    "clarifies": {
+      "page_of_swords": {
+        "interpretation": "Clarification in communication through focused action. Mental agility brings clearer ideas.",
+        "keywords": [
+          "clarification",
+          "communication",
+          "focused",
+          "action"
+        ]
+      },
+      "justice": {
+        "interpretation": "Logical decisions align with truth. Action based on fairness clarifies ambiguous situations.",
+        "keywords": [
+          "logical",
+          "decisions",
+          "align",
+          "truth"
+        ]
+      },
+      "temperance": {
+        "interpretation": "The balance between speed and consideration. Clarity achieved through harmonious integration.",
+        "keywords": [
+          "balance",
+          "speed",
+          "consideration",
+          "clarity"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_emperor": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ace_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "page_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

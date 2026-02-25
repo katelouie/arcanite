@@ -1,0 +1,683 @@
+{
+  "card_id": "the_sun",
+  "card_name": "The Sun",
+  "card_number": 19,
+  "suit": "major_arcana",
+  "archetype": "the_enlightener",
+  "core_meanings": {
+    "upright": {
+      "essence": "Radiant joy, clarity, and vitality. The light of consciousness shining brightly, revealing truth, happiness, and success.",
+      "keywords": [
+        "joy",
+        "success",
+        "vitality",
+        "celebration",
+        "enlightenment",
+        "truth",
+        "illumination",
+        "positivity"
+      ],
+      "psychological": "Represents the conscious mind's peak power - a state of clarity and self-assurance where doubt and fear have no place.",
+      "spiritual": "Union with divine light - seeing one's path with clarity and understanding, connected to universal joy and truth.",
+      "practical": "A time for celebration and success. Embrace your achievements and shine your light brightly in all endeavors.",
+      "shadow": "Overconfidence or arrogance in one's achievements. The potential for ignoring deeper issues beneath the surface."
+    },
+    "reversed": {
+      "essence": "Diminished joy or blocked success. Superficiality or ego overshadowing authentic happiness.",
+      "keywords": [
+        "temporary setback",
+        "clouded vision",
+        "ego",
+        "pessimism",
+        "delayed success",
+        "false joy"
+      ],
+      "psychological": "The conscious mind struggling with ego-driven concerns, leading to self-sabotage or loss of clarity.",
+      "spiritual": "Disconnection from inner light. Allowing shadows to obscure the connection to source and true joy.",
+      "practical": "Face delays or setbacks with patience. Reevaluate goals and ensure authenticity drives your actions.",
+      "shadow": "Letting external achievements define self-worth, or pretending to be happy while ignoring deeper truths."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A joyful period in the past that provided clarity and confidence, setting a foundation of success for current endeavors.",
+        "reversed": "A past situation where superficial happiness masked deeper issues, leading to current obstacles.",
+        "keywords": [
+          "joyful foundation",
+          "past success",
+          "superficial happiness",
+          "hidden issues"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a powerful revelation or joyful awakening that continues to illuminate your life's journey.",
+        "reversed": "Old patterns of ego-driven choices or false joy still echoing in your present reality.",
+        "keywords": [
+          "revelation",
+          "life illumination",
+          "past ego",
+          "false joy patterns"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent achievements or moments of clarity that positively influence your current path.",
+        "reversed": "A temporary setback or fading of recent joys impacting your current mental state.",
+        "keywords": [
+          "recent clarity",
+          "positive influence",
+          "setback",
+          "fading joy"
+        ]
+      },
+      "present": {
+        "upright": "In the current moment, clarity and joy are available to you. Success is in reach as you embrace your authentic self.",
+        "reversed": "Present uncertainties causing shadowy doubts to obscure your vision. A need to find the light within again.",
+        "keywords": [
+          "current success",
+          "authentic joy",
+          "uncertainty",
+          "inner light"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the heart of your experience is radiant joy and success. A time to shine brightly and celebrate your truth.",
+        "reversed": "You might be facing challenges to your happiness. Superficial distractions cloud deeper fulfillment.",
+        "keywords": [
+          "radiant joy",
+          "central success",
+          "superficial challenges",
+          "clouded fulfillment"
+        ]
+      },
+      "future": {
+        "upright": "Bright prospects lie ahead, bringing joy and success as long as you remain true to your path.",
+        "reversed": "Potential delays in reaching your goals. Patience and perseverance will lead to eventual success.",
+        "keywords": [
+          "bright future",
+          "prospects",
+          "temporary delay",
+          "eventual success"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a moment of clarity and celebration will energize your journey. Prepare to bask in success.",
+        "reversed": "Upcoming events may temporarily dim your enthusiasm, requiring renewed focus and patience.",
+        "keywords": [
+          "upcoming clarity",
+          "celebration",
+          "dimmed enthusiasm",
+          "renewed focus"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, a life filled with joy and fulfillment emerges from authentic living and embracing your true light.",
+        "reversed": "Long-term success may be hindered by not addressing inner shadows or relying on ego-driven pursuits.",
+        "keywords": [
+          "long-term joy",
+          "fulfillment",
+          "hindered success",
+          "ego shadows"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to maintain clarity and joy even as success grows. Don't let achievements overshadow inner truths.",
+        "reversed": "Facing the challenge of overcoming temporary setbacks and maintaining faith in your path.",
+        "keywords": [
+          "maintaining clarity",
+          "balance success",
+          "setback challenges",
+          "faith"
+        ]
+      },
+      "cross": {
+        "upright": "External expectations clash with your true joy. Stand firm in your truth amidst external pressures.",
+        "reversed": "Personal doubts and ego battles cross your path, hindering authentic expression.",
+        "keywords": [
+          "external expectations",
+          "authenticity",
+          "personal doubt",
+          "ego battles"
+        ]
+      },
+      "obstacle": {
+        "upright": "The obstacle is allowing external validation to overshadow personal joy and inner clarity.",
+        "reversed": "Temporary failures or ego-driven pursuits create obstacles to genuine happiness.",
+        "keywords": [
+          "external validation",
+          "overshadowing joy",
+          "temporary failures",
+          "ego pursuits"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to celebrate achievements without attachment. True joy arises from within, not circumstances.",
+        "reversed": "The lesson is to find joy beyond temporary achievements and trust in life's unfolding process.",
+        "keywords": [
+          "celebrate detached",
+          "inner joy",
+          "beyond achievements",
+          "life trust"
+        ]
+      },
+      "shadow": {
+        "upright": "In your shadow is the wise acknowledgement that true success stems from clarity and joy, not ego.",
+        "reversed": "Hidden within is the tendency to rely on ego validations instead of accessing inner happiness.",
+        "keywords": [
+          "wise success",
+          "ego shadow",
+          "hidden reliance",
+          "inner happiness"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Fear of losing control or letting go of past achievements hinders authentic joy.",
+        "reversed": "Ignoring inner light or being blinded by superficial joy hinders true fulfillment.",
+        "keywords": [
+          "fear of control",
+          "past achievements",
+          "ignoring inner light",
+          "superficial joy"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace your achievements and shine your light outward. Your authenticity brings true happiness.",
+        "reversed": "Reflect on what truly brings joy and align actions with inner values. Avoid superficial pursuits.",
+        "keywords": [
+          "embrace success",
+          "shine light",
+          "reflect joy",
+          "inner alignment"
+        ]
+      },
+      "action": {
+        "upright": "Act with confidence and clarity. Celebrate milestones and remain open to further enlightenment.",
+        "reversed": "Evaluate actions for authenticity. Resilience and patience will guide you through setbacks.",
+        "keywords": [
+          "confidence",
+          "clarity",
+          "evaluate actions",
+          "resilience"
+        ]
+      },
+      "your_approach": {
+        "upright": "You naturally embody joy, radiating positivity and bringing light to any situation.",
+        "reversed": "You may perceive yourself as joyful, yet deeper introspection is needed to connect with true happiness.",
+        "keywords": [
+          "embody joy",
+          "radiate positivity",
+          "perceived happiness",
+          "deep introspection"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your natural optimism and inner clarity help overcomes challenges. Celebrate both big and small successes.",
+        "reversed": "Finding genuine support or guidance helps restore vision and reconnect with true joy.",
+        "keywords": [
+          "natural optimism",
+          "inner clarity",
+          "genuine support",
+          "restore vision"
+        ]
+      },
+      "guidance": {
+        "upright": "Guidance comes through your connection to truth and light. Trust your path and continue sharing your radiance.",
+        "reversed": "Seek clarity within to illuminate the path ahead. Discard any false sources of validation.",
+        "keywords": [
+          "connection to truth",
+          "trust path",
+          "seek clarity",
+          "discard false"
+        ]
+      },
+      "best_course": {
+        "upright": "The best path is one of authenticity and open-hearted celebration. Let your light lead you to fulfillment.",
+        "reversed": "Temper actions with patience and wisdom. True success lies in purpose-driven authenticity.",
+        "keywords": [
+          "authentic celebration",
+          "open-hearted",
+          "temper actions",
+          "purpose-driven"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Desire for ultimate happiness and enlightenment. Fear of success dimming personal growth.",
+        "reversed": "Fear of not achieving happiness, overshadowed by false joy or uncertainty.",
+        "keywords": [
+          "ultimate happiness",
+          "personal growth",
+          "fear of success",
+          "false joy"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope to forge a path of light and joy, basking in the warmth of pure authenticity.",
+        "reversed": "Hoping for quick happiness without exploring deeper truths can be misleading.",
+        "keywords": [
+          "authentic path",
+          "warmth of joy",
+          "quick happiness",
+          "deeper truths"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of joy being temporary and losing sight of enlightenment. Concerns about being misunderstood.",
+        "reversed": "Fear that any setbacks are insurmountable, obliterating hope for true happiness.",
+        "keywords": [
+          "temporary joy",
+          "lost enlightenment",
+          "misunderstanding",
+          "insurmountable setbacks"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously radiating positive energy, joy, and mental clarity, inspiring others without effort.",
+        "reversed": "Underlying fears of inadequacy or insincerity might obscure your inner light.",
+        "keywords": [
+          "positive radiation",
+          "mental clarity",
+          "inadequacy fears",
+          "insincere light"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of the power of joy and clarity. Using it to navigate decisions and relationships wisely.",
+        "reversed": "Mind clouded by minor setbacks or ego-driven thoughts, requiring reassessment of goals.",
+        "keywords": [
+          "aware of power",
+          "wise navigation",
+          "clouded thoughts",
+          "goal reassessment"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally vibrant, exuding joy and enthusiasm. Feeling expansive and connected to your inner light.",
+        "reversed": "Oscillating between joy and frustration, seeking emotional stability and authentic happiness.",
+        "keywords": [
+          "emotional vibrancy",
+          "enthusiasm",
+          "expansive connection",
+          "seeking stability"
+        ]
+      },
+      "heart": {
+        "upright": "The heart desires open, loving connections filled with understanding and light.",
+        "reversed": "The heart feels overshadowed by external pressures and false perceptions of happiness.",
+        "keywords": [
+          "loving connections",
+          "understanding",
+          "external pressures",
+          "false perceptions"
+        ]
+      },
+      "mind": {
+        "upright": "A mindset of clarity and joy, constantly illuminating new possibilities and potential paths.",
+        "reversed": "Thoughts bogged down by doubts or temporary setbacks, requiring intentional clarity.",
+        "keywords": [
+          "clarity mindset",
+          "new possibilities",
+          "doubtful thoughts",
+          "intentional clarity"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "A warm, supportive environment that aligns with your goals adds to your joy and success.",
+        "reversed": "Potentially dealing with negativity or skepticism from others, challenging your path forward.",
+        "keywords": [
+          "supportive environment",
+          "aligned goals",
+          "negativity",
+          "skepticism"
+        ]
+      },
+      "others": {
+        "upright": "Others perceive you as a beacon of light and joy, inspiring and motivating through your success.",
+        "reversed": "You may be perceived as arrogant, or superficial joy is seen through by those around you.",
+        "keywords": [
+          "beacon of light",
+          "inspiration",
+          "perceived arrogance",
+          "superficial joy"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment supports celebratory success and clarity, fostering authentic growth.",
+        "reversed": "Environmental stress or superficial engagements that detract from true joy.",
+        "keywords": [
+          "celebratory support",
+          "authentic growth",
+          "environmental stress",
+          "superficial engagement"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as enlightened and successful, they seek your warmth and wisdom.",
+        "reversed": "Others may see an exaggerated sense of self or misplaced joy, challenging your authenticity.",
+        "keywords": [
+          "enlightened success",
+          "warmth seeker",
+          "exaggeration",
+          "authentic challenge"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces support victory and joy, aligning circumstances for further success.",
+        "reversed": "Hidden doubts or unaddressed ego issues influencing outcomes more than visible factors.",
+        "keywords": [
+          "unseen support",
+          "aligned success",
+          "hidden doubts",
+          "ego influences"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Achieved success through clarity and joy, leading to meaningful fulfillment and deeper connections.",
+        "reversed": "Facing delays or hollow achievements as a result of overlooked truths or ego entanglements.",
+        "keywords": [
+          "successful outcome",
+          "meaningful fulfillment",
+          "delays",
+          "hollow achievement"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, a life filled with joy and clarity awaits, defining your path with positivity and purpose.",
+        "reversed": "Long-term doubts or inauthentic pursuits risk becoming obstacles to further success.",
+        "keywords": [
+          "life of joy",
+          "clarity path",
+          "long-term doubts",
+          "inauthentic pursuits"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Opportunities brought to fruition, resulting in shared joy and enlightenment among those around you.",
+        "reversed": "Some achievements may lack depth due to failure to address foundational truths.",
+        "keywords": [
+          "opportunity fruition",
+          "shared enlightenment",
+          "lacking depth",
+          "unaddressed truths"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case involves achieving goals with joy and ease, inspiring those around you with light and wisdom.",
+        "reversed": "The best case may involve regaining joy by facing and overcoming false projections of success.",
+        "keywords": [
+          "joyful achievement",
+          "inspiring light",
+          "regain joy",
+          "overcome projection"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves overconfidence leading to loss of clarity, resulting in short-lived success.",
+        "reversed": "Allowing ego-driven concerns to push joy and fulfillment further away can result in stagnation.",
+        "keywords": [
+          "overconfidence",
+          "loss of clarity",
+          "short-lived",
+          "ego-driven stagnation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic radiates joy, vitality, and success. Between you exists a warm, life-giving energy that brings out the best in both parties. This connection illuminates truth, brings clarity, and celebrates the positive aspects of being together.",
+        "reversed": "The connection may lack warmth, optimism, or genuine happiness. Success may be delayed or superficial. The relationship could involve hidden truths, false optimism, or an inability to maintain the positive energy that once brought you together.",
+        "keywords": [
+          "joy",
+          "success",
+          "vitality",
+          "illumination"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "The warmth of love is strong; celebrate the joy of connection and shared enlightenment in relationships.",
+      "reversed": "False perceptions may cloud true feelings or trivial setbacks hinder genuine connection.",
+      "keywords": [
+        "joyful love",
+        "connection",
+        "false perceptions",
+        "relationship setbacks"
+      ]
+    },
+    "career": {
+      "upright": "Professional success and recognition are within reach. Pursue career goals with clarity and confidence.",
+      "reversed": "Possible delays or ego-driven missteps in career require reflection and genuine self-assessment.",
+      "keywords": [
+        "career success",
+        "recognition",
+        "delays",
+        "ego missteps"
+      ]
+    },
+    "spiritual": {
+      "upright": "A period of enlightenment and growth, marked by clarity in spiritual pursuits and universal truth.",
+      "reversed": "Superficial spiritual practices may obscure true enlightenment; seek genuine connections.",
+      "keywords": [
+        "spiritual growth",
+        "enlightenment",
+        "superficiality",
+        "genuine connections"
+      ]
+    },
+    "financial": {
+      "upright": "Financial prospects are bright, calling for wise investments. Celebrate gains with responsible joy.",
+      "reversed": "Potential for financial setbacks; avoid ego-driven or shortsighted decisions.",
+      "keywords": [
+        "financial brightness",
+        "wise investments",
+        "setbacks",
+        "egotistical decisions"
+      ]
+    },
+    "health": {
+      "upright": "Radiant health and vitality - a time for celebration and active engagement in wellness.",
+      "reversed": "Minor health setbacks or ignoring wellness rituals can obscure overall vitality.",
+      "keywords": [
+        "radiant health",
+        "vitality",
+        "minor setbacks",
+        "wellness rituals"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "leo",
+    "hebrew_letter": "resh",
+    "numerology": 19,
+    "planet": "sun",
+    "season": "summer",
+    "time_of_day": "noon",
+    "colors": [
+      "yellow",
+      "gold",
+      "orange"
+    ],
+    "crystals": [
+      "citrine",
+      "sunstone",
+      "amber"
+    ],
+    "herbs": [
+      "st. john's wort",
+      "chamomile",
+      "marigold"
+    ]
+  },
+  "symbols": {
+    "sun_flower": "life and warmth radiating enlightenment",
+    "white_horse": "purity and spiritual progress",
+    "naked_child": "innocence and the pure joy of life",
+    "waving_banner": "victory and celebration",
+    "walled_garden": "boundaries of personal truth"
+  },
+  "affirmations": [
+    "I shine my light boldly and embrace my authentic joy.",
+    "Success flows from clarity and truth in all I do.",
+    "I celebrate life's blessings with gratitude and love.",
+    "My inner light guides me to fulfillment and happiness."
+  ],
+  "journaling_prompts": [
+    "What truly brings me joy, and how can I celebrate it?",
+    "Where in my life am I shining my brightest?",
+    "How can I use my current success to inspire and uplift others?",
+    "What fears threaten my clarity and happiness, and how can I address them?"
+  ],
+  "meditation_focus": "Visualize yourself as the sun, radiating light and warmth outward, connecting with your true joy and purpose.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:31:20.563287",
+    "card_info": {
+      "name": "The Sun",
+      "number": 19,
+      "suit": "major_arcana"
+    },
+    "filename": "m19.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_star": {
+        "interpretation": "Added clarity and healing, bringing vision and hope to future aspirations.",
+        "keywords": [
+          "added",
+          "clarity",
+          "healing",
+          "bringing"
+        ]
+      },
+      "the_empress": {
+        "interpretation": "Abundant joy and creativity, resulting in nurturing and life-giving transformations.",
+        "keywords": [
+          "abundant",
+          "creativity",
+          "resulting",
+          "nurturing"
+        ]
+      },
+      "ten_of_cups": {
+        "interpretation": "Shared happiness and fulfillment in family or community connections, reinforcing unity.",
+        "keywords": [
+          "shared",
+          "happiness",
+          "fulfillment",
+          "family"
+        ]
+      }
+    },
+    "challenges": {
+      "the_moon": {
+        "interpretation": "Illusions and hidden truths may obscure clarity and joy, requiring discernment.",
+        "keywords": [
+          "illusions",
+          "hidden",
+          "truths",
+          "obscure"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Sadness or regret obstructing the light of joy, challenging emotional resilience.",
+        "keywords": [
+          "sadness",
+          "regret",
+          "obstructing",
+          "light"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Deceit or hidden agendas conflict with openness and truth, cautioning authenticity.",
+        "keywords": [
+          "deceit",
+          "hidden",
+          "agendas",
+          "conflict"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hermit": {
+        "interpretation": "Solitary reflection leading to profound enlightenment and rejuvenated joy.",
+        "keywords": [
+          "solitary",
+          "reflection",
+          "leading",
+          "profound"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Self-assessment and awakening facilitated by newfound clarity and purpose.",
+        "keywords": [
+          "self",
+          "assessment",
+          "awakening",
+          "facilitated"
+        ]
+      },
+      "three_of_wands": {
+        "interpretation": "Vision and planning illuminated by clear awareness and joy in possibilities.",
+        "keywords": [
+          "vision",
+          "planning",
+          "illuminated",
+          "clear"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "death": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

@@ -1,0 +1,680 @@
+{
+  "card_id": "seven_of_wands",
+  "card_name": "Seven of Wands",
+  "card_number": 7,
+  "suit": "wands",
+  "archetype": "the_defender",
+  "core_meanings": {
+    "upright": {
+      "essence": "Courageously standing your ground amidst challenges. The determined spirit holding firm against opposition, fueled by conviction and inner strength.",
+      "keywords": [
+        "defense",
+        "assertiveness",
+        "perseverance",
+        "courage",
+        "challenge",
+        "belief",
+        "resilience"
+      ],
+      "psychological": "Represents the inner warrior that defends personal beliefs and values, the part of you that remains unyielding in the face of external pressure.",
+      "spiritual": "A calling to hold space for your truth, allowing no external force to shake your spiritual foundation or intuitive knowledge.",
+      "practical": "An opportunity to assert your position or stance, even when outnumbered—rising to defend what truly matters most.",
+      "shadow": "Resistance to change, stubbornness that ignores new perspectives, or defensiveness that comes from insecurity rather than strength."
+    },
+    "reversed": {
+      "essence": "Feeling overwhelmed by external pressures, or struggling to defend yourself against adversity. The erosion of resolve and possible retreat.",
+      "keywords": [
+        "overwhelm",
+        "giving up",
+        "defeat",
+        "defensiveness",
+        "pressure",
+        "insecurity",
+        "challenge"
+      ],
+      "psychological": "Either succumbing to self-doubt or defensively overcorrecting out of fear rather than genuine self-assurance.",
+      "spiritual": "Disconnection from your core truth, allowing doubts and fears to obscure your inner guidance and misalign your path.",
+      "practical": "An indication that retreat may be wise if defending the current position is causing more harm than good. A reevaluation of priorities is needed.",
+      "shadow": "Reluctance to own vulnerability, or an aggressive stance that pushes others away and damages alliances."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "In your past, a period of vigorous defense created the foundation of your current success. Past struggles forged inner resilience.",
+        "reversed": "A time when pressures felt insurmountable, causing you to second-guess yourself, remains an influence. Old battles still linger.",
+        "keywords": [
+          "past defense",
+          "resilience formation",
+          "old pressures",
+          "lingering battles"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, asserting your beliefs in adverse environments shaped your approach to confrontation and conflict resolution.",
+        "reversed": "Early patterns of backing down in the face of challenge may still impact current self-assurance and beliefs in your strength.",
+        "keywords": [
+          "early assertiveness",
+          "conflict resolution",
+          "backing down",
+          "old patterns"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently having stood firm on a critical issue has strengthened current resolve and fortified inner convictions.",
+        "reversed": "Events where you were overwhelmed or retreated from a stance are still echoing in present attitudes and choices.",
+        "keywords": [
+          "recent stand",
+          "fortified resilience",
+          "recent overwhelm",
+          "current echoes"
+        ]
+      },
+      "present": {
+        "upright": "You're in a phase of defending your ground. This is the moment to harness inner conviction and hold firm through trials.",
+        "reversed": "Currently, you're feeling pressed by demands that threaten your stability, needing to reassess your strategies.",
+        "keywords": [
+          "current defense",
+          "inner conviction",
+          "pressure",
+          "strategy reassessment"
+        ]
+      },
+      "present_situation": {
+        "upright": "Your current situation demands you assertively hold space for your beliefs, resisting external pressures with courage.",
+        "reversed": "Feelings of vulnerability are at the core of your experiences, necessitating stronger boundaries and inner clarity.",
+        "keywords": [
+          "current courage",
+          "holding space",
+          "vulnerability",
+          "boundaries"
+        ]
+      },
+      "future": {
+        "upright": "Soon, you'll be called to maintain your stance despite opposition, leading to triumph and affirmation of your path.",
+        "reversed": "Future challenges may strain your current defenses unless more adaptable and resilient strategies are developed.",
+        "keywords": [
+          "upcoming triumph",
+          "path affirmation",
+          "future strain",
+          "strategy need"
+        ]
+      },
+      "near_future": {
+        "upright": "In the immediate future, your perseverance will be tested, requiring staunch commitment to your chosen course.",
+        "reversed": "Facing impending tests may feel daunting; preparation is key to navigate forthcoming pressures gracefully.",
+        "keywords": [
+          "immediate test",
+          "commitment",
+          "impending test",
+          "graceful navigation"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, your unwavering determination will bring about long-lasting stability and respect from yourself and others.",
+        "reversed": "Persistently avoiding confrontation can lead to more profound internal discord and unsatisfying future outcomes.",
+        "keywords": [
+          "long-term stability",
+          "earned respect",
+          "internal discord",
+          "unsatisfying outcomes"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to maintain courage in the face of adversity without becoming rigid or excessively resistant.",
+        "reversed": "Challenge involves recognizing when defenses are actually barriers to growth rather than protection.",
+        "keywords": [
+          "maintaining courage",
+          "avoiding rigidity",
+          "growth barriers",
+          "protective insight"
+        ]
+      },
+      "cross": {
+        "upright": "Others' doubts and criticisms test your commitment to your path, challenging you to reinforce your stance.",
+        "reversed": "Inner fears that you cannot withstand current challenges lead to hesitation and defensive withdrawal.",
+        "keywords": [
+          "external doubts",
+          "commitment challenge",
+          "inner fear",
+          "defensive withdrawal"
+        ]
+      },
+      "obstacle": {
+        "upright": "External opposition or disbelief stands as an obstacle, testing your belief in yourself and your convictions.",
+        "reversed": "An inability to adapt to new challenges creates unnecessary friction and weakens your position.",
+        "keywords": [
+          "external opposition",
+          "self-belief test",
+          "adaptation need",
+          "position weakening"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson here is learning to trust your voice and convictions enough to defend them without needing others' approval.",
+        "reversed": "Recognizing when holding your ground is more about pride than purpose can offer valuable growth.",
+        "keywords": [
+          "trusting voice",
+          "confidence building",
+          "pride vs. purpose",
+          "growth opportunity"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow contains fear-driven defensiveness masquerading as strength—integrating vulnerability brings true empowerment.",
+        "reversed": "The hidden shadow involves unacknowledged despair or resignation, calling for honest self-reflection.",
+        "keywords": [
+          "fear defensiveness",
+          "vulnerability strength",
+          "hidden despair",
+          "self-reflection"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Perfectionism or the belief that you must always win can hinder flexibility and wisdom in your approach.",
+        "reversed": "Fear of perceived failure or criticism hinders authentic engagement with life's challenges and people.",
+        "keywords": [
+          "perfectionism",
+          "needed flexibility",
+          "failure fear",
+          "authentic engagement"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Stand firm in your beliefs but remain open to dialogue. Clarity and conviction are your allies.",
+        "reversed": "Decide where your energy is best invested and practice discernment between healthy defense and unnecessary strife.",
+        "keywords": [
+          "firm stand",
+          "dialogue openness",
+          "energy investment",
+          "healthy discernment"
+        ]
+      },
+      "action": {
+        "upright": "Act with resolute but flexible strength. Use your inner power to maintain even amidst adversity.",
+        "reversed": "Consider stepping back to reassess your strategies and priorities. Not every battle requires your energy.",
+        "keywords": [
+          "resolute strength",
+          "inner power",
+          "strategy reassessment",
+          "priority evaluation"
+        ]
+      },
+      "your_approach": {
+        "upright": "You approach situations with bravery and an unyielding spirit, seeing challenges as gateways to reinforce your truth.",
+        "reversed": "Either you see yourself as under constant siege, needing to learn to differentiate genuine threats from imagined ones.",
+        "keywords": [
+          "bravery",
+          "unyielding spirit",
+          "constant siege",
+          "threat discernment"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your unshakeable belief in your abilities and determination helps you overcome adversity time and again.",
+        "reversed": "Seeking support from trusted allies and taking time to reflect can provide necessary strength and perspective.",
+        "keywords": [
+          "unshakeable belief",
+          "determination",
+          "ally support",
+          "reflective strength"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust your readiness to face challenges but also embrace the guidance of your inner wisdom—it knows more than you think.",
+        "reversed": "Guidance suggests releasing overcontrolled defenses to explore more open and cooperative strategies.",
+        "keywords": [
+          "inner wisdom",
+          "challenge readiness",
+          "defense release",
+          "cooperative strategies"
+        ]
+      },
+      "best_course": {
+        "upright": "The best approach is one of strong boundaries balanced by an open heart—being firm yet adaptable.",
+        "reversed": "The optimal path involves letting go of rigid defenses to allow for growth and deeper connection.",
+        "keywords": [
+          "strong boundaries",
+          "open heart",
+          "adaptability",
+          "connection growth"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope lies in the belief that your courage will lead to deserved victories, while fear lurks in the potential of being overwhelmed.",
+        "reversed": "Fear that pressures will break your resolve, with hope that retreat will lead to relief and peace.",
+        "keywords": [
+          "courage victory",
+          "fear of overwhelm",
+          "pressure fear",
+          "retreat hope"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope your determination will pave the way for recognition and respect, inspiring others to see your worth.",
+        "reversed": "Hopes for relief may come as a desire to avoid direct confrontation, seeking peace from withdrawal.",
+        "keywords": [
+          "determination",
+          "recognition",
+          "respect",
+          "peace seeking"
+        ]
+      },
+      "fears": {
+        "upright": "There is a fear of failing to uphold your defenses, of being seen as weak despite your efforts to stand firm.",
+        "reversed": "Fear of continual struggle without progression, of defending against shadows rather than solid threats.",
+        "keywords": [
+          "defensive failure",
+          "perceived weakness",
+          "struggle fear",
+          "shadow threats"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously, your spirit braces against the world, driven by a core belief in your vision and abilities.",
+        "reversed": "Fear-based defensiveness affects your unconscious patterns, urging constant vigilance, even to imagined dangers.",
+        "keywords": [
+          "core belief",
+          "vision integrity",
+          "fear-based patterns",
+          "vigilance"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you acknowledge the need to protect your space and ideals, aware of their value and fragility.",
+        "reversed": "Your conscious state might be clouded by confusion over which battles are truly necessary and which aren't.",
+        "keywords": [
+          "ideal protection",
+          "value awareness",
+          "battle confusion",
+          "necessity discernment"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel charged and ready, a fierce commitment to your cause bolstering your defenses.",
+        "reversed": "Emotionally drained by continuous strain, leading to feelings of inadequacy and pressure.",
+        "keywords": [
+          "emotional charge",
+          "commitment",
+          "emotional drain",
+          "inadequacy"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart yearns for integrity and respect, a deep wish to stand unfettered in your truth.",
+        "reversed": "A desire for peace without conflict, longing to find strength without perpetual defense.",
+        "keywords": [
+          "integrity",
+          "truth",
+          "peace longing",
+          "strength seeking"
+        ]
+      },
+      "mind": {
+        "upright": "You possess a mindset focused on resilience and tactical defense, mindfully recognizing potential threats.",
+        "reversed": "Your mind grapples with overthinking defenses, trapped in cycles of doubt and hesitation.",
+        "keywords": [
+          "resilience",
+          "defense focus",
+          "overthinking",
+          "doubt cycles"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Your environment demands assertiveness, challenging you to demonstrate strength and resolve to skeptical observers.",
+        "reversed": "External pressures seem overwhelming, nudging you to reconsider your path and approach.",
+        "keywords": [
+          "assertive demand",
+          "strength call",
+          "external pressure",
+          "path reconsideration"
+        ]
+      },
+      "others": {
+        "upright": "Others may see you as a beacon of steadfastness, impressed by your determination and unswerving dedication.",
+        "reversed": "Perceived as overly defensive or isolated, causing some to misunderstand your intentions.",
+        "keywords": [
+          "steadfastness",
+          "dedication",
+          "defensive perception",
+          "misunderstanding"
+        ]
+      },
+      "environment": {
+        "upright": "Conditions favor assertive actions and firm stances, with allies who appreciate your tenacity.",
+        "reversed": "Environment might feel volatile, rocking your stability and deterring assertive efforts.",
+        "keywords": [
+          "assertive favor",
+          "supportive allies",
+          "volatility",
+          "stability shaking"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You're seen as a defender of personal truth, someone reliable in persisting against challenges.",
+        "reversed": "Others might view you as resistant to change or too guarded to allow external insight.",
+        "keywords": [
+          "truth defender",
+          "reliability",
+          "change resistance",
+          "guarded"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces rally behind your convictions, unseen support bolstering your steadfast resolve.",
+        "reversed": "Unacknowledged internal doubts erode your foundation, masking the support you actually possess.",
+        "keywords": [
+          "unseen support",
+          "internal rally",
+          "internal doubts",
+          "masked support"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success earned through tireless defense and strategic endurance leads to recognition and inner fulfillment.",
+        "reversed": "Depletion without achievement looms, urging a reevaluation of tactics and resources for future battles.",
+        "keywords": [
+          "defense success",
+          "inner fulfillment",
+          "depletion risk",
+          "tactic reevaluation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "In the end, mastery of your personal defenses nurtures growth, resulting in lasting stability and accomplishment.",
+        "reversed": "Final outcomes warn of burnout or disillusionment if imbalance persists; healing is found in flexible strength.",
+        "keywords": [
+          "defense mastery",
+          "lasting stability",
+          "burnout caution",
+          "flexible healing"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "A likely result involves the preservation of your truth, leading to strengthened alliances and achieved goals.",
+        "reversed": "Possible outcomes lean toward burnout or continued struggle, unless adaptability is embraced.",
+        "keywords": [
+          "truth preservation",
+          "strengthened alliances",
+          "burnout risk",
+          "adaptability need"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenarios involve triumph through strategic defenses, yielding growth and solidified convictions.",
+        "reversed": "The perceived best case might involve retreat at the right moment, avoiding unnecessary conflict.",
+        "keywords": [
+          "strategic triumph",
+          "growth",
+          "timely retreat",
+          "conflict avoidance"
+        ]
+      },
+      "worst_case": {
+        "upright": "Naive stubbornness can result in isolation and exhaustion, deterring progress and connection to allies.",
+        "reversed": "Fearful retreat leading to lost opportunities and pervasive dissatisfaction may manifest.",
+        "keywords": [
+          "naive stubbornness",
+          "isolation",
+          "fearful retreat",
+          "opportunity loss"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves standing your ground and defending your shared values against opposition. Between you exists courage and the willingness to fight for what you believe in together. You give each other strength to persevere.",
+        "reversed": "The connection may give up too easily when challenged or become overly defensive. Opposition may overwhelm you or paranoia may damage trust. The relationship could involve unnecessary battles or inability to know when to yield.",
+        "keywords": [
+          "defense",
+          "perseverance",
+          "courage",
+          "challenge"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Standing firm in relational boundaries can strengthen bonds and create mutual respect. Defend your needs courageously.",
+      "reversed": "Overdefensiveness or yielding to pressures may hinder emotional connection. Seek balance between assertion and openness.",
+      "keywords": [
+        "relational boundaries",
+        "mutual respect",
+        "emotional connection"
+      ]
+    },
+    "career": {
+      "upright": "A career stance solidifies your position amongst competitors. Advocate for yourself with confidence and tenacity.",
+      "reversed": "Either feeling outnumbered or unable to advocate effectively may harm progress. Adapt strategies for workplace synergy.",
+      "keywords": [
+        "career stance",
+        "confidence",
+        "tenacity",
+        "workplace synergy"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritually, defend your truths and hold space for personal beliefs without fear of ridicule. Stand tall in spiritual identity.",
+      "reversed": "Fear of judgment or self-doubt may cloud spiritual clarity. Find space to reconnect with your core beliefs.",
+      "keywords": [
+        "spiritual truth",
+        "belief defense",
+        "clarity",
+        "core reconnecting"
+      ]
+    },
+    "financial": {
+      "upright": "Standby your financial decisions and see them through despite external doubts. Perseverance is key.",
+      "reversed": "Financial overwhelm suggests reviewing stability and barriers; adapt to change without sacrificing security.",
+      "keywords": [
+        "financial decisions",
+        "perseverance",
+        "overwhelm",
+        "stability review"
+      ]
+    },
+    "health": {
+      "upright": "Defending your wellness regime fosters long-term health. Be resilient in maintaining positive habits.",
+      "reversed": "Overstrain leads to diminishing returns; balance is essential to prevent burnout or injury.",
+      "keywords": [
+        "wellness defense",
+        "long-term health",
+        "balance",
+        "overstrain"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "leo",
+    "hebrew_letter": "zayin",
+    "numerology": 7,
+    "planet": "mars",
+    "season": "summer",
+    "time_of_day": "noon",
+    "colors": [
+      "red",
+      "orange",
+      "gold"
+    ],
+    "crystals": [
+      "carnelian",
+      "tiger's eye",
+      "red jasper"
+    ],
+    "herbs": [
+      "ginger",
+      "nettle",
+      "cinnamon"
+    ]
+  },
+  "symbols": {
+    "staffs": "battles fought and won",
+    "mountain": "challenge, obstacles to overcome",
+    "laurel wreath": "victory and recognition earned through struggle"
+  },
+  "affirmations": [
+    "I stand strong in my truth and defend what matters most to me.",
+    "My courage and resilience guide me through any challenge.",
+    "I act with integrity and stand firm, yet flexible.",
+    "Facing obstacles strengthens my confidence and resolve."
+  ],
+  "journaling_prompts": [
+    "What beliefs am I defending, and why do they matter?",
+    "How do I balance standing my ground with being open to others?",
+    "What current challenge is teaching me about my resilience?",
+    "How can I approach adversity with strength and grace?"
+  ],
+  "meditation_focus": "Channeling the inner warrior spirit to stand firm yet remain open, using breath to ground and center you amidst challenges.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:07:05.098453",
+    "card_info": {
+      "name": "Seven of Wands",
+      "number": 7,
+      "suit": "wands"
+    },
+    "filename": "w07.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_chariot": {
+        "interpretation": "Unshakable determination and ambition allow you to overcome major challenges and push toward victory.",
+        "keywords": [
+          "unshakable",
+          "determination",
+          "ambition",
+          "allow"
+        ]
+      },
+      "the_tower": {
+        "interpretation": "Heightened tension and chaos might escalate the need for defense and critical reevaluation.",
+        "keywords": [
+          "heightened",
+          "tension",
+          "chaos",
+          "might"
+        ]
+      },
+      "strength": {
+        "interpretation": "Inner fortitude and resilience are magnified, asserting the power of perseverance and truth.",
+        "keywords": [
+          "inner",
+          "fortitude",
+          "resilience",
+          "magnified"
+        ]
+      }
+    },
+    "challenges": {
+      "the_lovers": {
+        "interpretation": "Decision-making fraught with opposition. Balance emotional desires with practical realities.",
+        "keywords": [
+          "decision",
+          "making",
+          "fraught",
+          "opposition"
+        ]
+      },
+      "the_hanged_man": {
+        "interpretation": "Stunted progress arises from rigid defenses, necessitating a new perspective to move forward.",
+        "keywords": [
+          "stunted",
+          "progress",
+          "arises",
+          "rigid"
+        ]
+      },
+      "five_of_pentacles": {
+        "interpretation": "External struggles exacerbate financial or material strain, demanding creative problem-solving.",
+        "keywords": [
+          "external",
+          "struggles",
+          "exacerbate",
+          "financial"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_emperor": {
+        "interpretation": "Structured defense solidifies authority and command, providing support through trials.",
+        "keywords": [
+          "structured",
+          "defense",
+          "solidifies",
+          "authority"
+        ]
+      },
+      "the_five_of_swords": {
+        "interpretation": "Conflict intensity requires wise strategy to distinguish necessary battles from harmful ones.",
+        "keywords": [
+          "conflict",
+          "intensity",
+          "requires",
+          "wise"
+        ]
+      },
+      "the_four_of_wands": {
+        "interpretation": "Commit to defense at home or within community, reinforcing unity and celebration.",
+        "keywords": [
+          "commit",
+          "defense",
+          "home",
+          "within"
+        ]
+      }
+    },
+    "similar_energy": {
+      "nine_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "strength": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "two_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "six_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

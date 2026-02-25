@@ -1,0 +1,681 @@
+{
+  "card_id": "three_of_cups",
+  "card_name": "Three of Cups",
+  "card_number": 3,
+  "suit": "cups",
+  "archetype": "the_celebrant",
+  "core_meanings": {
+    "upright": {
+      "essence": "Joyful celebration and community. The blending of energies that creates a harmonious and uplifting experience among friends and loved ones.",
+      "keywords": [
+        "celebration",
+        "friendship",
+        "community",
+        "joy",
+        "collaboration",
+        "harmony",
+        "shared happiness"
+      ],
+      "psychological": "Represents the human need for connection and belonging, emphasizing emotional bonds that uplift and transform the spirit.",
+      "spiritual": "The soul's recognition of unity and interconnectedness, finding divinity within shared experiences and collective joy.",
+      "practical": "Focus on collaboration and teamwork. The power of working together harmoniously to achieve shared goals and aspirations.",
+      "shadow": "Over-reliance on camaraderie to the detriment of individual growth, or superficial connections that lack depth."
+    },
+    "reversed": {
+      "essence": "Disconnection or social discord. Celebrations soured by misunderstandings, or communal efforts facing challenges.",
+      "keywords": [
+        "disconnection",
+        "disharmony",
+        "misunderstandings",
+        "superficiality",
+        "exclusion",
+        "social tension"
+      ],
+      "psychological": "Isolation stemming from unresolved conflicts or an inability to connect with others due to fear of vulnerability.",
+      "spiritual": "A call to heal divisions and reconnect with the deeper meaning of unity, transcending surface-level interactions.",
+      "practical": "Need to address conflicts within team dynamics or heal fractured relationships to restore harmony and cooperation.",
+      "shadow": "Clinging to social circles out of fear, or participating in relationships that feel emotionally draining and unfulfilling."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A time of joy and connection in the past that laid the foundation for your current emotional resilience and community ties.",
+        "reversed": "Past misunderstandings or social rifts that still influence your life, highlighting the need for healing and resolution.",
+        "keywords": [
+          "past joy",
+          "foundation of community",
+          "social memory",
+          "unresolved rifts"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago gatherings or friendships that shaped your views on camaraderie and collective joy.",
+        "reversed": "Ancient patterns of exclusion or social friction that have subtly colored your interactions over time.",
+        "keywords": [
+          "ancient connections",
+          "early influences",
+          "past joy",
+          "social friction"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent celebrations or gatherings that brought you closer to others, enhancing your support network.",
+        "reversed": "Recent discord or misunderstandings within your social circle prompting a need for clarification and healing.",
+        "keywords": [
+          "recent joy",
+          "social bonding",
+          "disharmony",
+          "recent gatherings"
+        ]
+      },
+      "present": {
+        "upright": "A present opportunity for joyful collaboration and celebration. Embrace shared experiences and deepen emotional bonds.",
+        "reversed": "Current disharmony in relationships requires your attention. Seek ways to mend and heal for restored harmony.",
+        "keywords": [
+          "current community",
+          "joyful experiences",
+          "social tension",
+          "collaborative opportunity"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, this moment is about embracing friendship and shared joy. Allow yourself to fully experience the warmth of connection.",
+        "reversed": "Presently, you're being challenged by social dynamics that feel strained. There’s a need for healing and honest communication.",
+        "keywords": [
+          "core joy",
+          "friendship focus",
+          "strained dynamics",
+          "emotional warmth"
+        ]
+      },
+      "future": {
+        "upright": "Anticipate future celebrations that enhance your sense of belonging and emotional fulfillment.",
+        "reversed": "Potential upcoming social challenges or misunderstandings. Prepare through open dialogue and empathy.",
+        "keywords": [
+          "upcoming joy",
+          "future connections",
+          "social challenges",
+          "empathy"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon you will have the chance to reunite or celebrate with friends, bringing mutual joy and understanding.",
+        "reversed": "Prepare for upcoming social tensions that may require resolution and patience in healing relationships.",
+        "keywords": [
+          "imminent joy",
+          "reunion",
+          "social tension",
+          "healing preparation"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, cultivating strong and joyful relationships will lead to a life filled with community and joy.",
+        "reversed": "Long-term impacts of unresolved social issues could lead to further estrangement unless addressed.",
+        "keywords": [
+          "lasting joy",
+          "community life",
+          "estrangement",
+          "connection"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to maintain authentic connections amidst life's distractions. Nourish genuine relationships.",
+        "reversed": "Learning to overcome social anxieties or conflicts requires courage and vulnerability.",
+        "keywords": [
+          "authentic connections",
+          "relationship nourishment",
+          "social anxiety",
+          "conflict resolution"
+        ]
+      },
+      "cross": {
+        "upright": "External demands or stress may disrupt your ability to prioritize joy and community.",
+        "reversed": "Internal fears or doubts are blocking you from fully engaging with others and finding harmony.",
+        "keywords": [
+          "external stress",
+          "disruption",
+          "internal fear",
+          "social engagement"
+        ]
+      },
+      "obstacle": {
+        "upright": "Distractions and obligations that prevent full engagement with community and celebration.",
+        "reversed": "Feeling excluded or alienated due to unresolved issues or perceived lack of belonging.",
+        "keywords": [
+          "obligations",
+          "distractions",
+          "exclusion",
+          "alienation"
+        ]
+      },
+      "lesson": {
+        "upright": "Discover the balance between individuality and community, learning that joy shared multiplies.",
+        "reversed": "The lesson is found in facing fears of rejection and embracing vulnerability to deepen connections.",
+        "keywords": [
+          "balance",
+          "community joy",
+          "individuality",
+          "vulnerability"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow may indulge in distractions from deeper emotional work, avoiding authentic vulnerability.",
+        "reversed": "Hidden fears of unworthiness or rejection causing isolation from true emotional engagement.",
+        "keywords": [
+          "emotional avoidance",
+          "superficiality",
+          "hidden fears",
+          "isolation"
+        ]
+      },
+      "what_hinders": {
+        "upright": "A busy lifestyle or incongruent time management may hinder nurturing important relationships.",
+        "reversed": "Personal insecurities create barriers to forming deep, meaningful connections.",
+        "keywords": [
+          "busy lifestyle",
+          "time management",
+          "insecurity",
+          "barriers"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Seek out and create opportunities for joy and connection. Spend time with those who uplift your spirit.",
+        "reversed": "Before diving into social activities, first address any underlying tensions or needs for honest communication.",
+        "keywords": [
+          "seek joy",
+          "create connections",
+          "address tensions",
+          "communicate"
+        ]
+      },
+      "action": {
+        "upright": "Actively foster community by organizing gatherings or reaching out to form genuine connections.",
+        "reversed": "Take initiative to resolve misunderstandings through open-hearted dialogue and willingness to heal.",
+        "keywords": [
+          "foster community",
+          "organize gatherings",
+          "resolve misunderstandings",
+          "dialogue"
+        ]
+      },
+      "your_approach": {
+        "upright": "You approach life with openness to joy and a desire to create and nurture supportive relationships.",
+        "reversed": "You may feel hesitant or uncertain about social connections, fearing past hurts or misunderstandings.",
+        "keywords": [
+          "openness",
+          "nurturing relationships",
+          "hesitance",
+          "uncertainty"
+        ]
+      },
+      "what_helps": {
+        "upright": "A supportive social circle and mutual appreciation promote emotional growth and contentment.",
+        "reversed": "Healing requires openness to feedback and willingness to mend relational rifts.",
+        "keywords": [
+          "supportive circle",
+          "mutual appreciation",
+          "healing openness",
+          "feedback"
+        ]
+      },
+      "guidance": {
+        "upright": "Follow the path of joy, trusting that authentic connections will enrich your life’s journey.",
+        "reversed": "Use empathy and understanding to bridge gaps and nurture lasting reconciliation.",
+        "keywords": [
+          "joyful path",
+          "authentic connections",
+          "empathy",
+          "reconciliation"
+        ]
+      },
+      "best_course": {
+        "upright": "Engage wholeheartedly with your community, embracing the joy that shared experiences bring.",
+        "reversed": "Focus on resolving tensions before re-engaging in communal activities for lasting harmony.",
+        "keywords": [
+          "heartfelt engagement",
+          "shared joy",
+          "tension resolution",
+          "harmony"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for fulfilling social interactions that bring mutual joy and upliftment. Fear of shallow or unmeaningful connections.",
+        "reversed": "Fear of rejection or judgment by peers, though hoping for acceptance and genuine bonds.",
+        "keywords": [
+          "joyful interactions",
+          "shallow fear",
+          "rejection",
+          "acceptance"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to cultivate deep, lasting friendships that become a source of support and joy.",
+        "reversed": "Hopes of mending past social fractures and finding your place within a harmonious community.",
+        "keywords": [
+          "deep friendships",
+          "lasting joy",
+          "mending fractures",
+          "community place"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing the harmony and joy found within your social circle, creating anxiety around maintaining connections.",
+        "reversed": "Fear of perpetual misunderstanding or conflict that keeps you from engaging fully.",
+        "keywords": [
+          "loss of harmony",
+          "anxiety",
+          "misunderstanding",
+          "engagement fear"
+        ]
+      },
+      "subconscious": {
+        "upright": "Unconscious yearning for camaraderie and shared joy, rooted in ancient tribal bonds.",
+        "reversed": "Subconscious fears of inadequacy or judgment affecting your willingness to be open and vulnerable.",
+        "keywords": [
+          "yearning",
+          "tribal bonds",
+          "inadequacy",
+          "judgment"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously valuing and seeking out joyful interactions and connections that enhance your life.",
+        "reversed": "Aware of current social tensions or estrangement, seeking methods to restore harmony and understanding.",
+        "keywords": [
+          "valued connections",
+          "joy",
+          "social tension",
+          "harmony seeking"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally buoyant and harmonious, fueled by the companionship and joy you find in others.",
+        "reversed": "Feeling isolated or disconnected, with an underlying desire to reconnect and heal.",
+        "keywords": [
+          "buoyancy",
+          "harmony",
+          "isolation",
+          "healing desire"
+        ]
+      },
+      "heart": {
+        "upright": "The heart's true desire is for connection and shared joy, feeling a natural pull towards celebration and unity.",
+        "reversed": "Heart wisdom recognizes the need for healing and authentic conversation to restore emotional bonds.",
+        "keywords": [
+          "true connection",
+          "shared joy",
+          "healing",
+          "authenticity"
+        ]
+      },
+      "mind": {
+        "upright": "The mind focuses on creating opportunities for joy and celebration, seeing the benefit in communal efforts.",
+        "reversed": "Thoughts linger on unresolved social issues, implementing strategies for reconciliation and understanding.",
+        "keywords": [
+          "joy creation",
+          "celebration focus",
+          "reconciliation",
+          "strategy"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "A supportive network surrounds you, providing encouragement and joy in abundance.",
+        "reversed": "External misunderstandings or gossip may be contributing to current social tensions.",
+        "keywords": [
+          "support",
+          "encouragement",
+          "misunderstandings",
+          "gossip"
+        ]
+      },
+      "others": {
+        "upright": "Others see you as a source of joy and companionship, appreciating your role in fostering community.",
+        "reversed": "Others may view you as distant or hard to reach, possibly due to unresolved issues on either side.",
+        "keywords": [
+          "source of joy",
+          "companionship",
+          "distance",
+          "unresolved issues"
+        ]
+      },
+      "environment": {
+        "upright": "The environment is ripe for celebration and connection, inviting you to engage and enjoy.",
+        "reversed": "Environmental challenges or conflicts may hinder social harmony and need resolving for peace.",
+        "keywords": [
+          "ripe for celebration",
+          "connection",
+          "challenges",
+          "resolution"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You're perceived as someone who brings people together, evoking feelings of joy and community.",
+        "reversed": "Others might perceive you as aloof or disconnected, despite your underlying desire for connection.",
+        "keywords": [
+          "unifier",
+          "community spirit",
+          "aloofness",
+          "desire for connection"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces are nudging you toward joyful experiences and refreshing your social connections.",
+        "reversed": "Hidden external pressures or past grievances may be affecting current relational dynamics.",
+        "keywords": [
+          "joyful nudges",
+          "social refresh",
+          "external pressures",
+          "grievances"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Joyful, enriching relationships leading to fulfilled communal life with shared successes and celebrations.",
+        "reversed": "Without addressing tensions, relationships may remain superficial or drift apart, losing joyfulness.",
+        "keywords": [
+          "fulfilled life",
+          "shared success",
+          "superficiality",
+          "drifting"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately achieving a harmonious community that uplifts and supports, born from shared experiences.",
+        "reversed": "Final separation or persistent disharmony may occur without attentive nurturing of relationships.",
+        "keywords": [
+          "harmonious community",
+          "support",
+          "separation",
+          "persistent disharmony"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Potential for expanding social circles and deepening bonds, creating a joyful and supportive environment.",
+        "reversed": "Possible result of unresolved tensions is persistent unrest or distance from potentially rewarding bonds.",
+        "keywords": [
+          "expansion",
+          "deep bonds",
+          "unresolved tension",
+          "distance"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case entails deepened relationships and shared joy, with a strong sense of belonging and community.",
+        "reversed": "Avoiding conflicts leads to temporary peace but lacks true resolution or depth in connections.",
+        "keywords": [
+          "deepened relationships",
+          "belonging",
+          "temporary peace",
+          "resolution"
+        ]
+      },
+      "worst_case": {
+        "upright": "Naive trust in superficial connections could lead to emotional disappointment or overstretched energies.",
+        "reversed": "Ignoring social tensions might cause fractures beyond repair, isolating you from important connections.",
+        "keywords": [
+          "naive trust",
+          "disappointment",
+          "fractures",
+          "isolation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic celebrates joy, friendship, and emotional abundance. Between you exists a community feeling, shared celebrations, and the ability to bring happiness to each other and those around you. This connection radiates positive social energy.",
+        "reversed": "The social joy may be superficial or exclusive. Celebrations might be forced or overshadowed by gossip. The relationship could involve fair-weather friendship, emotional excess, or inability to maintain genuine happiness together.",
+        "keywords": [
+          "friendship",
+          "celebration",
+          "community",
+          "joy"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Joyful and harmonious love connections, emphasizing mutual understanding and shared celebrations.",
+      "reversed": "Love life may face misunderstandings or lack of depth; work on communication and resolving conflicts.",
+      "keywords": [
+        "harmonious love",
+        "understanding",
+        "misunderstandings",
+        "communication"
+      ]
+    },
+    "career": {
+      "upright": "Positive team dynamics and celebratory collaborations lead to successful outcomes and career satisfaction.",
+      "reversed": "Workplace tensions may need addressing to enhance team harmony and collective achievement.",
+      "keywords": [
+        "team dynamics",
+        "collaboration",
+        "tensions",
+        "achievement"
+      ]
+    },
+    "spiritual": {
+      "upright": "Celebratory and communal spiritual practices enrich your path, fostering a sense of collective enlightenment.",
+      "reversed": "Spiritual discord could arise from misunderstanding or lack of unity within your practice group.",
+      "keywords": [
+        "spiritual practice",
+        "communal path",
+        "discord",
+        "unity"
+      ]
+    },
+    "financial": {
+      "upright": "Shared ventures or financial collaborations bring prosperity through mutual support and joyful partnership.",
+      "reversed": "Misunderstandings regarding shared finances could lead to discord; ensure clear communication.",
+      "keywords": [
+        "shared ventures",
+        "partnership",
+        "misunderstandings",
+        "clear communication"
+      ]
+    },
+    "health": {
+      "upright": "Community-focused wellness practices enhance emotional and physical health, emphasizing holistic joy.",
+      "reversed": "Strained relationships may contribute to stress impacting overall wellness; focus on relational healing.",
+      "keywords": [
+        "wellness practices",
+        "holistic joy",
+        "stress",
+        "healing"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "cancer",
+    "hebrew_letter": "gimel",
+    "numerology": 3,
+    "planet": "mercury",
+    "season": "summer",
+    "time_of_day": "afternoon",
+    "colors": [
+      "pink",
+      "light blue",
+      "peach"
+    ],
+    "crystals": [
+      "rose quartz",
+      "amethyst",
+      "citrine"
+    ],
+    "herbs": [
+      "chamomile",
+      "lavender",
+      "lemon balm"
+    ]
+  },
+  "symbols": {
+    "three_cups": "Shared emotions and celebratory energies.",
+    "dancing_figures": "Joyful connection and community.",
+    "fruits": "Abundance and harvest of efforts.",
+    "flowers": "Beauty in unity and collective expression."
+  },
+  "affirmations": [
+    "I celebrate the joy and harmony in my relationships.",
+    "I nurture connections that uplift and inspire me.",
+    "I find strength in the collective support of my community.",
+    "I am open to sharing joy and creating lasting bonds."
+  ],
+  "journaling_prompts": [
+    "How can I foster more joyous connections in my life?",
+    "What celebrations or gatherings have brought me the greatest joy?",
+    "Who in my life inspires feelings of community and belonging?",
+    "How do I address and heal any unresolved social tensions?"
+  ],
+  "meditation_focus": "Visualize the feeling of joyful connection flowing through your heart, filling you with warmth and gratitude.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:38:30.355345",
+    "card_info": {
+      "name": "Three of Cups",
+      "number": 3,
+      "suit": "cups"
+    },
+    "filename": "c03.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "ten_of_cups": {
+        "interpretation": "Ultimate emotional fulfillment and joyful community life are magnified. Deep shared happiness.",
+        "keywords": [
+          "ultimate",
+          "emotional",
+          "fulfillment",
+          "joyful"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "Radiating joy and communal celebration, bringing light and positivity to all involved.",
+        "keywords": [
+          "radiating",
+          "communal",
+          "celebration",
+          "bringing"
+        ]
+      },
+      "three_of_pentacles": {
+        "interpretation": "Collaboration and teamwork bring successful outcomes and shared accomplishments.",
+        "keywords": [
+          "collaboration",
+          "teamwork",
+          "bring",
+          "successful"
+        ]
+      }
+    },
+    "challenges": {
+      "five_of_cups": {
+        "interpretation": "Past disappointments shadow current celebrations, a need to shift focus to the present joy.",
+        "keywords": [
+          "past",
+          "disappointments",
+          "shadow",
+          "current"
+        ]
+      },
+      "the_hermit": {
+        "interpretation": "Conflict between solitary introspection and communal engagement, requiring balance.",
+        "keywords": [
+          "conflict",
+          "solitary",
+          "introspection",
+          "communal"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Potential deceit within social circle, urging honesty and transparency.",
+        "keywords": [
+          "potential",
+          "deceit",
+          "within",
+          "social"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_empress": {
+        "interpretation": "Fertile creativity within community blossoms into abundant joy and shared growth.",
+        "keywords": [
+          "fertile",
+          "creativity",
+          "within",
+          "community"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Awakening to the deeper purpose of connections, leading to transformative understanding.",
+        "keywords": [
+          "awakening",
+          "deeper",
+          "purpose",
+          "connections"
+        ]
+      },
+      "two_of_cups": {
+        "interpretation": "Reveals the underlying romantic or emotional harmony in friendships and partnerships.",
+        "keywords": [
+          "reveals",
+          "underlying",
+          "romantic",
+          "emotional"
+        ]
+      }
+    },
+    "similar_energy": {
+      "ten_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "five_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hermit": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "two_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

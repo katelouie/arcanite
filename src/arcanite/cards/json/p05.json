@@ -1,0 +1,682 @@
+{
+  "card_id": "five_of_pentacles",
+  "card_name": "Five of Pentacles",
+  "card_number": 5,
+  "suit": "pentacles",
+  "archetype": "the_challenger",
+  "core_meanings": {
+    "upright": {
+      "essence": "Experiencing a period of hardship, feeling isolated and without support. A call to find resilience and seek support in adversity.",
+      "keywords": [
+        "hardship",
+        "isolation",
+        "unemployment",
+        "poverty",
+        "struggle",
+        "lack",
+        "recovery"
+      ],
+      "psychological": "Reflects feelings of inadequacy and exclusion, often magnified by self-doubt. A time of internal conflict and assessing self-worth.",
+      "spiritual": "A test of faith during challenging times, fostering growth through overcoming trials and finding spiritual refuge.",
+      "practical": "Practical challenges related to financial loss or health issues. Encourages taking actionable steps to recover and find assistance.",
+      "shadow": "Focus on material loss leads to feeling disconnected from community and support systems. Risk of becoming trapped in a mindset of scarcity."
+    },
+    "reversed": {
+      "essence": "Emergence from difficulty, regaining stability, and building resilience. An opportunity to rebuild and recover from setbacks.",
+      "keywords": [
+        "recovery",
+        "renewed hope",
+        "regaining stability",
+        "transition",
+        "resilience",
+        "support"
+      ],
+      "psychological": "Shifting from a mindset of lack to one of abundance. Building confidence and self-worth by recognizing personal strength.",
+      "spiritual": "Finding inner peace and spiritual strength post-adversity. Renewal of faith that fosters deeper spiritual connection.",
+      "practical": "Improving circumstances, finding new resources or aid, and implementing practical solutions for recovery.",
+      "shadow": "Ignoring lessons learned during hardship leads to potential relapse into negative patterns. Beware of overconfidence."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A past event of financial or health difficulties that cast a shadow, shaping your current perspectives on security and support.",
+        "reversed": "Overcoming a previous hardship taught you resilience and resourcefulness, impacting how you now approach challenges.",
+        "keywords": [
+          "past struggle",
+          "lessons learned",
+          "impactful hardship",
+          "resilience"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a period of isolation or scarcity set patterns for dealing with adversity, still influencing you today.",
+        "reversed": "An enduring recovery from early challenges symbolizes your ability to grow stronger and wiser through adversity.",
+        "keywords": [
+          "early isolation",
+          "formative scarcity",
+          "long-term recovery",
+          "enduring strength"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent struggles with loss or feeling unsupported have shaped your most immediate challenges and outlooks.",
+        "reversed": "A recent turnaround or recovery has inspired hope and proactive change in your present circumstances.",
+        "keywords": [
+          "recent hardship",
+          "turnaround",
+          "hopeful recovery",
+          "proactive changes"
+        ]
+      },
+      "present": {
+        "upright": "Currently enduring trials that test your strength and resourcefulness. Seek support and build resilience.",
+        "reversed": "Emergence from a challenging period. A renewal of stability and hope marks this phase of life.",
+        "keywords": [
+          "current challenges",
+          "resilience",
+          "emerging hope",
+          "renewal"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, a feeling of being unsupported or lacking resources is the central theme of your current situation.",
+        "reversed": "Underlying your circumstances is a newfound sense of strength and resourcefulness after emerging from difficulties.",
+        "keywords": [
+          "feeling unsupported",
+          "lack of resources",
+          "strength",
+          "resourcefulness"
+        ]
+      },
+      "future": {
+        "upright": "Upcoming trials that may test resolve but hold potential for profound growth and deeper appreciation for support systems.",
+        "reversed": "Future holds promise of moving beyond current struggles and into a phase of recovery and renewed security.",
+        "keywords": [
+          "upcoming trials",
+          "growth potential",
+          "recovery promise",
+          "renewed security"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a situation may require you to lean on available support and confront issues of scarcity or insecurity.",
+        "reversed": "In the near future, a clearer path to recovery and stability emerges, promising progress and positive change.",
+        "keywords": [
+          "immediate support",
+          "confronting issues",
+          "clear path",
+          "positive change"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, trials faced now will be remembered as lessons of resilience. Look ahead to mastering the art of turning hardship into wisdom.",
+        "reversed": "Long-term recovery will replace current trials, resulting in stability and a sense of community and belonging.",
+        "keywords": [
+          "resilience lessons",
+          "mastering hardship",
+          "long-term recovery",
+          "community"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to find inner strength and reach out for help rather than retreating into isolation during hard times.",
+        "reversed": "Learning to embrace recovery without fear of repeating past mistakes. Avoid overconfidence as challenges ease.",
+        "keywords": [
+          "inner strength",
+          "reaching out",
+          "embracing recovery",
+          "avoiding overconfidence"
+        ]
+      },
+      "cross": {
+        "upright": "Feelings of inadequacy or fear of rejection may cross your path, preventing you from asking for the necessary support.",
+        "reversed": "Transition from hardship to recovery is crossed by lingering self-doubt. Embrace your journey and growing strength.",
+        "keywords": [
+          "fear of rejection",
+          "transition blockage",
+          "lingering doubt",
+          "growing strength"
+        ]
+      },
+      "obstacle": {
+        "upright": "Perceived lack of resources poses a barrier; challenge negative beliefs and seek community support to overcome obstacles.",
+        "reversed": "The obstacle of self-reliance may prevent reaching out for necessary aid, hindering your recovery process.",
+        "keywords": [
+          "perceived lack",
+          "challenging beliefs",
+          "self-reliance",
+          "community support"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn that seeking help is a strength, not a weakness. Building resilience often requires vulnerability and connection.",
+        "reversed": "The lesson is in understanding the ebb and flow of life's challenges and finding peace in transitions and adaptations.",
+        "keywords": [
+          "seeking help",
+          "resilience",
+          "vulnerability",
+          "life transitions"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow may include a fear of being seen as weak or needy, preventing authentic connection and support.",
+        "reversed": "Overconfidence in recovery can mask unresolved fears; embrace humility to allow genuine healing and community.",
+        "keywords": [
+          "fear of weakness",
+          "preventing connection",
+          "overconfidence",
+          "embracing humility"
+        ]
+      },
+      "what_hinders": {
+        "upright": "A mindset entrenched in scarcity and fear of inadequacy hinders personal growth and prevents seeking support.",
+        "reversed": "Complacency in early recovery stages can hinder progress. Embrace continuous growth and learning.",
+        "keywords": [
+          "scarcity mindset",
+          "fear of inadequacy",
+          "complacency",
+          "continuous growth"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Reach out for support and resources available to you. Trust that vulnerability fosters strength and resilience.",
+        "reversed": "Celebrate recovery progress and embrace change, but remain grounded in humility and continue seeking guidance.",
+        "keywords": [
+          "reach out",
+          "trust vulnerability",
+          "celebrate progress",
+          "grounded humility"
+        ]
+      },
+      "action": {
+        "upright": "Take concrete steps to improve your situation; acknowledge your struggles and seek help where needed.",
+        "reversed": "Continue implementing positive changes and solidifying new foundations for lasting improvement.",
+        "keywords": [
+          "concrete steps",
+          "acknowledge struggles",
+          "positive changes",
+          "new foundations"
+        ]
+      },
+      "your_approach": {
+        "upright": "Approach life with resilience and openness to support, knowing you are not alone in your struggles.",
+        "reversed": "Your current approach reflects newfound hope and a readiness to rebuild, yet remains cautious of past errors.",
+        "keywords": [
+          "resilience",
+          "openness to support",
+          "newfound hope",
+          "cautious rebuilding"
+        ]
+      },
+      "what_helps": {
+        "upright": "Community connections and shared experiences provide the strength and encouragement needed during hardships.",
+        "reversed": "Resilience and adaptability learned through hardship offer a foundation for positive transformation.",
+        "keywords": [
+          "community connections",
+          "shared experiences",
+          "resilience",
+          "positive transformation"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual guidance encourages seeking inner resilience and cultivating connections with others for mutual support.",
+        "reversed": "Guidance suggests focusing on healing and embracing change, trusting that brighter days are ahead.",
+        "keywords": [
+          "inner resilience",
+          "mutual support",
+          "healing focus",
+          "brighter days"
+        ]
+      },
+      "best_course": {
+        "upright": "Embrace your journey of growth through adversity by seeking help and learning from the experience. Let it be a guiding light.",
+        "reversed": "Allow recovery to inspire new directions, understanding that every setback is a setup for a comeback.",
+        "keywords": [
+          "journey of growth",
+          "learning experience",
+          "new directions",
+          "setback for comeback"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for relief from current struggles and a fear of remaining trapped. Seek reassurance in community and self-care.",
+        "reversed": "Fear of repeating past mistakes contrasts with hope for sustained growth and newfound stability.",
+        "keywords": [
+          "hope for relief",
+          "trapped fear",
+          "repeating mistakes",
+          "sustained growth"
+        ]
+      },
+      "hopes": {
+        "upright": "The hope for connection and understanding through mutual support with others in similar trials.",
+        "reversed": "Hope that recovery will bring renewed sense of purpose and clearer direction.",
+        "keywords": [
+          "hope for connection",
+          "mutual support",
+          "renewed purpose",
+          "clearer direction"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of rejection or being seen as a burden, hindering the courage to ask for needed help.",
+        "reversed": "Fear that past errors may recur, impacting self-confidence despite positive strides.",
+        "keywords": [
+          "fear of rejection",
+          "being burden",
+          "recurring errors",
+          "impacting confidence"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by a sense of scarcity and past trauma, awaiting acknowledgment and healing.",
+        "reversed": "Deeply encoded resilience is steadily overcoming feelings of lack, inviting a rich inner world.",
+        "keywords": [
+          "scarcity mindset",
+          "past trauma",
+          "deep resilience",
+          "rich inner world"
+        ]
+      },
+      "conscious": {
+        "upright": "Conscious awareness of the struggle and desire to break free from patterns of adversity through support.",
+        "reversed": "An understanding of past difficulties informs a positive and proactive outlook on current situations.",
+        "keywords": [
+          "conscious struggle",
+          "breaking patterns",
+          "past-informed perspective",
+          "proactive outlook"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotional upheaval and a sense of lack may prevail, but underlying is a quiet strength ready to rise.",
+        "reversed": "Growth in emotional resilience and recovering equilibrium, finding balance and hope once more.",
+        "keywords": [
+          "emotional upheaval",
+          "sense of lack",
+          "quiet strength",
+          "growth in resilience"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart seeks solace from struggle, longing for renewal and warmth only connection can provide.",
+        "reversed": "The heart's capacity for healing blooms, eagerly wrapping itself around prospects of hope and new beginnings.",
+        "keywords": [
+          "seeking solace",
+          "longing for renewal",
+          "capacity for healing",
+          "new beginnings"
+        ]
+      },
+      "mind": {
+        "upright": "The mind is consumed by survival and lacks clarity, yet yearns for solutions and pathways to well-being.",
+        "reversed": "Clearer thinking emerges with gratitude, finding new strategies to navigate life's challenges effectively.",
+        "keywords": [
+          "mind consumed",
+          "yearning for solutions",
+          "clearer thinking",
+          "effective navigation"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "External forces may appear unsupportive, prompting feelings of abandonment and loneliness.",
+        "reversed": "Positive influences and support, perhaps previously overlooked, provide a foundation for a new start.",
+        "keywords": [
+          "unsupportive forces",
+          "feelings of abandonment",
+          "positive influences",
+          "new foundation"
+        ]
+      },
+      "others": {
+        "upright": "Others might appear indifferent or preoccupied, intensifying your sense of isolation.",
+        "reversed": "Subtle yet profound support from unexpected sources, aiding in recovery and renewal.",
+        "keywords": [
+          "indifferent others",
+          "sense of isolation",
+          "unexpected support",
+          "aiding renewal"
+        ]
+      },
+      "environment": {
+        "upright": "The environment seems inhospitable, reflecting challenges faced. Perhaps seek refuge and warmth where available.",
+        "reversed": "Environmental shifts toward positivity and support create a backdrop for transformation and healing.",
+        "keywords": [
+          "inhospitable environment",
+          "seeking refuge",
+          "positive shifts",
+          "transformation"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You may be viewed as struggling or distanced, possibly eliciting empathy or misunderstanding.",
+        "reversed": "Emerging from hardship, others see resilience and growth, inspiring those around you.",
+        "keywords": [
+          "struggling view",
+          "empathy",
+          "emerging resilience",
+          "inspiring growth"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Hidden forces may be at play, magnifying feelings of inadequacy that obscure solutions and support.",
+        "reversed": "Underlying spiritual and emotional growth is silently guiding you toward recovery and regeneration.",
+        "keywords": [
+          "hidden forces",
+          "magnifying inadequacy",
+          "spiritual growth",
+          "recovery guidance"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Enduring hardships will ultimately lead to enriched resilience and deep understanding of life's ebb and flow.",
+        "reversed": "Recovery leads to newfound confidence and a stable foundation, fostering lasting peace and growth.",
+        "keywords": [
+          "enduring hardships",
+          "enriched resilience",
+          "newfound confidence",
+          "lasting growth"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Processing current adversities yields wisdom and eventual stability, flourishing into a canvas of courage and resolve.",
+        "reversed": "Final resolution brings about a peaceful and hopeful renewal of circumstances with lasting impact.",
+        "keywords": [
+          "wisdom from adversity",
+          "canvas of courage",
+          "peaceful renewal",
+          "lasting impact"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "A potential resolution lies in navigating hardships with grace, resulting in strengthened character and empathy.",
+        "reversed": "Positive breakthroughs and supportive connections lead to a prosperous and balanced new phase.",
+        "keywords": [
+          "navigating hardships",
+          "strengthened character",
+          "positive breakthroughs",
+          "balanced phase"
+        ]
+      },
+      "best_case": {
+        "upright": "By learning and adapting, the best case brings inner security and external stability amid challenges.",
+        "reversed": "Optimally, rebuilding brighter paths accentuates hope and assurance, freeing you from past burdens.",
+        "keywords": [
+          "inner security",
+          "learning and adapting",
+          "brighter paths",
+          "assurance"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves retreat into isolation, stunting growth and missing potential support systems.",
+        "reversed": "Ignoring past lessons and overconfidence could risk falling back into previous challenges.",
+        "keywords": [
+          "retreat to isolation",
+          "stunted growth",
+          "ignoring lessons",
+          "previous challenges"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves material hardship, financial stress, or feeling left out in the cold together. Between you exists the experience of poverty, whether material or spiritual, and the need to support each other through difficult times.",
+        "reversed": "The hardship is ending or support is becoming available. Material recovery may be beginning or spiritual poverty might be healing. The relationship involves moving from scarcity toward abundance and security.",
+        "keywords": [
+          "hardship",
+          "poverty",
+          "exclusion",
+          "material struggle"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Feeling emotionally neglected or unsupported in love. Seek open communication to rebuild connection.",
+      "reversed": "Healing from past relationship wounds and finding mutual support with a partner. Renewal in emotional bond.",
+      "keywords": [
+        "emotional neglect",
+        "rebuild connection",
+        "healing relationship",
+        "mutual support"
+      ]
+    },
+    "career": {
+      "upright": "Challenges at work, possibly including job loss or insecurity. Consider alternative paths and options.",
+      "reversed": "Career recovery and new job prospects are opening. Building stability and regaining professional confidence.",
+      "keywords": [
+        "job challenges",
+        "alternative paths",
+        "career recovery",
+        "professional stability"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual crisis or feelings of disconnection. Seek spiritual support and community for guidance.",
+      "reversed": "Spiritual renewal and finding peace in newfound beliefs or practices. Deeper connection to spiritual path.",
+      "keywords": [
+        "spiritual crisis",
+        "seeking guidance",
+        "spiritual renewal",
+        "deeper connection"
+      ]
+    },
+    "financial": {
+      "upright": "Financial strain or loss may be occurring. It's crucial to manage resources wisely and seek advice.",
+      "reversed": "Improvement in financial conditions, recovering losses, and establishing a more secure footing.",
+      "keywords": [
+        "financial strain",
+        "wise management",
+        "financial recovery",
+        "secure footing"
+      ]
+    },
+    "health": {
+      "upright": "Health concerns may require immediate attention. Focus on self-care and seek holistic healing methods.",
+      "reversed": "Recovery of health and vitality with balanced lifestyle changes and ongoing self-care commitment.",
+      "keywords": [
+        "health concerns",
+        "self-care focus",
+        "health recovery",
+        "balanced lifestyle"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "taurus",
+    "hebrew_letter": "heh",
+    "numerology": 5,
+    "planet": "mercury",
+    "season": "winter",
+    "time_of_day": "night",
+    "colors": [
+      "gray",
+      "dark green",
+      "brown"
+    ],
+    "crystals": [
+      "black tourmaline",
+      "hematite",
+      "smoky quartz"
+    ],
+    "herbs": [
+      "sage",
+      "thyme",
+      "burdock root"
+    ]
+  },
+  "symbols": {
+    "crutch": "support needed during adversity",
+    "snow": "the cold and harshness of struggles",
+    "barefoot": "vulnerability and exposure",
+    "stained glass": "hope and spiritual guidance within reach",
+    "church": "sanctuary and community support"
+  },
+  "affirmations": [
+    "I trust in my resilience and the strength I find through connection",
+    "Every challenge I face is an opportunity to grow and thrive",
+    "I am open to receiving support and I am deserving of abundance",
+    "My journey through adversity leads me to wisdom and empowerment"
+  ],
+  "journaling_prompts": [
+    "What areas of my life feel scarce, and how can I seek nurturing support?",
+    "How can I transform current hardships into lessons of resilience and strength?",
+    "Where do I need to allow myself more grace and ask for help?",
+    "What positive changes have emerged from my past experiences of adversity?"
+  ],
+  "meditation_focus": "Visualize surrounding yourself with light and warmth, nurturing your spirit and fostering connections with a supportive community.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:40:14.664577",
+    "card_info": {
+      "name": "Five of Pentacles",
+      "number": 5,
+      "suit": "pentacles"
+    },
+    "filename": "p05.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_tower": {
+        "interpretation": "Intense upheaval demanding resilience and adaptability, reinforcing the necessity for change.",
+        "keywords": [
+          "intense",
+          "upheaval",
+          "demanding",
+          "resilience"
+        ]
+      },
+      "strength": {
+        "interpretation": "Inner resilience emphasized, signaling encouragement to confront challenges with bravery.",
+        "keywords": [
+          "inner",
+          "resilience",
+          "emphasized",
+          "signaling"
+        ]
+      },
+      "ten_of_swords": {
+        "interpretation": "End of a difficult cycle intensifying a moment to rebuild and find solace in conclusion.",
+        "keywords": [
+          "difficult",
+          "cycle",
+          "intensifying",
+          "moment"
+        ]
+      }
+    },
+    "challenges": {
+      "the_sun": {
+        "interpretation": "Optimism conflicts with current struggles, challenging how to embrace joy amidst hardship.",
+        "keywords": [
+          "optimism",
+          "conflicts",
+          "current",
+          "struggles"
+        ]
+      },
+      "the_empress": {
+        "interpretation": "Abundance feels elusive, creating tension between need and security.",
+        "keywords": [
+          "abundance",
+          "feels",
+          "elusive",
+          "creating"
+        ]
+      },
+      "nine_of_cups": {
+        "interpretation": "Desire for contentment in contrast with scarcity, testing perseverance and optimism.",
+        "keywords": [
+          "desire",
+          "contentment",
+          "contrast",
+          "scarcity"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_star": {
+        "interpretation": "Guidance through adversity offers spiritual insight, highlighting hope's role in challenges.",
+        "keywords": [
+          "guidance",
+          "adversity",
+          "offers",
+          "spiritual"
+        ]
+      },
+      "the_hanged_man": {
+        "interpretation": "Perspective shift advised to recognize hidden support available during trials.",
+        "keywords": [
+          "perspective",
+          "shift",
+          "advised",
+          "recognize"
+        ]
+      },
+      "six_of_pentacles": {
+        "interpretation": "Balance of giving and receiving emphasized, clarifying resource distribution and charity.",
+        "keywords": [
+          "balance",
+          "giving",
+          "receiving",
+          "emphasized"
+        ]
+      }
+    },
+    "similar_energy": {
+      "three_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "six_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

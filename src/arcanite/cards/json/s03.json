@@ -1,0 +1,681 @@
+{
+  "card_id": "three_of_swords",
+  "card_name": "Three of Swords",
+  "card_number": 3,
+  "suit": "swords",
+  "archetype": "the_wounded_heart",
+  "core_meanings": {
+    "upright": {
+      "essence": "The storm of sorrow and heartache that pierces through the veil of illusion, revealing raw truth and vulnerability.",
+      "keywords": [
+        "heartbreak",
+        "pain",
+        "loss",
+        "grief",
+        "betrayal",
+        "truth",
+        "emotional turmoil"
+      ],
+      "psychological": "An unraveling of inner defenses exposing deep emotions often masked or denied. Embracing pain to understand the soul's echoes.",
+      "spiritual": "A dark night of the soul where suffering becomes a portal to spiritual awakening and profound self-reflection.",
+      "practical": "A reality check, difficult conversations or events that require facing facts and allowing the healing process to begin.",
+      "shadow": "Reluctance to accept painful truths or holding on to betrayal, causing prolonged suffering and self-sabotage."
+    },
+    "reversed": {
+      "essence": "Healing the wounds of the past, releasing pain, and finding clarity amid confusion. The heart begins to mend.",
+      "keywords": [
+        "recovery",
+        "forgiveness",
+        "release",
+        "reconciliation",
+        "healing",
+        "understanding"
+      ],
+      "psychological": "The gradual process of emotional release, learning to embrace weakness as a path to resilience and strength.",
+      "spiritual": "Emerging from the darkness transformed, finding new depths of compassion and wisdom through healing.",
+      "practical": "Confrontation with inner scars leading to breakthroughs. Time to forgive and move forward with renewed clarity.",
+      "shadow": "Resistance to healing and holding grudges. Avoiding closure keeps the past alive and festering."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A history shaped by heartbreak or betrayal, laying the foundation for current emotional resilience and self-awareness.",
+        "reversed": "Previous healing from a deep wound has set the stage for newfound strength and a clearer emotional perspective.",
+        "keywords": [
+          "past heartbreak",
+          "emotional foundation",
+          "healed wounds",
+          "old sorrows"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-buried pain or unresolved grief from the distant past still reverberates through your current experiences.",
+        "reversed": "Ancient hurts have been slowly mending, allowing the wisdom gained from those early challenges to shape your path.",
+        "keywords": [
+          "ancient grief",
+          "old betrayals",
+          "long-buried pain",
+          "past healing"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent emotional turmoil or loss that has precipitated your current journey toward truth and healing.",
+        "reversed": "A recent reconciliation or release of past hurts provides a renewed sense of hope and clarity.",
+        "keywords": [
+          "recent turmoil",
+          "emotional upheaval",
+          "fresh forgiveness",
+          "recent clarity"
+        ]
+      },
+      "present": {
+        "upright": "You're in the midst of an emotional storm, urged to face the truth hidden in your pain and embrace vulnerability.",
+        "reversed": "Healing currents are flowing through your life, mending the heart's fractures and bringing compassion forward.",
+        "keywords": [
+          "current storm",
+          "emotional truth",
+          "heart's healing",
+          "present vulnerability"
+        ]
+      },
+      "present_situation": {
+        "upright": "At your core, the experience of deep emotional insight and profound vulnerability leading to inner truth.",
+        "reversed": "Your foundation is healing and transformation, offering renewed strength and understanding of past wounds.",
+        "keywords": [
+          "core truth",
+          "inner vulnerability",
+          "heart insight",
+          "foundational healing"
+        ]
+      },
+      "future": {
+        "upright": "Prepare for emotional clarity and the unveiling of truths that may initially cause pain but lead to growth.",
+        "reversed": "A time of emotional reconciliation and healing awaits, bringing peace and harmony to your heart.",
+        "keywords": [
+          "future clarity",
+          "emotional growth",
+          "healing ahead",
+          "reconciliation"
+        ]
+      },
+      "near_future": {
+        "upright": "Upcoming moments of truth and necessary pain. Be prepared to embrace wisdom through adversity.",
+        "reversed": "The immediate path offers healing opportunities and emotional release, restoring balance and inner peace.",
+        "keywords": [
+          "imminent truth",
+          "wisdom through pain",
+          "healing opportunity",
+          "emotional release"
+        ]
+      },
+      "distant_future": {
+        "upright": "With time, this hardship will transform into profound wisdom and emotional resilience that empowers your soul's journey.",
+        "reversed": "Future holds the promise of full emotional renewal and insight, leading to enlightenment and personal empowerment.",
+        "keywords": [
+          "empowered through adversity",
+          "wisdom gained",
+          "renewal ahead",
+          "future insight"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Accepting painful truths without losing yourself in despair. Growth through facing and honoring your emotional wounds.",
+        "reversed": "The challenge is to allow healing and release, letting go of grudge and bitterness while nurturing forgiveness.",
+        "keywords": [
+          "truth acceptance",
+          "emotional resilience",
+          "challenge of healing",
+          "spirit growth"
+        ]
+      },
+      "cross": {
+        "upright": "Resistance to change and acceptance complicates healing. The challenge lies in embracing what you can't change.",
+        "reversed": "Crossing your current path is the temptation to regress into old pain rather than building strength from it.",
+        "keywords": [
+          "resistance",
+          "acceptance challenge",
+          "temptation to regress",
+          "healing obstacle"
+        ]
+      },
+      "obstacle": {
+        "upright": "Denial or avoidance of painful truths blocks the path to healing and growth, keeping you stuck in the past.",
+        "reversed": "Inability to fully let go of past grievances obstructs healing progress, preventing the heart from truly mending.",
+        "keywords": [
+          "denial",
+          "avoidance",
+          "grievance holding",
+          "past blocks"
+        ]
+      },
+      "lesson": {
+        "upright": "The heart learns to bear truth with grace. Pain becomes a teacher, guiding you toward deeper self-awareness and empathy.",
+        "reversed": "The lesson here is about forgiveness and liberation from past wounds. Embrace healing as a path to freedom.",
+        "keywords": [
+          "truth-bearing",
+          "empathy growth",
+          "forgiveness lesson",
+          "freedom path"
+        ]
+      },
+      "shadow": {
+        "upright": "Shadow aspects might cling to bitterness and resentment, refusing to let go of past betrayals.",
+        "reversed": "The shadow involves bypassing emotional pain, hindering true healing and deeper self-understanding.",
+        "keywords": [
+          "bitterness",
+          "resentment",
+          "bypassing pain",
+          "shadow healing"
+        ]
+      },
+      "what_hinders": {
+        "upright": "A refusal to see painful truths for what they are, hinders emotional freedom and authentic self-expression.",
+        "reversed": "Holding on to hurtful memories prevents moving forward, healing stalled by resistance to letting go.",
+        "keywords": [
+          "truth blindness",
+          "emotional hindrance",
+          "memory holding",
+          "healing resistance"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Courage to confront pain with open arms and heart. Let the tears cleanse your path to renewal.",
+        "reversed": "Allow healing to flourish. Forgive and free your spirit from the bonds of past grievances.",
+        "keywords": [
+          "embrace pain",
+          "cathartic cleansing",
+          "healing allowance",
+          "spirit freedom"
+        ]
+      },
+      "action": {
+        "upright": "Take the time to reflect on the sources of heartache. Journaling or a heartfelt conversation may open healing pathways.",
+        "reversed": "Commit to daily practices of forgiveness and compassion, letting go of old wounds to welcome new joy.",
+        "keywords": [
+          "reflective practice",
+          "healing conversation",
+          "daily forgiveness",
+          "welcoming joy"
+        ]
+      },
+      "your_approach": {
+        "upright": "Your perspective is one of raw honesty and emotional depth, eager to transform suffering into wisdom.",
+        "reversed": "You view yourself as someone in transition, actively seeking the light after a long period of challenge.",
+        "keywords": [
+          "honest depth",
+          "transformative journey",
+          "seeking light",
+          "self-view"
+        ]
+      },
+      "what_helps": {
+        "upright": "Embracing vulnerability and expressing your emotions freely can serve as a powerful tool for healing.",
+        "reversed": "Supportive relationships and forgiveness ceremonies reinforce your journey toward healing and inner peace.",
+        "keywords": [
+          "vulnerability",
+          "emotional expression",
+          "supportive relationships",
+          "forgiveness"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual guidance pushes toward acceptance. Finding comfort in acknowledging pain's role in personal growth.",
+        "reversed": "The universe encourages you to release toxins of the heart. Embrace love and light that emerge from letting go.",
+        "keywords": [
+          "spiritual acceptance",
+          "acknowledging growth",
+          "heart release",
+          "embracing love"
+        ]
+      },
+      "best_course": {
+        "upright": "Stay open to new experiences and truths, even when they are uncomfortable. Trust that clarity will follow.",
+        "reversed": "Adopt a forward-thinking mentality, allowing healing energies to lead your progress and equilibrium.",
+        "keywords": [
+          "embracing discomfort",
+          "truth clarity",
+          "healing energies",
+          "forward progress"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for emotional breakthrough and clarity. Fear of further pain keeps you hesitant to fully trust or open up.",
+        "reversed": "Hope arises for complete healing and reconciliation, while fear of recurrence and vulnerability lingers.",
+        "keywords": [
+          "emotional breakthrough",
+          "clarity hope",
+          "pain fear",
+          "reconciliation hope"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire to transcend pain and achieve an authentic understanding of self and relationships.",
+        "reversed": "You envision a healed heart, one that can trust again and embrace new emotional possibilities with courage.",
+        "keywords": [
+          "transcendence",
+          "authentic understanding",
+          "healed heart",
+          "emotional possibilities"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of endless sorrow, being stuck in cycles of despair and unable to recover emotional equilibrium.",
+        "reversed": "A deep-seated fear that complete healing is unattainable, although progress is evident.",
+        "keywords": [
+          "endless sorrow",
+          "emotional cycles",
+          "unattainable healing",
+          "progress fear"
+        ]
+      },
+      "subconscious": {
+        "upright": "An underlying drive to acknowledge and process painful memories, leading toward deeper emotional intelligence.",
+        "reversed": "Subconscious efforts for forgiveness and release influence your external actions and perspectives.",
+        "keywords": [
+          "processing memories",
+          "emotional intelligence",
+          "forgiveness influence",
+          "subconscious release"
+        ]
+      },
+      "conscious": {
+        "upright": "You're aware of the transformative potential of facing discomfort. Making conscious efforts to seek truth and growth.",
+        "reversed": "Recognition of healing signs, keeping you open to channel forgiveness and embrace the new with an open heart.",
+        "keywords": [
+          "transformative potential",
+          "seeking truth",
+          "healing recognition",
+          "open heart"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Feelings of sadness and reflection as your heart traverses the path toward greater honesty and understanding.",
+        "reversed": "A growing sense of peace and release accompanies your journey through forgiveness and hope.",
+        "keywords": [
+          "sad reflection",
+          "honesty journey",
+          "peace growth",
+          "release hope"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart yearns for release and truth, willing to face wounds to find its authentic voice.",
+        "reversed": "Healing vibrations kindle a desire to explore new connections with loving wisdom and care.",
+        "keywords": [
+          "truth release",
+          "wound facing",
+          "healing exploration",
+          "loving wisdom"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, you're navigating the complexities of truth and illusion, seeking clarity even through discomfort.",
+        "reversed": "Your mind is in the process of release, aligning thoughts with newfound understanding and compassion.",
+        "keywords": [
+          "truth navigation",
+          "clarity seeking",
+          "thought alignment",
+          "compassionate mind"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "The environment is unearthing hidden truths, forcing you to confront vulnerabilities with strength.",
+        "reversed": "Healing energies surround you, aiding in the reconciliation and release you seek from past experiences.",
+        "keywords": [
+          "hidden truths",
+          "vulnerability confrontation",
+          "reconciliation aid",
+          "healing environment"
+        ]
+      },
+      "others": {
+        "upright": "Interactions challenge you to acknowledge deeper truths. Relationships can mirror personal struggles.",
+        "reversed": "Others offer support through empathy and shared experiences, providing compassion and understanding.",
+        "keywords": [
+          "truth acknowledgment",
+          "relationship mirror",
+          "empathy support",
+          "shared understanding"
+        ]
+      },
+      "environment": {
+        "upright": "Current circumstances demand emotional honesty and courage to navigate storms with wisdom and balance.",
+        "reversed": "Your surroundings provide a safe haven for healing hearts and fostering reconciliation and peace.",
+        "keywords": [
+          "emotional honesty",
+          "courage demand",
+          "safe haven",
+          "fostering peace"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Perceived as outwardly strong yet inwardly vulnerable, undertaking a journey of emotional truth.",
+        "reversed": "Others admire your resilience and emerging strength as you navigate the complex dance of healing.",
+        "keywords": [
+          "strength and vulnerability",
+          "emotional journey",
+          "admired resilience",
+          "emerging strength"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces urge you to discover profound truths. Life lessons are embedded in all you experience.",
+        "reversed": "Subtle energies align to support your path to healing, revealing insights only visible through forgiveness.",
+        "keywords": [
+          "truth discovery",
+          "life lessons",
+          "subtle energies",
+          "forgiveness insights"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Emotional clarity and resilience arise from embracing truth. Growth through pain paves the path forward.",
+        "reversed": "Healing provides emotional liberation and renewed hope. Heart restored gained in wisdom and grace.",
+        "keywords": [
+          "clarity and resilience",
+          "truth growth",
+          "emotional liberation",
+          "renewed hope"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Your journey leads to profound wisdom and strength. Acceptance and understanding of life's deepest truths.",
+        "reversed": "You cultivate a healed heart and expansive spirit, navigating with compassion and openheartedness.",
+        "keywords": [
+          "profound wisdom",
+          "acceptance",
+          "healed heart",
+          "spiritual expansion"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Acknowledging scars leads to emotional maturity, creating a life grounded in truth and authenticity.",
+        "reversed": "Moving forward with forgiveness fosters a harmonious sense of self, reconnecting with joy.",
+        "keywords": [
+          "emotional maturity",
+          "grounded truth",
+          "harmonious self",
+          "joyful reconnection"
+        ]
+      },
+      "best_case": {
+        "upright": "Through chalice of truth, you heal and evolve, crafting a life of integrity and nurturing relationships.",
+        "reversed": "Best case involves complete transcendence from past wounds, embodying serenity and grace.",
+        "keywords": [
+          "truth chalice",
+          "healing evolution",
+          "integrity life",
+          "transcendence"
+        ]
+      },
+      "worst_case": {
+        "upright": "Ignoring pain could generate recurring wounds, keeping the heart trapped in stagnation and despair.",
+        "reversed": "Missed opportunities for full healing keep you locked within the past, delaying transformation.",
+        "keywords": [
+          "recurring wounds",
+          "heart stagnation",
+          "missed healing",
+          "delayed transformation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves heartbreak, separation, and painful but necessary communication. Between you exists the experience of loss, betrayal, or the cutting away of illusions that once held you together.",
+        "reversed": "The heartbreak is healing or separation may be avoided. Communication might be restored or forgiveness may be possible. The relationship involves moving beyond pain toward understanding and potential reconciliation.",
+        "keywords": [
+          "heartbreak",
+          "separation",
+          "betrayal",
+          "loss"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Temporary heartbreak or betrayal lays bare the truth of a relationship. Growth blooms from emotional honesty.",
+      "reversed": "Mending hearts and paths toward reconciliation. Love's renewal through understanding and forgiveness.",
+      "keywords": [
+        "heartbreak truth",
+        "relationship growth",
+        "reconciliation",
+        "love renewal"
+      ]
+    },
+    "career": {
+      "upright": "A truth about your career or workplace reveals new challenges. Face these with courageous transparency.",
+      "reversed": "Career healing through resolution of conflicts. A newfound path of harmony and authenticity unfolds.",
+      "keywords": [
+        "career truth",
+        "workplace challenges",
+        "conflict resolution",
+        "authentic path"
+      ]
+    },
+    "spiritual": {
+      "upright": "Dark night of the soul deepens spiritual connection. Truth transforms spiritual practice and understanding.",
+      "reversed": "Healing initiates deeper spiritual awakening and enlightenment. Embrace growth through grace.",
+      "keywords": [
+        "spiritual connection",
+        "transformative truth",
+        "awakening",
+        "graceful growth"
+      ]
+    },
+    "financial": {
+      "upright": "Unexpected financial difficulties demand honest appraisal. Approach solutions with strategic wisdom.",
+      "reversed": "Recovering from past financial strains leads to new stability and peace of mind.",
+      "keywords": [
+        "financial challenges",
+        "honest appraisal",
+        "recovery",
+        "stability"
+      ]
+    },
+    "health": {
+      "upright": "Emotional distress may manifest physically. Addressing the root cause promotes holistic healing.",
+      "reversed": "Healing dynamics restore vitality and well-being. Past ailments recede as health flourishes.",
+      "keywords": [
+        "emotional distress",
+        "holistic healing",
+        "restoration",
+        "well-being"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "libra",
+    "hebrew_letter": "",
+    "numerology": 3,
+    "planet": "saturn",
+    "season": "autumn",
+    "time_of_day": "dusk",
+    "colors": [
+      "grey",
+      "blue",
+      "silver"
+    ],
+    "crystals": [
+      "amethyst",
+      "rose quartz",
+      "black tourmaline"
+    ],
+    "herbs": [
+      "sage",
+      "lavender",
+      "rosemary"
+    ]
+  },
+  "symbols": {
+    "piercing_swords": "truth revealed through pain",
+    "heart": "central emotional truth",
+    "stormy_sky": "emotional turbulence",
+    "rain": "cleansing and catharsis"
+  },
+  "affirmations": [
+    "I embrace the truth within my pain and transform it into wisdom.",
+    "My heart heals and grows stronger as I release past hurts.",
+    "I am open to forgiveness and the new beginnings it brings.",
+    "I find clarity in the acceptance of life’s truths."
+  ],
+  "journaling_prompts": [
+    "What truths am I resisting, and how can I begin to accept them?",
+    "How can I transform my current pain into personal growth?",
+    "In what ways are my past wounds affecting my present?",
+    "What steps can I take to forgive and seek peace?"
+  ],
+  "meditation_focus": "Visualize a healing light mending the wounds within your heart, radiating out and transforming pain into strength and peace.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:20:01.185091",
+    "card_info": {
+      "name": "Three of Swords",
+      "number": 3,
+      "suit": "swords"
+    },
+    "filename": "s03.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Deep emotional nurturing facilitates profound healing and recovery.",
+        "keywords": [
+          "deep",
+          "emotional",
+          "nurturing",
+          "facilitates"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Clarity through truth, leading to ultimate rebirth and renewal.",
+        "keywords": [
+          "clarity",
+          "truth",
+          "leading",
+          "ultimate"
+        ]
+      },
+      "ten_of_cups": {
+        "interpretation": "Transcending emotional trials brings fulfillment and connection.",
+        "keywords": [
+          "transcending",
+          "emotional",
+          "trials",
+          "brings"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Intense upheaval pressures truth, demanding courage in confrontation.",
+        "keywords": [
+          "intense",
+          "upheaval",
+          "pressures",
+          "truth"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Lingering grief challenges acceptance and stalls emotional recovery.",
+        "keywords": [
+          "lingering",
+          "grief",
+          "challenges",
+          "acceptance"
+        ]
+      },
+      "nine_of_swords": {
+        "interpretation": "Heightened anxiety complicates the path to healing and peace.",
+        "keywords": [
+          "heightened",
+          "anxiety",
+          "complicates",
+          "path"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_moon": {
+        "interpretation": "Illuminates vulnerabilities hidden in shadow, inviting healing.",
+        "keywords": [
+          "illuminates",
+          "vulnerabilities",
+          "hidden",
+          "shadow"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Clarifies indecision by revealing core emotional truths.",
+        "keywords": [
+          "clarifies",
+          "indecision",
+          "revealing",
+          "core"
+        ]
+      },
+      "the_lovers": {
+        "interpretation": "Unveils relationship tensions, offering insight and healing clarity.",
+        "keywords": [
+          "unveils",
+          "relationship",
+          "tensions",
+          "offering"
+        ]
+      }
+    },
+    "similar_energy": {
+      "five_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "ten_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "three_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hermit": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

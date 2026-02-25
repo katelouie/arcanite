@@ -1,0 +1,681 @@
+{
+  "card_id": "temperance",
+  "card_name": "Temperance",
+  "card_number": 14,
+  "suit": "major_arcana",
+  "archetype": "the_alchemist",
+  "core_meanings": {
+    "upright": {
+      "essence": "Harmony through balance, blending opposites to create unity. The art of patiently combining elements to find true alignment.",
+      "keywords": [
+        "balance",
+        "moderation",
+        "alchemy",
+        "harmony",
+        "patience",
+        "blending",
+        "synthesis",
+        "equilibrium"
+      ],
+      "psychological": "Represents the inner alchemist who seeks integration of disparate aspects of self, finding peace through balanced expression.",
+      "spiritual": "The spiritual path of unifying dualities—light and shadow, inner and outer—achieving transcendence through balance.",
+      "practical": "The time to focus on moderation, seek middle ground solutions, and practice patience in pursuing goals.",
+      "shadow": "Overemphasis on balance that leads to stagnation, fear of extremes causing inaction, or refusal to embrace necessary change."
+    },
+    "reversed": {
+      "essence": "Imbalance, excess, or clashing forces. Lack of moderation leading to disharmony and disarray.",
+      "keywords": [
+        "imbalance",
+        "excess",
+        "clashing",
+        "chaos",
+        "frustration",
+        "overindulgence",
+        "disarray"
+      ],
+      "psychological": "Inner discord, unresolved conflict between different parts of self, or inability to harmonize desires and needs.",
+      "spiritual": "Disconnected from your true path due to extremes, either being pulled in opposing directions or avoiding integration.",
+      "practical": "Need to reassess where imbalance exists, remove excess, and prioritize moderation. Situations out of sync require attention.",
+      "shadow": "Addictive tendencies or refusal to compromise causing chaos, or a tendency to avoid necessary confrontations."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A past situation that required harmonious negotiation, blending diverse elements to stabilize your journey.",
+        "reversed": "Imbalance or lack of integration in the past continues to echo, stemming from excess or neglect.",
+        "keywords": [
+          "past balance",
+          "harmonious blending",
+          "old imbalance",
+          "unresolved discord"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a foundational period of synthesis brought lasting peace and equilibrium to your path.",
+        "reversed": "Old patterns of excess or imbalance were formed, continuing to shape current situations unfavorably.",
+        "keywords": [
+          "foundational synthesis",
+          "lasting peace",
+          "old excess",
+          "early patterns"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent efforts to harmonize differing elements have set the stage for current peace and cooperation.",
+        "reversed": "Recent excess or lack of moderation led to tensions, affecting your current circumstances.",
+        "keywords": [
+          "recent harmony",
+          "cooperative efforts",
+          "recent excess",
+          "moderation needed"
+        ]
+      },
+      "present": {
+        "upright": "This moment calls for balanced actions and the fusion of varying influences. Seek harmony.",
+        "reversed": "Current discord or excess is demanding attention to restore harmony—time to rebalance.",
+        "keywords": [
+          "balance now",
+          "integrative actions",
+          "current discord",
+          "harmony sought"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, your experience involves weaving together opposing forces to create unity and gentleness.",
+        "reversed": "Struggling at the core with chaos or imbalance—acknowledge the need for moderation.",
+        "keywords": [
+          "core harmony",
+          "unity creation",
+          "core chaos",
+          "imbalanced experience"
+        ]
+      },
+      "future": {
+        "upright": "Upcoming events require diplomatic finesse and blending energies for future harmony and success.",
+        "reversed": "Forthcoming challenges from excess or unresolved discord if not addressed proactively.",
+        "keywords": [
+          "future diplomacy",
+          "harmonious success",
+          "forthcoming excess",
+          "discord challenge"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, balance will be key—embrace moderation and blend efforts to achieve ideal outcomes.",
+        "reversed": "Imbalance or unchecked excess may soon lead to frustration unless addressed now.",
+        "keywords": [
+          "near balance",
+          "moderation ahead",
+          "soon discord",
+          "frustration risk"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimate peace and alignment arise from sustained harmony, patience, and integrative efforts.",
+        "reversed": "Long-term consequences of failing to address imbalance could impact future peace.",
+        "keywords": [
+          "ultimate harmony",
+          "sustained peace",
+          "future imbalance",
+          "long-term impact"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Maintaining balance amid opposing forces. The challenge is to alchemize conflict into peaceful resolution.",
+        "reversed": "Challenge lies in identifying where excess is causing turmoil, or where moderation is hindered.",
+        "keywords": [
+          "balancing act",
+          "conflict alchemy",
+          "excess challenge",
+          "hindered moderation"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures or extreme perspectives may impede a balanced approach, urging patience.",
+        "reversed": "Inner chaos or reluctance to compromise are stumbling blocks that need examination.",
+        "keywords": [
+          "external pressure",
+          "patience needed",
+          "inner chaos",
+          "compromise reluctance"
+        ]
+      },
+      "obstacle": {
+        "upright": "Fear of extremes or unwillingness to blend opposing elements keeps you from achieving true harmony.",
+        "reversed": "Excess or refusal to let go of chaos keeps you stagnant, obstructing harmonious movement.",
+        "keywords": [
+          "extreme fear",
+          "harmony blockage",
+          "excess stagnation",
+          "chaos retention"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn that true balance is dynamic, requiring ongoing adjustment and attentiveness to maintaining harmony.",
+        "reversed": "Realize that excess leads to depletion—establish rhythms that replenish rather than exhaust.",
+        "keywords": [
+          "dynamic balance",
+          "adjustment need",
+          "excess lesson",
+          "replenishing rhythms"
+        ]
+      },
+      "shadow": {
+        "upright": "Within the shadow lies the potential for harmony unearthed through embracing the full spectrum of self.",
+        "reversed": "Ignoring discord or excess can lead to deeper unseen issues—embrace rather than avoid change.",
+        "keywords": [
+          "shadow harmony",
+          "spectrum embrace",
+          "ignored discord",
+          "change avoidance"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Clinging to extremes hinders growth—allow for a flow that melds differences into greater truths.",
+        "reversed": "Attachment to chaos or fear of moderation prevents necessary evolution toward peace.",
+        "keywords": [
+          "extreme clinging",
+          "growth hindrance",
+          "chaos attachment",
+          "moderation fear"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Practice patience and blend differences. Seek middle ground and let moderation guide your decisions.",
+        "reversed": "Assess areas of imbalance, address excesses, and introduce harmonizing practices into your routine.",
+        "keywords": [
+          "patience practice",
+          "blend differences",
+          "balance assess",
+          "harmonizing actions"
+        ]
+      },
+      "action": {
+        "upright": "Take measured steps, combining elements creatively to forge a path through ongoing synthesis.",
+        "reversed": "Either remove the influence of extremes or gently integrate disparate desires for cohesive action.",
+        "keywords": [
+          "measured steps",
+          "creative combination",
+          "extreme removal",
+          "cohesive action"
+        ]
+      },
+      "your_approach": {
+        "upright": "You perceive yourself as the harmonizer, seeking unity through careful integration of differences.",
+        "reversed": "You might see yourself as overwhelmed by chaotic forces or too restrained by fear of imbalance.",
+        "keywords": [
+          "harmonizer identity",
+          "unity seeker",
+          "overwhelmed perception",
+          "restraint fear"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your capacity for patience, observation, and embracing complexity aids your journey to balance.",
+        "reversed": "Seeking guidance or mentorship can provide insights into restoring harmony in chaotic areas.",
+        "keywords": [
+          "patience capacity",
+          "embrace complexity",
+          "insight guidance",
+          "restoring harmony"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual wisdom urges trust in your ability to synthesize life's dualities, creating an alchemical magic.",
+        "reversed": "Divine insight suggests addressing inner imbalances—trust the process of harmonization and healing.",
+        "keywords": [
+          "trust synthesis",
+          "alchemical magic",
+          "inner imbalance",
+          "harmonization trust"
+        ]
+      },
+      "best_course": {
+        "upright": "Seek balanced engagement, adapting thoughtfully to challenges and employing creatively unifying strategies.",
+        "reversed": "Adjust where necessary—remove excess and restore moderation, returning to the heart of stability.",
+        "keywords": [
+          "balanced engagement",
+          "adaptive strategy",
+          "necessary adjustment",
+          "restored stability"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for serene balance and peaceful interactions. Fear of disharmony or losing a sense of control.",
+        "reversed": "Fear of overwhelming excess or chaos. Hope that finding balance will restore inner peace.",
+        "keywords": [
+          "serene hope",
+          "control loss fear",
+          "excess fear",
+          "balance restoration"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire to nurture harmony and achieve personal integration of different facets of life.",
+        "reversed": "Yearning for equilibrium, hoping the resolution of excess or imbalance brings solace.",
+        "keywords": [
+          "nurtured harmony",
+          "personal integration",
+          "equilibrium yearning",
+          "resolution hope"
+        ]
+      },
+      "fears": {
+        "upright": "Anxiety about discord emerging from conflicting needs or external pressures impacting inner peace.",
+        "reversed": "Fear that unchecked chaos or constant excess will lead to irreversible consequences.",
+        "keywords": [
+          "discord anxiety",
+          "external pressure",
+          "unchecked chaos",
+          "irreversible consequences"
+        ]
+      },
+      "subconscious": {
+        "upright": "In the depths, a yearning for internal harmony quietly guides conscious decisions towards peace.",
+        "reversed": "Subconsciously, you may be resisting change or holding onto patterns that create disruption.",
+        "keywords": [
+          "internal harmony",
+          "quiet guidance",
+          "change resistance",
+          "pattern disruption"
+        ]
+      },
+      "conscious": {
+        "upright": "Aware of a need for moderation and synthesis, you actively pursue a balance of energies and desires.",
+        "reversed": "Consciously grappling with chaos or trying to manage conflicting priorities without balance.",
+        "keywords": [
+          "awareness need",
+          "pursuit balance",
+          "chaos grappling",
+          "priority conflict"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally centered, you feel aligned in blending differing aspects, fostering unity and peace.",
+        "reversed": "Emotionally unsettled, caught in extremes or imbalance that disrupts internal serenity.",
+        "keywords": [
+          "emotional center",
+          "aspect blending",
+          "unsettled emotions",
+          "internal disruption"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart seeks balance and harmonious connection, desiring to unite disparate elements lovingly.",
+        "reversed": "Heart wisdom ignored includes the need to embrace moderation, avoiding extremes.",
+        "keywords": [
+          "balanced heart",
+          "harmonious connection",
+          "ignored wisdom",
+          "moderation need"
+        ]
+      },
+      "mind": {
+        "upright": "Your mind processes with clarity, looking to create synergy between thoughts and actions.",
+        "reversed": "Mind caught in chaos or attempts to rationalize extremes without addressing the core imbalance.",
+        "keywords": [
+          "clear mind",
+          "synergy creation",
+          "chaotic thoughts",
+          "imbalance rationalization"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Supportive forces and circumstances bring opportunities for collaboration and balanced progress.",
+        "reversed": "Others' expectations or conflicting influences could exacerbate existing imbalances.",
+        "keywords": [
+          "supportive forces",
+          "collaborative opportunity",
+          "expectation conflict",
+          "influence exaggeration"
+        ]
+      },
+      "others": {
+        "upright": "People around you see you as a source of balance, valuing your ability to harmonize situations.",
+        "reversed": "Others may find your extremes challenging or see you as resistant to collaboration.",
+        "keywords": [
+          "balance source",
+          "harmonize value",
+          "extreme challenge",
+          "collaboration resistance"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment encourages balance and fosters an atmosphere where harmony can thrive.",
+        "reversed": "Environmental stress or chaotic surroundings may disrupt personal equilibrium.",
+        "keywords": [
+          "encouraging environment",
+          "harmonious atmosphere",
+          "environmental stress",
+          "equilibrium disruption"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Viewed as a diplomat, you blend energies to create consensus and mutual understanding.",
+        "reversed": "Perceived as disjointed or indecisive, struggling to maintain clarity amid conflicting forces.",
+        "keywords": [
+          "diplomat view",
+          "consensus creation",
+          "disjointed perception",
+          "clarity struggle"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen currents guide you toward moderation, with synchronicities aligning for balanced growth.",
+        "reversed": "Hidden imbalances may surface insistently, calling for acknowledgment and transformation.",
+        "keywords": [
+          "unseen currents",
+          "synchronicity alignment",
+          "hidden imbalance",
+          "transformation call"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Achieving harmony and smooth progression through skillful blending of efforts, leading to peace.",
+        "reversed": "Conflicts from unchecked extremes or unaddressed imbalance may disrupt desired outcomes.",
+        "keywords": [
+          "harmonious achievement",
+          "smooth progression",
+          "unchecked conflict",
+          "disrupted outcomes"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimate peace and fulfillment come from integrating diverse influences into a unified path.",
+        "reversed": "Final discord may arise when avoiding necessary moderation or indulging in extremes.",
+        "keywords": [
+          "peace fulfillment",
+          "unified path",
+          "final discord",
+          "extreme indulgence"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possible scenarios include success through balanced approaches and creative solutions.",
+        "reversed": "Potential for chaos if excess or imbalance goes unaddressed, hindering realization of goals.",
+        "keywords": [
+          "successful balance",
+          "creative solution",
+          "potential chaos",
+          "goal hindrance"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case involves thriving through harmonious relationships and synergistic collaborations.",
+        "reversed": "What seems best may carry overlooked pitfalls if imbalance is ignored in pursuit of goals.",
+        "keywords": [
+          "harmonious thriving",
+          "synergistic collaboration",
+          "overlooked pitfalls",
+          "goal pursuit risk"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves slow progress, requiring patience and mindful adjustments to achieve goals.",
+        "reversed": "Unchecked extremes could lead to isolation or conflict, derailing progress significantly.",
+        "keywords": [
+          "slow progress",
+          "mindful adjustments",
+          "unchecked isolation",
+          "derailed progress"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship embodies patience, moderation, and the blending of opposites into harmony. The dynamic between you creates balance through gradual integration and mutual adaptation. You help each other find the middle path and avoid extremes.",
+        "reversed": "The connection may struggle with impatience, excess, or inability to find compromise. Opposing forces may clash rather than blend. The relationship could involve extremes, lack of moderation, or failure to adapt to each other's needs.",
+        "keywords": [
+          "temperance",
+          "balance",
+          "moderation",
+          "harmony"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Healthy relationships through balanced giving and receiving, nurturing mutual understanding.",
+      "reversed": "Conflict from imbalance or extremes in relationship dynamics, requiring synergy to mend.",
+      "keywords": [
+        "healthy relationship",
+        "mutual understanding",
+        "relationship conflict",
+        "synergy needed"
+      ]
+    },
+    "career": {
+      "upright": "Harmonious success in projects where collaborative efforts and moderation are key.",
+      "reversed": "Tensions from clashing interests or excess in the workplace, needing balanced negotiations.",
+      "keywords": [
+        "project harmony",
+        "collaborative success",
+        "workplace tension",
+        "negotiation need"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual growth through balanced practices and integrating dualities within the self.",
+      "reversed": "Spiritual confusion or lack of insight from extremes, calling for mindful alignment.",
+      "keywords": [
+        "spiritual growth",
+        "balanced practice",
+        "spiritual confusion",
+        "insight need"
+      ]
+    },
+    "financial": {
+      "upright": "Financial stability achieved through careful blending of investments and prudent decisions.",
+      "reversed": "Financial turmoil from unchecked spending or imbalance, requiring a reassessment.",
+      "keywords": [
+        "financial stability",
+        "prudent decisions",
+        "financial turmoil",
+        "reassessment needed"
+      ]
+    },
+    "health": {
+      "upright": "Holistic health achieved through balanced lifestyle and moderation in habits.",
+      "reversed": "Health issues from imbalance or excess, necessitating restorative practices.",
+      "keywords": [
+        "holistic health",
+        "balanced lifestyle",
+        "health issues",
+        "restorative practices"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "sagittarius",
+    "hebrew_letter": "samekh",
+    "numerology": 5,
+    "planet": "jupiter",
+    "season": "autumn",
+    "time_of_day": "sunset",
+    "colors": [
+      "blue",
+      "purple",
+      "silver"
+    ],
+    "crystals": [
+      "amethyst",
+      "sodalite",
+      "aquamarine"
+    ],
+    "herbs": [
+      "chamomile",
+      "sage",
+      "lemon balm"
+    ]
+  },
+  "symbols": {
+    "angel": "divine guidance and protection",
+    "two_cups": "integration and balance",
+    "path_to_mountains": "journey toward spiritual elevation",
+    "sunrise": "new beginnings, hope, and enlightenment"
+  },
+  "affirmations": [
+    "I find harmony and balance in all aspects of my life.",
+    "I am the alchemist of my own peace, blending opposites into unity.",
+    "Moderation and patience guide my journey toward fulfillment."
+  ],
+  "journaling_prompts": [
+    "Where in my life am I currently out of balance?",
+    "How can I blend varying elements to achieve harmony?",
+    "What would perfect balance look like for me?"
+  ],
+  "meditation_focus": "Reflect on the dance of balance in your life, feeling the blend of opposites creating harmony.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:24:03.675772",
+    "card_info": {
+      "name": "Temperance",
+      "number": 14,
+      "suit": "major_arcana"
+    },
+    "filename": "m14.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_star": {
+        "interpretation": "Hopeful reconciliation magnified; balance enhances dreams and aspirations.",
+        "keywords": [
+          "hopeful",
+          "reconciliation",
+          "magnified",
+          "balance"
+        ]
+      },
+      "two_of_cups": {
+        "interpretation": "Unity through balance—the blending of hearts resulting in deeper connections.",
+        "keywords": [
+          "unity",
+          "balance",
+          "blending",
+          "hearts"
+        ]
+      },
+      "the_world": {
+        "interpretation": "Integration leading to completion, where balance results in global harmony.",
+        "keywords": [
+          "integration",
+          "leading",
+          "completion",
+          "balance"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Sudden upheaval challenges the ability to maintain balance amidst chaos.",
+        "keywords": [
+          "sudden",
+          "upheaval",
+          "challenges",
+          "ability"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Conflict or power struggles disrupt harmony, needing careful mediation.",
+        "keywords": [
+          "conflict",
+          "power",
+          "struggles",
+          "disrupt"
+        ]
+      },
+      "the_devil": {
+        "interpretation": "Temptation threatens to disturb equilibrium, calling for mindful discipline.",
+        "keywords": [
+          "temptation",
+          "threatens",
+          "disturb",
+          "equilibrium"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_lovers": {
+        "interpretation": "Harmony within relationships highlighted, emphasizing balanced partnership.",
+        "keywords": [
+          "harmony",
+          "within",
+          "relationships",
+          "highlighted"
+        ]
+      },
+      "two_of_pentacles": {
+        "interpretation": "Importance of juggling responsibilities harmoniously, clarifying priorities.",
+        "keywords": [
+          "importance",
+          "juggling",
+          "responsibilities",
+          "harmoniously"
+        ]
+      },
+      "justice": {
+        "interpretation": "Fairness and equitable decisions illuminated through balanced discernment.",
+        "keywords": [
+          "fairness",
+          "equitable",
+          "decisions",
+          "illuminated"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_lovers": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_devil": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

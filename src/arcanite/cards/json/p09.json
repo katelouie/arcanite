@@ -1,0 +1,680 @@
+{
+  "card_id": "nine_of_pentacles",
+  "card_name": "Nine of Pentacles",
+  "card_number": 9,
+  "suit": "pentacles",
+  "archetype": "the_self_sufficient",
+  "core_meanings": {
+    "upright": {
+      "essence": "Attainment of material success and personal independence. Enjoyment of the fruits of one's labor in solitude and grace.",
+      "keywords": [
+        "self-sufficiency",
+        "abundance",
+        "luxury",
+        "rewards",
+        "independence",
+        "gratitude"
+      ],
+      "psychological": "Represents the psyche at ease with itself, aware of its value and capabilities. Comfort in one's own company.",
+      "spiritual": "Understanding the connection between inner peace and outer abundance. Harmony found through self-reliance.",
+      "practical": "Signifies financial independence and enjoying personal accomplishments. Recognition of efforts and diligence.",
+      "shadow": "Potential for isolation or loneliness due to self-reliance. Risk of disconnecting from others or becoming complacent."
+    },
+    "reversed": {
+      "essence": "Misuse of resources or dependency on material success for self-worth. Either squandering wealth or isolating too much.",
+      "keywords": [
+        "financial instability",
+        "overdependence",
+        "isolation",
+        "self-worth linked to wealth",
+        "mismanagement"
+      ],
+      "psychological": "Insecurity about one's achievements. Feeling unworthy despite outer success due to lack of inner fulfillment.",
+      "spiritual": "Lesson in valuing internal abundance over external. Re-examine what truly enriches the soul.",
+      "practical": "Advice to reassess financial decisions or watch overindulgence. Importance of practical and mindful management.",
+      "shadow": "Avoidance of vulnerability through material wealth. Losing sight of personal connections and emotional wealth."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A period where past diligence and work provided the foundation for current abundance and self-sufficiency.",
+        "reversed": "Previous mismanagement or reliance on others impacts the current state of independence negatively.",
+        "keywords": [
+          "past diligence",
+          "foundation",
+          "mismanagement",
+          "reliance on others"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-standing habits of self-reliance and judiciousness fostered current achievements and comfort.",
+        "reversed": "Early patterns of neglect or overindulgence causing present insecurities or instability.",
+        "keywords": [
+          "long-standing habits",
+          "self-reliance",
+          "early neglect",
+          "overindulgence"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent efforts culminated in recognition and material gains, allowing for newfound independence.",
+        "reversed": "Recent missteps in financial decisions or reliance have led to current instability or constraint.",
+        "keywords": [
+          "recent efforts",
+          "recognition",
+          "missteps",
+          "financial instability"
+        ]
+      },
+      "present": {
+        "upright": "Current opportunity to enjoy the bounty of previous efforts. A time for self-appreciation and personal joy.",
+        "reversed": "Presently, there's risk of valuing material over genuine self-worth, or feeling unfulfilled despite success.",
+        "keywords": [
+          "personal joy",
+          "bounty",
+          "misplaced values",
+          "unfulfillment"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, you're enjoying independence and the pleasures that accompany hard-earned success.",
+        "reversed": "Core issues revolve around feeling isolated in success or disconnect between wealth and personal value.",
+        "keywords": [
+          "independence",
+          "pleasure",
+          "isolation",
+          "disconnect"
+        ]
+      },
+      "future": {
+        "upright": "Future promises continued abundance as long as self-reliance and mindfulness are maintained.",
+        "reversed": "Future warnings about potential financial missteps or becoming overly dependent on material success.",
+        "keywords": [
+          "continued abundance",
+          "self-reliance",
+          "financial missteps",
+          "material dependence"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon you'll experience the rewards of recent efforts, leading to satisfaction and contentment.",
+        "reversed": "Be cautious, as issues with resource management or isolation may emerge in the near future.",
+        "keywords": [
+          "rewards",
+          "satisfaction",
+          "resource issues",
+          "emerging isolation"
+        ]
+      },
+      "distant_future": {
+        "upright": "In the long-term, wisdom gained from independence persists, leading to enduring fulfillment.",
+        "reversed": "Unchecked, patterns of mismanagement could result in long-lasting difficulties and lessons hard-learned.",
+        "keywords": [
+          "enduring fulfillment",
+          "wisdom",
+          "patterns",
+          "difficulties"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Balancing appreciation of success with the need to connect with others authentically.",
+        "reversed": "Challenge lies in finding real value beyond materialism, overcoming isolation.",
+        "keywords": [
+          "balance",
+          "authentic connection",
+          "real value",
+          "overcome isolation"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures might test your independence and sense of self-earned success.",
+        "reversed": "Internal conflicts over reliance on wealth vs. personal worth create crossing energies.",
+        "keywords": [
+          "external pressures",
+          "independence",
+          "internal conflicts",
+          "crossing energies"
+        ]
+      },
+      "obstacle": {
+        "upright": "Potential for complacency from self-reliance, blocking further personal or spiritual growth.",
+        "reversed": "Overdependence on material success or financial missteps hindering progress.",
+        "keywords": [
+          "complacency",
+          "growth block",
+          "overdependence",
+          "hindrance"
+        ]
+      },
+      "lesson": {
+        "upright": "Learning to appreciate accomplishments while seeking emotional richness and relational depth.",
+        "reversed": "Lesson in discerning inner worth separate from material outcomes, overcoming isolation.",
+        "keywords": [
+          "appreciation",
+          "emotional richness",
+          "discernment",
+          "overcoming"
+        ]
+      },
+      "shadow": {
+        "upright": "Shadow contains fear of losing independence or stagnating in comfort zones.",
+        "reversed": "Hidden fears of unworthiness, lack of fulfillment despite success, need integration.",
+        "keywords": [
+          "fear of loss",
+          "stagnation",
+          "unworthiness",
+          "integration"
+        ]
+      },
+      "what_hinders": {
+        "upright": "What hinders is a reluctance to open up to others due to highly valued self-sufficiency.",
+        "reversed": "Misaligned values with wealth obstruct genuine relationships or inner contentment.",
+        "keywords": [
+          "reluctance",
+          "misaligned values",
+          "obstructions",
+          "contentment"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace and enjoy individuality and rewards of past efforts. Seek connections enriching the heart.",
+        "reversed": "Advice to reassess financial priorities and find balance. Open doors to genuine relationships.",
+        "keywords": [
+          "embrace individuality",
+          "reward enjoyment",
+          "reassess",
+          "open connections"
+        ]
+      },
+      "action": {
+        "upright": "Act on opportunities for solitude well-spent, indulging in self-care and reflection.",
+        "reversed": "Avoid rash financial decisions or closing off emotionally. Seek guidance for grounded approach.",
+        "keywords": [
+          "solitude",
+          "self-care",
+          "avoid rashness",
+          "seek guidance"
+        ]
+      },
+      "your_approach": {
+        "upright": "You approach life valuing self-sufficiency and the finer pleasures earned through effort.",
+        "reversed": "Beware of approaching life with excess dependence on wealth, neglecting emotional ties.",
+        "keywords": [
+          "self-sufficiency",
+          "value",
+          "dependence",
+          "emotional neglect"
+        ]
+      },
+      "what_helps": {
+        "upright": "A disciplined approach to finances and self-care aids in maintaining independence and joy.",
+        "reversed": "Supporting resources include emotional openness and creating sustainable wealth habits.",
+        "keywords": [
+          "discipline",
+          "self-care",
+          "emotional openness",
+          "sustainability"
+        ]
+      },
+      "guidance": {
+        "upright": "Divine guidance encourages pride in achievements balanced with generosity and love shared.",
+        "reversed": "Lesson is in seeking true worth outside of material success, valuing inner wealth.",
+        "keywords": [
+          "divine pride",
+          "generosity",
+          "true worth",
+          "inner wealth"
+        ]
+      },
+      "best_course": {
+        "upright": "The best path involves cherishing solitude while nurturing bonds that support emotional flowering.",
+        "reversed": "Choose paths that lead to sustainable growth and real value. Avoid isolation pitfalls.",
+        "keywords": [
+          "cherish",
+          "nurture",
+          "sustainability",
+          "avoidance"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope lies in lasting independence and fulfillment. Fear involves potential solitude without true connections.",
+        "reversed": "Fear of financial depletion or superficial successes overshadow hope for genuine contentment.",
+        "keywords": [
+          "lasting independence",
+          "fulfillment",
+          "financial depletion",
+          "genuine contentment"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope for self-reliance resulting in joy and internal peace. Desire for comforting solitude.",
+        "reversed": "Hope that wealth will bring validation, though true desire is for approval beyond material.",
+        "keywords": [
+          "self-reliance",
+          "joy",
+          "validation",
+          "approval"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of isolation due to self-sufficiency, missing deeper emotional fulfillment.",
+        "reversed": "Concern over relying too heavily on material success and facing potential instability.",
+        "keywords": [
+          "isolation",
+          "emotional fulfillment",
+          "material reliance",
+          "instability"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconscious drive towards personal mastery and serenity. Inner landscape rich with contentment.",
+        "reversed": "Unconscious fear of superficiality overshadowing inner worth. Need for deeper introspection.",
+        "keywords": [
+          "mastery",
+          "serenity",
+          "superficiality",
+          "introspection"
+        ]
+      },
+      "conscious": {
+        "upright": "Conscious awareness of your independence and satisfaction derived from personal achievements.",
+        "reversed": "Consciously recognizing separation between material success and emotional fulfillment.",
+        "keywords": [
+          "independence",
+          "satisfaction",
+          "recognition",
+          "fulfillment"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally content, appreciative of life's pleasures, enjoying the comfort of one's own space.",
+        "reversed": "Feelings of inadequacy despite success, tension between wealth and true happiness.",
+        "keywords": [
+          "contentment",
+          "appreciation",
+          "inadequacy",
+          "tension"
+        ]
+      },
+      "heart": {
+        "upright": "Heart's desire for peace achieved through independence and a life adorned with beauty and grace.",
+        "reversed": "Heart craves deeper emotional connection beyond financial comfort and external approval.",
+        "keywords": [
+          "peace",
+          "beauty",
+          "emotional connection",
+          "craving"
+        ]
+      },
+      "mind": {
+        "upright": "Mental focus on achieving personal goals and enjoying the fruits of diligent work.",
+        "reversed": "Mind preoccupied with wealth as measure of success rather than deeper meaning and connection.",
+        "keywords": [
+          "personal goals",
+          "diligence",
+          "wealth",
+          "meaning"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others view you as self-contained and enviably successful. Your independence inspires admiration.",
+        "reversed": "Seen as either overly focused on material gains or isolated by your own achievements.",
+        "keywords": [
+          "admiration",
+          "success",
+          "material focus",
+          "isolation"
+        ]
+      },
+      "others": {
+        "upright": "People around you support your achievements, celebrating your independence and grace.",
+        "reversed": "Others may feel distanced or disconnected from your success as it alienates instead of invites.",
+        "keywords": [
+          "support",
+          "celebration",
+          "distance",
+          "alienation"
+        ]
+      },
+      "environment": {
+        "upright": "Surroundings reflect comfort and elegance, supporting your journey of personal success.",
+        "reversed": "Environment may foster competition or disconnect, challenging your inner peace and values.",
+        "keywords": [
+          "elegance",
+          "support",
+          "competition",
+          "challenge"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others perceive you as a paragon of self-reliance and taste, relishing in your accomplishments.",
+        "reversed": "Perceived as solitary and guarding your achievements, potentially limiting deeper connections.",
+        "keywords": [
+          "paragon",
+          "self-reliance",
+          "solitary",
+          "guarding"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Subtle energies of grace and quiet power aid your path, unseen support of nature and spirit.",
+        "reversed": "Hidden pressures of societal norms or internal doubts influence your perception of success.",
+        "keywords": [
+          "grace",
+          "power",
+          "societal norms",
+          "doubts"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success and abundance continue, supported by wisdom and self-appreciation. Fulfillment in independence.",
+        "reversed": "Risks of eventual disappointment if independence isn’t balanced with emotional and social connections.",
+        "keywords": [
+          "success",
+          "wisdom",
+          "risk",
+          "balance"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimate peace through harmony between material and inner wealth leads to a graceful life.",
+        "reversed": "Final realization may necessitate a shift from material towards enriching interpersonal connections.",
+        "keywords": [
+          "harmony",
+          "grace",
+          "realization",
+          "shift"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "New ventures built on self-reliance lead to continued prosperity and deep satisfaction.",
+        "reversed": "Potential wake-up call if financial independence doesn’t align with emotional fulfillment.",
+        "keywords": [
+          "ventures",
+          "prosperity",
+          "wake-up call",
+          "alignment"
+        ]
+      },
+      "best_case": {
+        "upright": "Ideal path where deserved rewards cultivate both solitude and connection, honors self and community.",
+        "reversed": "Best case involves shifting focus to values beyond wealth for more balanced fulfillment.",
+        "keywords": [
+          "ideal",
+          "rewards",
+          "shift",
+          "balance"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst involves complacency in solitude, missing the nuances of life’s rich, shared tapestry.",
+        "reversed": "Neglect leads to hollowness, external success overshadowed by internal dissatisfaction.",
+        "keywords": [
+          "complacency",
+          "nuances",
+          "hollowness",
+          "dissatisfaction"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves material abundance, independence, and the luxury of self-sufficiency. Between you exists the ability to enjoy the finer things in life, appreciate quality, and create a comfortable lifestyle through your own efforts.",
+        "reversed": "Abundance may be superficial or independence might be threatened. Self-sufficiency could become selfishness or luxury might be excessive. The relationship may involve materialism, isolation due to wealth, or taking abundance for granted.",
+        "keywords": [
+          "abundance",
+          "independence",
+          "luxury",
+          "self-sufficiency"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Contentment and self-sufficiency enrich romantic connections. Approach love with confidence in personal wealth.",
+      "reversed": "Isolation from partner due to material focus or independence, risking deeper emotional connections.",
+      "keywords": [
+        "contentment",
+        "connection",
+        "isolation",
+        "risk"
+      ]
+    },
+    "career": {
+      "upright": "Professional success achieved through diligence and independence. Recognition for personal accomplishments.",
+      "reversed": "Monetary concerns overshadow career satisfaction, potentially unfulfilling despite outward achievement.",
+      "keywords": [
+        "professional success",
+        "diligence",
+        "concerns",
+        "achievement"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual growth aligns with self-appreciation and solitude, fostering inner peace and prosperity.",
+      "reversed": "Need to discern spiritual from material growth to find true cadence in personal beliefs.",
+      "keywords": [
+        "growth",
+        "solitude",
+        "discernment",
+        "beliefs"
+      ]
+    },
+    "financial": {
+      "upright": "Financial security assured through patient effort and wise management, indulging in rewards.",
+      "reversed": "Potential for financial overreach, risking stability due to impulsive spending or unbalanced priorities.",
+      "keywords": [
+        "security",
+        "wise management",
+        "overreach",
+        "stability"
+      ]
+    },
+    "health": {
+      "upright": "Enjoying good health through balanced and luxurious self-care. Integration of body and mind nourishes well-being.",
+      "reversed": "Health risks linked to overindulgence or stress from overemphasis on material success.",
+      "keywords": [
+        "health",
+        "self-care",
+        "risks",
+        "integration"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "virgo",
+    "hebrew_letter": "yesod",
+    "numerology": 9,
+    "planet": "venus",
+    "season": "autumn",
+    "time_of_day": "dusk",
+    "colors": [
+      "gold",
+      "green",
+      "earthy brown"
+    ],
+    "crystals": [
+      "emerald",
+      "topaz",
+      "jade"
+    ],
+    "herbs": [
+      "sage",
+      "rosemary",
+      "thyme"
+    ]
+  },
+  "symbols": {
+    "falcon": "mastery and focus",
+    "grapes": "abundance and enjoyment of life's pleasures",
+    "garden": "self-created paradise",
+    "snail": "slow and steady progress leading to success",
+    "vineyard": "fruits of labor, cultivated success"
+  },
+  "affirmations": [
+    "I celebrate my achievements and enjoy the rewards of my labor",
+    "My independence enriches my life with beauty and abundance",
+    "I balance material success with emotional and spiritual fulfillment",
+    "I am surrounded by the abundance of my creation"
+  ],
+  "journaling_prompts": [
+    "What achievements am I most grateful for?",
+    "How do I balance self-reliance with meaningful relationships?",
+    "Where in my life can I further cultivate abundance?",
+    "How can I align my material success with my spiritual and emotional values?"
+  ],
+  "meditation_focus": "Visualize walking through a lush garden representing your life's abundance and achievements, feeling a deep connection with life's richness and beauty.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:45:47.558212",
+    "card_info": {
+      "name": "Nine of Pentacles",
+      "number": 9,
+      "suit": "pentacles"
+    },
+    "filename": "p09.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Shared themes of abundance and nature’s gifts enhance personal satisfaction and nurturing of the self.",
+        "keywords": [
+          "shared",
+          "themes",
+          "abundance",
+          "nature"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "Happiness and success create a radiant life filled with warmth and prosperity, doubling joy.",
+        "keywords": [
+          "happiness",
+          "success",
+          "create",
+          "radiant"
+        ]
+      },
+      "ten_of_pentacles": {
+        "interpretation": "Wealth and security magnified, leading to lasting success and fulfillment in family and community.",
+        "keywords": [
+          "wealth",
+          "security",
+          "magnified",
+          "leading"
+        ]
+      }
+    },
+    "challenges": {
+      "the_hermit": {
+        "interpretation": "Encourages reflection on solitude versus isolation, discerning the difference between peace and loneliness.",
+        "keywords": [
+          "encourages",
+          "reflection",
+          "solitude",
+          "versus"
+        ]
+      },
+      "four_of_pentacles": {
+        "interpretation": "Warns against hoarding wealth or emotions, facing challenge of genuine, open-hearted sharing.",
+        "keywords": [
+          "warns",
+          "against",
+          "hoarding",
+          "wealth"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Risk of hopelessness if focused too heavily on perceived losses rather than achieved gains.",
+        "keywords": [
+          "risk",
+          "hopelessness",
+          "focused",
+          "heavily"
+        ]
+      }
+    },
+    "clarifies": {
+      "queen_of_pentacles": {
+        "interpretation": "Clarifies the role of nurturing and practical wisdom in achieving personal abundance and stability.",
+        "keywords": [
+          "clarifies",
+          "role",
+          "nurturing",
+          "practical"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Helps decipher dreams and vision, bringing clarity to aspirations grounded in the real world.",
+        "keywords": [
+          "helps",
+          "decipher",
+          "dreams",
+          "vision"
+        ]
+      },
+      "the_world": {
+        "interpretation": "Confirms completion of a significant cycle, integrating lessons of abundance and personal achievement.",
+        "keywords": [
+          "confirms",
+          "completion",
+          "significant",
+          "cycle"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_fool": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "seven_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

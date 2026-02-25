@@ -1,0 +1,681 @@
+{
+  "card_id": "four_of_cups",
+  "card_name": "Four of Cups",
+  "card_number": 4,
+  "suit": "cups",
+  "archetype": "the_recluse",
+  "core_meanings": {
+    "upright": {
+      "essence": "Reflective pause and introspection, contemplating what truly satisfies the heart amidst offerings that stir little interest.",
+      "keywords": [
+        "contemplation",
+        "apathy",
+        "discontent",
+        "introspection",
+        "meditation",
+        "emotional reevaluation"
+      ],
+      "psychological": "Represents the inner quest for emotional authenticity and the need to withdraw temporarily to rediscover true desires.",
+      "spiritual": "A period of spiritual gestation, where the soul turns inward seeking clarity and reconnection with deeper values.",
+      "practical": "Time to reassess current offerings and possibilities, understanding what truly resonates with your emotional needs.",
+      "shadow": "Indifference to potential opportunities due to dissatisfaction or an overly introspective focus withholding engagement."
+    },
+    "reversed": {
+      "essence": "Awakening to life’s offerings with renewed interest after a period of stagnation or isolation.",
+      "keywords": [
+        "withdrawal",
+        "new awareness",
+        "acceptance",
+        "gratitude",
+        "emotional opening",
+        "re-engagement"
+      ],
+      "psychological": "Breaking free from emotional numbness or depression, ready to engage anew with life’s possibilities.",
+      "spiritual": "Emerging from a spiritual retreat with fresh insights and a renewed connection to the divine flow.",
+      "practical": "Opportunities once ignored become appealing, prompting action and appreciation for what life brings.",
+      "shadow": "Avoiding necessary introspection, leading to misjudged priorities as life’s deeper lessons are missed."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past contemplations and inner retreats have shaped your current stance on emotional and spiritual satisfaction.",
+        "reversed": "Previous periods of withdrawal that led to missed opportunities may still influence your present situation.",
+        "keywords": [
+          "past withdrawal",
+          "retrospective pause",
+          "previous introspection",
+          "missed chances"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-ago moments when emotional contemplation set the foundation for deeper emotional understanding.",
+        "reversed": "Old patterns of disconnection or disregard for opportunities that echo into how you assess life today.",
+        "keywords": [
+          "foundational introspection",
+          "early disinterest",
+          "old patterns",
+          "deep roots"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent introspection has created space for reevaluating your emotional landscape and possibilities.",
+        "reversed": "A recent awakening from emotional dormancy, leading you to reconsider overlooked opportunities.",
+        "keywords": [
+          "recent reflection",
+          "reevaluation",
+          "awakening",
+          "emotional shift"
+        ]
+      },
+      "present": {
+        "upright": "Currently, a time for inward reflection, focusing on what holds true emotional value amidst superficial distractions.",
+        "reversed": "You are emerging from contemplation, feeling ready to engage with renewed clarity and understanding.",
+        "keywords": [
+          "current introspection",
+          "clarity",
+          "renewed engagement",
+          "emotional clarity"
+        ]
+      },
+      "present_situation": {
+        "upright": "In the present, an opportunity to explore deeper emotional truths and reassess what truly fulfills you.",
+        "reversed": "Now is the time to step beyond reflection, engaging with life with a newfound sense of discovery.",
+        "keywords": [
+          "emotional truths",
+          "fulfillment",
+          "discovery",
+          "present clarity"
+        ]
+      },
+      "future": {
+        "upright": "Future times may call for reflection and pause, an opportunity to realign your heart with your deeper desires.",
+        "reversed": "Be prepared for a breakthrough, where you awaken to opportunities and possibilities previously unseen.",
+        "keywords": [
+          "future reflection",
+          "realignment",
+          "awakening",
+          "new vision"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a chance for important introspection that helps you discern your true emotional needs.",
+        "reversed": "An imminent shift will bring renewed interest and passion for life’s gifts yet to be explored.",
+        "keywords": [
+          "imminent introspection",
+          "discernment",
+          "passion",
+          "exploration"
+        ]
+      },
+      "distant_future": {
+        "upright": "In the distant future, periods of reflection will foster emotional wisdom and depth.",
+        "reversed": "Long-term engagement with life, infused with gratitude and appreciation for all that unfolds.",
+        "keywords": [
+          "emotional wisdom",
+          "long-term depth",
+          "gratitude",
+          "appreciation"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge lies in overcoming apathy and finding the courage to seek authentic emotional fulfillment.",
+        "reversed": "The challenge is to remain open to possibilities without getting lost in disinterest or distraction.",
+        "keywords": [
+          "overcoming apathy",
+          "authentic fulfillment",
+          "openness",
+          "distraction management"
+        ]
+      },
+      "cross": {
+        "upright": "You face internal resistance that prevents you from accepting life’s offerings fully and openly.",
+        "reversed": "Your own haste to re-engage might conflict with the more gradually unfolding insights needed now.",
+        "keywords": [
+          "internal resistance",
+          "full acceptance",
+          "haste conflict",
+          "gradual insight"
+        ]
+      },
+      "obstacle": {
+        "upright": "Emotional stagnation or dissatisfaction obscures the presence of valuable opportunities around you.",
+        "reversed": "The rush to move forward might undermine deeper lessons waiting to be integrated.",
+        "keywords": [
+          "stagnation",
+          "dissatisfaction",
+          "missed opportunities",
+          "undermined lessons"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to appreciate what you have, while still being open to discovering new aspects of fulfillment.",
+        "reversed": "The lesson is embracing change, taking a refreshed view of past ignored possibilities.",
+        "keywords": [
+          "appreciation",
+          "discovery",
+          "change",
+          "refreshment"
+        ]
+      },
+      "shadow": {
+        "upright": "The shadow involves an inclination to retreat emotionally, missing out on what life offers.",
+        "reversed": "Ignoring important introspection leads to repeating past patterns without learning their depth.",
+        "keywords": [
+          "emotional retreat",
+          "life missed",
+          "introspection avoidance",
+          "repeated patterns"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Apathy and withdrawal hinder your ability to connect meaningfully with the present moment.",
+        "reversed": "Your eagerness to resume activity might blur the lines of valuable introspective truths.",
+        "keywords": [
+          "apathy",
+          "withdrawal",
+          "meaningful connection",
+          "blurred truths"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Allow yourself time to connect with feelings and recognize what resonates deeply with your heart.",
+        "reversed": "Reawaken your spirit by exploring new possibilities with an appreciative heart and renewed vision.",
+        "keywords": [
+          "connect with feelings",
+          "spiritual reawakening",
+          "appreciative heart",
+          "renewed vision"
+        ]
+      },
+      "action": {
+        "upright": "Take a step back to reflect on what truly matters to you emotionally; grasp no more than necessary.",
+        "reversed": "Embrace opportunities with open arms and take active steps toward what excites your soul.",
+        "keywords": [
+          "reflect",
+          "emotional importance",
+          "active steps",
+          "soul excitement"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as in a contemplative phase, evaluating where you stand emotionally and spiritually.",
+        "reversed": "You now begin to shift your approach by seeking new connections or rekindling past interests.",
+        "keywords": [
+          "contemplative phase",
+          "evaluation",
+          "shift",
+          "rekindling interests"
+        ]
+      },
+      "what_helps": {
+        "upright": "Allow quiet and space to gain insights and understanding of your true emotional needs.",
+        "reversed": "Seeking support from community or friends can help ignite enthusiasm and new perspectives.",
+        "keywords": [
+          "quiet",
+          "insight",
+          "understanding",
+          "community support"
+        ]
+      },
+      "guidance": {
+        "upright": "Your inner guidance encourages you to value introspection as a path to emotional clarity and depth.",
+        "reversed": "Life urges you to open your heart and embrace opportunities currently before you.",
+        "keywords": [
+          "inner guidance",
+          "emotional clarity",
+          "open heart",
+          "embracing opportunities"
+        ]
+      },
+      "best_course": {
+        "upright": "Choose to engage in reflective practices that allow emotional clarity while resisting hasty decisions.",
+        "reversed": "Venture into participation with life’s current offerings, but remain mindful of deeper insights.",
+        "keywords": [
+          "reflective practices",
+          "engagement",
+          "mindfulness",
+          "current offerings"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to uncover deep emotional truths, yet fear that genuine satisfaction might remain elusive.",
+        "reversed": "Hope to re-engage fully with all life has to offer, but fear the vulnerability it requires.",
+        "keywords": [
+          "emotional truths",
+          "elusive satisfaction",
+          "full engagement",
+          "vulnerability"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope for clarity and understanding of what truly fulfills your heart.",
+        "reversed": "Desire to awaken to new possibilities that stir your soul and bring joy.",
+        "keywords": [
+          "clarity",
+          "understanding",
+          "new possibilities",
+          "joy"
+        ]
+      },
+      "fears": {
+        "upright": "Fear that introspection might lead to prolonged detachment and isolation.",
+        "reversed": "Anxiety about reconnecting with life and the expectations it may bring.",
+        "keywords": [
+          "detachment",
+          "isolation",
+          "reconnection anxiety",
+          "expectations"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by a desire for authentic fulfillment and emotional depth.",
+        "reversed": "Subconscious readiness to reawaken and participate fully in the richness of life.",
+        "keywords": [
+          "authentic fulfillment",
+          "emotional depth",
+          "readiness",
+          "participation"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of current emotional doldrums and the quest for meaningful engagement.",
+        "reversed": "Conscious recognition of opportunities and openness to reengaging with vibrant enthusiasm.",
+        "keywords": [
+          "emotional doldrums",
+          "meaningful engagement",
+          "openness",
+          "enthusiasm"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Feelings of dissatisfaction and ennui linger as you assess emotional offerings.",
+        "reversed": "Eagerness and gratitude permeate your emotional state as you open to life’s abundance.",
+        "keywords": [
+          "dissatisfaction",
+          "ennui",
+          "eagerness",
+          "gratitude"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart yearns for a deeper connection and understanding of its true desires.",
+        "reversed": "Wisdom within urges a newfound appreciation and exploration of heartfelt possibilities.",
+        "keywords": [
+          "deeper connection",
+          "understanding",
+          "appreciation",
+          "exploration"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, a reflective and introspective stance prevails, contemplating true needs.",
+        "reversed": "Ready to reengage with curiosity and a fresh perspective on life’s opportunities.",
+        "keywords": [
+          "reflective",
+          "introspective",
+          "curiosity",
+          "fresh perspective"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others perceive you as contemplative and possibly distant, focused inward.",
+        "reversed": "Those around you notice your renewed interest and budding engagement with life's flow.",
+        "keywords": [
+          "contemplative presence",
+          "perceived distance",
+          "renewed interest",
+          "engagement"
+        ]
+      },
+      "others": {
+        "upright": "Others might encourage introspection, valuing its wisdom, or misunderstand your withdrawal.",
+        "reversed": "Support from friends or community encourages your reconnection and exploration.",
+        "keywords": [
+          "encouragement",
+          "misunderstanding",
+          "support",
+          "reconnection"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment prompts reflection through its calmness or monotony, guiding introspection.",
+        "reversed": "External circumstances inspire action and participation in promising ventures.",
+        "keywords": [
+          "environmental calm",
+          "monotony",
+          "action inspiration",
+          "participation"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as pondering and reserved, others may interpret your contemplation variously.",
+        "reversed": "Seen as awakening and ready to embrace life’s opportunities with newfound zeal.",
+        "keywords": [
+          "pondering",
+          "reserved",
+          "awakening",
+          "zeal"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces at work encourage deeper self-exploration for authentic emotional connection.",
+        "reversed": "Hidden synchronicities guide you toward path that opens your heart and spirit.",
+        "keywords": [
+          "self-exploration",
+          "authentic connection",
+          "hidden guidance",
+          "spiritual path"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Through careful reflection, greater emotional fulfillment and clarity await your embrace.",
+        "reversed": "Reengagement leads to a future rich with gratitude and acceptance of life’s generous offerings.",
+        "keywords": [
+          "emotional fulfillment",
+          "clarity",
+          "gratitude",
+          "acceptance"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, introspection paves the way to profound emotional wisdom and authentic connections.",
+        "reversed": "Final horizons promise joy and satisfaction, arising from new engagements and perspectives.",
+        "keywords": [
+          "profound wisdom",
+          "authentic connections",
+          "joyful horizons",
+          "new perspectives"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possible insights may transform into decisions that realign your heart’s desires with life’s path.",
+        "reversed": "Likely result involves vibrant participation and uncovering new passions and opportunities.",
+        "keywords": [
+          "insights",
+          "realignment",
+          "participation",
+          "passion"
+        ]
+      },
+      "best_case": {
+        "upright": "Best-case scenario is emotional rejuvenation that aligns intentions with true goals.",
+        "reversed": "Ideal outcomes create a life where every moment is met with appreciation and enthusiasm.",
+        "keywords": [
+          "rejuvenation",
+          "alignment",
+          "appreciation",
+          "enthusiasm"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case sees continued disinterest and missed emotional possibilities through inaction.",
+        "reversed": "Delaying engagement leads to fleeting chances and repeated cycles of regret.",
+        "keywords": [
+          "continued disinterest",
+          "missed possibilities",
+          "fleeting chances",
+          "regret"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship involves emotional apathy, dissatisfaction, or the need to look beyond surface contentment. The dynamic may include taking each other for granted or missing new emotional opportunities because you're focused on what's lacking.",
+        "reversed": "The connection is moving beyond apathy toward emotional renewal. New opportunities for love are being recognized. The relationship involves releasing dissatisfaction and appreciating what you truly have together.",
+        "keywords": [
+          "apathy",
+          "dissatisfaction",
+          "contemplation",
+          "missed opportunities"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A period of introspection defines love life, contemplating what truly fulfills your heart.",
+      "reversed": "Renewed openness to love, ready to embrace new experiences with gratitude and enthusiasm.",
+      "keywords": [
+        "introspection in love",
+        "heart fulfillment",
+        "renewed openness",
+        "love enthusiasm"
+      ]
+    },
+    "career": {
+      "upright": "Time to reassess career choices, reflecting on what resonates with deeper ambitions and desires.",
+      "reversed": "New professional opportunities emerge, urging renewed engagement and creative ventures.",
+      "keywords": [
+        "career reassessment",
+        "deeper ambitions",
+        "professional opportunities",
+        "engagement"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual growth through inner reflection, seeking greater understanding of core beliefs.",
+      "reversed": "Emergence from spiritual contemplation, ready to integrate insights into everyday life.",
+      "keywords": [
+        "inner reflection",
+        "core beliefs",
+        "spiritual emergence",
+        "integration"
+      ]
+    },
+    "financial": {
+      "upright": "Contemplating financial goals, considering what truly satisfies beyond mere accumulation.",
+      "reversed": "Financial decisions lie ahead, embraced with renewed vigor and willingness to invest wisely.",
+      "keywords": [
+        "financial contemplation",
+        "goal reflection",
+        "renewed vigor",
+        "wise investment"
+      ]
+    },
+    "health": {
+      "upright": "Reflecting on health priorities, understanding deeper connections between body and mind.",
+      "reversed": "Awakening to new health practices that reinvigorate life and enhance well-being.",
+      "keywords": [
+        "health reflection",
+        "body-mind connection",
+        "new practices",
+        "well-being"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "cancer",
+    "hebrew_letter": "chet",
+    "numerology": 4,
+    "planet": "moon",
+    "season": "summer",
+    "time_of_day": "dusk",
+    "colors": [
+      "blue",
+      "green",
+      "silver"
+    ],
+    "crystals": [
+      "moonstone",
+      "aquamarine",
+      "larimar"
+    ],
+    "herbs": [
+      "sage",
+      "lavender",
+      "chamomile"
+    ]
+  },
+  "symbols": {
+    "crossed_arms": "emotional defenses",
+    "cloud": "divine offering",
+    "three_cups": "past experiences and joys",
+    "tree": "security and grounding",
+    "sitting_figure": "introspection and contemplation"
+  },
+  "affirmations": [
+    "I trust in the clarity that introspection brings to my heart.",
+    "Opportunities flow to me as I remain open and receptive.",
+    "My heart’s desires guide me towards fulfillment and joy.",
+    "I appreciate and value the wisdom of my solitude."
+  ],
+  "journaling_prompts": [
+    "What emotions arise when I contemplate life’s current offerings?",
+    "How can solitude deepen my understanding of what I truly need?",
+    "What past opportunities have I overlooked, and what can I learn from them?",
+    "How can I transform moments of dissatisfaction into pathways for growth?"
+  ],
+  "meditation_focus": "Embracing presence in reflection and contemplation, allowing stillness to reveal life’s subtle offerings.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:39:54.869490",
+    "card_info": {
+      "name": "Four of Cups",
+      "number": 4,
+      "suit": "cups"
+    },
+    "filename": "c04.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_hermit": {
+        "interpretation": "Deep reflective exploration, promoting profound spiritual insights.",
+        "keywords": [
+          "deep",
+          "reflective",
+          "exploration",
+          "promoting"
+        ]
+      },
+      "the_hanged_man": {
+        "interpretation": "Understanding of life’s pauses, fostering patience and inner growth.",
+        "keywords": [
+          "understanding",
+          "life",
+          "pauses",
+          "fostering"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Enhanced sense of emotional evaluation and choice discernment.",
+        "keywords": [
+          "enhanced",
+          "sense",
+          "emotional",
+          "evaluation"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Resistance to change or sudden upheaval disrupts contemplation’s safety.",
+        "keywords": [
+          "resistance",
+          "change",
+          "sudden",
+          "upheaval"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "Joy and optimism challenge introspection’s quiet and stillness.",
+        "keywords": [
+          "optimism",
+          "challenge",
+          "introspection",
+          "quiet"
+        ]
+      },
+      "three_of_swords": {
+        "interpretation": "Emotional pain may hinder the clarity and peace needed.",
+        "keywords": [
+          "emotional",
+          "pain",
+          "hinder",
+          "clarity"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_moon": {
+        "interpretation": "Insight into hidden emotions and subconscious desires.",
+        "keywords": [
+          "insight",
+          "hidden",
+          "emotions",
+          "subconscious"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Clarification of internal dilemmas and emotional conflicts.",
+        "keywords": [
+          "clarification",
+          "internal",
+          "dilemmas",
+          "emotional"
+        ]
+      },
+      "nine_of_cups": {
+        "interpretation": "Reveals authentic emotional wishes and satisfaction.",
+        "keywords": [
+          "reveals",
+          "authentic",
+          "emotional",
+          "wishes"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_hermit": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ace_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "four_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hermit": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

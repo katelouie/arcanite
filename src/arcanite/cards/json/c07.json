@@ -1,0 +1,683 @@
+{
+  "card_id": "seven_of_cups",
+  "card_name": "Seven of Cups",
+  "card_number": 7,
+  "suit": "cups",
+  "archetype": "the_dreamer",
+  "core_meanings": {
+    "upright": {
+      "essence": "A world of tantalizing possibilities, beckoning imagination, dreams, and choices. The allure and challenge of discernment amidst a sea of options.",
+      "keywords": [
+        "choices",
+        "illusions",
+        "imagination",
+        "fantasy",
+        "potential",
+        "temptation",
+        "daydreaming"
+      ],
+      "psychological": "Represents the part of the psyche overwhelmed by desires and possibilities, struggling to anchor dreams into reality.",
+      "spiritual": "Journey through the mystical and imagined, where intuition seeks to discern truth from illusion. Spiritual visions that inspire yet confound.",
+      "practical": "Time to sort through options carefully. Prioritize realistic choices over tempting distractions. Trust intuition for clarity.",
+      "shadow": "Entrapment in delusion, where dreams usurp reality, leading to paralysis or confusion. Fear drives indecision."
+    },
+    "reversed": {
+      "essence": "Clearing of illusions, recognizing the truth from dreams, or overwhelming confusion and deception. A rude awakening or necessary clarity.",
+      "keywords": [
+        "realism",
+        "clarity",
+        "overwhelm",
+        "indecision",
+        "illusion shattering",
+        "disillusionment"
+      ],
+      "psychological": "Either a breakthrough in understanding true desires or an ongoing struggle with self-deception and conflicting wants.",
+      "spiritual": "Illusions falling away, revealing the deeper truths of your spiritual path. Finding genuine connection to the divine through stripping away fantasy.",
+      "practical": "Necessity to focus on one clear direction. Eliminate distractions and commit to a single road. Reality checks are crucial.",
+      "shadow": "Resistant to seeing truth, preferring comforting illusions. Refusal to make necessary choices leading to chaos."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A period of abundant ideas or opportunities that shaped your current path. Choices once filled with potential have led you here.",
+        "reversed": "Past confusion or enchantment with illusion that caused stagnation. Revisiting decisions left unexplored.",
+        "keywords": [
+          "past potential",
+          "shaped choices",
+          "dreamy period",
+          "unexplored paths"
+        ]
+      },
+      "distant_past": {
+        "upright": "Ancient themes of fantasy and yearning for different realities that influence your life choices even now.",
+        "reversed": "Deep-set disillusionment grounded in past experience, a time when dreams shattered shaped cautious present.",
+        "keywords": [
+          "ancient dreams",
+          "early illusions",
+          "deep disillusionment",
+          "caution themes"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently faced with many alluring options. Decisions made have opened new areas of exploration.",
+        "reversed": "Recent realizations have revealed truths from illusions, altering the course of your actions.",
+        "keywords": [
+          "recent choices",
+          "revealed truths",
+          "new exploration",
+          "course altered"
+        ]
+      },
+      "present": {
+        "upright": "Currently engulfed in a sea of possibilities. Navigating with intuition will guide through the fog to clarity.",
+        "reversed": "Facing the need for clear choices amidst overwhelming options. Strip away illusions for progress.",
+        "keywords": [
+          "current possibilities",
+          "need for clarity",
+          "sea of options",
+          "progress demands"
+        ]
+      },
+      "present_situation": {
+        "upright": "At this moment, evaluating a spectrum of possibilities, each with its own allure and potential consequence.",
+        "reversed": "Focused on discerning reality from illusion, grounding dreams into actionable goals, necessity for clear vision.",
+        "keywords": [
+          "present evaluation",
+          "spectrum of choices",
+          "grounding dreams",
+          "clear vision"
+        ]
+      },
+      "future": {
+        "upright": "Future presents opportunities requiring wise discernment. Choose pathways that align with true desires for fulfillment.",
+        "reversed": "Upcoming revelations may dissolve fantasies, compelling a grounded re-evaluation of passions.",
+        "keywords": [
+          "future opportunities",
+          "wise discernment",
+          "alignment with desires",
+          "grounded evaluation"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon to confront decisions that demand prioritizing desires. Trust your heart's guidance for wise selection.",
+        "reversed": "Imminent clarity emerges as illusions fade, urging decisive action grounded in truth.",
+        "keywords": [
+          "upcoming decisions",
+          "trust heart",
+          "clarity emerging",
+          "truth grounding"
+        ]
+      },
+      "distant_future": {
+        "upright": "Long-term outcomes shaped by imaginative choices made today. Fostering dreams aligned with soul's purpose leads to satisfaction.",
+        "reversed": "Eventual necessity to reckon with past fantasies, leading to authentic understanding and genuine growth.",
+        "keywords": [
+          "imaginative choices",
+          "soul purpose",
+          "authentic understanding",
+          "genuine growth"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is choosing wisely among many tempting options. Avoid becoming lost in fantasy, anchor dreams in reality.",
+        "reversed": "Balancing realism with vision. Not allowing disillusionment to quench aspirations. Facing distorted desires head-on.",
+        "keywords": [
+          "wise choice",
+          "anchoring dreams",
+          "balance realism",
+          "facing distortions"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures may push you towards choices that don’t resonate with your true self. Use inner knowing to navigate.",
+        "reversed": "Crossed by resistance to facing truth, thus creating internal conflict and clouded judgment.",
+        "keywords": [
+          "external pressure",
+          "true resonance",
+          "internal conflict",
+          "clouded judgment"
+        ]
+      },
+      "obstacle": {
+        "upright": "Persistent attractions to ungrounded promises hinder progress. Clarity of purpose must cut through the allure.",
+        "reversed": "Stubborn refusal to accept emerging realities. Fear of leaving comforting illusions for the unknown.",
+        "keywords": [
+          "ungrounded attractions",
+          "clarity needed",
+          "refusal to accept",
+          "fear of unknown"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn the art of discernment and alignment with true desires. Choices are powerful; use them to manifest truth.",
+        "reversed": "Finding lessons in clarity and recognizing hard truths as opportunities for authentic living.",
+        "keywords": [
+          "art of discernment",
+          "manifest truth",
+          "clarity lessons",
+          "authentic opportunities"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow holds the fear of commitment to a single path, preferring to linger in fantasies and potential.",
+        "reversed": "The shadow hides resistance to facing reality, clinging to illusions as protection from disappointment.",
+        "keywords": [
+          "fear of commitment",
+          "lingering in fantasy",
+          "resistance to reality",
+          "protection in illusions"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Invisible fears of choosing wrong restrict movement. Perfectionism clouds the beauty of action.",
+        "reversed": "Avoidance of seeing the truth, choosing distractions over decisive action, hinders genuine progress.",
+        "keywords": [
+          "fear of wrong choices",
+          "perfectionism",
+          "avoidance of truth",
+          "distractions over action"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Select one path, grounding dreams in reality. Embrace decisive action over endless contemplation.",
+        "reversed": "Move through confusion to clarity by focusing on genuine desires, stripping away illusions for honest living.",
+        "keywords": [
+          "select path",
+          "ground dreams",
+          "decisive action",
+          "honest living"
+        ]
+      },
+      "action": {
+        "upright": "Engage actively with dreams, choosing those that ignite your spirit. Allow intuition to command, not overwhelm.",
+        "reversed": "Initiate clarity by eliminating distractions that do not align with your core truths. Act from understanding.",
+        "keywords": [
+          "engage actively",
+          "ignite spirit",
+          "eliminate distractions",
+          "act from understanding"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as a dreamer, open to vast possibilities. A visionary seeking alignment with heart's desires.",
+        "reversed": "You may see yourself as clear-sighted or lost within swirling options; clarity is emerging but requires attention.",
+        "keywords": [
+          "dreamer identity",
+          "vast possibilities",
+          "visionary seeker",
+          "emerging clarity"
+        ]
+      },
+      "what_helps": {
+        "upright": "Allowing imagination to inspire, but placing dreams within realistic frameworks propels progress.",
+        "reversed": "Gaining insight through intuitive clarity and embracing honest feedback that aligns dreams with possibilities.",
+        "keywords": [
+          "imagination inspiration",
+          "realistic frameworks",
+          "intuitive clarity",
+          "honest feedback"
+        ]
+      },
+      "guidance": {
+        "upright": "Lean into the mystery of choice, but engage the heart to discern which paths resonate profoundly with truth.",
+        "reversed": "Spiritual guidance recommends unveiling hidden truths, bringing light to shadowed desires.",
+        "keywords": [
+          "mystery of choice",
+          "heart discernment",
+          "unveil truths",
+          "light to shadows"
+        ]
+      },
+      "best_course": {
+        "upright": "Prioritize dreams with purpose, trust the inner wisdom to illuminate the way through tempting uncertainties.",
+        "reversed": "An optimal path suggests clarity over chaos, finding grounding in honesty to prevent potential pitfalls.",
+        "keywords": [
+          "prioritize purpose",
+          "inner wisdom",
+          "clarity over chaos",
+          "grounding honesty"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for the magical fulfillment of dreams; fear of choosing unwisely leading to illusions unraveling.",
+        "reversed": "Fear that reality can never match imagined possibilities, hope for breakthroughs in self-awareness and clarity.",
+        "keywords": [
+          "magical fulfillment",
+          "unwise choice fear",
+          "reality match hope",
+          "breakthroughs"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to dance with the unknown, exploring each choice's beauty while staying true to authentic desires.",
+        "reversed": "Hope lies in transformation through clarity, allowing honest experiences to shape soulful paths.",
+        "keywords": [
+          "dance with unknown",
+          "choice beauty",
+          "authentic desires",
+          "transformation through clarity"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of being deceived by your heart's whims, or losing direction within the vast sea of options.",
+        "reversed": "Fear that clarity will strip away cherished dreams, revealing harsh truths of lost possibilities.",
+        "keywords": [
+          "heart's whims",
+          "lost direction",
+          "clarity stripping dreams",
+          "harsh truths"
+        ]
+      },
+      "subconscious": {
+        "upright": "Unconscious oceans of creativity and yearning, driven by the soul's ancient wanderings seeking expression.",
+        "reversed": "Deep-rooted patterns of self-deception or fears around discernment cloud inner vision with veils.",
+        "keywords": [
+          "ocean of creativity",
+          "soul wanderings",
+          "self-deception patterns",
+          "inner vision clouds"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously exploring possibilities, curious about varied paths, craving alignment with truest desires.",
+        "reversed": "Aware of internal dialogue urging clarity, struggling with allowing visions to merge with reality.",
+        "keywords": [
+          "exploring possibilities",
+          "curious paths",
+          "alignment cravings",
+          "dialogue of clarity"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally enveloped by dreams, excitement mingling with anxiety about potential outcomes.",
+        "reversed": "Overwhelmed by confusion or clarity breaking through tumultuous waters, leading to grounded peace.",
+        "keywords": [
+          "dream state",
+          "excitement with anxiety",
+          "confusion overwhelm",
+          "grounded peace break"
+        ]
+      },
+      "heart": {
+        "upright": "Heart seeks endless possibilities and the freedom to choose, unburdened by others' expectations.",
+        "reversed": "Heart whispers warnings of illusions, urging careful inspection before pursuits take hold.",
+        "keywords": [
+          "endless possibilities",
+          "freedom to choose",
+          "illusion warnings",
+          "careful inspection"
+        ]
+      },
+      "mind": {
+        "upright": "Mind entertains fantasies, weighing potential dreams with the logic of their realization.",
+        "reversed": "Mental state involves discernment struggles, battling illusions to harness clarity and truth.",
+        "keywords": [
+          "entering fantasies",
+          "weighing dreams",
+          "discernment struggles",
+          "battling illusions"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others see you as dreamer and visionary. While inspiring, they caution you not to fly too high.",
+        "reversed": "Others may doubt your ability to see clearly but respect the powerful insights you uncover.",
+        "keywords": [
+          "dreamer image",
+          "visionary",
+          "caution from others",
+          "insight respect"
+        ]
+      },
+      "others": {
+        "upright": "Others encourage your imagination and creativity, seeing them as a gift, even if impractical at times.",
+        "reversed": "Others' perceptions may create pressure to conform, challenging your unconventional dreams.",
+        "keywords": [
+          "encouragement",
+          "creative gifts",
+          "pressure to conform",
+          "challenging dreams"
+        ]
+      },
+      "environment": {
+        "upright": "An environment rich with potential prompts exploration, yet caution is required to avoid distractions.",
+        "reversed": "Current surroundings offer clarity directly, urging you to clean perceptions and see reality as it is.",
+        "keywords": [
+          "rich potential",
+          "exploration prompt",
+          "clarity surroundings",
+          "reality perception"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as enchanting, full of potential, though sometimes elusive or disengaged from reality.",
+        "reversed": "Seen as confusing yet insightful, as your journey through clarity demands continued respect.",
+        "keywords": [
+          "enchanting",
+          "potential",
+          "elusive",
+          "confusing yet insightful"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces plant seeds of potential just below sight, inviting curiosity to explore their origins.",
+        "reversed": "Hidden truths ready to emerge, bringing light to overlooked possibilities and urging immediate focus.",
+        "keywords": [
+          "potential seeds",
+          "curiosity invitation",
+          "emerging truths",
+          "immediate focus"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Fulfillment by aligning dreams with reality, harnessing imaginative visions into concrete actions.",
+        "reversed": "A grounding of dreams into reality happens as clarity prevails, achievements founded on truth.",
+        "keywords": [
+          "aligned fulfillment",
+          "imaginative actions",
+          "grounding dreams",
+          "truth achievements"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Your willingness to explore possibilities leads to innovative outcomes and fulfilling ventures.",
+        "reversed": "The final outcome involves clarity forged through truth, crafting authentic paths aligned with core values.",
+        "keywords": [
+          "innovative outcomes",
+          "fulfilling ventures",
+          "clarity forging",
+          "authentic paths"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "One possibility involves achieving dreams grounded in realism, allowing joyous manifestation.",
+        "reversed": "Possible outcomes reflect breakthrough insights stripping illusions to reveal genuine potential.",
+        "keywords": [
+          "grounded dreams",
+          "joyous manifestation",
+          "breakthrough insights",
+          "genuine potential"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case sees dreams carved into reality, supported by clear intentions and aligned efforts.",
+        "reversed": "Optimal scenarios involve liberating insights, freeing bound creativity to express authentically.",
+        "keywords": [
+          "dreams realized",
+          "clear intentions",
+          "liberating insights",
+          "free creativity"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case navigates a wasteland of options without direction, potentially bypassing true desires.",
+        "reversed": "The darkest result keeps dreams forever elusive, clouded by unresolved clarity and conflict.",
+        "keywords": [
+          "directionless wasteland",
+          "bypassed desires",
+          "elusive dreams",
+          "unresolved conflict"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves many emotional choices and possibly unrealistic fantasies about what's possible together. Between you exists confusion about feelings or an abundance of options that makes commitment difficult.",
+        "reversed": "Illusions are being cleared away and realistic choices are emerging. Fantasy may be giving way to practical decision-making. The relationship involves focusing on what's real and possible rather than what's merely dreamed.",
+        "keywords": [
+          "choices",
+          "illusions",
+          "fantasy",
+          "confusion"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Numerous romantic possibilities; clarity needed to pursue genuine connection over alluring distractions.",
+      "reversed": "Disillusionment leads to clarity about true desires, promising authentic relationships beyond fantasy.",
+      "keywords": [
+        "romantic options",
+        "genuine connection",
+        "relationship clarity",
+        "beyond fantasy"
+      ]
+    },
+    "career": {
+      "upright": "Boundless career opportunities require careful selection to ensure ambition meets reality.",
+      "reversed": "Entails realistic evaluation of career paths, cutting through glamour for stable success.",
+      "keywords": [
+        "career opportunities",
+        "careful selection",
+        "realistic evaluation",
+        "stable success"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual exploration through diverse practices. Discernment needed to avoid captivating distractions.",
+      "reversed": "Clear spiritual insights emerge as illusions dissolve, revealing true understanding and growth.",
+      "keywords": [
+        "spiritual exploration",
+        "discernment",
+        "clear insights",
+        "growth"
+      ]
+    },
+    "financial": {
+      "upright": "Financial enticements abound but require prudent analysis to avoid lofty impractical ventures.",
+      "reversed": "Realistic decisions illuminate financial stability, dissolving deceptive extravagance.",
+      "keywords": [
+        "financial enticements",
+        "prudent analysis",
+        "realistic decisions",
+        "financial stability"
+      ]
+    },
+    "health": {
+      "upright": "Exploring multiple wellness paths; choose one aligned with holistic well-being for lasting health.",
+      "reversed": "Grounded approach emerges as facts encourage a harmonious balance of mind, body, and spirit.",
+      "keywords": [
+        "wellness exploration",
+        "holistic choice",
+        "grounded approach",
+        "harmony"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "scorpio",
+    "hebrew_letter": "nun",
+    "numerology": 7,
+    "planet": "venus",
+    "season": "autumn",
+    "time_of_day": "twilight",
+    "colors": [
+      "indigo",
+      "silver",
+      "cerulean"
+    ],
+    "crystals": [
+      "amethyst",
+      "labradorite",
+      "turquoise"
+    ],
+    "herbs": [
+      "lotus",
+      "mugwort",
+      "valerian"
+    ]
+  },
+  "symbols": {
+    "clouds": "ephemeral possibilities and obscured truths",
+    "cups": "emotional depth and dreams",
+    "snake": "transformation and hidden knowledge",
+    "castle": "aspirations and fantasies",
+    "jewels": "lure of wealth and material allure",
+    "dragon": "power and awakening of primal forces"
+  },
+  "affirmations": [
+    "I discern the dreams that nurture my spirit and align them with my reality.",
+    "I trust my inner guidance to navigate through choices in clarity and truth.",
+    "The path to my desires is illuminated with wisdom and purpose.",
+    "I create from a place of integrity, allowing illusions to fall away."
+  ],
+  "journaling_prompts": [
+    "What dreams are calling to me, and how can I ground them in reality?",
+    "How can I discern true desires from temporary distractions?",
+    "What truths am I ready to embrace by letting go of illusions?",
+    "Where in my life am I resisting clarity due to fear of change?"
+  ],
+  "meditation_focus": "Centering in the heart’s wisdom to illuminate true desires amidst the dreamscape of possibility.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:45:07.728313",
+    "card_info": {
+      "name": "Seven of Cups",
+      "number": 7,
+      "suit": "cups"
+    },
+    "filename": "c07.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_moon": {
+        "interpretation": "Heightened introspection and dreams, deepening intuitive exploration.",
+        "keywords": [
+          "heightened",
+          "introspection",
+          "dreams",
+          "deepening"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Increased potential for self-deception and subtle maneuvers masking truth.",
+        "keywords": [
+          "increased",
+          "potential",
+          "self",
+          "deception"
+        ]
+      },
+      "two_of_pentacles": {
+        "interpretation": "Multiple possibilities demand dexterous management and adaptability.",
+        "keywords": [
+          "multiple",
+          "possibilities",
+          "demand",
+          "dexterous"
+        ]
+      }
+    },
+    "challenges": {
+      "the_emperor": {
+        "interpretation": "Complexity clashes with structure, creating tension between rigid control and creative freedom.",
+        "keywords": [
+          "complexity",
+          "clashes",
+          "structure",
+          "creating"
+        ]
+      },
+      "three_of_swords": {
+        "interpretation": "Disillusionment causing emotional upheaval; discernment crucial.",
+        "keywords": [
+          "disillusionment",
+          "causing",
+          "emotional",
+          "upheaval"
+        ]
+      },
+      "four_of_cups": {
+        "interpretation": "Challenges in recognizing blessings amidst dissatisfaction or apathy.",
+        "keywords": [
+          "challenges",
+          "recognizing",
+          "blessings",
+          "amidst"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_high_priestess": {
+        "interpretation": "Unveiling intuition to discern true wants from illusionary desires.",
+        "keywords": [
+          "unveiling",
+          "intuition",
+          "discern",
+          "true"
+        ]
+      },
+      "eight_of_cups": {
+        "interpretation": "Clarifies the need for departure from unsatisfactory illusions toward true fulfillment.",
+        "keywords": [
+          "clarifies",
+          "need",
+          "departure",
+          "unsatisfactory"
+        ]
+      },
+      "ace_of_wands": {
+        "interpretation": "Illuminating inspired action paths, igniting potential.",
+        "keywords": [
+          "illuminating",
+          "inspired",
+          "action",
+          "paths"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hermit": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_emperor": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hermit": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

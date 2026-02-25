@@ -1,0 +1,654 @@
+{
+  "card_id": "king_of_cups",
+  "card_name": "King of Cups",
+  "card_number": 14,
+  "suit": "cups",
+  "archetype": "the compassionate ruler",
+  "core_meanings": {
+    "upright": {
+      "essence": "Mastery of emotions balanced with wisdom and compassion. The ability to navigate the waters of the heart with grace and understanding.",
+      "keywords": [
+        "compassion",
+        "emotional intelligence",
+        "stability",
+        "diplomacy",
+        "supportive",
+        "calm",
+        "wise"
+      ],
+      "psychological": "Represents emotional maturity and the capacity to hold space for others without losing oneself. Acknowledging feelings while maintaining clarity.",
+      "spiritual": "A connection to the deep currents of the soul, offering insight and empathy. Channeling love and understanding as spiritual gifts.",
+      "practical": "Ability to handle complex emotional situations with tact and understanding. Guide others through empathetic leadership.",
+      "shadow": "Emotional suppression, being overly stoic, using charm to manipulate, or neglecting one's own feelings for the sake of others."
+    },
+    "reversed": {
+      "essence": "Emotional imbalance, manipulation, or drowning in emotions. Challenges in maintaining equilibrium between heart and mind.",
+      "keywords": [
+        "manipulation",
+        "emotional turmoil",
+        "volatility",
+        "detachment",
+        "avoidance"
+      ],
+      "psychological": "Either overwhelmed by emotions or disconnected from them. Struggling with expressing feelings authentically.",
+      "spiritual": "Disconnection from spiritual heart, leading to lack of empathy or compassion fatigue.",
+      "practical": "Difficulties in maintaining emotional balance in personal and professional life. Need for boundaries and self-care.",
+      "shadow": "Using emotions to control others or being paralyzed by emotional instability."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Emotional stability in the past set a strong foundation for current relationships and decisions, allowing compassion to guide actions.",
+        "reversed": "Past emotional turmoil or manipulation may still resonate, affecting your present ability to trust and connect.",
+        "keywords": [
+          "past stability",
+          "emotional foundation",
+          "old turmoil",
+          "lingering mistrust"
+        ]
+      },
+      "distant_past": {
+        "upright": "Early experiences of emotional encouragement and empathy shaped your soul's journey toward compassionate leadership.",
+        "reversed": "Long-standing patterns of emotional detachment or control that originated in early life affect your emotional maturity.",
+        "keywords": [
+          "emotional roots",
+          "early empathy",
+          "detachment",
+          "control patterns"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent situation required emotional composure and wisdom, enhancing your leadership and understanding.",
+        "reversed": "Recent emotional upheaval may have disrupted your balance, requiring attention to healing and self-compassion.",
+        "keywords": [
+          "recent composure",
+          "wisdom applied",
+          "emotional disruption",
+          "healing needed"
+        ]
+      },
+      "present": {
+        "upright": "You're in a position to offer emotional support and wisdom to others. Balance and empathy guide your current path.",
+        "reversed": "Struggle with emotional stability in current circumstances. Need to reconnect with your compassionate core.",
+        "keywords": [
+          "present support",
+          "empathy guiding",
+          "emotional struggle",
+          "need for balance"
+        ]
+      },
+      "present_situation": {
+        "upright": "Your core experience revolves around navigating emotional waters with wisdom and compassion, being a source of support.",
+        "reversed": "At your core, emotional imbalance or avoidance is causing inner conflict, affecting your relationships.",
+        "keywords": [
+          "central stability",
+          "supportive presence",
+          "inner conflict",
+          "unresolved emotions"
+        ]
+      },
+      "future": {
+        "upright": "A future opportunity to lead with empathy and understanding is approaching. Emotional mastery will be your strength.",
+        "reversed": "Future challenges may arise from unaddressed emotional issues. Prepare to face them with honesty and patience.",
+        "keywords": [
+          "upcoming leadership",
+          "empathy as strength",
+          "emotional challenges",
+          "patience required"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a situation will call for emotional intelligence and maturity. Embrace it as a chance to grow.",
+        "reversed": "Immediate emotional volatility may test your patience. Prioritize inner balance and self-care.",
+        "keywords": [
+          "immediate maturity",
+          "growth opportunity",
+          "volatility test",
+          "balance needed"
+        ]
+      },
+      "distant_future": {
+        "upright": "Your ongoing journey toward emotional wisdom leads to enduring fulfillment and meaningful connections.",
+        "reversed": "Long-term avoidance of emotional depths may lead to dissatisfaction or emptiness. Seek resolution and growth.",
+        "keywords": [
+          "journey to wisdom",
+          "lasting fulfillment",
+          "avoidance risk",
+          "seeking growth"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge lies in maintaining your emotional balance while offering support to others. Avoid becoming the emotional anchor that neglects itself.",
+        "reversed": "Challenge of overcoming emotional manipulation or self-delusion. Time to face emotional truths.",
+        "keywords": [
+          "emotional balance",
+          "supportive role",
+          "emotional anchor",
+          "facing truths"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures may challenge your ability to remain compassionate without compromising your own needs.",
+        "reversed": "Internal conflicts or avoidance are crossing your natural empathy, causing emotional blockages.",
+        "keywords": [
+          "external pressures",
+          "compromised needs",
+          "internal conflicts",
+          "empathy blocked"
+        ]
+      },
+      "obstacle": {
+        "upright": "The obstacle is the temptation to suppress emotions to maintain control, rather than embracing vulnerability.",
+        "reversed": "Obstacles include emotional avoidance or using charm in manipulative ways to gain advantage.",
+        "keywords": [
+          "emotional suppression",
+          "embracing vulnerability",
+          "avoidance tactics",
+          "manipulation"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn that true strength lies in vulnerability and emotional authenticity. Compassion is a gift, not a burden.",
+        "reversed": "The lesson involves recognizing and healing emotional wounds rather than ignoring them or using them as leverage.",
+        "keywords": [
+          "strength in vulnerability",
+          "emotional authenticity",
+          "healing wounds",
+          "recognizing leverage"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow contains unacknowledged emotional power - integrating it leads to profound personal wisdom.",
+        "reversed": "Hidden fears of emotional expression or domination, needing conscious work to bring balance.",
+        "keywords": [
+          "emotional power",
+          "personal wisdom",
+          "hidden fears",
+          "expression balance"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Overextending empathy or ignoring self-care hinder your capacity to lead compassionately. Remember to nourish yourself.",
+        "reversed": "Old emotional pain or ingrained habits hinder your ability to grow emotionally. Healing through awareness is needed.",
+        "keywords": [
+          "overextended empathy",
+          "self-care neglect",
+          "emotional pain",
+          "healing awareness"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace your role as a compassionate leader. Offer support but maintain personal boundaries. Lead with heart and wisdom.",
+        "reversed": "Either face avoided emotions with courage or recognize manipulative tendencies and seek genuine connection.",
+        "keywords": [
+          "compassionate leadership",
+          "supportive presence",
+          "emotional courage",
+          "genuine connection"
+        ]
+      },
+      "action": {
+        "upright": "Act from a place of empathy and understanding. Use your emotional wisdom to guide decisions and interactions.",
+        "reversed": "Take steps to resolve emotional turbulence. Engage in practices that promote inner harmony and authenticity.",
+        "keywords": [
+          "empathy action",
+          "emotional wisdom",
+          "resolve turbulence",
+          "inner harmony"
+        ]
+      },
+      "your_approach": {
+        "upright": "Your approach is shaped by emotional maturity and calm, aiding others with your wise, supportive nature.",
+        "reversed": "You may struggle with appearing collected while feeling emotionally overwhelmed or detached internally.",
+        "keywords": [
+          "emotional maturity",
+          "calming presence",
+          "inner overwhelm",
+          "external calm"
+        ]
+      },
+      "what_helps": {
+        "upright": "Practice consistent self-reflection and emotional care. Maintaining a strong connection with your inner world strengthens your outward compassion.",
+        "reversed": "Seek help from trusted allies or mentors to gain clarity and insight, especially if emotions feel unmanageable.",
+        "keywords": [
+          "self-reflection",
+          "inner connection",
+          "trusted help",
+          "clarity seeking"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual guidance urges you to use your compassionate nature to heal and uplift others, aligning with your soul's purpose.",
+        "reversed": "Guidance involves developing discernment, ensuring your empathy is not used against you by those who would take advantage.",
+        "keywords": [
+          "uplifting others",
+          "soul purpose",
+          "discernment",
+          "empathy protection"
+        ]
+      },
+      "best_course": {
+        "upright": "Engage with the world from a place of empathy and insight. Trust your emotional intelligence to lead with grace.",
+        "reversed": "Address emotional imbalance with intentional actions. Prioritize emotional clarity and boundaries.",
+        "keywords": [
+          "empathy engagement",
+          "insight action",
+          "address imbalance",
+          "emotional clarity"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to be a source of healing and understanding, feared is emotional vulnerability being mistaken for weakness.",
+        "reversed": "Fear of being overwhelmed by feelings or manipulating situations to maintain control. Hope for emotional liberation.",
+        "keywords": [
+          "healing source",
+          "vulnerability fear",
+          "overwhelmed feelings",
+          "emotional liberation"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope to create deeper emotional connections and to guide others with wisdom and empathy.",
+        "reversed": "Hopes may be clouded by unrealistic expectations of control over one’s own emotions or the emotions of others.",
+        "keywords": [
+          "deeper connections",
+          "wisdom guidance",
+          "control expectations",
+          "emotional aspirations"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing emotional control or being unable to maintain peace amidst chaos.",
+        "reversed": "Fear of being exposed or vulnerable, or that emotions once hidden will surface unexpectedly.",
+        "keywords": [
+          "emotional control",
+          "peace loss",
+          "vulnerability fear",
+          "unexpected exposure"
+        ]
+      },
+      "subconscious": {
+        "upright": "Beneath the surface lies a well of deep empathy and ancient wisdom, guiding your interactions even beyond conscious awareness.",
+        "reversed": "Subconsciously, there's avoidance of emotional depth, fearing the loss of control or re-emergence of unresolved feelings.",
+        "keywords": [
+          "deep empathy",
+          "ancient wisdom",
+          "depth avoidance",
+          "unresolved feelings"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of a desire to nurture and support whilst maintaining emotional equilibrium.",
+        "reversed": "Awareness of emotional instability may masquerade as stoicism or detachment, shielding deeper pains.",
+        "keywords": [
+          "nurturing desire",
+          "emotional equilibrium",
+          "emotional shielding",
+          "stoic facade"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel centered and compassionate, capable of offering guidance and maintaining peace.",
+        "reversed": "Feelings of being emotionally adrift or reactive, needing reconnection with inner balance and calm.",
+        "keywords": [
+          "centered",
+          "compassionate",
+          "emotionally adrift",
+          "needed reconnection"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart seeks to guide and heal others with its rich well of understanding and empathy.",
+        "reversed": "Heart urges for honesty and openness, bypassing manipulative tendencies or fear-based reactions.",
+        "keywords": [
+          "heart's guidance",
+          "healing empathy",
+          "honesty call",
+          "fearless expression"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, you process emotions with understanding, harmonizing thought and feeling with ease.",
+        "reversed": "Mind may struggle with rationalizing deep emotions, leading to avoidance or dishonesty in expression.",
+        "keywords": [
+          "understanding",
+          "harmonized mind",
+          "deep emotions",
+          "expression struggle"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Surroundings support your emotional intelligence and wisdom, with others looking up to you as a stabilizing force.",
+        "reversed": "External chaos may bleed into your emotional world, disrupting the balance you aim to maintain.",
+        "keywords": [
+          "supportive surroundings",
+          "stabilizing force",
+          "external chaos",
+          "balance disruption"
+        ]
+      },
+      "others": {
+        "upright": "Others see you as a source of comfort and wisdom, appreciating your insight and ability to handle emotional complexities.",
+        "reversed": "Others may perceive you as emotionally withdrawn or unpredictable, causing misunderstandings or conflicts.",
+        "keywords": [
+          "comfort source",
+          "wisdom appreciation",
+          "emotional withdrawal",
+          "perception conflicts"
+        ]
+      },
+      "environment": {
+        "upright": "Environment nurtures emotional growth, offering opportunities to use your compassionate nature positively.",
+        "reversed": "Your current environment may challenge your emotional boundaries, necessitating clear boundaries and self-protection.",
+        "keywords": [
+          "nurturing growth",
+          "compassion opportunities",
+          "boundary challenges",
+          "self-protection"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others perceive you as emotionally balanced and empathetic, a leader in times of emotional need.",
+        "reversed": "Others see potential volatility or emotional detachment, creating a gap in trust or understanding.",
+        "keywords": [
+          "balanced perception",
+          "empathetic leadership",
+          "emotional detachment",
+          "trust gap"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Hidden blessings and synchronicities support your role as an emotional guide, aiding in unseen ways.",
+        "reversed": "Unseen stresses or energy drains might be influencing your emotional capacity. Recognize and address them.",
+        "keywords": [
+          "hidden blessings",
+          "guiding synchronicities",
+          "unseen stresses",
+          "energy drains"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Stability, compassion, and wisdom lead to harmonious relationships and personal fulfillment.",
+        "reversed": "Outcome may involve confronting emotional trials or coming to terms with past manipulations.",
+        "keywords": [
+          "stability",
+          "harmonious relationships",
+          "emotional trials",
+          "past confrontations"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, your mastery of emotions will lead to enriched life experiences and respectful partnerships.",
+        "reversed": "Final outcomes could involve lessons learned through emotional imbalances, calling for healing and growth.",
+        "keywords": [
+          "emotional mastery",
+          "enriched experiences",
+          "learned lessons",
+          "healing call"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possibility of becoming a beacon of empathy and wisdom, profoundly impacting those around you.",
+        "reversed": "Possible entanglements in emotional conflicts if imbalances aren't addressed, leading to personal growth through challenge.",
+        "keywords": [
+          "empathy beacon",
+          "impactful presence",
+          "conflict entanglement",
+          "growth challenge"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenario: emotional leadership leads to peace and creative collaboration, aligned with your highest purpose.",
+        "reversed": "Even the best situations may require facing discomfort to achieve growth and greater emotional honesty.",
+        "keywords": [
+          "emotional leadership",
+          "peaceful collaboration",
+          "facing discomfort",
+          "honesty growth"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves losing touch with emotional depth, resulting in superficial relationships and unfulfilled potential.",
+        "reversed": "Allowing manipulation or unresolved emotional pain to guide you could lead to isolation or mistrust.",
+        "keywords": [
+          "lost depth",
+          "superficiality",
+          "manipulation",
+          "emotional isolation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship represents the highest expression of emotional wisdom and spiritual love. The dynamic between you transcends personal needs to serve something greater. You embody unconditional love, healing, and emotional transformation for yourselves and others.",
+        "reversed": "The spiritual love may become possessive or emotionally manipulative. Wisdom might be corrupted by personal desires or ego. The relationship could involve false spirituality, emotional manipulation in the name of love, or inability to embody true compassion.",
+        "keywords": [
+          "spiritual love",
+          "wisdom",
+          "healing",
+          "transcendence"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Emotional patience and empathy create a harmonious relationship. Act as an emotional anchor for your partner.",
+      "reversed": "In love, avoid manipulating emotions. Address emotional wounds for a healthier connection.",
+      "keywords": [
+        "patience",
+        "emotional anchor",
+        "manipulation",
+        "healthy connection"
+      ]
+    },
+    "career": {
+      "upright": "Lead with emotional intelligence and empathy at work. Your ability to remain calm under pressure is a valuable asset.",
+      "reversed": "Emotional upheaval or manipulation may disrupt professional relationships. Seek balance and clarity.",
+      "keywords": [
+        "emotional intelligence",
+        "calm leadership",
+        "professional disruption",
+        "balance seeking"
+      ]
+    },
+    "spiritual": {
+      "upright": "Your spiritual path involves deep empathy and understanding, connecting with the essence of compassion.",
+      "reversed": "Explore emotional imbalances affecting spiritual growth. Work towards aligning with heart-held truths.",
+      "keywords": [
+        "deep empathy",
+        "spiritual compassion",
+        "emotional imbalance",
+        "heart alignment"
+      ]
+    },
+    "financial": {
+      "upright": "Approach financial matters with a balanced perspective, allowing emotional insight to guide wise decision-making.",
+      "reversed": "Emotional volatility may lead to financial instability. Strive for clear, grounded thinking.",
+      "keywords": [
+        "balanced perspective",
+        "wise decisions",
+        "financial volatility",
+        "grounded thinking"
+      ]
+    },
+    "health": {
+      "upright": "Emotional well-being directly impacts your physical health. Prioritize emotional care for holistic health.",
+      "reversed": "Emotional stress may affect your physical body. Address emotional roots to heal and balance.",
+      "keywords": [
+        "well-being",
+        "holistic health",
+        "stress impact",
+        "emotional roots"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "pisces",
+    "hebrew_letter": "",
+    "numerology": 14,
+    "planet": "neptune",
+    "season": "autumn",
+    "time_of_day": "twilight",
+    "colors": [
+      "blue",
+      "silver",
+      "aqua"
+    ],
+    "crystals": [
+      "amethyst",
+      "aquamarine",
+      "rose quartz"
+    ],
+    "herbs": [
+      "jasmine",
+      "lotus",
+      "chamomile"
+    ]
+  },
+  "symbols": {
+    "crown": "mastery over emotion",
+    "calm sea": "emotional tranquility",
+    "ship": "navigating emotional depths",
+    "cup in hand": "offering support and understanding",
+    "fish talisman": "intuition and subtlety"
+  },
+  "affirmations": [
+    "I lead with compassion and wisdom, balancing heart and mind.",
+    "I trust my emotional intelligence to guide my actions.",
+    "My empathy is a gift that I share with the world.",
+    "I honor my emotions and those of others with grace."
+  ],
+  "journaling_prompts": [
+    "How can I deepen my emotional understanding and empathy?",
+    "What emotional truths need acknowledging to find balance?",
+    "In what ways can I use my emotional intelligence to lead?",
+    "Where am I called to offer compassion, both to myself and others?"
+  ],
+  "meditation_focus": "Cultivating inner calm and emotional wisdom, connecting with the heart's intuitive guidance.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:56:56.985692",
+    "card_info": {
+      "name": "King of Cups",
+      "number": 14,
+      "suit": "cups"
+    },
+    "filename": "c14.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Nurturing and compassion reach new heights, creating a loving and abundant environment.",
+        "keywords": [
+          "nurturing",
+          "compassion",
+          "reach",
+          "heights"
+        ]
+      },
+      "the_star": {
+        "interpretation": "Emotional healing combined with renewed hope, guiding through optimism and spiritual connection.",
+        "keywords": [
+          "emotional",
+          "healing",
+          "combined",
+          "renewed"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Emotional upheaval challenges stability, requiring resilience and deep inner wisdom to navigate.",
+        "keywords": [
+          "emotional",
+          "upheaval",
+          "challenges",
+          "stability"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Manipulation and deceit test emotional honesty and integrity, demanding clarity and courage.",
+        "keywords": [
+          "manipulation",
+          "deceit",
+          "test",
+          "emotional"
+        ]
+      }
+    },
+    "clarifies": {
+      "temperance": {
+        "interpretation": "Highlights the importance of emotional moderation and balance in sustaining harmony.",
+        "keywords": [
+          "highlights",
+          "importance",
+          "emotional",
+          "moderation"
+        ]
+      },
+      "the_moon": {
+        "interpretation": "Brings clarity to emotions clouded by illusion, fostering understanding and trust in intuition.",
+        "keywords": [
+          "brings",
+          "clarity",
+          "emotions",
+          "clouded"
+        ]
+      }
+    },
+    "similar_energy": {
+      "queen_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "five_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "page_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "king_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

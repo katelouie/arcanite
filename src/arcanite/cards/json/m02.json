@@ -1,0 +1,727 @@
+{
+  "card_id": "the_high_priestess",
+  "card_name": "The High Priestess",
+  "card_number": 2,
+  "suit": "major_arcana",
+  "archetype": "the_mystic",
+  "core_meanings": {
+    "upright": {
+      "essence": "Embodiment of mystery, intuition, and sacred knowledge. The guardian of the unconscious, revealing truths hidden within the depths of silence.",
+      "keywords": [
+        "intuition",
+        "mystery",
+        "inner knowledge",
+        "subconscious",
+        "wisdom",
+        "silence",
+        "reflection"
+      ],
+      "psychological": "Represents the inner world where silence and stillness allow the psyche to access deep wisdom and insights beyond logic.",
+      "spiritual": "Connection to the divine feminine and the sacred mysteries of the universe. Symbolizes a portal to higher understanding.",
+      "practical": "Trust inner guidance rather than external advice. Be patient and allow intuitive insights to unfold naturally.",
+      "shadow": "Doubting one's own intuitive abilities, ignoring internal guidance, or fearing the unknown aspects of the self."
+    },
+    "reversed": {
+      "essence": "Blocked intuition, hidden motives, or secrets kept in shadows. Either fear of listening to inner voice or manipulation through obscurity.",
+      "keywords": [
+        "blocked intuition",
+        "secrets",
+        "missed insights",
+        "hidden motives",
+        "ignorance",
+        "misjudgment"
+      ],
+      "psychological": "Disconnected from inner wisdom; confused by over-reliance on logical reasoning, or lost in the maze of one's own hidden fears.",
+      "spiritual": "Struggling to access spiritual truths, either through skepticism or by being swayed by illusions and deceptions.",
+      "practical": "Need to withdraw and reconnect with inner guidance; be wary of ignoring signs or being misled by surface appearances.",
+      "shadow": "Using spiritual knowledge for manipulation, or allowing others to obscure your truth and intuition."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Your past is shaped by the quiet wisdom found in introspection. Hidden influences from intuition have silently guided key paths.",
+        "reversed": "A past tendency to ignore inner guidance has led to repeated mistakes. Secrets once buried continue to impact you.",
+        "keywords": [
+          "hidden guidance",
+          "silent influence",
+          "buried secrets",
+          "unrecognized intuition"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-ago connections to ancestral wisdom or feminine mysteries have informed your spiritual path in profound ways.",
+        "reversed": "Early rejection of intuition or fear of unseen realms established a pattern of distrust in inner knowing.",
+        "keywords": [
+          "ancestral wisdom",
+          "early intuition",
+          "foundational mysteries",
+          "fear of unseen"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently, intuitive insights have illuminated a crucial decision, though the influence may have been subtle.",
+        "reversed": "Missed signs or ignored gut feelings have recently led to confusion or missteps in judgment.",
+        "keywords": [
+          "recent insight",
+          "subtle influence",
+          "ignored signs",
+          "confused judgment"
+        ]
+      },
+      "present": {
+        "upright": "Secret knowledge is whispering to you now, urging you to trust in the unseen and embrace stillness to find clarity.",
+        "reversed": "Currently, either overwhelmed by uncertainties or ignoring your deepest knowing. The veils are thick around you.",
+        "keywords": [
+          "secret wisdom",
+          "present mystery",
+          "trust unseen",
+          "current doubts"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the heart of your situation lies a rich tapestry of hidden truths waiting to be uncovered through intuitive exploration.",
+        "reversed": "Core doubts fuel actions and decisions; illusion clouds judgment, requiring intentional withdrawal to see clearly.",
+        "keywords": [
+          "hidden truths",
+          "core mysteries",
+          "illusion",
+          "clouded judgment"
+        ]
+      },
+      "future": {
+        "upright": "The future holds revelations and transformative insights. Trust in intuition will guide you through mysteries unknown.",
+        "reversed": "Potential for confusion or manipulation unless inner wisdom is actively cultivated and trusted as a guide.",
+        "keywords": [
+          "future revelations",
+          "transformative insights",
+          "mysteries",
+          "potential confusion"
+        ]
+      },
+      "near_future": {
+        "upright": "Prepare for an awakening moment, where intuition offers clear guidance and unveils hidden opportunities.",
+        "reversed": "An impending situation may deceive or confuse. Cultivate stillness and reconnect with intuition swiftly.",
+        "keywords": [
+          "awakening",
+          "intuition",
+          "hidden opportunity",
+          "deception risk"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, deep connection with the inner self will reveal life's profound mysteries, leading to spiritual maturity.",
+        "reversed": "Without inner cultivation, long-term wandering in shadows may occur, limiting understanding and fulfillment.",
+        "keywords": [
+          "spiritual maturity",
+          "profound mysteries",
+          "long-term understanding",
+          "shadow wandering"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Challenge lies in embracing silence without fear and learning to value the unspoken truths within.",
+        "reversed": "Overcoming fear of the unknown and avoidance of intuitive discomfort is pivotal for growth.",
+        "keywords": [
+          "embracing silence",
+          "unspoken truths",
+          "fear of unknown",
+          "intuitive discomfort"
+        ]
+      },
+      "cross": {
+        "upright": "The demands of the external world challenge your internal focus and dedication to spiritual pursuits.",
+        "reversed": "Confusion or distraction from others' opinions crosses your path, obscuring personal clarity.",
+        "keywords": [
+          "external demands",
+          "internal focus",
+          "confusion",
+          "distraction"
+        ]
+      },
+      "obstacle": {
+        "upright": "Discomfort with not knowing or with ambiguity can block full acceptance of intuitive messages.",
+        "reversed": "The obstacle is a lack of faith in your ability to discern truth from illusion within yourself.",
+        "keywords": [
+          "ambiguity discomfort",
+          "intuitive messages",
+          "faith issues",
+          "discernment"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson is in trusting the inner voice and embracing the dance between knowing and not knowing.",
+        "reversed": "Learning to confront fears around uncertainty or illusion leads to a higher understanding.",
+        "keywords": [
+          "trust inner voice",
+          "dance of knowing",
+          "confronting fears",
+          "higher understanding"
+        ]
+      },
+      "shadow": {
+        "upright": "Within your shadow lies dormant intuitive power, waiting to be recognized and integrated.",
+        "reversed": "Fear of the depths of your own psyche or unconscious motives needs gentle exploration.",
+        "keywords": [
+          "dormant power",
+          "shadow exploration",
+          "unconscious motives",
+          "integrated wisdom"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Rational doubting and reluctance to enter the unknown inhibit deeper spiritual insights.",
+        "reversed": "Fear of judgment or ridicule for mystical beliefs hinders genuine spiritual growth.",
+        "keywords": [
+          "rational doubt",
+          "spiritual insight",
+          "fear of judgment",
+          "mystical beliefs"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Seek stillness and solitude to listen to your own heart's wisdom. Let intuition guide your choices.",
+        "reversed": "Resist the urge to act from confusion. Withdraw and reassess, letting deeper insights surface naturally.",
+        "keywords": [
+          "seek stillness",
+          "heart's wisdom",
+          "natural insights",
+          "withdrawal"
+        ]
+      },
+      "action": {
+        "upright": "Engage in meditation or quiet reflection to connect with the insights waiting below the surface.",
+        "reversed": "Step back from chaotic environments; allow space to clear your mind and reset intentions.",
+        "keywords": [
+          "meditation",
+          "quiet reflection",
+          "mind clearing",
+          "reset intentions"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as a seeker of deeper truths, valuing contemplation and subtle insights.",
+        "reversed": "Beware of seeing yourself as either overly mystical or disconnected from reality; seek balance.",
+        "keywords": [
+          "seeker",
+          "contemplative",
+          "mystical",
+          "balanced reality"
+        ]
+      },
+      "what_helps": {
+        "upright": "Trust in quietude and embrace periods of introspective solitude; they are fertile grounds for insight.",
+        "reversed": "Seek truth by questioning beliefs and opening up to alternate perspectives without fear.",
+        "keywords": [
+          "trust quietude",
+          "introspective solitude",
+          "question beliefs",
+          "open perspectives"
+        ]
+      },
+      "guidance": {
+        "upright": "The silence speaks - your inner voice is the wise guide to follow. Honor it as sacred and divinely tuned.",
+        "reversed": "Instead of reaching outward for answers, turn inwards and explore the depths of your own soul.",
+        "keywords": [
+          "inner voice",
+          "wise guide",
+          "sacred silence",
+          "soul exploration"
+        ]
+      },
+      "best_course": {
+        "upright": "Remain open to subtle messages and keep faith in your journey, trusting the unknown as divine unfolding.",
+        "reversed": "Detach from rigidity and allow space for the unknown; self-trust is the compass you need.",
+        "keywords": [
+          "subtle messages",
+          "trust journey",
+          "divine unfolding",
+          "self-trust"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to connect with hidden wisdom; fear of being unable to access it, or of the truths revealed.",
+        "reversed": "Fear of deception or losing control; hope that maintaining logic will safeguard against confusion.",
+        "keywords": [
+          "hidden wisdom",
+          "revealed truths",
+          "deception fear",
+          "logic as safeguard"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire to deepen intuitive gifts and to understand yourself with nuance and depth.",
+        "reversed": "Hopes may include finding clarity amidst chaos or validation for your intuitive insights.",
+        "keywords": [
+          "deepen gifts",
+          "self-understanding",
+          "clarity",
+          "validation"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of unveiling uncomfortable truths or stepping into the unknown that disrupts established beliefs.",
+        "reversed": "Fear may stem from loss of control over the hidden or fears about revealing inner shadows.",
+        "keywords": [
+          "uncomfortable truths",
+          "unknown",
+          "loss of control",
+          "inner shadows"
+        ]
+      },
+      "subconscious": {
+        "upright": "Within you lies a wellspring of intuitive knowledge; the subconscious is a rich source of guidance.",
+        "reversed": "Subconsciously, you may resist listening to your inner voice, resulting in missed wisdom.",
+        "keywords": [
+          "intuitive wellspring",
+          "inner guidance",
+          "resistance",
+          "missed wisdom"
+        ]
+      },
+      "conscious": {
+        "upright": "Your consciousness embraces the mysterious and is attuned to seeing beyond surface appearances.",
+        "reversed": "Consciously grappling with a sense of disconnect between intuition and logical reasoning.",
+        "keywords": [
+          "embracing mystery",
+          "attuned",
+          "disconnect",
+          "logical reasoning"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally drawn towards depth, mystery, and a yearning for truth beyond the seen.",
+        "reversed": "Emotions are caught between intrigue and skepticism, longing for clarity amidst uncertainty.",
+        "keywords": [
+          "yearning for truth",
+          "depth",
+          "intrigue",
+          "skepticism"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs for understanding and communion with the sacred mysteries of life.",
+        "reversed": "Heart desires clarity, but fears vulnerability; joy in mystery may be overshadowed by apprehension.",
+        "keywords": [
+          "understanding",
+          "communion",
+          "sacred mysteries",
+          "vulnerability"
+        ]
+      },
+      "mind": {
+        "upright": "Mind is finely tuned to recognize patterns and insights emerging from the mysterious depths.",
+        "reversed": "Mind struggles between relying on intellect and being overwhelmed by intuitive noise.",
+        "keywords": [
+          "tuned mind",
+          "patterns",
+          "insights",
+          "struggle"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others see you as mysterious and wise; your presence evokes curiosity and respect.",
+        "reversed": "Perception may be skewed; others might misinterpret your introspection as aloofness or secrecy.",
+        "keywords": [
+          "mysterious",
+          "wise presence",
+          "curiosity",
+          "misinterpretation"
+        ]
+      },
+      "others": {
+        "upright": "Supportive individuals understand and appreciate your journey inward, valuing your unique insight.",
+        "reversed": "External influences might manipulate or sway you into doubting your inner truth.",
+        "keywords": [
+          "supportive understanding",
+          "unique insight",
+          "manipulation",
+          "doubt"
+        ]
+      },
+      "environment": {
+        "upright": "Your surroundings are conducive to reflection and spiritual exploration, inviting introspection.",
+        "reversed": "An environment full of noise, chaos, and distractions delays or distorts spiritual progress.",
+        "keywords": [
+          "reflective",
+          "spiritual exploration",
+          "noise",
+          "distractions"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a vessel of wisdom and intuition, others admire your depth even if they don’t fully grasp it.",
+        "reversed": "May be viewed as elusive or enigmatic, leading to misunderstandings about your intentions.",
+        "keywords": [
+          "vessel of wisdom",
+          "admiration",
+          "enigmatic",
+          "misunderstandings"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Spiritual forces align to guide you with synchronicity and subtle signs, steering you towards clarity.",
+        "reversed": "Cloaked motives or unseen forces may skew perception, calling for extra discernment.",
+        "keywords": [
+          "spiritual alignment",
+          "synchronicity",
+          "hidden motives",
+          "discernment"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Authentic engagement with your inner wisdom leads to enriched understanding and peace in the mysteries.",
+        "reversed": "Outcomes may be clouded by missed opportunities for understanding or by failing to trust inner cues.",
+        "keywords": [
+          "enriched understanding",
+          "mystery peace",
+          "clouded outcomes",
+          "trust issues"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, embracing inner truths fosters growth and alignment with your spiritual path.",
+        "reversed": "Non-acceptance of deeper insights can result in lessons unlearned and a lack of fulfillment.",
+        "keywords": [
+          "inner truths",
+          "spiritual alignment",
+          "unlearned lessons",
+          "unfulfillment"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Unlocking insights leads to unforeseen connections and a deeper alignment with your life’s purpose.",
+        "reversed": "Continued resistance may lead to confusion or missed guidance, keeping paths clouded.",
+        "keywords": [
+          "unlocking insights",
+          "purpose alignment",
+          "confusion",
+          "missed guidance"
+        ]
+      },
+      "best_case": {
+        "upright": "Trust facilitates a harmonious integration of intuition with daily life, enhancing clarity and peace.",
+        "reversed": "What seems best may require letting go of control and opening to guided uncertainty.",
+        "keywords": [
+          "harmonious integration",
+          "enhanced clarity",
+          "guided uncertainty",
+          "letting go"
+        ]
+      },
+      "worst_case": {
+        "upright": "Loss of faith in self leads to external reliance and inner calm disrupted; the journey veers off course.",
+        "reversed": "Worst-case involves deception and manipulation overpowering internal truth, resulting in disarray.",
+        "keywords": [
+          "lost faith",
+          "external reliance",
+          "deception",
+          "disarray"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic is one of deep intuitive understanding and hidden knowledge. You share secrets, spiritual insights, or access to information not available to others. There's a mysterious quality to your connection that others may not fully understand.",
+        "reversed": "Secrets, manipulation, or hidden agendas poison the dynamic. Information may be withheld or used as power over the other. The relationship may involve deception, jealousy, or unhealthy competition for knowledge or status.",
+        "keywords": [
+          "intuition",
+          "secrets",
+          "hidden knowledge",
+          "mystery"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Embrace the mystery in your relationship; much lies beneath the surface, waiting for intuitive connection.",
+      "reversed": "Secrets or miscommunications could cloud your love life. Seek clarity and address underlying concerns.",
+      "keywords": [
+        "relationship mystery",
+        "intuitive connection",
+        "secrets",
+        "miscommunication"
+      ]
+    },
+    "career": {
+      "upright": "Trust your instincts regarding career moves; unseen opportunities may enhance professional fulfillment.",
+      "reversed": "Missed cues or ignored intuition may result in career stagnation; be wary of deceptive opportunities.",
+      "keywords": [
+        "instincts",
+        "unseen opportunities",
+        "career stagnation",
+        "deceptive opportunities"
+      ]
+    },
+    "spiritual": {
+      "upright": "Deepen your spiritual practice by exploring sacred mysteries and allowing intuition to guide your path.",
+      "reversed": "Disconnected spiritual undertakings yield confusion; focus on authentic practices for true alignment.",
+      "keywords": [
+        "sacred mysteries",
+        "spiritual depth",
+        "authentic practices",
+        "alignment"
+      ]
+    },
+    "financial": {
+      "upright": "Rely on intuitive judgment for investments or financial decisions; trust subtle signals over loud advice.",
+      "reversed": "Potential financial missteps due to ignored instincts; avoid impulsive choices or misleading counsel.",
+      "keywords": [
+        "intuitive judgment",
+        "financial decisions",
+        "impulsive choices",
+        "misleading counsel"
+      ]
+    },
+    "health": {
+      "upright": "Listen to your body’s natural wisdom; intuitive wellness practices can enhance health and vitality.",
+      "reversed": "Neglecting body signals or intuitive nudges may result in health challenges; prioritize inner listening.",
+      "keywords": [
+        "body wisdom",
+        "wellness practices",
+        "health challenges",
+        "inner listening"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "moon",
+    "hebrew_letter": "gimel",
+    "numerology": 2,
+    "planet": "moon",
+    "season": "winter",
+    "time_of_day": "night",
+    "colors": [
+      "silver",
+      "blue",
+      "white"
+    ],
+    "crystals": [
+      "moonstone",
+      "sapphire",
+      "amethyst"
+    ],
+    "herbs": [
+      "mugwort",
+      "jasmine",
+      "lotus"
+    ]
+  },
+  "symbols": {
+    "scroll": "hidden knowledge and ancient wisdom",
+    "pomegranate": "fertility and abundance of the subconscious",
+    "moon": "intuition and cycles of life",
+    "pillars": "balance between light and dark, seen and unseen",
+    "water": "flow and depth of emotional knowledge"
+  },
+  "affirmations": [
+    "I trust in the mysteries of my inner world and embrace the wisdom they reveal.",
+    "My intuition is my guide, leading me gently and wisely through life.",
+    "I find peace in stillness, where my true knowing emerges.",
+    "I honor the sacred whispers of my intuition and let them illuminate my path."
+  ],
+  "journaling_prompts": [
+    "What secret knowledge is my intuition trying to reveal?",
+    "How can I deepen my connection to my inner wisdom?",
+    "Where in my life am I called to embrace the mystery and unknown?",
+    "What fears or resistances arise when I listen to my intuition?"
+  ],
+  "meditation_focus": "Embracing the stillness within and connecting to the sacred mysteries of intuition. Breathe into the unknown, and let the silence speak.",
+  "_metadata": {
+    "generated_at": "2025-08-13T16:42:31.717456",
+    "card_info": {
+      "name": "The High Priestess",
+      "number": 2,
+      "suit": "major_arcana"
+    },
+    "filename": "m02.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_moon": {
+        "interpretation": "Deepens intuitive connection; layers of illusion and truth reveal hidden insights and emotions.",
+        "keywords": [
+          "deepens",
+          "intuitive",
+          "connection",
+          "layers"
+        ]
+      },
+      "the_hermit": {
+        "interpretation": "A call to profound spiritual solitude; the inner journey leads to enlightenment and clarity.",
+        "keywords": [
+          "call",
+          "profound",
+          "spiritual",
+          "solitude"
+        ]
+      },
+      "four_of_swords": {
+        "interpretation": "Heightened need for rest and reflection brings forth hidden wisdom during quiet contemplation.",
+        "keywords": [
+          "heightened",
+          "need",
+          "rest",
+          "reflection"
+        ]
+      }
+    },
+    "challenges": {
+      "the_emperor": {
+        "interpretation": "Tension between intuitive flow and rigid structure; balance is required between wisdom and order.",
+        "keywords": [
+          "tension",
+          "intuitive",
+          "flow",
+          "rigid"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Danger of being lost in fantasies; discernment needed to separate reality from illusion.",
+        "keywords": [
+          "danger",
+          "being",
+          "lost",
+          "fantasies"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Conflicts may arise from unseen motives or misunderstandings, necessitating deeper insight.",
+        "keywords": [
+          "conflicts",
+          "arise",
+          "unseen",
+          "motives"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_lovers": {
+        "interpretation": "Reveals deeper emotional truths within relationships; encourages intuitive connection and empathy.",
+        "keywords": [
+          "reveals",
+          "deeper",
+          "emotional",
+          "truths"
+        ]
+      },
+      "five_of_pentacles": {
+        "interpretation": "Offers understanding of the spiritual lessons hidden within material hardship or loss.",
+        "keywords": [
+          "offers",
+          "understanding",
+          "spiritual",
+          "lessons"
+        ]
+      },
+      "justice": {
+        "interpretation": "Unveils the hidden truths behind legal matters or moral decisions, urging impartial wisdom.",
+        "keywords": [
+          "unveils",
+          "hidden",
+          "truths",
+          "behind"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_moon": {
+        "interpretation": "Both cards dwell in the realm of intuition and hidden knowledge. Together they deepen psychic abilities and reveal what lies beneath the surface of consciousness.",
+        "keywords": [
+          "deep intuition",
+          "hidden knowledge",
+          "psychic abilities",
+          "subconscious wisdom"
+        ]
+      },
+      "the_hanged_man": {
+        "interpretation": "Both cards represent inner knowing that comes through stillness and patience. They share the wisdom of waiting and receiving rather than forcing.",
+        "keywords": [
+          "patient wisdom",
+          "inner stillness",
+          "receptive knowing",
+          "spiritual waiting"
+        ]
+      },
+      "the_hermit": {
+        "interpretation": "Inner wisdom meets solitary seeking. The High Priestess's intuitive depths complement The Hermit's conscious search for spiritual truth and understanding.",
+        "keywords": [
+          "inner wisdom",
+          "spiritual seeking",
+          "contemplative depth",
+          "conscious intuition"
+        ]
+      }
+    },
+    "opposite_energy": {
+      "the_emperor": {
+        "interpretation": "Intuitive receptivity contrasts with authoritative structure. The High Priestess's fluid wisdom balances The Emperor's rigid control and external power.",
+        "keywords": [
+          "intuition vs authority",
+          "receptive vs controlling",
+          "fluid vs rigid",
+          "inner vs outer power"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "The veiled mysteries of The High Priestess stand opposite to The Sun's open illumination. Shadow consciousness balances brilliant clarity and visible truth.",
+        "keywords": [
+          "mystery vs clarity",
+          "veiled vs illuminated",
+          "shadow vs light",
+          "hidden vs revealed"
+        ]
+      },
+      "the_chariot": {
+        "interpretation": "Passive reception versus active control. The High Priestess's patient waiting for wisdom contrasts with The Chariot's forceful determination to achieve goals.",
+        "keywords": [
+          "passive vs active",
+          "waiting vs driving",
+          "reception vs control",
+          "flow vs force"
+        ]
+      }
+    },
+    "learning_sequence": {
+      "the_high_priestess": {
+        "interpretation": "Multiple High Priestesses emphasize the deepening of intuitive abilities and the importance of trusting inner wisdom over external validation.",
+        "keywords": [
+          "deepened intuition",
+          "inner trust",
+          "wisdom development",
+          "psychic enhancement"
+        ]
+      },
+      "the_empress": {
+        "interpretation": "From The High Priestess's inner knowing to The Empress's outer creation - learning to bring intuitive wisdom into fertile, nurturing manifestation.",
+        "keywords": [
+          "inner to outer",
+          "wisdom to creation",
+          "intuition to manifestation",
+          "receptive to fertile"
+        ]
+      },
+      "the_lovers": {
+        "interpretation": "Following inner wisdom, The Lovers represents applying intuitive knowledge to relationships and conscious choice-making in matters of the heart.",
+        "keywords": [
+          "wise choices",
+          "intuitive relationships",
+          "heart wisdom",
+          "conscious love"
+        ]
+      }
+    }
+  }
+}

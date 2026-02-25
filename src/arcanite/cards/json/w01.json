@@ -1,0 +1,682 @@
+{
+  "card_id": "ace_of_wands",
+  "card_name": "Ace of Wands",
+  "card_number": 1,
+  "suit": "wands",
+  "archetype": "the_initiator",
+  "core_meanings": {
+    "upright": {
+      "essence": "Ignition of new ideas and limitless potential. A surge of creativity and inspiration, marking the dawning of an exciting venture.",
+      "keywords": [
+        "inspiration",
+        "creation",
+        "potential",
+        "new beginnings",
+        "passion",
+        "initiative",
+        "growth",
+        "spark"
+      ],
+      "psychological": "Represents the inner spark driving ambition and creativity. An urge to express yourself uniquely and explore new paths.",
+      "spiritual": "A connection to divine inspiration, channeling raw energy into form and manifesting visions into reality.",
+      "practical": "A call to act on your ideas with boldness. Marks the start of a new project or path that aligns with your passions.",
+      "shadow": "Risk of impulsiveness without foresight. Potential to burn out if passion lacks direction and sustainability."
+    },
+    "reversed": {
+      "essence": "Blocked creativity and lack of direction. Either a false start or reluctance to embrace a new opportunity.",
+      "keywords": [
+        "delays",
+        "missed opportunities",
+        "lack of direction",
+        "hesitation",
+        "inertia",
+        "uninspired"
+      ],
+      "psychological": "Feeling stifled, either by fear or external pressures, unable to ignite your inner flame and pursue desires.",
+      "spiritual": "Disconnected from divine inspiration or inner calling, leading to stagnation and lack of growth.",
+      "practical": "Need to assess the feasibility of your ideas. Address planning and intention to overcome obstacles.",
+      "shadow": "Paralyzed by self-doubt or fear of failure, leading to missed opportunities and creative stagnation."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A past inspiration planted the seeds of current growth. A powerful idea or opportunity shaped your present path.",
+        "reversed": "Past delays or a failure to seize an opportunity left you yearning for greater fulfillment or clarity.",
+        "keywords": [
+          "seed of growth",
+          "missed past opportunity",
+          "initial spark",
+          "foundation of ideas"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a significant spark ignited a lifelong passion or journey that continues to evolve and shape you.",
+        "reversed": "Long-lasting consequences of failing to act on a transformative potential from the distant past.",
+        "keywords": [
+          "past passion",
+          "foundational inspiration",
+          "unrealized potential",
+          "forgotten dreams"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent surge of creativity or new venture has brought you to your current phase of development and excitement.",
+        "reversed": "Recent creative blocks or hesitation have hindered progress, leaving you feeling uninspired.",
+        "keywords": [
+          "recent inspiration",
+          "fresh start",
+          "creative block",
+          "stall"
+        ]
+      },
+      "present": {
+        "upright": "An exciting new opportunity or idea is unfolding now. Seize it with courage and enthusiasm.",
+        "reversed": "Current inaction or fear of change is preventing you from embracing a new potential before you.",
+        "keywords": [
+          "current opportunity",
+          "immediate potential",
+          "unfolding ideas",
+          "present hesitation"
+        ]
+      },
+      "present_situation": {
+        "upright": "Your core experience involves channeling new ideas into action and manifesting them with fervor.",
+        "reversed": "You feel caught between fear of failure and the desire to break free, stuck in stagnation.",
+        "keywords": [
+          "central energy",
+          "potential realized",
+          "creative challenge",
+          "stagnation risk"
+        ]
+      },
+      "future": {
+        "upright": "Prepare for a future filled with inspiration and opportunity. Embrace new direction with optimism.",
+        "reversed": "Future could hold potential regrets or delays if hesitation persists. Need to act boldly.",
+        "keywords": [
+          "upcoming inspiration",
+          "future potential",
+          "directional clarity",
+          "shifting tides"
+        ]
+      },
+      "near_future": {
+        "upright": "A new passion project or creative outlet is on the horizon. Be ready to harness this energy swiftly.",
+        "reversed": "Near future challenges require overcoming fear or blocks to progress and ignite your inner fire.",
+        "keywords": [
+          "imminent project",
+          "creative opening",
+          "hesitation",
+          "next steps"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, following your inspiration will lead to profound growth and fulfillment over time.",
+        "reversed": "Long-term stagnation and missed growth if creativity remains suppressed by fear or doubt.",
+        "keywords": [
+          "long-term vision",
+          "growth trajectory",
+          "missed growth",
+          "latent potential"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Channeling raw energy into sustained creation without losing momentum. Staying committed to your vision.",
+        "reversed": "The challenge involves moving past indecision or fear, finding clarity to act decisively on potential.",
+        "keywords": [
+          "channeling energy",
+          "sustained creation",
+          "commitment",
+          "clarity"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures or expectations might dampen your spontaneity and enthusiasm, challenging your creative freedom.",
+        "reversed": "Internal fears or societal conformities cross your path, blocking true expression of innovations.",
+        "keywords": [
+          "external pressure",
+          "expectations",
+          "inner fears",
+          "conformity"
+        ]
+      },
+      "obstacle": {
+        "upright": "Self-doubt and criticism block the free flow of creativity, stunting personal and professional growth.",
+        "reversed": "Fear of judgment or past failures obstructs ability to pursue your passions with confidence.",
+        "keywords": [
+          "self-doubt",
+          "criticism",
+          "judgment fear",
+          "obstruction"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn how to maintain creative momentum by trusting in your unique vision and capabilities.",
+        "reversed": "The lesson lies in overcoming procrastination and seizing opportunities fearlessly when they arise.",
+        "keywords": [
+          "creative momentum",
+          "trust vision",
+          "ownership",
+          "fearlessness"
+        ]
+      },
+      "shadow": {
+        "upright": "Embrace the restless energy within as a tool for transformation, recognizing its power and volatility.",
+        "reversed": "Integrate suppressed ideas or desires that manifest as fears or blocks in your creative process.",
+        "keywords": [
+          "restless energy",
+          "inner power",
+          "desire integration",
+          "creative block"
+        ]
+      },
+      "what_hinders": {
+        "upright": "A lack of clear vision or direction hinders your ability to bring ideas to fruition with passion.",
+        "reversed": "Past failures or fear of the unknown keep your flame dimmed and passion unrealized.",
+        "keywords": [
+          "unclear vision",
+          "lacking direction",
+          "past failures",
+          "fear of unknown"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Seize the opportunity presented to you. Embrace your inner fire, and act on your instincts with courage.",
+        "reversed": "Assess what's holding you back and re-engage with your core desires. Find clarity before proceeding.",
+        "keywords": [
+          "seize opportunity",
+          "inner fire",
+          "courage",
+          "core desires"
+        ]
+      },
+      "action": {
+        "upright": "Take inspired action based on your inner vision. Jump into creative projects with enthusiasm.",
+        "reversed": "Reflect and plan before acting impulsively. Prepare yourself to transcend inertia with purpose.",
+        "keywords": [
+          "inspired action",
+          "creative leap",
+          "reflection",
+          "prepared purpose"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as brimming with potential and ready to embrace the challenges of new ventures.",
+        "reversed": "Perception of self may be hindered by doubt about your ability to translate passion into reality.",
+        "keywords": [
+          "brimming potential",
+          "self-perception",
+          "ability doubt",
+          "reality translation"
+        ]
+      },
+      "what_helps": {
+        "upright": "Cultivate environments that fuel inspiration and surround yourself with like-minded pioneers.",
+        "reversed": "Support from mentors or guides helps dismantle limiting beliefs and nurture your creativity.",
+        "keywords": [
+          "inspirational environment",
+          "like-minded support",
+          "mentorship",
+          "belief dismantling"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust in the universality of your vision and the divine support guiding your creative endeavors.",
+        "reversed": "Find grounding and clarity in your spiritual practice to overcome internal blocks and doubts.",
+        "keywords": [
+          "universal vision",
+          "divine support",
+          "grounding",
+          "spiritual practice"
+        ]
+      },
+      "best_course": {
+        "upright": "Leverage your instincts and passions, proceeding with enthusiasm tempered by mindful attention to outcomes.",
+        "reversed": "Consider revisiting your initial vision and seek alignment with your true purpose before advancing.",
+        "keywords": [
+          "leverage instincts",
+          "mindful enthusiasm",
+          "vision revisit",
+          "purpose alignment"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for exciting, unbounded exploration of your creative spirit. Fear of burnout or losing direction.",
+        "reversed": "Fears of rejection or uncertainty dominate, yet there's a hope for manifesting your imaginative potential.",
+        "keywords": [
+          "creative exploration",
+          "fear of burnout",
+          "rejection fear",
+          "imaginary potential"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to channel your vibrant energy into projects that bring fulfillment and inspire others.",
+        "reversed": "Hope revolves around overcoming indecision and solidifying a path that aligns with your passion.",
+        "keywords": [
+          "vibrant energy",
+          "fulfillment",
+          "solidified path",
+          "alignment"
+        ]
+      },
+      "fears": {
+        "upright": "Fear that your energy and ideas may dissipate without ever coming to full fruition.",
+        "reversed": "Anxiety about failure or the inability to live up to creative potential presents a constant challenge.",
+        "keywords": [
+          "energy dissipation",
+          "unfulfilled potential",
+          "failure anxiety",
+          "creative challenge"
+        ]
+      },
+      "subconscious": {
+        "upright": "A latent power drives your unconscious desires, eager to be expressed through creative manifestation.",
+        "reversed": "Suppressed inspirations create internal conflict and leave intrinsic gifts untapped.",
+        "keywords": [
+          "latent power",
+          "creative manifestation",
+          "suppressed inspiration",
+          "untapped gifts"
+        ]
+      },
+      "conscious": {
+        "upright": "You consciously acknowledge your urge to innovate and create, recognizing unique talents and visions.",
+        "reversed": "Awareness of unaddressed fears may cloud conscious clarity about how best to proceed.",
+        "keywords": [
+          "urge to innovate",
+          "unique talents",
+          "conscious clarity",
+          "unaddressed fears"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotional landscape filled with eager excitement and determination to realize new creative fortunes.",
+        "reversed": "Emotionally stagnant, overwhelmed by fear of failure, creating tension and restlessness.",
+        "keywords": [
+          "eager excitement",
+          "determination",
+          "emotional stagnation",
+          "tension and restlessness"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart yearns for adventure and desires to be the architect of your destiny through passionate creation.",
+        "reversed": "Feelings of hesitation and worry occupy your heart, inhibiting emotional freedom.",
+        "keywords": [
+          "yearning for adventure",
+          "architect of destiny",
+          "hesitation",
+          "emotional freedom"
+        ]
+      },
+      "mind": {
+        "upright": "Mind is alert and alive with possibilities, ready to embark on uncharted paths of creation.",
+        "reversed": "Thoughts bordering on over-analysis inhibit action and cloud mental clarity.",
+        "keywords": [
+          "alive possibilities",
+          "uncharted paths",
+          "over-analysis",
+          "mental clarity"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Surrounded by encouraging influences that empower your creative journey and affirm your direction.",
+        "reversed": "External pressures may stifle your creativity or impose restrictive expectations.",
+        "keywords": [
+          "encouraging influences",
+          "creative empowerment",
+          "external stifling",
+          "restrictive expectations"
+        ]
+      },
+      "others": {
+        "upright": "People around you recognize and support your vibrant energy and are invigorated by your enthusiasm.",
+        "reversed": "Others' skepticism or jealousy may hinder your drive, causing self-doubt or hesitance.",
+        "keywords": [
+          "supportive community",
+          "shared enthusiasm",
+          "skepticism",
+          "jealousy"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment is ripe with opportunities and resources that invite exploration and innovation.",
+        "reversed": "Current surroundings may not promote growth, contributing to feelings of stagnation or limitation.",
+        "keywords": [
+          "ripe opportunities",
+          "innovation-ready",
+          "environmental limits",
+          "stagnation"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You're viewed as a proactive and inspiring individual, bursting with ideas and a readiness to explore.",
+        "reversed": "You might be seen as uncertain or unable to commit fully to your ambitions.",
+        "keywords": [
+          "proactive",
+          "inspiring individual",
+          "uncertainty",
+          "commitment issues"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces work to align your path with your inner will, bringing opportunities into focus.",
+        "reversed": "Stealthy doubts or unchecked fears hidden beneath the surface, clouding clear perception.",
+        "keywords": [
+          "unseen forces",
+          "opportunity alignment",
+          "stealthy doubts",
+          "hidden fears"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Achieving remarkable success through following your passions and meeting challenges with vigor.",
+        "reversed": "Potential stagnation or setbacks if fears are not addressed, leading to dreams unmanifested.",
+        "keywords": [
+          "success through passion",
+          "vigorous action",
+          "potential stagnation",
+          "unmanifested dreams"
+        ]
+      },
+      "final_outcome": {
+        "upright": "A life rich in creative and fulfilling pursuits, where passion and purpose have been exquisitely realized.",
+        "reversed": "Learning hard lessons about commitment and the importance of following passions unwaveringly.",
+        "keywords": [
+          "creative fulfillment",
+          "realized purpose",
+          "commitment lessons",
+          "passion importance"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "The realization of potential manifests as influential projects, new relationships, and personal triumphs.",
+        "reversed": "Opportunities missed due to indecisiveness or fear, requiring eventual course correction.",
+        "keywords": [
+          "influential projects",
+          "relationship growth",
+          "missed opportunities",
+          "course correction"
+        ]
+      },
+      "best_case": {
+        "upright": "Ideal results from embracing individuality and spirit, fostering innovation and limitless growth.",
+        "reversed": "Being overly cautious may deflate possible triumphs; need to balance foresight with spontaneity.",
+        "keywords": [
+          "ideal results",
+          "individuality",
+          "innovation",
+          "cautious deflation"
+        ]
+      },
+      "worst_case": {
+        "upright": "Mismanaged energy or impulsive actions yielding temporary setbacks or valuable learning experiences.",
+        "reversed": "Worst case of chronic inaction leads to opportunities passed by and potential unrealized.",
+        "keywords": [
+          "mismanaged energy",
+          "valuable learning",
+          "chronic inaction",
+          "lost potential"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic is sparked by new creative energy and passionate inspiration. Between you exists the potential for exciting new projects, adventures, or expressions of creativity. This connection ignites mutual enthusiasm and innovative ideas.",
+        "reversed": "The creative spark may be lacking or misdirected in your connection. Inspiration could be blocked or false starts may plague your joint endeavors. The relationship may struggle with creative differences or inability to channel enthusiasm productively.",
+        "keywords": [
+          "inspiration",
+          "creativity",
+          "new projects",
+          "enthusiasm"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A thrilling new romantic potential or a revitalized passion within a current relationship. Expect exciting developments.",
+      "reversed": "Hesitation may prevent deeper connections. Need to address emotional blocks to love freely.",
+      "keywords": [
+        "new romantic spark",
+        "relationship passion",
+        "emotional connection",
+        "blocks"
+      ]
+    },
+    "career": {
+      "upright": "Optimal time for launching projects, promotions, or moves. Creative energy fuels professional endeavors.",
+      "reversed": "Career plans suffering from unclear direction. Need to reassess goals and reaffirm your path.",
+      "keywords": [
+        "launching project",
+        "career promotion",
+        "unclear direction",
+        "goal reassessment"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual awakening fueled by inspiration and growth. Connect with your inner fire and divine purpose.",
+      "reversed": "Stagnation in spiritual pursuits. Explore avenues that invite immersive spiritual rejuvenation.",
+      "keywords": [
+        "spiritual awakening",
+        "inner fire",
+        "divine purpose",
+        "spiritual stagnation"
+      ]
+    },
+    "financial": {
+      "upright": "New avenues of income and financial growth through mighty entrepreneurial spirit and enthusiasm.",
+      "reversed": "Financial opportunities delayed or missed. Require shift in strategy and resourcefulness.",
+      "keywords": [
+        "financial growth",
+        "entrepreneurial spirit",
+        "opportunity delay",
+        "strategy shift"
+      ]
+    },
+    "health": {
+      "upright": "Vital energy and well-being flourish. Start new health regimen or fitness practice with vigor.",
+      "reversed": "Feeling lethargic or uninspired regarding health. Need motivation to reinvigorate well-being.",
+      "keywords": [
+        "vital energy",
+        "new health regimen",
+        "lethargy",
+        "health motivation"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "aries",
+    "hebrew_letter": "yod",
+    "numerology": 1,
+    "planet": "mars",
+    "season": "spring",
+    "time_of_day": "noon",
+    "colors": [
+      "red",
+      "orange",
+      "gold"
+    ],
+    "crystals": [
+      "carnelian",
+      "ruby",
+      "citrine"
+    ],
+    "herbs": [
+      "ginger",
+      "cinnamon",
+      "pepper"
+    ]
+  },
+  "symbols": {
+    "sprouting_lands": "new beginnings and potential growth",
+    "flame": "passion and divine inspiration",
+    "clouds": "ideas manifesting from the intangible",
+    "wand": "power and energy"
+  },
+  "affirmations": [
+    "I embrace new beginnings with passion and creativity.",
+    "My inner fire guides me to manifest my deepest desires.",
+    "I act with courage and purpose to bring ideas into reality.",
+    "The universe supports my inspired actions and visions."
+  ],
+  "journaling_prompts": [
+    "What spark of inspiration is urging me to act?",
+    "How can I harness my creativity to fuel growth?",
+    "Where in my life can I initiate powerful change?",
+    "What fears must I overcome to pursue my passions?"
+  ],
+  "meditation_focus": "Immerse in the feeling of inspiration, visualizing the blaze of new potential igniting and warming your soul.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:58:40.913159",
+    "card_info": {
+      "name": "Ace of Wands",
+      "number": 1,
+      "suit": "wands"
+    },
+    "filename": "w01.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_moon": {
+        "interpretation": "Heightened intuition and creativity, leading to profound artistic breakthroughs.",
+        "keywords": [
+          "heightened",
+          "intuition",
+          "creativity",
+          "leading"
+        ]
+      },
+      "the_star": {
+        "interpretation": "Great hope and inspiration, empowering dreams to come true through divine alignment.",
+        "keywords": [
+          "great",
+          "hope",
+          "inspiration",
+          "empowering"
+        ]
+      },
+      "eight_of_pentacles": {
+        "interpretation": "Mastery of craft through persistence and newfound enthusiasm.",
+        "keywords": [
+          "mastery",
+          "craft",
+          "persistence",
+          "newfound"
+        ]
+      }
+    },
+    "challenges": {
+      "the_hanged_man": {
+        "interpretation": "Need to shift perspectives and embrace patience while waiting for creative clarity.",
+        "keywords": [
+          "need",
+          "shift",
+          "perspectives",
+          "embrace"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Risk of dwelling on past failures prevents embracing new inspirations.",
+        "keywords": [
+          "risk",
+          "dwelling",
+          "past",
+          "failures"
+        ]
+      },
+      "ten_of_swords": {
+        "interpretation": "Fear of failure looming over new ventures, possibly leading to premature closure.",
+        "keywords": [
+          "fear",
+          "failure",
+          "looming",
+          "ventures"
+        ]
+      }
+    },
+    "clarifies": {
+      "three_of_wands": {
+        "interpretation": "Foresight necessary to capitalize on new opportunities. Embrace expansive vision.",
+        "keywords": [
+          "foresight",
+          "necessary",
+          "capitalize",
+          "opportunities"
+        ]
+      },
+      "page_of_cups": {
+        "interpretation": "A youthful and open-hearted curiosity enhances imaginative potential.",
+        "keywords": [
+          "youthful",
+          "open",
+          "hearted",
+          "curiosity"
+        ]
+      },
+      "knight_of_swords": {
+        "interpretation": "Decisive and bold actions lead to powerful manifestations and achievements.",
+        "keywords": [
+          "decisive",
+          "bold",
+          "actions",
+          "lead"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ace_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "four_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_devil": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "ace_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

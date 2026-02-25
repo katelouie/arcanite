@@ -1,0 +1,683 @@
+{
+  "card_id": "six_of_wands",
+  "card_name": "Six of Wands",
+  "card_number": 6,
+  "suit": "wands",
+  "archetype": "the_victor",
+  "core_meanings": {
+    "upright": {
+      "essence": "Triumphant achievement and public recognition. The hero's return and the celebration of hard-won accomplishments.",
+      "keywords": [
+        "victory",
+        "success",
+        "recognition",
+        "praise",
+        "achievement",
+        "triumph",
+        "confidence",
+        "glory"
+      ],
+      "psychological": "Confidence stemming from within that radiates outward, drawing acknowledgment and support from others.",
+      "spiritual": "A moment of spiritual triumph where inner alignment leads to outer success, reflecting divine favor.",
+      "practical": "Time to embrace your achievements and allow yourself to be celebrated. Acknowledge others who supported you.",
+      "shadow": "Danger of arrogance and resting on laurels. Becoming attached to others' validation rather than intrinsic worth."
+    },
+    "reversed": {
+      "essence": "Delayed recognition, private victories, or doubt in one's achievements. Either struggling for acknowledgment or fearing the spotlight.",
+      "keywords": [
+        "self-doubt",
+        "delay",
+        "unrecognized efforts",
+        "pride before fall",
+        "hidden success",
+        "need for validation"
+      ],
+      "psychological": "Inner conflict between needing validation and believing in oneself. Potential for feeling like an imposter.",
+      "spiritual": "Spiritual tests of humility and maintaining integrity amidst external or internal challenges.",
+      "practical": "Focus on internal validation; beware reliance on external accolades. Reclarify goals and values.",
+      "shadow": "Fear of being perceived as boastful leads to diminished sharing of genuine achievements. Hidden insecurities."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past victories laid the groundwork for your current confidence and opportunities. Celebrations and public acknowledgment.",
+        "reversed": "Missed opportunities for recognition or support due to past doubts or fears. Longing for acknowledgment that eluded you.",
+        "keywords": [
+          "past triumph",
+          "foundation of success",
+          "unfinished business",
+          "lost glory"
+        ]
+      },
+      "distant_past": {
+        "upright": "A strong achievement in your history that set a life trajectory toward success and recognition.",
+        "reversed": "Previously unrecognized achievements left a lasting impression, possibly causing insecurities now.",
+        "keywords": [
+          "foundational success",
+          "life trajectory",
+          "unacknowledged past",
+          "lasting impressions"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent win or acknowledgment that has boosted your current path. Noticing the effects of this success still playing out.",
+        "reversed": "Recent struggles with external recognition, or internal problems with accepting your success.",
+        "keywords": [
+          "recent win",
+          "notable success",
+          "immediate influence",
+          "internal struggle"
+        ]
+      },
+      "present": {
+        "upright": "At the height of recognition and achievement. Embrace the acknowledgment and use the momentum to inspire others.",
+        "reversed": "Currently navigating the complexities of recognition, either adapting to newfound attention or feeling overlooked.",
+        "keywords": [
+          "current success",
+          "moment of triumph",
+          "recognition complexities",
+          "overlooked efforts"
+        ]
+      },
+      "present_situation": {
+        "upright": "This moment shines a light on you; bask in deserved recognition and remain grounded in your purpose.",
+        "reversed": "Feelings of invisibility or overshadowing cloud your current experience. Internal guidance is paramount.",
+        "keywords": [
+          "highlight moment",
+          "grounded success",
+          "feeling invisible",
+          "internal guidance"
+        ]
+      },
+      "future": {
+        "upright": "A celebration of success is on the horizon. Opportunities for leadership and recognition are forthcoming.",
+        "reversed": "Future successes may be delayed, requiring patience and internal reassessment. Recognition comes in its own time.",
+        "keywords": [
+          "future victory",
+          "forthcoming recognition",
+          "delayed success",
+          "patient progress"
+        ]
+      },
+      "near_future": {
+        "upright": "Upcoming accolades or acknowledgments. Prepare to lead and inspire with humility and joy.",
+        "reversed": "Soon you may face challenges in being recognized or celebrated. Inner validation is essential so others can follow.",
+        "keywords": [
+          "upcoming accolades",
+          "immediate leadership",
+          "near challenges",
+          "internal validation"
+        ]
+      },
+      "distant_future": {
+        "upright": "Long-term success brings sustained recognition and legacy. Lead with confidence and inspire the next generation.",
+        "reversed": "Distant potential for unfulfilled recognition. Avoid clinging to outcomes; focus on authentic purpose.",
+        "keywords": [
+          "sustained legacy",
+          "long-term recognition",
+          "unfulfilled potential",
+          "authentic purpose"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Challenge to remain humble and generous during times of personal victory. Share the limelight and give credit where due.",
+        "reversed": "Internal struggles regarding acceptance and validation are your challenge. Embrace achievements without over-reliance on others' approval.",
+        "keywords": [
+          "maintaining humility",
+          "generosity of spirit",
+          "internal acceptance",
+          "over-reliance"
+        ]
+      },
+      "cross": {
+        "upright": "The opposition may come from those envious of your recognition. Handle their jealousy with grace.",
+        "reversed": "Personal doubts and fears cross your path to success. Face them honestly to transform limitation into strength.",
+        "keywords": [
+          "opposition envy",
+          "jealousy management",
+          "personal doubts",
+          "transforming limitation"
+        ]
+      },
+      "obstacle": {
+        "upright": "Overconfidence or attachment to public approval can hinder true progress.",
+        "reversed": "Fear of not being recognized prevents sharing your talents and achievements. Break free from this cycle of self-doubt.",
+        "keywords": [
+          "overconfidence",
+          "public approval",
+          "fear of obscurity",
+          "self-doubt cycle"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson is to enjoy recognition while keeping your core sense of self intact. Celebrate responsibly.",
+        "reversed": "Learn to find peace in accomplishments that may not be publicly acknowledged. Self-satisfaction is key.",
+        "keywords": [
+          "healthy recognition",
+          "core identity",
+          "inner peace",
+          "self-satisfaction"
+        ]
+      },
+      "shadow": {
+        "upright": "Hidden within the shadow is a fear of inadequacy masked by visible success. Uncover and integrate these insecurities.",
+        "reversed": "The shadow holds an unseen fear of judgment or criticism that stifles genuine self-expression.",
+        "keywords": [
+          "fear of inadequacy",
+          "visible success",
+          "hidden fear",
+          "self-expression stifling"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Pride and past victories may hinder the openness to new learning and humility.",
+        "reversed": "Your requirement for external approval may hinder genuine achievement and hide true potential.",
+        "keywords": [
+          "pride hindrance",
+          "openness to learning",
+          "external approval",
+          "hidden potential"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace your success and allow it to empower others. Share your journey and remain open to learning.",
+        "reversed": "Seek intrinsic forms of validation over worldly applause. Focus on growth rather than merely outward recognition.",
+        "keywords": [
+          "empowerment",
+          "journey sharing",
+          "growth focus",
+          "internal validation"
+        ]
+      },
+      "action": {
+        "upright": "Lead confidently and inspire those around you. Let your actions speak louder than words.",
+        "reversed": "Take a step back from seeking approval; examine motivations and realign with core values.",
+        "keywords": [
+          "confident leadership",
+          "inspirational action",
+          "approval withdrawal",
+          "motivation examination"
+        ]
+      },
+      "your_approach": {
+        "upright": "You approach life with a triumphant spirit, inspiring trust and admiration in those you encounter.",
+        "reversed": "Your approach leans towards caution, wary of undeserved praise or underlying motivations.",
+        "keywords": [
+          "triumphant spirit",
+          "inspiring trust",
+          "cautionary approach",
+          "praise wariness"
+        ]
+      },
+      "what_helps": {
+        "upright": "Supportive networks and open-hearted sharing enhance your journey and help maintain genuine joy.",
+        "reversed": "Developing self-reliance and intrinsic worth appreciation strengthens your path.",
+        "keywords": [
+          "supportive networks",
+          "genuine sharing",
+          "self-reliance",
+          "intrinsic worth"
+        ]
+      },
+      "guidance": {
+        "upright": "The universe guides you to lead with integrity and serve as an example of achieved harmony.",
+        "reversed": "Divine guidance emphasizes internal peace over external validation. Seek harmony within.",
+        "keywords": [
+          "integrity leadership",
+          "achieved harmony",
+          "internal peace",
+          "harmony seeking"
+        ]
+      },
+      "best_course": {
+        "upright": "Celebrate your successes and spread positivity. Allow victories to bring communities together.",
+        "reversed": "Focus on self-awareness and humility. Align actions with inner values to pave a meaningful path.",
+        "keywords": [
+          "shared celebration",
+          "community unity",
+          "self-awareness",
+          "inner values"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for sustained recognition and enduring legacy. Fear of losing hard-won success or fading into obscurity.",
+        "reversed": "Fear surrounds unfulfilled potential or failure to meet high expectations. Hope for authentic self-appreciation.",
+        "keywords": [
+          "sustained recognition",
+          "enduring legacy",
+          "fading fear",
+          "authentic self-appreciation"
+        ]
+      },
+      "hopes": {
+        "upright": "Aspirations for meaningful triumphs that truly align with your soul's desire.",
+        "reversed": "Hope to find value in inner achievements despite external acknowledgment.",
+        "keywords": [
+          "meaningful triumphs",
+          "soul alignment",
+          "inner achievements",
+          "value finding"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of arrogance growing from repeated success. Concern over criticism or failure upon reaching new heights.",
+        "reversed": "Fear of failure to claim victories and the visibility it brings. Anxieties over external judgment.",
+        "keywords": [
+          "arrogance fear",
+          "criticism concern",
+          "claiming failure",
+          "judgment anxiety"
+        ]
+      },
+      "subconscious": {
+        "upright": "Within lies an intrinsic belief in accomplishment and worthiness that guides actions and choices.",
+        "reversed": "Subconscious apprehensions regarding self-worth and external perception need addressing.",
+        "keywords": [
+          "intrinsic belief",
+          "worthy actions",
+          "self-worth apprehension",
+          "perception focus"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously focused on channeling accomplishments into future success while inspiring others.",
+        "reversed": "Awareness of the dissonance between internal satisfaction and external acknowledgment.",
+        "keywords": [
+          "future success",
+          "inspiration focus",
+          "satisfaction dissonance",
+          "awareness"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally in a place of satisfaction and pride, ready to continue the journey of growth.",
+        "reversed": "Possible underlying sense of unease or unrecognized efforts, leading to internal frustration.",
+        "keywords": [
+          "satisfaction",
+          "pride",
+          "growth readiness",
+          "internal frustration"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart seeks to celebrate achievements with joy and recognition, while sharing wisdom with others.",
+        "reversed": "In your heart, a desire for deeper understanding of your worth beyond public recognition.",
+        "keywords": [
+          "joyful celebration",
+          "wisdom sharing",
+          "deeper understanding",
+          "worth exploration"
+        ]
+      },
+      "mind": {
+        "upright": "Your mind is focused on strategic growth and leveraging achievements for future endeavors.",
+        "reversed": "Cognitive focus on resolving the dissonance between inner and outward achievements, avoiding judgment loops.",
+        "keywords": [
+          "strategic growth",
+          "leveraging success",
+          "resolve dissonance",
+          "judgment loops"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others are filled with admiration for your achievements, eager to celebrate and support your success.",
+        "reversed": "The perception of others may create pressure or provoke insecurity. External opinions need scrutiny.",
+        "keywords": [
+          "admiration",
+          "supportive environment",
+          "perception pressure",
+          "insecurity triggers"
+        ]
+      },
+      "others": {
+        "upright": "Surrounded by supporters who enhance your pathway to success. They mirror encouragement and positivity.",
+        "reversed": "Possible presence of competitors or critical voices, urging discernment in their influences.",
+        "keywords": [
+          "supporters",
+          "encouragement",
+          "competitors",
+          "critical voices"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment fosters a climate of success, aligning with your goals and recognition.",
+        "reversed": "External surroundings may not reflect or support your internal goals, requiring adjustment.",
+        "keywords": [
+          "supportive climate",
+          "goal alignment",
+          "surroundings reflection",
+          "adjustment necessity"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Perceived as a leader and achiever, inspiring others with your confidence and grace.",
+        "reversed": "Seen as hesitant or requiring reassurance in your abilities and accomplishments.",
+        "keywords": [
+          "leader",
+          "achiever",
+          "inspiring confidence",
+          "hesitant perception"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen support from spiritual guides and allies enhances your journey to victory.",
+        "reversed": "Concealed self-doubt or fear of judgment could be subtly influencing your actions.",
+        "keywords": [
+          "spiritual support",
+          "hidden allies",
+          "concealed self-doubt",
+          "influencing fears"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Clear road to continued success and acknowledgment. Victory's momentum propels you forward.",
+        "reversed": "Potential outcomes may include struggles to gain recognition or reconciliation with unrealized goals.",
+        "keywords": [
+          "continued success",
+          "acknowledgment",
+          "recognition struggles",
+          "goal reconciliation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "The final outcome manifests as well-deserved recognition and strengthened leadership in your realm.",
+        "reversed": "Potential for unresolved feelings of unfulfilled promise if intrinsic growth is ignored.",
+        "keywords": [
+          "deserved recognition",
+          "strengthened leadership",
+          "unresolved feelings",
+          "intrinsic growth"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Likely scenarios offer leadership positions and heightened visibility, resulting from strategic and authentic efforts.",
+        "reversed": "Possible failure to share successes openly could lead to missed opportunities for collaboration.",
+        "keywords": [
+          "leadership positions",
+          "heightened visibility",
+          "missed opportunities",
+          "shared success"
+        ]
+      },
+      "best_case": {
+        "upright": "In the best case, your success fuels greater ambitions and innovation, solidifying your role as a pioneer.",
+        "reversed": "Best-case anticipation includes learning to balance inner satisfaction with visible success.",
+        "keywords": [
+          "greater ambitions",
+          "innovation",
+          "inner satisfaction",
+          "visible success"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case could involve complacency leading to stagnation, highlighting the need to continue growth.",
+        "reversed": "Negative outcome may result from self-sabotage due to a lack of internal validation.",
+        "keywords": [
+          "complacency",
+          "stagnation",
+          "self-sabotage",
+          "internal validation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship brings victory, recognition, and public success together. The dynamic between you creates leadership and achievement that others admire. You support each other in reaching goals and receiving the recognition you deserve.",
+        "reversed": "Success may be delayed, private, or come at too high a cost. Recognition might be lacking or temporary. The relationship could involve ego issues around achievements or failure to acknowledge each other's contributions to success.",
+        "keywords": [
+          "victory",
+          "recognition",
+          "success",
+          "leadership"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Celebration and confidence in love are leading to joyous relationships. This card signals shared victories bringing partners closer.",
+      "reversed": "Fear of being overlooked in relationships or not receiving deserved appreciation. Focus on mutual acknowledgment.",
+      "keywords": [
+        "celebration in love",
+        "shared victories",
+        "relationship fear",
+        "mutual appreciation"
+      ]
+    },
+    "career": {
+      "upright": "Public recognition and career advancement are on the horizon. Success comes from shared efforts and innovation.",
+      "reversed": "Possible underappreciation or setbacks may ask for redefining goals. Patience and internal acknowledgment are key.",
+      "keywords": [
+        "career recognition",
+        "advancement",
+        "underappreciation",
+        "goal redefinition"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual victories reflected in daily life. Encourage others by sharing your spiritual experiences and growth.",
+      "reversed": "Inner conflict or delayed spiritual understanding. Seek deeper integration of your beliefs.",
+      "keywords": [
+        "spiritual victory",
+        "daily reflection",
+        "inner conflict",
+        "belief integration"
+      ]
+    },
+    "financial": {
+      "upright": "Financial success comes from wise decisions and teamwork. Celebrate and prepare for future investments.",
+      "reversed": "Potential obstacles in achieving financial goals prompt re-evaluation and adjustment of strategy.",
+      "keywords": [
+        "financial success",
+        "wise decisions",
+        "obstacles",
+        "strategy adjustment"
+      ]
+    },
+    "health": {
+      "upright": "Health victories are being celebrated. Acknowledge the progress and continue to inspire others toward wellness.",
+      "reversed": "Possible misalignment or unacknowledged progress in health goals. Focus on holistic wellness and patience.",
+      "keywords": [
+        "health victories",
+        "progress",
+        "misalignment",
+        "holistic wellness"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "leo",
+    "hebrew_letter": "",
+    "numerology": 6,
+    "planet": "jupiter",
+    "season": "summer",
+    "time_of_day": "noon",
+    "colors": [
+      "gold",
+      "red",
+      "orange"
+    ],
+    "crystals": [
+      "citrine",
+      "sunstone",
+      "carnelian"
+    ],
+    "herbs": [
+      "bay laurel",
+      "cinnamon",
+      "rosemary"
+    ]
+  },
+  "symbols": {
+    "laurel_wreath": "victory and accomplishment",
+    "white_horse": "purity of success",
+    "staff_with_laurel": "public recognition and leadership",
+    "crowd": "support and community celebration",
+    "banner": "acclaim and triumph"
+  },
+  "affirmations": [
+    "I celebrate my victories and share my success with humility and joy.",
+    "I trust my inner worth and value, regardless of external acknowledgment.",
+    "My achievements inspire others toward their own greatness.",
+    "I lead with integrity, allowing my triumphs to uplift those around me."
+  ],
+  "journaling_prompts": [
+    "How can I genuinely celebrate my achievements without seeking validation?",
+    "What does true success feel like beyond public acknowledgment?",
+    "How do I stay grounded during times of recognition?",
+    "Where can I uplift others with my victories?"
+  ],
+  "meditation_focus": "Visualize yourself basking in the light of your achievements, sharing the warmth of your success to inspire and uplift those around you.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:05:20.802736",
+    "card_info": {
+      "name": "Six of Wands",
+      "number": 6,
+      "suit": "wands"
+    },
+    "filename": "w06.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Growth and abundance are celebrated, leading to a fruitful expansion of personal or professional endeavors.",
+        "keywords": [
+          "growth",
+          "abundance",
+          "celebrated",
+          "leading"
+        ]
+      },
+      "the_chariot": {
+        "interpretation": "Momentum and victory guide your path. Cosmic forces are aligning for a major triumph.",
+        "keywords": [
+          "momentum",
+          "victory",
+          "guide",
+          "path"
+        ]
+      },
+      "three_of_cups": {
+        "interpretation": "Collective success and joyous gatherings. Celebrated achievements lead to deeper bonds.",
+        "keywords": [
+          "collective",
+          "success",
+          "joyous",
+          "gatherings"
+        ]
+      }
+    },
+    "challenges": {
+      "five_of_swords": {
+        "interpretation": "Potential conflict and competition. Recognition might provoke envy or contentious dynamics.",
+        "keywords": [
+          "potential",
+          "conflict",
+          "competition",
+          "recognition"
+        ]
+      },
+      "four_of_cups": {
+        "interpretation": "Complacency in success may limit potential growth. Look beyond immediate accolades.",
+        "keywords": [
+          "complacency",
+          "success",
+          "limit",
+          "potential"
+        ]
+      },
+      "seven_of_wands": {
+        "interpretation": "Standing alone in success challenges your resilience. Opposition requires strength and perseverance.",
+        "keywords": [
+          "standing",
+          "alone",
+          "success",
+          "challenges"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_star": {
+        "interpretation": "Success aligns with your higher aspirations. A guiding light reveals reasons to rejoice.",
+        "keywords": [
+          "success",
+          "aligns",
+          "higher",
+          "aspirations"
+        ]
+      },
+      "the_hanged_man": {
+        "interpretation": "A change of perspective reveals unseen victories — patience leads to a deeper understanding.",
+        "keywords": [
+          "change",
+          "perspective",
+          "reveals",
+          "unseen"
+        ]
+      },
+      "ten_of_pentacles": {
+        "interpretation": "Legacy and long-term success are within reach, fructifying prosperous family or communal endeavors.",
+        "keywords": [
+          "legacy",
+          "long",
+          "term",
+          "success"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ace_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "five_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "six_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

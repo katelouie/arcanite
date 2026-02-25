@@ -1,0 +1,680 @@
+{
+  "card_id": "queen_of_swords",
+  "card_name": "Queen of Swords",
+  "card_number": 13,
+  "suit": "swords",
+  "archetype": "the_clarifier",
+  "core_meanings": {
+    "upright": {
+      "essence": "Embodiment of clarity, intellect, and unbiased truth. Her sharp mind and keen vision cut through illusions, revealing the heart of any matter.",
+      "keywords": [
+        "clarity",
+        "truth",
+        "intellect",
+        "perception",
+        "wisdom",
+        "independence",
+        "objectivity"
+      ],
+      "psychological": "Represents mental clarity and the ability to perceive through emotional noise. Strong analytical thinking and clear communication.",
+      "spiritual": "Embracing truth as a spiritual path. Cutting through illusions to connect with deeper wisdom.",
+      "practical": "Time to speak your truth, seek clear communication, and make decisions based on intellect rather than emotions.",
+      "shadow": "Potential coldness or isolation. Over-reliance on logic can disconnect from emotional intelligence."
+    },
+    "reversed": {
+      "essence": "Clouded judgment, harsh words, or detachment from emotions. Struggling to balance intellect with empathy.",
+      "keywords": [
+        "coldness",
+        "miscommunication",
+        "criticism",
+        "harshness",
+        "detachment",
+        "confusion"
+      ],
+      "psychological": "Prone to over-thinking and critical self-talk, leading to emotional distance and misunderstanding.",
+      "spiritual": "Missing the connection between mind and heart. Truth without compassion leads to loneliness.",
+      "practical": "Check for miscommunications and ensure your words align with your intentions. Balance logic with empathy.",
+      "shadow": "Using intellect as a shield from vulnerability. Harsh criticism of self and others."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A period of intellectual growth or decisive action shaped your current path. Wisdom from past decisions guides the present.",
+        "reversed": "Past misunderstandings or harsh judgments still affect your situation. Reflect on the lessons of clarity and empathy.",
+        "keywords": [
+          "past clarity",
+          "decisive actions",
+          "wisdom",
+          "past misjudgments"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-standing patterns of seeking truth and wisdom from an early age have crafted your identity.",
+        "reversed": "Early experiences of criticism or emotional detachment have influenced current dynamics.",
+        "keywords": [
+          "early patterns",
+          "search for truth",
+          "influential criticism"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent events demanded clear thinking and communication. Your intellect has been your greatest ally.",
+        "reversed": "Miscommunications or over-analysis recently led to tension or misunderstanding.",
+        "keywords": [
+          "recent clarity",
+          "communication",
+          "tension",
+          "over-analysis"
+        ]
+      },
+      "present": {
+        "upright": "You are guided by intellect and clarity. Now is the time to speak your truth with confidence and objectivity.",
+        "reversed": "Judgment may be clouded by emotions or harsh words. Strive for clarity and balance.",
+        "keywords": [
+          "present clarity",
+          "speak truth",
+          "clouded judgment",
+          "balance"
+        ]
+      },
+      "present_situation": {
+        "upright": "Current experiences require mental acuity and unbiased observation. Your perception is a beacon.",
+        "reversed": "Caught in a web of miscommunication or excessive criticism, struggling to find the truth.",
+        "keywords": [
+          "mental acuity",
+          "unbiased observation",
+          "miscommunication",
+          "criticism"
+        ]
+      },
+      "future": {
+        "upright": "Future situations will benefit from your clarity and insight. Prepare to lead with intellect and fairness.",
+        "reversed": "Without balance, future conflicts may arise from misunderstandings or detached logic.",
+        "keywords": [
+          "future clarity",
+          "insight",
+          "potential conflict",
+          "detached logic"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon you will be called to act with clear judgment and objective thinking. Trust your discernment.",
+        "reversed": "Upcoming challenges in communication may require careful navigation to avoid misunderstandings.",
+        "keywords": [
+          "clear judgment",
+          "discernment",
+          "communication challenges"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, your journey will be enriched by keen insights and truth-seeking, leading to personal mastery.",
+        "reversed": "Long-term consequences of misjudgment or cold detachment could hinder relationships or growth.",
+        "keywords": [
+          "insights",
+          "truth-seeking",
+          "personal mastery",
+          "misjudgment consequences"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to balance intellect with compassion, ensuring wisdom does not become cold detachment.",
+        "reversed": "To overcome judgment and miscommunication, seek a fuller integration of your rational and emotional selves.",
+        "keywords": [
+          "balance intellect",
+          "compassion",
+          "integration",
+          "emotional wisdom"
+        ]
+      },
+      "cross": {
+        "upright": "Others' emotional demands or dramas oppose your clear thinking and objective communication.",
+        "reversed": "Internal doubts and self-criticism undermine clarity; find peace within to dissolve internal conflict.",
+        "keywords": [
+          "opposition",
+          "clarity",
+          "internal conflict",
+          "self-criticism"
+        ]
+      },
+      "obstacle": {
+        "upright": "Distractions and emotional entanglements stand in the way of achieving mental clarity and decisive action.",
+        "reversed": "Your own harsh judgments create obstacles, limiting your ability to communicate effectively.",
+        "keywords": [
+          "distractions",
+          "entanglements",
+          "harsh judgments",
+          "effective communication"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to wield your intellect as a tool for understanding, not as a weapon. Clarity should illuminate, not isolate.",
+        "reversed": "The lesson is in finding balance; overly relying on logic can obscure important emotional truths.",
+        "keywords": [
+          "intellect tool",
+          "clarity",
+          "balance",
+          "emotional truths"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow may contain unprocessed grief or unmet needs that manifest as critical words or cold aloofness.",
+        "reversed": "Hidden beliefs in the superiority of intellect over emotion hinder emotional connection.",
+        "keywords": [
+          "unprocessed grief",
+          "critical words",
+          "intellect superiority",
+          "emotional connection"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Over-analysis and intellectual pride hinder progress, creating barriers to authentic engagement.",
+        "reversed": "Fear of vulnerability or past mistakes keeps you distant from meaningful interactions.",
+        "keywords": [
+          "over-analysis",
+          "intellectual pride",
+          "vulnerability",
+          "mistakes"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace clarity and speak your truth with kindness and insight. Clear thinking will illuminate the path.",
+        "reversed": "Seek wisdom of the heart. Balance sharp intellect with gentle empathy.",
+        "keywords": [
+          "clarity",
+          "speak truth",
+          "kindness",
+          "balance"
+        ]
+      },
+      "action": {
+        "upright": "Act with logic and integrity. Cut through confusion by prioritizing truth and fairness.",
+        "reversed": "Reevaluate harsh judgments and seek to understand others' perspectives to soften edges.",
+        "keywords": [
+          "logic",
+          "integrity",
+          "reevaluate",
+          "understanding"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as discerning and wise, able to see beyond illusions with clarity and fairness.",
+        "reversed": "You may see yourself as detached or misunderstood, lacking connection despite intellect.",
+        "keywords": [
+          "discerning",
+          "wise",
+          "detached",
+          "misunderstood"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your astute mind and clarity in communication help navigate complex situations with grace.",
+        "reversed": "Seeking feedback from trusted allies can provide new perspectives for balanced insight.",
+        "keywords": [
+          "astute mind",
+          "clarity",
+          "feedback",
+          "perspectives"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual guidance urges you to marry intellect with compassion, allowing emotional truth to inform understanding.",
+        "reversed": "Guidance suggests choosing patience in discourse, listening more deeply to the silence beneath words.",
+        "keywords": [
+          "intellect",
+          "compassion",
+          "patience",
+          "listening"
+        ]
+      },
+      "best_course": {
+        "upright": "Your path involves using intellect to illuminate, not dominate. Encouraging open dialogue fosters understanding.",
+        "reversed": "Find a middle way that honors both clarity and empathy to forge genuine connections.",
+        "keywords": [
+          "illuminate",
+          "dialogue",
+          "middle way",
+          "genuine connection"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Desire for truth and clear communication, yet fear of emotional vulnerability or perceived coldness.",
+        "reversed": "Fear of judgment or lack of understanding inhibits your willingness to engage authentically.",
+        "keywords": [
+          "truth",
+          "communication",
+          "vulnerability",
+          "judgment"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope to maintain clarity and insight while strengthening authentic connections with others.",
+        "reversed": "Hopes for resolution and healing from past misunderstandings or miscommunications.",
+        "keywords": [
+          "clarity",
+          "insight",
+          "resolution",
+          "healing"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of appearing cold or detached, or of misunderstandings leading to isolation.",
+        "reversed": "Fear of criticism or loss of intellectual authority may dominate your thinking.",
+        "keywords": [
+          "coldness",
+          "isolation",
+          "criticism",
+          "authority"
+        ]
+      },
+      "subconscious": {
+        "upright": "Unconsciously, a quest for truth and understanding informs your actions and decisions.",
+        "reversed": "Subconscious patterns of self-criticism or fear of emotional exposure might hold you back.",
+        "keywords": [
+          "truth",
+          "understanding",
+          "self-criticism",
+          "exposure"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of your pursuit of clarity and the need to balance logic with empathy.",
+        "reversed": "Aware of harsh self-judgment or the struggle to communicate emotions effectively.",
+        "keywords": [
+          "clarity",
+          "balance",
+          "harsh judgment",
+          "communication"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Feeling empowered through clarity and intellectual strength, grounded in your truth.",
+        "reversed": "Emotionally distanced, potentially overwhelmed by critical thoughts or miscommunications.",
+        "keywords": [
+          "empowered",
+          "clarity",
+          "distanced",
+          "overwhelmed"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart seeks harmony between intellect and emotion, aspiring to wield truth with compassion.",
+        "reversed": "Hiding emotional truths beneath a shield of intellect, fearing vulnerability.",
+        "keywords": [
+          "harmony",
+          "compassion",
+          "hiding",
+          "vulnerability"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally keen and insightful, your mind is like a blade of clarity, cutting through confusion.",
+        "reversed": "Mind clouded by doubt or criticism, struggling to find clarity amidst complex emotions.",
+        "keywords": [
+          "insightful",
+          "blade of clarity",
+          "doubt",
+          "complexity"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others see you as discerning and wise, often seeking your insight and clear perspective.",
+        "reversed": "Perceived as critical or detached, others might misunderstand your intentions.",
+        "keywords": [
+          "discerning",
+          "insight",
+          "critical",
+          "misunderstood"
+        ]
+      },
+      "others": {
+        "upright": "Support from those who appreciate your clarity and honesty in communication.",
+        "reversed": "Conflicts may arise from misunderstandings or perceived aloofness in relationships.",
+        "keywords": [
+          "support",
+          "clarity",
+          "conflict",
+          "misunderstandings"
+        ]
+      },
+      "environment": {
+        "upright": "A supportive environment for honest dialogue and intellectual exploration.",
+        "reversed": "Turbulent surroundings or unclear communication impacting clarity and understanding.",
+        "keywords": [
+          "supportive",
+          "dialogue",
+          "turbulent",
+          "impact"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others perceive you as an exemplar of truth and intellect, valuing your insight.",
+        "reversed": "Seen as distant or judgmental, which may obscure your true intentions.",
+        "keywords": [
+          "truth",
+          "intellect",
+          "distant",
+          "intentions"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces align to support your journey of truth-seeking and clarity.",
+        "reversed": "Hidden biases or unacknowledged fears may thwart efforts at true connection.",
+        "keywords": [
+          "support",
+          "truth-seeking",
+          "hidden biases",
+          "fears"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success through clarity and truth, leading to intellectual growth and fulfillment.",
+        "reversed": "Consequences of miscommunication or harsh decisions might lead to necessary reevaluations.",
+        "keywords": [
+          "success",
+          "clarity",
+          "miscommunication",
+          "reevaluation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, wisdom and discernment pave the way to enduring achievement and insightful leadership.",
+        "reversed": "Final outcome may involve lessons learned through misunderstandings and the search for balance.",
+        "keywords": [
+          "wisdom",
+          "discernment",
+          "lessons learned",
+          "balance"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Potential for growth in understanding and empathy, building bridges through clear communication.",
+        "reversed": "Possible alienation if miscommunications or criticisms remain unchecked.",
+        "keywords": [
+          "growth",
+          "understanding",
+          "alienation",
+          "unchecked"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case involves enlightened dialogue and deepened understanding, fostering cooperation and mutual respect.",
+        "reversed": "The best outcome requires patience and openness to others' viewpoints, avoiding unnecessary conflict.",
+        "keywords": [
+          "enlightened",
+          "understanding",
+          "patience",
+          "avoid conflict"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves harsh words leading to severed connections or emotional distance.",
+        "reversed": "Misjudgment or lack of empathy could result in deepening isolation or regret.",
+        "keywords": [
+          "harsh words",
+          "distance",
+          "misjudgment",
+          "isolation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic embodies intellectual mastery, clear authority, and the power of truth spoken with conviction. Between you exists respect for knowledge, the ability to lead through wisdom, and communication that cuts to the heart of matters.",
+        "reversed": "The intellectual mastery may become tyrannical or cold. Authority might be abused or truth might be used as a weapon. The relationship could involve intellectual domination, harsh criticism, or communication that lacks warmth and humanity.",
+        "keywords": [
+          "intellectual mastery",
+          "authority",
+          "truth",
+          "leadership"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Clear communication and intellectual connection strengthen bonds. Truthful discourse blossoms love.",
+      "reversed": "Cold detachment or harsh critiques might hinder emotional intimacy, requiring patience and empathy.",
+      "keywords": [
+        "communication",
+        "connection",
+        "detachment",
+        "intimacy"
+      ]
+    },
+    "career": {
+      "upright": "Strategic decisions and clear vision drive professional success. Trust in your analytical abilities.",
+      "reversed": "Miscommunications or overly analytical approaches might stall progress. Balance intellect with team collaboration.",
+      "keywords": [
+        "strategic",
+        "vision",
+        "miscommunication",
+        "analytical"
+      ]
+    },
+    "spiritual": {
+      "upright": "Seeking truth as spiritual enlightenment. Mental clarity opens doors to deeper understanding.",
+      "reversed": "Disconnected from spiritual truths, relying solely on intellect; embrace a holistic approach.",
+      "keywords": [
+        "truth",
+        "enlightenment",
+        "disconnected",
+        "holistic"
+      ]
+    },
+    "financial": {
+      "upright": "Financial clarity and objective assessment lead to sound investments and economic stability.",
+      "reversed": "Confusion or hasty judgments might cause financial setbacks; patience is key.",
+      "keywords": [
+        "clarity",
+        "assessment",
+        "confusion",
+        "setbacks"
+      ]
+    },
+    "health": {
+      "upright": "A clear and disciplined approach to wellness fosters physical and emotional balance.",
+      "reversed": "Overthinking health concerns could lead to anxiety. Simplify and listen to your body.",
+      "keywords": [
+        "disciplined",
+        "balance",
+        "overthinking",
+        "simplify"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "libra",
+    "hebrew_letter": "",
+    "numerology": 13,
+    "planet": "venus",
+    "season": "fall",
+    "time_of_day": "midday",
+    "colors": [
+      "blue",
+      "silver",
+      "white"
+    ],
+    "crystals": [
+      "sapphire",
+      "lapis lazuli",
+      "clear quartz"
+    ],
+    "herbs": [
+      "lavender",
+      "sage",
+      "chamomile"
+    ]
+  },
+  "symbols": {
+    "sword": "clarity and truth",
+    "butterfly": "transformation and emerging insight",
+    "clouds": "mental activity and changeable thoughts",
+    "crown": "wisdom and authority",
+    "throne": "stability and security in perception"
+  },
+  "affirmations": [
+    "I speak my truth with clarity and compassion.",
+    "My mind is a beacon of insight and understanding.",
+    "I balance intellect with empathy in all interactions.",
+    "Clarity guides my path, illuminating every decision."
+  ],
+  "journaling_prompts": [
+    "Where am I seeking clarity in my life right now?",
+    "How can I balance intellect with emotional understanding?",
+    "In what ways do my words reflect my truth?",
+    "What insights have emerged from recent challenges?"
+  ],
+  "meditation_focus": "Connecting with the inner voice of clarity, exploring the balance between mind and heart. Breathing in wisdom, breathing out understanding.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:33:29.087486",
+    "card_info": {
+      "name": "Queen of Swords",
+      "number": 13,
+      "suit": "swords"
+    },
+    "filename": "s13.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_hanged_man": {
+        "interpretation": "New perspectives and truths revealed through introspection. Seeing beyond illusions.",
+        "keywords": [
+          "perspectives",
+          "truths",
+          "revealed",
+          "introspection"
+        ]
+      },
+      "the_chariot": {
+        "interpretation": "Focused intent and strategic planning bring unstoppable forward momentum.",
+        "keywords": [
+          "focused",
+          "intent",
+          "strategic",
+          "planning"
+        ]
+      },
+      "ace_of_swords": {
+        "interpretation": "Pure clarity and breakthrough ideas. Harnessing intellectual power for profound insight.",
+        "keywords": [
+          "pure",
+          "clarity",
+          "breakthrough",
+          "ideas"
+        ]
+      }
+    },
+    "challenges": {
+      "the_moon": {
+        "interpretation": "Navigating between intuition and illusion. Finding clarity amidst emotional fog.",
+        "keywords": [
+          "navigating",
+          "intuition",
+          "illusion",
+          "finding"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Past disappointments affecting clarity. Releasing emotional baggage is essential.",
+        "keywords": [
+          "past",
+          "disappointments",
+          "affecting",
+          "clarity"
+        ]
+      },
+      "seven_of_wands": {
+        "interpretation": "Defense mechanisms blocking perception. Openness needed to truly see.",
+        "keywords": [
+          "defense",
+          "mechanisms",
+          "blocking",
+          "perception"
+        ]
+      }
+    },
+    "clarifies": {
+      "justice": {
+        "interpretation": "Insight into fairness and objectivity. Sharpening ability to perceive truth in complex situations.",
+        "keywords": [
+          "insight",
+          "fairness",
+          "objectivity",
+          "sharpening"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Making informed decisions in areas of indecision. Cutting through mental clutter.",
+        "keywords": [
+          "making",
+          "informed",
+          "decisions",
+          "areas"
+        ]
+      },
+      "the_high_priestess": {
+        "interpretation": "Balancing intuition with logic. Integrative wisdom in understanding mysteries.",
+        "keywords": [
+          "balancing",
+          "intuition",
+          "logic",
+          "integrative"
+        ]
+      }
+    },
+    "similar_energy": {
+      "ace_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "queen_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "king_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

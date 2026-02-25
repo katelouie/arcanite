@@ -1,0 +1,685 @@
+{
+  "card_id": "judgement",
+  "card_name": "Judgement",
+  "card_number": 20,
+  "suit": "major_arcana",
+  "archetype": "the_awakener",
+  "core_meanings": {
+    "upright": {
+      "essence": "Renewal, calling, and reckoning. The moment when past actions and decisions call for transformation, awakening consciousness to a higher level.",
+      "keywords": [
+        "awakening",
+        "rebirth",
+        "inner calling",
+        "clarity",
+        "transformation",
+        "reckoning",
+        "forgiveness",
+        "absolution"
+      ],
+      "psychological": "Represents the urge to confront one's true self, shedding layers of identity that no longer serve personal growth.",
+      "spiritual": "The call of the soul to rise above mundane concerns and align with divine purpose. A rebirth of spirit and consciousness.",
+      "practical": "Time for making significant choices, releasing past grievances, and stepping into a new phase of life with renewed clarity.",
+      "shadow": "Resistance to change, clinging to old identities, fearing judgment, and ignoring the soul's call for transformation."
+    },
+    "reversed": {
+      "essence": "Avoidance of self-reflection, denial, and stagnation. The refusal to heed the call for growth or fearing the consequences of past actions.",
+      "keywords": [
+        "denial",
+        "fear of change",
+        "self-doubt",
+        "repression",
+        "stagnation",
+        "judgment",
+        "unforgiveness",
+        "avoidance"
+      ],
+      "psychological": "Paralysis from facing one's inner truth, leading to a cycle of self-doubt and missed opportunities for growth.",
+      "spiritual": "Disconnection from the soul's mission, ignoring signs of spiritual awakening, locked in patterns of inertia.",
+      "practical": "Time to face the truth, confront regrets and resistance. Courage is needed to embrace necessary life changes.",
+      "shadow": "Fear of transformation, suppression of potential, internalized self-criticism preventing growth."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A past moment of awakening or transformation shaped your current path. A decision made brought you to this present calling.",
+        "reversed": "Denial of past truths or failure to act on past revelations hinders current progress. Unheeded calls for change linger.",
+        "keywords": [
+          "past awakening",
+          "foundational calling",
+          "ignored truths",
+          "missed transformation"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a profound insight forever changed your view of life, setting you on a path of spiritual growth and transformation.",
+        "reversed": "Early resistance to change or denial of significant truths has woven a web of stagnation, still impacting your journey.",
+        "keywords": [
+          "ancient insight",
+          "spiritual foundation",
+          "early resistance",
+          "rooted denial"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent revelation or important decision is now influencing your step into a new chapter with renewed vision.",
+        "reversed": "Recent cycles of denial or avoidance are blocking current progress. Past avoidance stirs below the surface.",
+        "keywords": [
+          "recent revelation",
+          "important decision",
+          "avoided truth",
+          "immediate past"
+        ]
+      },
+      "present": {
+        "upright": "Now is the time to heed your soul’s call and embrace your true path. Awaken to the clarity that leads to transformation.",
+        "reversed": "Current denial or fear of change clouds your vision. Resistance to your calling needs addressing.",
+        "keywords": [
+          "current awakening",
+          "embrace truth",
+          "resistant clarity",
+          "soul's call"
+        ]
+      },
+      "present_situation": {
+        "upright": "Central to your experience now is a call to rise, reconcile, and transform. Life urges you toward greater alignment with truth.",
+        "reversed": "Inner conflict and avoidance dominate, preventing progress. It's crucial to confront self-imposed limits.",
+        "keywords": [
+          "core alignment",
+          "internal conflict",
+          "call to rise",
+          "reconciling truth"
+        ]
+      },
+      "future": {
+        "upright": "An inevitable awakening awaits, calling for courage and readiness. Prepare for forthcoming transformation and renewal.",
+        "reversed": "Future blocks arise from continued avoidance. Fear of change could lead to stagnation unless addressed.",
+        "keywords": [
+          "upcoming transformation",
+          "future awakening",
+          "avoidable stagnation",
+          "necessary change"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a significant call for change will emerge, urging immediate attention and action towards a greater future.",
+        "reversed": "Immediate future holds stagnation if fear of change persists. Overcome internal barriers to embrace opportunities.",
+        "keywords": [
+          "pending transformation",
+          "call to action",
+          "impending change",
+          "overcoming fear"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, embracing transformation leads to deep fulfillment and alignment with your higher self.",
+        "reversed": "Avoiding transformation results in long-term regret and missed opportunities for genuine alignment.",
+        "keywords": [
+          "ultimate fulfillment",
+          "higher alignment",
+          "long-term regret",
+          "missed alignment"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to answer the soul's call courageously and transform without clinging to past identities.",
+        "reversed": "Challenge lies in overcoming resistance and fear of change to avoid long-standing stagnation.",
+        "keywords": [
+          "answering the call",
+          "embracing change",
+          "overcoming resistance",
+          "leaving the past"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures and expectations conflict with your need for inner awakening and truth.",
+        "reversed": "Self-imposed limitations and fears prevent alignment with your soul's true call.",
+        "keywords": [
+          "external conflict",
+          "inner truth",
+          "self-limitation",
+          "fear and doubt"
+        ]
+      },
+      "obstacle": {
+        "upright": "The obstacle is old guilt or unresolved issues blocking the path of transformation and clarity.",
+        "reversed": "Unconscious self-judgment and fear of judgment by others thwart necessary change.",
+        "keywords": [
+          "old guilt",
+          "unresolved issues",
+          "self-judgment",
+          "fear of judgment"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson is to learn forgiveness, release the past, and move forward with newfound wisdom.",
+        "reversed": "Acknowledge what keeps you stuck to discern the actions needed for growth.",
+        "keywords": [
+          "forgiveness",
+          "release",
+          "discernment",
+          "moving forward"
+        ]
+      },
+      "shadow": {
+        "upright": "Shadow reveals fear of truth and the need to integrate past experiences positively.",
+        "reversed": "Hidden fears and denial create barriers to transformation, demanding conscious acknowledgment.",
+        "keywords": [
+          "fear of truth",
+          "integrate past",
+          "hidden barriers",
+          "denial and fear"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Old patterns or judgments hold you back from embracing a fresh perspective and renewal.",
+        "reversed": "Unconscious fears and self-doubt hinder the acceptance of change and rebirth.",
+        "keywords": [
+          "old patterns",
+          "self-doubt",
+          "fresh perspective",
+          "acceptance of change"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace transformation. Answer your inner calling with honesty and courage. Let go of the past.",
+        "reversed": "Confront fears and consider where denial inhibits growth. Reflect and act with intention.",
+        "keywords": [
+          "embrace change",
+          "inner calling",
+          "confront fears",
+          "reflect and act"
+        ]
+      },
+      "action": {
+        "upright": "Take active steps toward transformation. Release what no longer serves and pursue truth with vigor.",
+        "reversed": "Identify areas of resistance and work to dissolve them. Seek clarity through reflection.",
+        "keywords": [
+          "active transformation",
+          "release past",
+          "resolve resistance",
+          "seek clarity"
+        ]
+      },
+      "your_approach": {
+        "upright": "You view life as a journey toward self-realization and seek truth in every encounter.",
+        "reversed": "Fear and doubt may obscure your path, making self-realization seem daunting.",
+        "keywords": [
+          "self-realization",
+          "truth-seeking",
+          "fear obscurity",
+          "daunting realization"
+        ]
+      },
+      "what_helps": {
+        "upright": "Support comes from the willingness to embrace change and the courage to let go.",
+        "reversed": "Seeking guidance from others and personal reflection aid in overcoming avoidance.",
+        "keywords": [
+          "embrace change",
+          "seek guidance",
+          "personal reflection",
+          "courage to let go"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust the unfolding journey. Listen to divine guidance, tuning into the voice of your soul.",
+        "reversed": "Seek silence and introspection. Connect with divine insights to overcome avoidance.",
+        "keywords": [
+          "trust the journey",
+          "divine guidance",
+          "silence and introspection",
+          "soul insights"
+        ]
+      },
+      "best_course": {
+        "upright": "Best path involves acknowledging your truth, embracing transformation, and paving the path of renewal.",
+        "reversed": "Focus on breaking down barriers of self-deception and disbelief to clear the way for growth.",
+        "keywords": [
+          "acknowledging truth",
+          "path of renewal",
+          "breaking barriers",
+          "clear path for growth"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for renewal and fear of judgment coexist in the heart, seeking harmony and acceptance of self.",
+        "reversed": "Fear of past mistakes or harsh judgment prevents open embrace of transformation.",
+        "keywords": [
+          "hope for renewal",
+          "fear of judgment",
+          "self-acceptance",
+          "embracing transformation"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope to find clarity, divine purpose, and the courage to live one's truth unapologetically.",
+        "reversed": "Hope to overcome denial and embrace change without hesitation.",
+        "keywords": [
+          "clarity",
+          "divine purpose",
+          "live truth",
+          "overcome denial"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of facing past actions, judgment, or failing to achieve personal redemption.",
+        "reversed": "Fear of stagnation, remaining trapped in cycles of self-doubt and avoidance.",
+        "keywords": [
+          "facing past",
+          "fear of judgment",
+          "personal redemption",
+          "avoiding stagnation"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously you seek renewal and spiritual growth, yearning for rebirth and alignment.",
+        "reversed": "Unconscious patterns of avoidance and fear of change delay progress and transformation.",
+        "keywords": [
+          "seek renewal",
+          "spiritual growth",
+          "unconscious avoidance",
+          "fear of change"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, aware of the need for transformation and the desire to align with higher truths.",
+        "reversed": "Mind struggles between recognition of truths and the fear to act on them.",
+        "keywords": [
+          "awareness",
+          "transformation",
+          "recognition",
+          "fear to act"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel a pull towards renewal and a willingness to engage in deep self-reflection.",
+        "reversed": "Emotional resistance and fear prevent you from embracing the necessary journey.",
+        "keywords": [
+          "emotional pull",
+          "self-reflection",
+          "emotional resistance",
+          "fear barrier"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs for awakening and connection with your deepest truths, eager for liberation.",
+        "reversed": "Heart is cloaked in fear and self-doubt that obstruct true freedom and growth.",
+        "keywords": [
+          "awakening",
+          "deep truth",
+          "liberation",
+          "obstructed freedom"
+        ]
+      },
+      "mind": {
+        "upright": "Your mind seeks clarity and decisive action that aligns with your true calling.",
+        "reversed": "Mind entangled in doubts, fears, and reluctance to face honest introspection.",
+        "keywords": [
+          "clarity",
+          "decisive action",
+          "entangled doubts",
+          "introspection avoidance"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Supportive energies and synchronicities guide your path of renewal and transformation.",
+        "reversed": "External criticism or perceived judgments may deepen fears, influencing your ability to change.",
+        "keywords": [
+          "supportive energies",
+          "guidance",
+          "external criticism",
+          "perceived judgments"
+        ]
+      },
+      "others": {
+        "upright": "Others witness your transformative journey and may be inspired or challenged by your example.",
+        "reversed": "Others' unresolved judgments may project onto your path, increasing self-doubt.",
+        "keywords": [
+          "inspiration",
+          "challenge",
+          "projection",
+          "self-doubt"
+        ]
+      },
+      "environment": {
+        "upright": "Current environments support renewal and encourage you to heed your true calling.",
+        "reversed": "Environmental negativity or stagnation presents obstacles to potential growth and awakening.",
+        "keywords": [
+          "supportive environment",
+          "encouragement",
+          "negativity obstacles",
+          "stagnation"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as someone awakening to truth, embarking on a profound journey of self-discovery.",
+        "reversed": "Viewed as resistant or fearful of change, struggling to align with true desires.",
+        "keywords": [
+          "awakening",
+          "self-discovery",
+          "resistance",
+          "struggle to align"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen supportive forces align to assist your transformation, offering guidance through intuition.",
+        "reversed": "Hidden fears and doubts cloud your path, influencing decision-making and growth.",
+        "keywords": [
+          "supportive forces",
+          "intuition guidance",
+          "hidden fears",
+          "clouded path"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "A journey of self-discovery and spiritual awakening leads to profound transformation and alignment with your true self.",
+        "reversed": "Without addressing denial, stagnation persists and opportunities for renewal may remain unseen.",
+        "keywords": [
+          "self-discovery",
+          "transformation",
+          "alignment",
+          "stagnation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, embracing the call leads to profound self-awareness, fulfillment, and alignment with divine purpose.",
+        "reversed": "Continuing avoidance might lead to missed opportunities and long-term dissatisfaction.",
+        "keywords": [
+          "self-awareness",
+          "fulfillment",
+          "missed opportunities",
+          "dissatisfaction"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "A likely path includes reconciliation with the past and stepping boldly into a transformed future.",
+        "reversed": "Possible outcomes involve continuous struggle with self-doubt and unresolved regrets.",
+        "keywords": [
+          "reconciliation",
+          "transformed future",
+          "self-doubt",
+          "unresolved regrets"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenario involves awakening to true purpose, leading to a life of peace, clarity, and alignment.",
+        "reversed": "What seems ideal may involve temporary comfort, yet lacks lasting fulfillment and growth.",
+        "keywords": [
+          "true purpose",
+          "peace",
+          "temporary comfort",
+          "growth"
+        ]
+      },
+      "worst_case": {
+        "upright": "Inaction or avoidance leads to unfulfilled potential and internal conflict impeding progress.",
+        "reversed": "Fear of change and self-judgment result in repetitive cycles of stagnation and dissatisfaction.",
+        "keywords": [
+          "inaction consequences",
+          "unfulfilled potential",
+          "stagnation cycles",
+          "dissatisfaction"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship brings awakening, renewal, and second chances. The dynamic between you involves forgiveness, redemption, and the opportunity to start fresh. Past mistakes can be healed and the connection can be reborn on a higher level.",
+        "reversed": "The connection may resist rebirth or renewal opportunities. Judgment may be harsh or unforgiving. The relationship could involve dwelling on past mistakes, refusing second chances, or fear of spiritual awakening and growth.",
+        "keywords": [
+          "awakening",
+          "renewal",
+          "forgiveness",
+          "rebirth"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Awakening in love. A partner connection that encourages growth and presents a deeper commitment to truth.",
+      "reversed": "Avoidance of relationship truths leading to conflict or dissatisfaction. Time for honest dialogue and reflection.",
+      "keywords": [
+        "relationship growth",
+        "deeper connection",
+        "avoided truth",
+        "honest dialogue"
+      ]
+    },
+    "career": {
+      "upright": "A calling towards greater career alignment with personal truth. Opportunities for advancement through reflection.",
+      "reversed": "Denial of career dissatisfaction breeds stagnation. Need for a reassessment of goals and direction.",
+      "keywords": [
+        "career alignment",
+        "personal truth",
+        "career stagnation",
+        "goal reassessment"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual calling becomes evident, prompting soul growth and enlightenment through new insights.",
+      "reversed": "Spiritual stagnation or avoidance implies resisting callings that could lead to awakening.",
+      "keywords": [
+        "soul growth",
+        "enlightenment",
+        "spiritual stagnation",
+        "resisting calling"
+      ]
+    },
+    "financial": {
+      "upright": "Transformation in financial understanding encourages release of old patterns to welcome abundance.",
+      "reversed": "Fear-based financial habits block progress and require a shift towards abundance mindset.",
+      "keywords": [
+        "financial transformation",
+        "abundance welcome",
+        "habits block",
+        "mindset shift"
+      ]
+    },
+    "health": {
+      "upright": "Renewal of physical wellbeing through transformative habits and confronting health truths.",
+      "reversed": "Resistance to acknowledging health issues can hinder healing. Honest self-assessment needed.",
+      "keywords": [
+        "physical renewal",
+        "transformative habits",
+        "health resistance",
+        "self-assessment"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "pluto",
+    "hebrew_letter": "shin",
+    "numerology": 20,
+    "planet": "pluto",
+    "season": "winter",
+    "time_of_day": "twilight",
+    "colors": [
+      "red",
+      "gold",
+      "silver"
+    ],
+    "crystals": [
+      "garnet",
+      "amethyst",
+      "citrine"
+    ],
+    "herbs": [
+      "sage",
+      "angelica",
+      "fennel"
+    ]
+  },
+  "symbols": {
+    "angel": "divine calling and awakening",
+    "trumpet": "announcement of change and renewal",
+    "people rising from graves": "resurrection and rebirth",
+    "mountains": "challenges and spiritual heights",
+    "cross": "balance between material and spiritual"
+  },
+  "affirmations": [
+    "I embrace transformation and rise to meet my true calling.",
+    "I release the past to awaken to my soul's purpose.",
+    "I trust in renewal and align with my highest self.",
+    "I face truth with courage and welcome new beginnings."
+  ],
+  "journaling_prompts": [
+    "What inner call am I currently resisting?",
+    "How can I embrace transformation in my life?",
+    "What truths about myself have I avoided?",
+    "Where do I need to seek forgiveness and renewal?"
+  ],
+  "meditation_focus": "Visualize renewal and awakening as you release past burdens and embrace your soul's calling. Envision stepping into your true path with courage and clarity.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:32:32.312795",
+    "card_info": {
+      "name": "Judgement",
+      "number": 20,
+      "suit": "major_arcana"
+    },
+    "filename": "m20.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_world": {
+        "interpretation": "Completion and alignment with universal purpose, heralding a profound sense of fulfillment.",
+        "keywords": [
+          "completion",
+          "alignment",
+          "universal",
+          "purpose"
+        ]
+      },
+      "the_star": {
+        "interpretation": "Hope and spiritual guidance lead to renewal and a brighter future.",
+        "keywords": [
+          "hope",
+          "spiritual",
+          "guidance",
+          "lead"
+        ]
+      },
+      "death": {
+        "interpretation": "Deep transformation and complete renewal, a powerful shift into new beginnings.",
+        "keywords": [
+          "deep",
+          "transformation",
+          "complete",
+          "renewal"
+        ]
+      }
+    },
+    "challenges": {
+      "the_hanged_man": {
+        "interpretation": "Resistance to surrender and the lessons of patience challenge the call for awakening.",
+        "keywords": [
+          "resistance",
+          "surrender",
+          "lessons",
+          "patience"
+        ]
+      },
+      "the_moon": {
+        "interpretation": "Illusions and fears obscure the clarity needed for rebirth and transformation.",
+        "keywords": [
+          "illusions",
+          "fears",
+          "obscure",
+          "clarity"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Focusing on loss and past regrets interferes with embracing new truths and directions.",
+        "keywords": [
+          "focusing",
+          "loss",
+          "past",
+          "regrets"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hermit": {
+        "interpretation": "Inner reflection illuminates the path to transformation, supporting the journey of self-discovery.",
+        "keywords": [
+          "inner",
+          "reflection",
+          "illuminates",
+          "path"
+        ]
+      },
+      "justice": {
+        "interpretation": "Karmic balance and truth-seeking clarify the need for honest evaluation and transformation.",
+        "keywords": [
+          "karmic",
+          "balance",
+          "truth",
+          "seeking"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "Clarity and joy illuminate your path, showing the way towards genuine transformation.",
+        "keywords": [
+          "clarity",
+          "illuminate",
+          "path",
+          "showing"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "death": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "judgement": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

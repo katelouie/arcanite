@@ -1,0 +1,680 @@
+{
+  "card_id": "three_of_pentacles",
+  "card_name": "Three of Pentacles",
+  "card_number": 3,
+  "suit": "pentacles",
+  "archetype": "the_craftsman",
+  "core_meanings": {
+    "upright": {
+      "essence": "Collaboration in creation, blending skills and visions to craft something enduring and valuable.",
+      "keywords": [
+        "teamwork",
+        "collaboration",
+        "skill development",
+        "craftsmanship",
+        "planning",
+        "diligence"
+      ],
+      "psychological": "Reflects the psyche's desire for mastery and effectiveness through concerted effort with others.",
+      "spiritual": "A sacred triangle of unity, where diverse paths align towards a shared spiritual vision.",
+      "practical": "Focus on teamwork and skill-sharing in projects, with careful planning and attention to detail.",
+      "shadow": "Struggles with self-worth or failing to recognize the value of collective input."
+    },
+    "reversed": {
+      "essence": "Misalignment in efforts, lack of recognition, or incoherence in teamwork leading to incomplete results.",
+      "keywords": [
+        "disorganization",
+        "lack of teamwork",
+        "unrecognized efforts",
+        "mistrust",
+        "miscommunication"
+      ],
+      "psychological": "Insecure feelings about one's contributions, or difficulty in trusting the collaborative process.",
+      "spiritual": "Disconnected from the spiritual purpose of communal work, leading to disillusionment.",
+      "practical": "Projects may stall due to poor communication or lack of clarity in roles and responsibilities.",
+      "shadow": "Fear of collaboration or overly critical attitude stifling progress."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past teamwork laid a sturdy foundation for current endeavors, blending diverse talents into a cohesive whole.",
+        "reversed": "Previous failures in collaboration created current challenges. Lack of harmony in the past echoes now.",
+        "keywords": [
+          "previous teamwork",
+          "foundation",
+          "past disharmony",
+          "prior efforts"
+        ]
+      },
+      "distant_past": {
+        "upright": "Early experiences with cooperation taught lasting lessons about shared goals and mutual respect.",
+        "reversed": "Long-standing patterns of mistrust or undervaluing others' input have roots in distant history.",
+        "keywords": [
+          "early cooperation",
+          "mutual respect",
+          "historical mistrust",
+          "ancient patterns"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent project or partnership achieved success through effective collaboration and shared enthusiasm.",
+        "reversed": "Disorganized, recent collaboration led to incomplete results, causing present frustrations.",
+        "keywords": [
+          "recent success",
+          "joint efforts",
+          "recent disarray",
+          "unfinished work"
+        ]
+      },
+      "present": {
+        "upright": "You're in the process of building something meaningful through shared visions and teamwork.",
+        "reversed": "Current disjointed efforts or misunderstandings may hinder progress. Align intentions.",
+        "keywords": [
+          "building now",
+          "current teamwork",
+          "misalignment",
+          "present progress"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the heart of your situation is a need for structured collaboration and honoring diverse skills.",
+        "reversed": "Core issue involves neglecting collaboration or misalignment of efforts. Recognize collective talent.",
+        "keywords": [
+          "core teamwork",
+          "honoring skills",
+          "neglect of collaboration",
+          "core misalignment"
+        ]
+      },
+      "future": {
+        "upright": "Successful projects and collaborations will arise, yielding results greater than the sum of their parts.",
+        "reversed": "Future hurdles in cooperation stem from unresolved miscommunications or lack of clarity in shared goals.",
+        "keywords": [
+          "future success",
+          "joint ventures",
+          "upcoming hurdles",
+          "unresolved issues"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, an opportunity for synergistic collaboration will emerge—embrace it with open hands.",
+        "reversed": "Imminent miscommunication or breakdown in teamwork if clarity isn't established quickly.",
+        "keywords": [
+          "upcoming synergy",
+          "open collaboration",
+          "imminent breakdown",
+          "clarity needed"
+        ]
+      },
+      "distant_future": {
+        "upright": "Long-term, your mastery will be celebrated, and team accomplishments will be tangible and lasting.",
+        "reversed": "Unaddressed issues in teamwork can leave a legacy of fragmented efforts and unfulfilled potential.",
+        "keywords": [
+          "long-term mastery",
+          "team accomplishments",
+          "legacy of issues",
+          "unfulfilled potential"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Challenge lies in integrating diverse talents and perspectives into cohesive action.",
+        "reversed": "Inability to trust or work with others effectively hinders progress and stifles innovation.",
+        "keywords": [
+          "integrating talents",
+          "cohesive action",
+          "trust issues",
+          "hindered progress"
+        ]
+      },
+      "cross": {
+        "upright": "Your dedication to collaboration may be crossed or blocked by those resistant to change or doubtful of teamwork.",
+        "reversed": "Internal or external distrust creates tension and hinders effective collaboration.",
+        "keywords": [
+          "blocked dedication",
+          "resistant forces",
+          "tension",
+          "hindered collaboration"
+        ]
+      },
+      "obstacle": {
+        "upright": "The obstacle is the challenge of ensuring everyone's voice is heard and valued equally.",
+        "reversed": "Fear of reliance on others or resistance to shared ownership blocks progress.",
+        "keywords": [
+          "valuing voices",
+          "equity in collaboration",
+          "fear of reliance",
+          "resistance"
+        ]
+      },
+      "lesson": {
+        "upright": "True craftsmanship is a joint effort; recognize and celebrate the strengths others bring.",
+        "reversed": "Learn to communicate openly and trust the collaborative process to overcome disarray.",
+        "keywords": [
+          "joint effort",
+          "celebrating strengths",
+          "open communication",
+          "trust process"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow contains fear of losing individuality in group settings—embrace shared success.",
+        "reversed": "Overshadowing others, or feeling eclipsed, indicates deeper insecurities about value.",
+        "keywords": [
+          "fear of loss",
+          "shared success",
+          "overshadowing",
+          "insecurity"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Overemphasizing individual contribution hinders the beauty of collective creation.",
+        "reversed": "Lack of trust and openness, with a need for control, hinders cooperative success.",
+        "keywords": [
+          "individual focus",
+          "collective creation",
+          "control issues",
+          "cooperative hindrance"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace the power of teamwork. Value the diverse talents around you as pieces of a greater puzzle.",
+        "reversed": "Work to rebuild trust and clarify your shared vision to overcome current obstacles.",
+        "keywords": [
+          "embrace teamwork",
+          "value diversity",
+          "rebuild trust",
+          "clarify vision"
+        ]
+      },
+      "action": {
+        "upright": "Engage actively in collaborative efforts, and invite perspectives to enrich the project.",
+        "reversed": "Analyze where communication falters and address misunderstandings urgently.",
+        "keywords": [
+          "active engagement",
+          "invite perspectives",
+          "analyze communication",
+          "address issues"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see collaboration as essential for true growth and mastery, embracing the power of teamwork.",
+        "reversed": "You might either undervalue your role in a team or struggle to see the benefit of collective efforts.",
+        "keywords": [
+          "value teamwork",
+          "growth and mastery",
+          "undervalue role",
+          "collective benefit"
+        ]
+      },
+      "what_helps": {
+        "upright": "A spirit of cooperation and openness to learning from others aids your endeavors immensely.",
+        "reversed": "Improved communication skills and willingness to rebuild bridges are key to progress.",
+        "keywords": [
+          "spirit of cooperation",
+          "openness to learning",
+          "improved communication",
+          "rebuild bridges"
+        ]
+      },
+      "guidance": {
+        "upright": "Guidance encourages you to trust in communal efforts, recognizing everyone’s essential role in the great work.",
+        "reversed": "Align your intentions with your team and focus on shared objectives to regain harmony.",
+        "keywords": [
+          "trust communal efforts",
+          "recognize roles",
+          "align intentions",
+          "focus objectives"
+        ]
+      },
+      "best_course": {
+        "upright": "Collaborative projects where talents are harmonized will bring success and satisfaction.",
+        "reversed": "Address breakdowns swiftly and find common ground to move forward together.",
+        "keywords": [
+          "harmonized talents",
+          "collaborative success",
+          "swift action",
+          "common ground"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope to create something of lasting value through united efforts. Fear of losing control or being overshadowed.",
+        "reversed": "Fear of inadequacy or unnoticed contributions eclipses your potential to trust others.",
+        "keywords": [
+          "lasting value",
+          "fear of losing control",
+          "inadequacy",
+          "unnoticed contributions"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire for recognition and fulfillment through shared achievements and crafted beauty.",
+        "reversed": "Hope that standing alone will shield you from judgment or failure in teamwork.",
+        "keywords": [
+          "shared achievements",
+          "crafted beauty",
+          "standing alone",
+          "shield from judgment"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of collaboration leading to strife or discord, diminishing personal accomplishments.",
+        "reversed": "Fear of the judgment, misunderstanding intentions, or failing despite efforts.",
+        "keywords": [
+          "fear of discord",
+          "personal accomplishments",
+          "judgment fear",
+          "misunderstood intentions"
+        ]
+      },
+      "subconscious": {
+        "upright": "A subconscious drive for achieving mastery and creating in concert with others shapes your decisions.",
+        "reversed": "Unconscious resistance to collaboration or fear of dependency restricts your expression.",
+        "keywords": [
+          "drive for mastery",
+          "concerted creation",
+          "resistance to collaboration",
+          "fear of dependency"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you aspire to create communal value and move forward with a united vision.",
+        "reversed": "Your conscious focus is wary, perceiving collaboration as fraught with compromise and challenge.",
+        "keywords": [
+          "communal value",
+          "united vision",
+          "wary of collaboration",
+          "compromise"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel inspired and engaged when connecting with others to build something worthwhile.",
+        "reversed": "Emotionally, frustration arises from perceived lack of recognition or recurrent misunderstandings.",
+        "keywords": [
+          "inspired connection",
+          "engagement",
+          "frustration",
+          "lack of recognition"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart craves the joy of communal creation, where shared dreams shape and elevate each other.",
+        "reversed": "Heart yearns for validation yet fears the vulnerability that comes with trust and co-creation.",
+        "keywords": [
+          "communal creation",
+          "shared dreams",
+          "validation",
+          "vulnerability in trust"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, you strategize ways to braid together talents and visions, fostering unity.",
+        "reversed": "Mind finds itself looping over failures and miscommunications, finding it hard to unify thoughts.",
+        "keywords": [
+          "strategic unity",
+          "braiding talents",
+          "looping over failures",
+          "unify thoughts"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "External conditions are ripe for collaboration, with supportive systems ready to bolster your collective efforts.",
+        "reversed": "Outside misunderstandings or lack of coordination may breed division or impede teamwork.",
+        "keywords": [
+          "ripe conditions",
+          "supportive systems",
+          "outside misunderstandings",
+          "lack of coordination"
+        ]
+      },
+      "others": {
+        "upright": "People around you are eager and engage positively, harnessing each other's strengths for the common good.",
+        "reversed": "Others may either misunderstand your role or underrate the necessity of their own contributions.",
+        "keywords": [
+          "eager engagement",
+          "harness strengths",
+          "misunderstanding",
+          "underrating contributions"
+        ]
+      },
+      "environment": {
+        "upright": "The environment supports and uplifts creative synergy, encouraging shared goals to blossom.",
+        "reversed": "Disjointed dynamics or competitive atmosphere stifles harmony in your surroundings.",
+        "keywords": [
+          "supportive environment",
+          "creative synergy",
+          "disjointed dynamics",
+          "competitive atmosphere"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You are perceived as a reliable team member who values the power of combined effort.",
+        "reversed": "Others see you as distant or difficult to collaborate with due to miscommunication or perceived lack of interest.",
+        "keywords": [
+          "reliable teammate",
+          "power of effort",
+          "distant",
+          "miscommunication"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Invisible networks and connections are subtly guiding your collaborative ventures towards fulfillment.",
+        "reversed": "Unseen fears or patterns might be weaving discord, unawares to collective consciousness.",
+        "keywords": [
+          "invisible networks",
+          "guided collaboration",
+          "unseen fears",
+          "patterns of discord"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "A successful outcome achieved through collaborative energy, recognizing shared accomplishments.",
+        "reversed": "Failure to adapt and mend rifts may result in unfinished work and missed potential.",
+        "keywords": [
+          "successful outcome",
+          "collaborative energy",
+          "unfinished work",
+          "missed potential"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, your joint efforts will be celebrated, leading to greater opportunities and enhanced reputations.",
+        "reversed": "Without addressing complexities, final outcomes may leave unresolved gaps and overshadowed opportunities.",
+        "keywords": [
+          "celebrated efforts",
+          "enhanced reputations",
+          "unresolved gaps",
+          "overshadowed opportunities"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "A possible result is the forging of enduring alliances that continue to yield mutual benefits.",
+        "reversed": "If unchecked, ongoing disruptions could dwindle trust and cohesion, threatening collective goals.",
+        "keywords": [
+          "enduring alliances",
+          "mutual benefits",
+          "ongoing disruptions",
+          "dwindling trust"
+        ]
+      },
+      "best_case": {
+        "upright": "In the best scenario, seamless collaboration births innovative creations and abundant growth.",
+        "reversed": "A seemingly ideal situation may obscure underlying mistrust or delay necessary confrontations.",
+        "keywords": [
+          "seamless collaboration",
+          "innovative creation",
+          "obscured mistrust",
+          "delayed confrontations"
+        ]
+      },
+      "worst_case": {
+        "upright": "At worst, overly valuing independent goals could compromise collective accomplishments.",
+        "reversed": "The worst case entails repeated miscommunications causing complete project stagnation.",
+        "keywords": [
+          "compromise",
+          "independent goals",
+          "miscommunications",
+          "stagnation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves collaboration, skill-building, and working together toward mastery. Between you exists mutual respect for each other's talents and the ability to learn from one another while creating something of lasting value.",
+        "reversed": "Collaboration may be lacking or skills might be undervalued. Learning could be hindered by pride or competition. The relationship might involve sloppy work, lack of attention to detail, or failure to appreciate each other's contributions.",
+        "keywords": [
+          "collaboration",
+          "skill",
+          "mastery",
+          "teamwork"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A relationship strengthened by shared goals and teamwork, embracing each other's individual qualities.",
+      "reversed": "Misalignment or lack of effort from one or both partners, leading to a breakdown in connection.",
+      "keywords": [
+        "shared goals",
+        "partnership",
+        "misalignment",
+        "effort"
+      ]
+    },
+    "career": {
+      "upright": "Professional success comes from cooperation, where skills find harmony in communal projects.",
+      "reversed": "Disorganized teamwork or miscommunication hinders career progress and achievement.",
+      "keywords": [
+        "professional success",
+        "cooperation",
+        "disorganized teamwork",
+        "career hindrance"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual growth through community, finding wisdom and support among like-minded seekers.",
+      "reversed": "Spiritual discord arises from detachment or disconnection from your community's purpose.",
+      "keywords": [
+        "spiritual growth",
+        "community",
+        "discord",
+        "detachment"
+      ]
+    },
+    "financial": {
+      "upright": "Financial ventures benefit from partnered investments or collective financial planning.",
+      "reversed": "Financial instability arises from mismanaged resources or lack of coordinated budgeting.",
+      "keywords": [
+        "financial ventures",
+        "partnered investments",
+        "instability",
+        "mismanagement"
+      ]
+    },
+    "health": {
+      "upright": "Shared health goals or fitness communities support a balanced approach to wellness.",
+      "reversed": "Neglecting community support or external advice could hinder health improvements.",
+      "keywords": [
+        "shared health goals",
+        "fitness community",
+        "neglect",
+        "external advice"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "capricorn",
+    "hebrew_letter": "gimel",
+    "numerology": 3,
+    "planet": "mars",
+    "season": "winter",
+    "time_of_day": "midday",
+    "colors": [
+      "green",
+      "brown",
+      "earthy tones"
+    ],
+    "crystals": [
+      "jade",
+      "garnet",
+      "peridot"
+    ],
+    "herbs": [
+      "sage",
+      "thyme",
+      "cedar"
+    ]
+  },
+  "symbols": {
+    "cathedral": "communal vision and spiritual apex",
+    "sculptor": "mastery and craftsmanship",
+    "blueprints": "detailed planning and foresight",
+    "triad": "unity of purpose and balance",
+    "apprentices": "learning and collaboration"
+  },
+  "affirmations": [
+    "I work harmoniously with others to create lasting success.",
+    "My skills blend beautifully with the talents of my team.",
+    "I value and respect the contributions of my collaborators.",
+    "Together, we craft beauty from our shared vision."
+  ],
+  "journaling_prompts": [
+    "How can I contribute my skills to a collaborative effort?",
+    "In what ways have I relied on others to achieve my goals?",
+    "What lessons about teamwork have shaped my current path?",
+    "Where might fear be blocking my willingness to collaborate?"
+  ],
+  "meditation_focus": "Visualize the synergy of working together, weaving a tapestry of diverse skills and ideas harmoniously.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:38:22.444230",
+    "card_info": {
+      "name": "Three of Pentacles",
+      "number": 3,
+      "suit": "pentacles"
+    },
+    "filename": "p03.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Increases fertility and abundant creativity in projects, enhancing nurturing vibes in a collective.",
+        "keywords": [
+          "increases",
+          "fertility",
+          "abundant",
+          "creativity"
+        ]
+      },
+      "eight_of_pentacles": {
+        "interpretation": "Heightens attention to craftsmanship and meticulous effort in collaborative endeavors.",
+        "keywords": [
+          "heightens",
+          "attention",
+          "craftsmanship",
+          "meticulous"
+        ]
+      },
+      "ten_of_cups": {
+        "interpretation": "Emphasizes harmonious family or community achievements, leading to a sense of fulfillment.",
+        "keywords": [
+          "emphasizes",
+          "harmonious",
+          "family",
+          "community"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Disruption in group work or unexpected shifts challenge stability in collaborative projects.",
+        "keywords": [
+          "disruption",
+          "group",
+          "work",
+          "unexpected"
+        ]
+      },
+      "five_of_wands": {
+        "interpretation": "Intense competition or conflicts may spark amid teamwork, creating obstacles to cohesion.",
+        "keywords": [
+          "intense",
+          "competition",
+          "conflicts",
+          "spark"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Potential deceit or underhanded tactics threaten trust and transparency within teams.",
+        "keywords": [
+          "potential",
+          "deceit",
+          "underhanded",
+          "tactics"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_lovers": {
+        "interpretation": "Creates clarity about values and shared priorities in partnerships or collaborations.",
+        "keywords": [
+          "creates",
+          "clarity",
+          "values",
+          "shared"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Highlights indecision among team members, urging resolution for progress.",
+        "keywords": [
+          "highlights",
+          "indecision",
+          "team",
+          "members"
+        ]
+      },
+      "ace_of_cups": {
+        "interpretation": "Illuminates the emotional foundation supporting creative collaboration and new beginnings.",
+        "keywords": [
+          "illuminates",
+          "emotional",
+          "foundation",
+          "supporting"
+        ]
+      }
+    },
+    "similar_energy": {
+      "three_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "ace_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

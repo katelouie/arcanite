@@ -1,0 +1,684 @@
+{
+  "card_id": "justice",
+  "card_name": "Justice",
+  "card_number": 11,
+  "suit": "major_arcana",
+  "archetype": "the_mediator",
+  "core_meanings": {
+    "upright": {
+      "essence": "The embodiment of truth, balance, and ethical clarity. Justice seeks to illuminate fairness through reasoned decisions.",
+      "keywords": [
+        "fairness",
+        "balance",
+        "truth",
+        "law",
+        "equity",
+        "accountability",
+        "honesty",
+        "integrity"
+      ],
+      "psychological": "A call to bring unconscious biases into awareness, ensuring decisions are made through impartiality and inner truth.",
+      "spiritual": "Aligning with the universal laws of cause and effect. Understanding that our actions create ripples in the cosmos.",
+      "practical": "Time to evaluate circumstances with a clear mind. Just actions and decisions will bear favorable outcomes.",
+      "shadow": "Judgmental rigidity or refusal to acknowledge one's own part in creating imbalance or unfair situations."
+    },
+    "reversed": {
+      "essence": "Clouded judgment, bias, or dishonesty disrupting equilibrium. Consequences of unfairness come to light.",
+      "keywords": [
+        "unfairness",
+        "bias",
+        "dishonesty",
+        "injustice",
+        "imbalance",
+        "denial",
+        "evasiveness"
+      ],
+      "psychological": "Deception of self or others leads to a distorted perception, resulting in false conclusions or actions.",
+      "spiritual": "Ignoring the lessons of karma, evading responsibility for one's actions. Resistance to universal truths.",
+      "practical": "Decisions made on faulty or biased information lead to complications. Need to seek impartial advice.",
+      "shadow": "Allowing personal bias to cloud judgment, or becoming excessively punitive in response to perceived wrongs."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Previous actions rooted in fairness and integrity have shaped the positive aspects of your current reality.",
+        "reversed": "Past injustices or impulsive decisions still resonate, creating underlying issues in present circumstances.",
+        "keywords": [
+          "past actions",
+          "integrity",
+          "hidden injustice",
+          "ethical foundation"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, you faced a situation requiring ethical reflection that set a precedent for future moral decisions.",
+        "reversed": "Deep-seated patterns of denial or bias were established, leading to habitual imbalance.",
+        "keywords": [
+          "ethical decision",
+          "precedent",
+          "habitual imbalance",
+          "early injustice"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent verdict or balanced decision paved the way for your present situation.",
+        "reversed": "An unfair choice or overlooked truth from the near past continues to influence your current experience.",
+        "keywords": [
+          "recent fairness",
+          "verdict",
+          "overlooked truth",
+          "immediate impact"
+        ]
+      },
+      "present": {
+        "upright": "The situation calls for clear evaluation and truth-seeking. Fairness and objectivity are paramount.",
+        "reversed": "You're encountering partiality or dishonesty. There's a need to reassess and confront underlying biases.",
+        "keywords": [
+          "evaluation",
+          "truth-seeking",
+          "current fairness",
+          "distorted view"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, you are dealing with themes of justice and accountability, requiring a balanced approach.",
+        "reversed": "Central to the issue is a lack of equilibrium or evasive actions, disrupting harmony.",
+        "keywords": [
+          "accountability",
+          "central theme",
+          "core imbalance",
+          "evasive actions"
+        ]
+      },
+      "future": {
+        "upright": "Impartial evaluation or fair decisions now will lead to future harmony and justice being served.",
+        "reversed": "Future unrest due to current denial or unethical choices - face decisions with honesty to prevent turmoil.",
+        "keywords": [
+          "future harmony",
+          "justice served",
+          "pending unrest",
+          "truth in outcome"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, a situation will arise asking for just assessment and a balanced approach. Fairness will be required.",
+        "reversed": "Imminent confusion due to partial views or dishonest dealings; prepare to untangle the web.",
+        "keywords": [
+          "impending justice",
+          "balanced approach",
+          "confusing situation",
+          "partial views"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, integrity will lead to an equitable environment and long-term peace.",
+        "reversed": "Continued imbalance results in lingering discord, unless responsibility and truth are embraced.",
+        "keywords": [
+          "integrity's reward",
+          "equitable environment",
+          "lingering discord",
+          "embracing responsibility"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge lies in maintaining objectivity and resisting the pull of personal biases or desires.",
+        "reversed": "Overcoming denial and acknowledging uncomfortable truths are key to restoring balance.",
+        "keywords": [
+          "objectivity",
+          "neutrality",
+          "self-awareness",
+          "acknowledging truths"
+        ]
+      },
+      "cross": {
+        "upright": "External forces may pressure you to deviate from your ethical path; resilience is key.",
+        "reversed": "Internal conflict or self-deception crosses your path, obscuring clarity.",
+        "keywords": [
+          "external pressure",
+          "ethical path",
+          "internal conflict",
+          "self-deception"
+        ]
+      },
+      "obstacle": {
+        "upright": "Prejudices or emotional attachments threaten to skew fair judgment and actions.",
+        "reversed": "Avoidance of responsibility or outright denial impedes establishing justice.",
+        "keywords": [
+          "prejudices",
+          "emotional attachments",
+          "responsibility avoidance",
+          "denial"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to weigh facts against your inner truth, fostering decisions grounded in fairness and equity.",
+        "reversed": "Lessons of accountability and the ramifications of dishonesty must be faced and integrated.",
+        "keywords": [
+          "weighing facts",
+          "inner truth",
+          "accountability",
+          "dishonesty ramification"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow harbors the desire for retribution at the cost of fairness. Balance desire with reason.",
+        "reversed": "Buried within are fears of responsibility or acknowledgment of personal mistakes.",
+        "keywords": [
+          "desire for retribution",
+          "balance with reason",
+          "fear of responsibility",
+          "personal mistakes"
+        ]
+      },
+      "what_hinders": {
+        "upright": "A lack of clarity or unwillingness to listen to all perspectives blocks fair resolutions.",
+        "reversed": "Persistent denial of accountability or self-serving narratives hinder just outcomes.",
+        "keywords": [
+          "lack of clarity",
+          "narrative blockade",
+          "self-serving bias",
+          "accountability denial"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Seek balance by ensuring that your decisions reflect truth and fairness. Consider all perspectives before acting.",
+        "reversed": "Pause to audit your intentions and the accuracy of the information before proceeding.",
+        "keywords": [
+          "seek balance",
+          "reflect truth",
+          "consider perspectives",
+          "audit intentions"
+        ]
+      },
+      "action": {
+        "upright": "Act with integrity and transparency. Stand up for justice with courage and clarity.",
+        "reversed": "Reassess actions that come from bias or misinformation. Correct the course with sincerity.",
+        "keywords": [
+          "integrity",
+          "transparency",
+          "courageous action",
+          "correcting course"
+        ]
+      },
+      "your_approach": {
+        "upright": "You view yourself as principled and committed to fairness, striving for balance in all matters.",
+        "reversed": "You may perceive yourself as fair, yet blind spots and biases subtly influence your judgments.",
+        "keywords": [
+          "principled",
+          "fairness commitment",
+          "self-perception",
+          "hidden bias"
+        ]
+      },
+      "what_helps": {
+        "upright": "Incorporating various viewpoints and a willingness to adapt to new information strengthens integrity.",
+        "reversed": "Seeking counsel to unravel personal bias or incorrect data helps restore clarity.",
+        "keywords": [
+          "viewpoint incorporation",
+          "integrity strengthening",
+          "counsel",
+          "clarity restoration"
+        ]
+      },
+      "guidance": {
+        "upright": "Let universal truth illuminate your path - align actions with ethical intentions and cosmic laws.",
+        "reversed": "Reflect on areas where honesty is lacking, and rectify these to prevent further imbalance.",
+        "keywords": [
+          "universal truth",
+          "ethical alignment",
+          "honesty reflection",
+          "imbalance prevention"
+        ]
+      },
+      "best_course": {
+        "upright": "Choose fairness over expedience, honesty over shortcuts - authentic integrity ensures lasting results.",
+        "reversed": "Avoid decisions that compromise values or involve half-truths; instead, uphold clarity and resolve.",
+        "keywords": [
+          "fairness",
+          "authentic integrity",
+          "values",
+          "clarity and resolve"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope resides in justice being served, but there's fear of being judged unfairly or misunderstood.",
+        "reversed": "Fear of exposure or reckoning with unresolved truths clouds your hopes for peace.",
+        "keywords": [
+          "justice hope",
+          "fear of judgment",
+          "exposure fear",
+          "peace hope"
+        ]
+      },
+      "hopes": {
+        "upright": "You long for truth and balance to prevail, bringing clarity and resolution to ongoing concerns.",
+        "reversed": "Hopes are held that partialities or errors remain unnoticed, avoiding immediate confrontation.",
+        "keywords": [
+          "truth longings",
+          "balance desire",
+          "avoidance of confrontation",
+          "clarity hope"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of disrupted balance or being involved in conflicts due to others' dishonesty.",
+        "reversed": "Apprehension about revelations or consequences stemming from past deceit.",
+        "keywords": [
+          "balance disruption",
+          "conflict fear",
+          "revelation unease",
+          "consequence fear"
+        ]
+      },
+      "subconscious": {
+        "upright": "Your subconscious strives for harmony between inner truths and conscious actions.",
+        "reversed": "Unacknowledged biases or denial lie beneath the surface, urging for recognition and healing.",
+        "keywords": [
+          "subconscious harmony",
+          "inner truth",
+          "acknowledgment need",
+          "healing"
+        ]
+      },
+      "conscious": {
+        "upright": "You’re consciously mindful of ethical alignment, striving to make fair and balanced choices.",
+        "reversed": "Consciously grappling with partiality or self-deception, clouding fair assessment.",
+        "keywords": [
+          "ethical alignment",
+          "mindful choices",
+          "partiality struggle",
+          "clouded assessment"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you are grounded, seeking peace through balanced relationships and truth.",
+        "reversed": "Turmoil exists due to inequities or refusals to accept reality; balance and clarity are needed.",
+        "keywords": [
+          "grounded emotions",
+          "peace seeking",
+          "turmoil",
+          "reality acceptance"
+        ]
+      },
+      "heart": {
+        "upright": "The heart longs for equilibrium and fairness in relationships, desiring clear understanding.",
+        "reversed": "Heartfelt anxieties arise from lingering guilt or fear of truth being unveiled.",
+        "keywords": [
+          "equilibrium",
+          "fairness longing",
+          "guilt",
+          "truth unveiling"
+        ]
+      },
+      "mind": {
+        "upright": "The mind is sharp, focused on fairness and rational analysis to guide actions and decisions.",
+        "reversed": "Mental confusion due to unwillingness to confront dishonesty or biases, impacting clarity.",
+        "keywords": [
+          "sharp mind",
+          "rational analysis",
+          "mental confusion",
+          "confrontation unwillingness"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "External forces uphold justice and integrity, supporting you to align with universal fairness.",
+        "reversed": "Deceptive influences or external biases are affecting your ability to see clearly and fairly.",
+        "keywords": [
+          "integrity support",
+          "universal fairness",
+          "deceptive influence",
+          "external bias"
+        ]
+      },
+      "others": {
+        "upright": "Others perceive you as a fair and balanced individual, turning to you for impartial wisdom.",
+        "reversed": "Others may see your decisions as biased or perceive you as unable to maintain impartiality.",
+        "keywords": [
+          "perception of fairness",
+          "impartial wisdom",
+          "biased perception",
+          "impartiality challenge"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment supports justice and truth, allowing ethical actions to unfold naturally.",
+        "reversed": "Environmental factors may obscure truth or encourage dishonest actions, requiring vigilance.",
+        "keywords": [
+          "justice support",
+          "ethical environment",
+          "truth obscuration",
+          "dishonest encouragement"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a beacon of fairness, one who brings calm resolution to conflicts.",
+        "reversed": "Viewed as stubbornly righteous or struggling with bias, challenging your reputation.",
+        "keywords": [
+          "fairness",
+          "calm resolution",
+          "stubborn righteousness",
+          "challenged reputation"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen allies or karmic forces are guiding justice in your favor; trust in the unseen hand of equilibrium.",
+        "reversed": "Hidden biases or deceptions lurk beneath the surface, complicating the true nature of situations.",
+        "keywords": [
+          "unseen support",
+          "karmic forces",
+          "hidden biases",
+          "deception complications"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Faithful adherence to truth and fairness results in harmonious and just outcomes.",
+        "reversed": "Consequences of biased or dishonest actions lead to discord and ongoing imbalance.",
+        "keywords": [
+          "harmonious outcome",
+          "just results",
+          "consequences",
+          "ongoing imbalance"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, truth prevails, bringing satisfaction and peace from rightful resolutions.",
+        "reversed": "Avoidance of justice results in continuous unrest; recognition is imperative for peace.",
+        "keywords": [
+          "truth prevails",
+          "rightful resolution",
+          "continuous unrest",
+          "imperative recognition"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "A favorable outcome emerges, grounded in balanced, ethical actions and reinforced by inner truth.",
+        "reversed": "Possibility of further complications due to denial or unresolved injustices requiring attention.",
+        "keywords": [
+          "favorable outcome",
+          "ethical actions",
+          "complications",
+          "unresolved injustices"
+        ]
+      },
+      "best_case": {
+        "upright": "Optimal scenarios unfold with justice and truth acting as cornerstones of all resolutions.",
+        "reversed": "Superficial solutions mask deeper issues, potentially leading to eventual revelations.",
+        "keywords": [
+          "optimal scenario",
+          "truth cornerstone",
+          "superficial solutions",
+          "revelation potential"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst outcomes involve failing to act on truth, leading to regret and missed opportunities for justice.",
+        "reversed": "Chronic imbalance results from pervasive dishonesty, causing unending turmoil.",
+        "keywords": [
+          "missed opportunities",
+          "truth failure",
+          "chronic imbalance",
+          "unending turmoil"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic seeks balance, fairness, and truth. Between you exists a commitment to justice and making ethical decisions together. This connection honors cause and effect, taking responsibility for actions and their consequences.",
+        "reversed": "The dynamic may involve unfairness, blame, or avoiding accountability. Decisions may be biased or self-serving rather than just. The relationship could struggle with imbalance, where one party gives or takes too much without reciprocity.",
+        "keywords": [
+          "justice",
+          "balance",
+          "truth",
+          "accountability"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Seek a balanced and fair partnership. Honor truth and equality within relationships.",
+      "reversed": "Dishonesty or inequity causes strain. Address issues openly to restore harmony.",
+      "keywords": [
+        "balanced partnership",
+        "equality",
+        "dishonesty strain",
+        "relationship harmony"
+      ]
+    },
+    "career": {
+      "upright": "Align career pursuits with ethical standards. Decision-making grounded in fairness will succeed.",
+      "reversed": "Unethical practices may disrupt professional growth. Embrace integrity for meaningful progress.",
+      "keywords": [
+        "ethical career",
+        "decision-making",
+        "unethical practice",
+        "integrity progress"
+      ]
+    },
+    "spiritual": {
+      "upright": "Embrace spiritual truths and universal law. Seek inner balance through divine justice.",
+      "reversed": "Avoid spiritual bypass; face ethical dilemmas to foster genuine spiritual growth.",
+      "keywords": [
+        "spiritual truth",
+        "universal law",
+        "ethical dilemmas",
+        "spiritual growth"
+      ]
+    },
+    "financial": {
+      "upright": "Ensure equitable financial dealings. Investments aligned with values will prosper.",
+      "reversed": "Deceptive or unbalanced finances need correction. Honesty is crucial for abundance.",
+      "keywords": [
+        "equitable finances",
+        "value investment",
+        "deceptive finances",
+        "abundance"
+      ]
+    },
+    "health": {
+      "upright": "Focus on balanced health practices. Honest assessment of habits brings equilibrium.",
+      "reversed": "Avoiding health truths leads to imbalance. Align actions with wellbeing for wholeness.",
+      "keywords": [
+        "balanced health",
+        "habit assessment",
+        "health truths",
+        "wellbeing"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "libra",
+    "hebrew_letter": "lamed",
+    "numerology": 11,
+    "planet": "venus",
+    "season": "autumn",
+    "time_of_day": "midday",
+    "colors": [
+      "blue",
+      "green",
+      "silver"
+    ],
+    "crystals": [
+      "labradorite",
+      "sodalite",
+      "diamond"
+    ],
+    "herbs": [
+      "sage",
+      "mint",
+      "thyme"
+    ]
+  },
+  "symbols": {
+    "scales": "balance and fairness",
+    "sword": "truth and impartiality",
+    "pillar": "stability and structure",
+    "veil": "hidden truths awaiting revelation",
+    "crown": "authority and moral leadership"
+  },
+  "affirmations": [
+    "I act with fairness and integrity in all my decisions.",
+    "Truth guides my path, ensuring balance and harmony.",
+    "I embrace both sides of every situation with impartiality.",
+    "Justice prevails when my actions align with universal truths."
+  ],
+  "journaling_prompts": [
+    "Where in my life do I need to restore balance?",
+    "What truths am I avoiding, and how can I address them?",
+    "How can I ensure my decisions align with my values?",
+    "What role does justice play in my current situation?"
+  ],
+  "meditation_focus": "Centering on balance and fairness within, aligning actions with truth and universal laws.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:18:59.054787",
+    "card_info": {
+      "name": "Justice",
+      "number": 11,
+      "suit": "major_arcana"
+    },
+    "filename": "m11.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_hanged_man": {
+        "interpretation": "Sacrifice in pursuit of deeper truth and justice leads to enlightenment.",
+        "keywords": [
+          "sacrifice",
+          "pursuit",
+          "deeper",
+          "truth"
+        ]
+      },
+      "king_of_swords": {
+        "interpretation": "Logical acumen fused with impartial justice - an unbeatable combination for decisions.",
+        "keywords": [
+          "logical",
+          "acumen",
+          "fused",
+          "impartial"
+        ]
+      },
+      "temperance": {
+        "interpretation": "When balance and moderation converge, ultimate harmony is achieved.",
+        "keywords": [
+          "balance",
+          "moderation",
+          "converge",
+          "ultimate"
+        ]
+      }
+    },
+    "challenges": {
+      "the_moon": {
+        "interpretation": "Emotional confusion clouds judgment, challenging the pursuit of truth.",
+        "keywords": [
+          "emotional",
+          "confusion",
+          "clouds",
+          "judgment"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Deception threatens the rightful balance; a test of discerning integrity.",
+        "keywords": [
+          "deception",
+          "threatens",
+          "rightful",
+          "balance"
+        ]
+      },
+      "the_tower": {
+        "interpretation": "Chaos challenges the foundations of justice, demanding resilience and steadfastness.",
+        "keywords": [
+          "chaos",
+          "challenges",
+          "foundations",
+          "justice"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_high_priestess": {
+        "interpretation": "Intuition guides the search for truth, aligning internal clarity with external justice.",
+        "keywords": [
+          "intuition",
+          "guides",
+          "search",
+          "truth"
+        ]
+      },
+      "four_of_pentacles": {
+        "interpretation": "Reveals the need for generosity and openness to restore equilibrium.",
+        "keywords": [
+          "reveals",
+          "need",
+          "generosity",
+          "openness"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Calls for moral reckoning and alignment with higher truths.",
+        "keywords": [
+          "calls",
+          "moral",
+          "reckoning",
+          "alignment"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_emperor": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "king_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_devil": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

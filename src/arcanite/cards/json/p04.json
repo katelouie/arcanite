@@ -1,0 +1,682 @@
+{
+  "card_id": "four_of_pentacles",
+  "card_name": "Four of Pentacles",
+  "card_number": 4,
+  "suit": "pentacles",
+  "archetype": "the_hoarder",
+  "core_meanings": {
+    "upright": {
+      "essence": "Holding tightly to possessions or status, seeking security through control and accumulation.",
+      "keywords": [
+        "control",
+        "security",
+        "possessiveness",
+        "stability",
+        "materialism",
+        "boundaries",
+        "protection"
+      ],
+      "psychological": "A defense mechanism against fear of loss, stemming from a need for stability and predictability.",
+      "spiritual": "A lesson in finding balance between material security and spiritual generosity—holding yet releasing.",
+      "practical": "Time to evaluate what possessions or beliefs you cling to and whether they truly serve your highest good.",
+      "shadow": "Fear-driven greed and isolation, closing off from emotional or spiritual abundance."
+    },
+    "reversed": {
+      "essence": "Letting go of old patterns or possessions, or experiencing instability due to lack of control.",
+      "keywords": [
+        "release",
+        "instability",
+        "greed",
+        "overthrow",
+        "flow",
+        "weak foundations"
+      ],
+      "psychological": "A moment of vulnerability, where letting go invites both fear and liberation.",
+      "spiritual": "Encouragement from the universe to embrace the cycle of giving and receiving, trusting abundance.",
+      "practical": "Consider where your rigidity needs softening; adapt flexibility in approach to wealth and resources.",
+      "shadow": "Loss due to mindless consumption or failure to adapt; fear of change stalling potential growth."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A period marked by strategic saving and building security that influences your current stability.",
+        "reversed": "Past decisions of hoarding or financial fear may still weigh on your present. Breaking free from these old restraints is key.",
+        "keywords": [
+          "strategic holding",
+          "financial fear",
+          "stability building",
+          "past accumulation"
+        ]
+      },
+      "distant_past": {
+        "upright": "Early foundations of seeking control and safety through possessions or roles established long-standing patterns.",
+        "reversed": "Unresolved past rigidity or losses demand reevaluation of what true security means to you.",
+        "keywords": [
+          "foundational patterns",
+          "past rigidity",
+          "early safety needs",
+          "reassessment"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently, your efforts to secure a situation or outcome have solidified foundational stability.",
+        "reversed": "Recent instability or loosening of grip indicating a shake-up in your approach to security.",
+        "keywords": [
+          "recent efforts",
+          "solidified stability",
+          "shake-up",
+          "changing grip"
+        ]
+      },
+      "present": {
+        "upright": "Currently, your focus is on maintaining control and holding tightly to what you value most.",
+        "reversed": "Present circumstances challenge you to release control and adapt to changes for healthier flow.",
+        "keywords": [
+          "current hold",
+          "maintaining control",
+          "confronting change",
+          "adaptation"
+        ]
+      },
+      "present_situation": {
+        "upright": "The core of your experience involves a desire to protect what's yours and establish strong boundaries.",
+        "reversed": "Feeling pressure from unstable foundations—an invitation to reassess what you hold onto.",
+        "keywords": [
+          "protection",
+          "boundaries",
+          "current instability",
+          "reassessment"
+        ]
+      },
+      "future": {
+        "upright": "An opportunity for greater security is on the horizon, though it may require maintaining your boundaries.",
+        "reversed": "Future growth hinges on releasing rigid habits—embrace flexibility to attract prosperity.",
+        "keywords": [
+          "upcoming opportunity",
+          "security",
+          "future growth",
+          "flexibility"
+        ]
+      },
+      "near_future": {
+        "upright": "In the imminent future, your steadfastness in holding to your values will be tested.",
+        "reversed": "Immediate changes or letting go could bring unexpected opportunities for growth.",
+        "keywords": [
+          "steadfastness",
+          "value testing",
+          "letting go",
+          "unexpected growth"
+        ]
+      },
+      "distant_future": {
+        "upright": "Long-term security and stability are attainable through careful planning and wise guardianship of resources.",
+        "reversed": "Potential future instabilities may arise if current rigidities remain unaddressed.",
+        "keywords": [
+          "long-term security",
+          "wise guardianship",
+          "future instabilities",
+          "potential freedom"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to find security without becoming overly possessive or controlling.",
+        "reversed": "Challenge lies in releasing burdens and adapting to new dynamics without fear.",
+        "keywords": [
+          "find balance",
+          "release challenges",
+          "control",
+          "adaptation"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures to conform might conflict with your instinct to protect and reserve.",
+        "reversed": "Letting go of failed expectations crossing your ability to grow beyond boundaries.",
+        "keywords": [
+          "conformity pressure",
+          "protection instinct",
+          "failed expectations",
+          "growth barriers"
+        ]
+      },
+      "obstacle": {
+        "upright": "Fear of losing control or possessions stands in the way of emotional openness and generosity.",
+        "reversed": "Inflexibility and resistance to change create blockages to personal advancement.",
+        "keywords": [
+          "fear of loss",
+          "generosity blockade",
+          "inflexibility",
+          "personal blockage"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson is learning to trust in the ebb and flow of resources rather than holding too tightly.",
+        "reversed": "Teachings arise from learning that true security lies in adaptability and growth, not rigidity.",
+        "keywords": [
+          "ebb and flow",
+          "trust",
+          "adaptability",
+          "growth teachings"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow contains unexamined fears around loss and scarcity, driving possessiveness.",
+        "reversed": "Repressed desires to control or possess reveal underlying fear of surrender.",
+        "keywords": [
+          "unexamined fear",
+          "scarcity",
+          "repressed desires",
+          "fear of surrender"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Overbearing need for security hinders development and restricts spontaneous possibilities.",
+        "reversed": "Failure to release stagnant patterns holds back potential new growth and discovery.",
+        "keywords": [
+          "security need",
+          "development restriction",
+          "stagnant patterns",
+          "potential blockage"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Examine what you hold dear and ask if it serves your heart's purpose. Let go where necessary.",
+        "reversed": "Be open to change. Embrace flexibility rather than holding to outdated beliefs or possessions.",
+        "keywords": [
+          "self-examination",
+          "heart's purpose",
+          "embrace change",
+          "flexibility"
+        ]
+      },
+      "action": {
+        "upright": "Actively conserve, but do not hoard. Establish clear boundaries that serve the greater good.",
+        "reversed": "Take action by decluttering—both physical and emotional space create room for new growth.",
+        "keywords": [
+          "conserve",
+          "clear boundaries",
+          "decluttering",
+          "growth room"
+        ]
+      },
+      "your_approach": {
+        "upright": "Your approach involves safeguarding what you value, maintaining stability with clear purpose.",
+        "reversed": "Consider if your approach is too rigid—infuse it with openness and trust in the process.",
+        "keywords": [
+          "safeguarding",
+          "stability",
+          "approach rigidity",
+          "openness"
+        ]
+      },
+      "what_helps": {
+        "upright": "Insightful planning and prudent resource management bolster your ability to provide security.",
+        "reversed": "Welcoming new perspectives helps you overcome barriers arising from unnecessary resource hoarding.",
+        "keywords": [
+          "insightful planning",
+          "management",
+          "new perspectives",
+          "overcoming barriers"
+        ]
+      },
+      "guidance": {
+        "upright": "Guidance suggests balancing acquisition with the joy of sharing, ensuring flow and openness in life.",
+        "reversed": "Wisdom encourages releasing the need to control outcomes; embrace natural cycles.",
+        "keywords": [
+          "balance",
+          "sharing",
+          "control release",
+          "natural cycles"
+        ]
+      },
+      "best_course": {
+        "upright": "A balanced path ensures stability and protection while allowing for generosity and change.",
+        "reversed": "Allow openness to shape your journey—navigate with curiosity rather than control.",
+        "keywords": [
+          "balance",
+          "stability",
+          "generosity",
+          "openness"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for enduring stability and control; fear of exposure or vulnerability.",
+        "reversed": "Fear loosens under the promise of liberation, though shadows of loss still linger.",
+        "keywords": [
+          "enduring stability",
+          "control",
+          "liberation",
+          "fear of loss"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire a secure foundation to build upon, ensuring future peace and prosperity.",
+        "reversed": "Hopes align with releasing burdens and welcoming life’s natural abundance.",
+        "keywords": [
+          "secure foundation",
+          "future peace",
+          "releasing burdens",
+          "natural abundance"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing control over assets or relationships creates emotional tension.",
+        "reversed": "Fears about instability and adapting to change emerge, hinting at deeper insecurities.",
+        "keywords": [
+          "loss of control",
+          "emotional tension",
+          "instability",
+          "insecurities"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by a need for predictability and comfort, resisting sudden shifts.",
+        "reversed": "Unconsciously pushing against existing constraints, seeking freedom from self-imposed limitations.",
+        "keywords": [
+          "need for comfort",
+          "predictability",
+          "pushing against",
+          "seeking freedom"
+        ]
+      },
+      "conscious": {
+        "upright": "Aware of a need to maintain and protect, aiming for stability in everyday life.",
+        "reversed": "Consciously realizing that true freedom might require letting go and embracing the unknown.",
+        "keywords": [
+          "need to maintain",
+          "protection",
+          "realizing freedom",
+          "letting go"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotions revolve around maintaining control, with quiet anxiety about letting go.",
+        "reversed": "Feeling the release of tension when letting go, though uncertainty remains potent.",
+        "keywords": [
+          "emotional control",
+          "anxiety",
+          "release tension",
+          "uncertainty"
+        ]
+      },
+      "heart": {
+        "upright": "Heart's desire for safety creates a tendency to hold too tightly, often isolating warmth.",
+        "reversed": "Heart yearns for liberation, ready to embrace the unfolding and shared experiences.",
+        "keywords": [
+          "safety",
+          "holding tightly",
+          "isolation",
+          "shared experiences"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally preoccupied with strategies of acquisition and retention, fearing loss of assets.",
+        "reversed": "Mind opens to the concept of change, ready to rethink attachments and commitments.",
+        "keywords": [
+          "strategy",
+          "retention",
+          "fear of loss",
+          "rethinking attachments"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others perceive you as a protector of values and resources, sometimes deemed overly cautious.",
+        "reversed": "Seen as someone adapting to change, releasing control; this evokes both interest and concern.",
+        "keywords": [
+          "protector",
+          "cautious",
+          "adapting",
+          "interest and concern"
+        ]
+      },
+      "others": {
+        "upright": "Others may encourage stability while also advising moderation to ensure balance is retained.",
+        "reversed": "External suggestions appear that challenge your traditional approach to security.",
+        "keywords": [
+          "encouragement",
+          "advice",
+          "external suggestions",
+          "challenge approach"
+        ]
+      },
+      "environment": {
+        "upright": "The surrounding environment values security and protection, supporting controlled progress.",
+        "reversed": "Dynamic changes in your environment demand flexibility and adaptability to remain harmonious.",
+        "keywords": [
+          "security",
+          "protection",
+          "dynamic changes",
+          "flexibility"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Perceived as grounded and stable, valued for wisdom in managing resources effectively.",
+        "reversed": "Others see you as letting go or changing paths, intriguing yet concerning in unfamiliar ways.",
+        "keywords": [
+          "grounded",
+          "stable",
+          "letting go",
+          "changing paths"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Hidden influences include unseen support systems that sustain stability in discreet ways.",
+        "reversed": "Subtle forces push towards change through unexpected opportunities and challenges.",
+        "keywords": [
+          "hidden support",
+          "stability",
+          "unexpected opportunities",
+          "subtle forces"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Achieving a steady base through control yields a sense of physical and emotional security.",
+        "reversed": "Outcome involves significant personal growth by allowing structure to dissolve into fluidity.",
+        "keywords": [
+          "steady base",
+          "emotional security",
+          "personal growth",
+          "fluidity"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, secure establishment of foundations leads to fulfilling sustained growth.",
+        "reversed": "Final outcome may reveal abundant possibilities as rigid patterns fall away.",
+        "keywords": [
+          "secure foundation",
+          "sustained growth",
+          "abundant possibilities",
+          "rigid patterns"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "A likely outcome is increased security, though it may come with the cost of isolation if not balanced.",
+        "reversed": "Possibly freedom from self-imposed constraints brings new paths aligning with true desires.",
+        "keywords": [
+          "increased security",
+          "isolation",
+          "freedom",
+          "new paths"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case involves controlled expansion with guarded optimism leading to continual prosperity.",
+        "reversed": "Ideal scenarios see liberation from restraints, creating a fertile ground for creativity.",
+        "keywords": [
+          "controlled expansion",
+          "guarded optimism",
+          "liberation",
+          "creativity"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case concerns excessive control impeding emotional connections and innovative potential.",
+        "reversed": "Fear of change compelling regression, leading to cycles of stagnation due to over-guarding.",
+        "keywords": [
+          "excessive control",
+          "emotional disconnection",
+          "regression",
+          "stagnation"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship is built on material security, conservative values, and the careful preservation of resources. The dynamic involves saving, holding onto what you have, and perhaps being overly cautious about spending or sharing material resources.",
+        "reversed": "The holding onto resources may become excessive or sharing might be neglected. Security could turn into stinginess or generosity might be lacking. The relationship may involve hoarding, selfishness, or fear-based scarcity thinking.",
+        "keywords": [
+          "security",
+          "conservation",
+          "material control",
+          "caution"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Holding tightly to a relationship, demanding security, can overshadow intimacy. Look for balance.",
+      "reversed": "Letting go of past hurts invites healing. Be open to new expressions of love and trust.",
+      "keywords": [
+        "security focus",
+        "intimacy",
+        "healing",
+        "trust"
+      ]
+    },
+    "career": {
+      "upright": "Focusing on creating financial stability through tenacity and determined work efforts.",
+      "reversed": "Change in career path or role may release tension, though requires courage to embrace the new.",
+      "keywords": [
+        "financial stability",
+        "tenacity",
+        "career change",
+        "courage"
+      ]
+    },
+    "spiritual": {
+      "upright": "Examine where material concerns impede spiritual growth, inviting openness to higher wisdom.",
+      "reversed": "Spiritual liberation seeks unconscious release of fears holding you back from deeper understanding.",
+      "keywords": [
+        "material concerns",
+        "spiritual growth",
+        "liberation",
+        "deeper understanding"
+      ]
+    },
+    "financial": {
+      "upright": "Your resources favor financial stability, yet vigilance is needed to avoid greed.",
+      "reversed": "Releasing financial fears can open pathways for wealth and resource flow to expand naturally.",
+      "keywords": [
+        "financial stability",
+        "vigilance",
+        "wealth",
+        "resource flow"
+      ]
+    },
+    "health": {
+      "upright": "Focusing on maintaining health routines; moderation fosters lasting well-being.",
+      "reversed": "Release stress-related habits. Adapt to healthier patterns through gradual change.",
+      "keywords": [
+        "health maintenance",
+        "moderation",
+        "release stress",
+        "health patterns"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "capricorn",
+    "hebrew_letter": "dalet",
+    "numerology": 4,
+    "planet": "saturn",
+    "season": "winter",
+    "time_of_day": "midnight",
+    "colors": [
+      "green",
+      "brown",
+      "dark gray"
+    ],
+    "crystals": [
+      "obsidian",
+      "hematite",
+      "pyrite"
+    ],
+    "herbs": [
+      "sage",
+      "ivy",
+      "patchouli"
+    ]
+  },
+  "symbols": {
+    "crown": "power and control",
+    "fortress": "security and defense",
+    "city": "community and isolation",
+    "pentacles": "material wealth",
+    "throne": "stability and authority"
+  },
+  "affirmations": [
+    "I balance security with openness, welcoming change into my life.",
+    "I release fear of loss and trust in the cycle of abundance.",
+    "I allow both giving and receiving to flow through me harmoniously.",
+    "I find strength and stability within, beyond material possessions."
+  ],
+  "journaling_prompts": [
+    "What am I holding onto too tightly and why?",
+    "How can I balance security with the need for change?",
+    "Where in my life can I practice letting go?",
+    "What does true abundance mean to me?"
+  ],
+  "meditation_focus": "Visualize the flow of abundance, accepting both giving and receiving as natural tides—breathe into balance between holding and letting go.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:39:20.967407",
+    "card_info": {
+      "name": "Four of Pentacles",
+      "number": 4,
+      "suit": "pentacles"
+    },
+    "filename": "p04.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_emperor": {
+        "interpretation": "Reinforces discipline and structure. Together, create an impregnable foundation.",
+        "keywords": [
+          "reinforces",
+          "discipline",
+          "structure",
+          "together"
+        ]
+      },
+      "nine_of_pentacles": {
+        "interpretation": "Strengthens financial independence—focused attention magnifies abundance.",
+        "keywords": [
+          "strengthens",
+          "financial",
+          "independence",
+          "focused"
+        ]
+      },
+      "queen_of_swords": {
+        "interpretation": "Tool for enforcing clear boundaries, supporting logical decision-making.",
+        "keywords": [
+          "tool",
+          "enforcing",
+          "clear",
+          "boundaries"
+        ]
+      }
+    },
+    "challenges": {
+      "the_chariot": {
+        "interpretation": "Urges balance between control and momentum. Steer without rigidity.",
+        "keywords": [
+          "urges",
+          "balance",
+          "control",
+          "momentum"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Highlights tendency to dwell on loss rather than embracing present wealth.",
+        "keywords": [
+          "highlights",
+          "tendency",
+          "dwell",
+          "loss"
+        ]
+      },
+      "ten_of_swords": {
+        "interpretation": "Warns against clinging to old stories—necessitates release for rebirth.",
+        "keywords": [
+          "warns",
+          "against",
+          "clinging",
+          "stories"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hanged_man": {
+        "interpretation": "Fatigued perspectives need refreshing insight—a chance for renewal through surrender.",
+        "keywords": [
+          "fatigued",
+          "perspectives",
+          "need",
+          "refreshing"
+        ]
+      },
+      "ace_of_pentacles": {
+        "interpretation": "Precision in managing opportunities that align wealth with purpose.",
+        "keywords": [
+          "precision",
+          "managing",
+          "opportunities",
+          "align"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Illusions dissolve as priorities clear; aligning choices with core values.",
+        "keywords": [
+          "illusions",
+          "dissolve",
+          "priorities",
+          "clear"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_emperor": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "nine_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "three_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

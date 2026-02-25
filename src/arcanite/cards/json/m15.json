@@ -1,0 +1,684 @@
+{
+  "card_id": "the_devil",
+  "card_name": "The Devil",
+  "card_number": 15,
+  "suit": "major_arcana",
+  "archetype": "the_tempter",
+  "core_meanings": {
+    "upright": {
+      "essence": "The allure of desire and the chains of material temptation. A mirror reflecting our shadow and the seductive grip of indulgence.",
+      "keywords": [
+        "temptation",
+        "addiction",
+        "materialism",
+        "bondage",
+        "illusion",
+        "shadow self",
+        "entrapment",
+        "obsession"
+      ],
+      "psychological": "Represents the ensnaring patterns of thought that bind us to self-destructive behaviors. Confronting the parts of ourselves we shy away from.",
+      "spiritual": "The false idol that calls our soul to stray from higher truths. A challenge to transcend ego-bound desires and vices.",
+      "practical": "Be aware of the hold unhealthy attachments have on you. Examine where you're giving away your power or remaining in denial.",
+      "shadow": "The whispers of fear and doubt that keep you bound. Embracing illusion over reality out of comfort or avoidance."
+    },
+    "reversed": {
+      "essence": "Liberation from bondage, breaking free from fears and unhealthy patterns. The dawning realization of illusions dispelled.",
+      "keywords": [
+        "release",
+        "freedom",
+        "awareness",
+        "relinquishing control",
+        "self-awareness",
+        "breaking chains",
+        "overcoming addiction"
+      ],
+      "psychological": "The dismantling of mental prisons and facing the truth of one's shadow. Emancipation from limiting beliefs.",
+      "spiritual": "An awakening to the light beyond shadow. Rediscovering the soul's path by letting go of ego-based attachments.",
+      "practical": "Now is the time to liberate yourself from toxic ties or behaviors. Embrace healing and self-compassion.",
+      "shadow": "Fear of true freedom and the responsibility it brings. Lingering doubts about stepping into a new, liberated self."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past entanglements with destructive patterns or relationships that still influence your current situation. Shadows cast long.",
+        "reversed": "A period when you began freeing yourself from old bonds, even if some traces remain. An initial breakthrough.",
+        "keywords": [
+          "past bondage",
+          "shadow influences",
+          "initial liberation",
+          "entanglement history"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-standing illusions or fears embedded in early experiences. The roots of self-imposed chains reaching back to formative years.",
+        "reversed": "Past realization that sowed the seed of freedom. An early experience nudging you toward awareness.",
+        "keywords": [
+          "deep-rooted fears",
+          "formative shadows",
+          "early chains",
+          "freedom's seed"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent indulgence or succumbing to temptations that have complicated the present. A warning for awareness now.",
+        "reversed": "Recently chosen liberation or newfound clarity breaking the cycle of negative patterns.",
+        "keywords": [
+          "recent temptations",
+          "indulgence",
+          "breaking cycle",
+          "recent clarity"
+        ]
+      },
+      "present": {
+        "upright": "Currently, you're confronted with choices between fulfillment and overindulgence, truth and illusion. Awareness is key.",
+        "reversed": "Present time for reclaiming power, breaking free from limiting beliefs, and stepping onto a clearer path.",
+        "keywords": [
+          "present choices",
+          "awareness necessity",
+          "reclaiming power",
+          "clear path"
+        ]
+      },
+      "present_situation": {
+        "upright": "The core experience involves facing your shadow, temptations, and the seductive nature of the familiar.",
+        "reversed": "At this moment, liberation from shackles of the past is within your grasp if you choose awareness.",
+        "keywords": [
+          "core shadow",
+          "seduction of familiar",
+          "moment of liberation",
+          "awareness opportunity"
+        ]
+      },
+      "future": {
+        "upright": "Potential for falling deeper into illusions if unresolved issues persist. Time to confront these now.",
+        "reversed": "Bright future beyond the chains. The path of awareness and freedom aligns with your choices.",
+        "keywords": [
+          "unresolved issues",
+          "illusion's future",
+          "bright path",
+          "aligned choices"
+        ]
+      },
+      "near_future": {
+        "upright": "Immediate trials highlighting your attachments. You'll face revelations that beckon you to transform.",
+        "reversed": "Imminent release and healing from entanglements. A breakthrough awaits your acceptance.",
+        "keywords": [
+          "immediate trials",
+          "attachment revelation",
+          "imminent healing",
+          "breakthrough"
+        ]
+      },
+      "distant_future": {
+        "upright": "Without change, chains may grow tighter. In the distance lies the shadow's full might or your liberation.",
+        "reversed": "A lasting sense of freedom and clarity awaits you in the distance, should you choose this path.",
+        "keywords": [
+          "tightening chains",
+          "shadow's might",
+          "lasting freedom",
+          "chosen path"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "To recognize and confront the illusions holding you back. This is about facing fears and desires with courage.",
+        "reversed": "Challenge lies in accepting newfound freedom without slipping back into old patterns. Maintain vigilance.",
+        "keywords": [
+          "recognition",
+          "confrontation",
+          "fearless facing",
+          "vigilant freedom"
+        ]
+      },
+      "cross": {
+        "upright": "Crossing paths where old desires conflict with new aspirations. The allure of comfort against the call for growth.",
+        "reversed": "Freedom's call may conflict with lingering habits. A crossroad between comfort and emancipation.",
+        "keywords": [
+          "conflicting desires",
+          "aspirations",
+          "comfort vs growth",
+          "crossroad"
+        ]
+      },
+      "obstacle": {
+        "upright": "Your own fears and doubts that perpetuate bondage. Identifying these obstacles is the first step to breaking free.",
+        "reversed": "Obstacle of slipping back into lethargy or complacency, believing freedom equates to easy outcomes.",
+        "keywords": [
+          "perpetuating fears",
+          "self-doubt",
+          "lethargy",
+          "easy outcomes"
+        ]
+      },
+      "lesson": {
+        "upright": "To learn that true empowerment begins with self-awareness and discernment. Liberation is an internal journey.",
+        "reversed": "The lesson lies in understanding freedom's complexity and the strength required to sustain it.",
+        "keywords": [
+          "self-awareness",
+          "discernment",
+          "internal journey",
+          "sustained strength"
+        ]
+      },
+      "shadow": {
+        "upright": "The shadow to confront is the denial and avoidance of personal responsibility for your circumstances.",
+        "reversed": "A shadow that fears actual liberation, preferring the familiarity of known chains to the unknown of freedom.",
+        "keywords": [
+          "denial",
+          "avoidance",
+          "personal responsibility",
+          "freedom's fear"
+        ]
+      },
+      "what_hinders": {
+        "upright": "An attachment to comforts and illusions that hinders authentic freedom and self-expression.",
+        "reversed": "Believing that freedom demands nothing more than the mere act of release. True transformation takes work.",
+        "keywords": [
+          "attachment",
+          "comforts",
+          "illusions",
+          "transformative work"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Look deeply into your desires and recognize their sources. Self-honesty is the light breaking illusion's hold.",
+        "reversed": "Embrace emerging clarity by letting go of old identities and exploring who you're becoming.",
+        "keywords": [
+          "self-honesty",
+          "source recognition",
+          "clarity emergence",
+          "identity exploration"
+        ]
+      },
+      "action": {
+        "upright": "Move with awareness. Challenge indulgences and make choices that nurture growth instead of chains.",
+        "reversed": "Take decisive steps toward healthy detachment and embracing resilience in the face of change.",
+        "keywords": [
+          "awareness movement",
+          "challenge indulgences",
+          "healthy detachment",
+          "embracing resilience"
+        ]
+      },
+      "your_approach": {
+        "upright": "You may see yourself trapped by circumstances, yet the power to change is within, not outside.",
+        "reversed": "See yourself as a seeker finding their way through release, yet ensure this path remains clear and intentional.",
+        "keywords": [
+          "self-view",
+          "intrinsic power",
+          "seeker",
+          "intentional path"
+        ]
+      },
+      "what_helps": {
+        "upright": "Support found in accepting the truth that freedom requires facing fears with honesty.",
+        "reversed": "Help comes from embracing newfound insights and integrating them into daily life.",
+        "keywords": [
+          "truth acceptance",
+          "facing fears",
+          "insight integration",
+          "daily embracement"
+        ]
+      },
+      "guidance": {
+        "upright": "The universe invites you to turn inward, face your shadow, and transform fear into strength.",
+        "reversed": "Guidance is found in maintaining a steady course, taking gentle steps toward liberation.",
+        "keywords": [
+          "inner turning",
+          "shadow facing",
+          "fear transformation",
+          "steady course"
+        ]
+      },
+      "best_course": {
+        "upright": "Align actions with the truth discovered beneath illusions. True freedom calls for discerning courage.",
+        "reversed": "Commit to consistent self-awareness and breaking down the walls of the comfort zone.",
+        "keywords": [
+          "truth alignment",
+          "discerning courage",
+          "consistent awareness",
+          "comfort zone breach"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for liberation while fearing the very change it requires. Caught between longing for freedom and the security of chains.",
+        "reversed": "Hope for authentic freedom and the life it promises, but fears returning to old patterns.",
+        "keywords": [
+          "liberation hope",
+          "fear of change",
+          "security of chains",
+          "authentic freedom"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope lies in the desire for release and the confidence to meet oneself without masks.",
+        "reversed": "Hope is in embracing emerging revelations and trusting in their power to transform.",
+        "keywords": [
+          "release hope",
+          "confidence",
+          "mask-free encounter",
+          "revelation embrace"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of facing one's darkness and the upheaval of unsettling truths. A dread of vulnerability.",
+        "reversed": "Fear of stepping back into bondage, despite the longing for change and transformation.",
+        "keywords": [
+          "darkness facing",
+          "unsettling truths",
+          "vulnerability",
+          "return to bondage"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by desires that may not align with your higher self's purpose. A call to reconcile inner conflicts.",
+        "reversed": "Subconscious liberation underway as patterns unravel, revealing freedom's undercurrents.",
+        "keywords": [
+          "desire driven",
+          "higher purpose",
+          "inner conflict",
+          "freedom's undercurrents"
+        ]
+      },
+      "conscious": {
+        "upright": "Conscious battles between craving pleasure and seeking profound fulfillment.",
+        "reversed": "An awakened consciousness, keen on aligning deeper truths with daily choices.",
+        "keywords": [
+          "craving pleasure",
+          "profound fulfillment",
+          "awakened consciousness",
+          "truth alignment"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotional entanglements and the magnetic pull of unfulfilled desires. A cycle seeking resolution.",
+        "reversed": "A growing sense of emotional clarity and detachment from the chains that once bound.",
+        "keywords": [
+          "emotional entanglement",
+          "unfulfilled desire",
+          "clarity growth",
+          "chain detachment"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs to break the barriers limiting authentic connection and expression.",
+        "reversed": "Heart's liberation is close, and it beats in rhythm with the flow of unfolding freedom.",
+        "keywords": [
+          "heart longing",
+          "authentic connection",
+          "expression",
+          "liberation rhythm"
+        ]
+      },
+      "mind": {
+        "upright": "Mental mazes that seemingly offer no exit. Desire clouds vision, demanding sharper focus.",
+        "reversed": "Clearer mental pathways emerging as insight removes the veil of previous confusions.",
+        "keywords": [
+          "mental maze",
+          "desire cloud",
+          "sharper focus",
+          "clearer pathways"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Environmental factors that encourage indulgence or distraction. Social settings might drag you into temptation.",
+        "reversed": "Freedom calls from unexpected places, prompting support and encouragement from your surroundings.",
+        "keywords": [
+          "indulgence bias",
+          "environmental temptation",
+          "unexpected support",
+          "encouragement"
+        ]
+      },
+      "others": {
+        "upright": "Be aware of people who may unconsciously feed into negative patterns. They may mirror what needs to be addressed in yourself.",
+        "reversed": "Others may support your journey toward freedom, or serve as reminders of the strength required to sustain it.",
+        "keywords": [
+          "unconscious feeding",
+          "mirror",
+          "supporting freedom",
+          "strength reminder"
+        ]
+      },
+      "environment": {
+        "upright": "The setting might foster indulgence or act as a reflection of inner landscapes that need cleansing.",
+        "reversed": "A supportive environment helps to nurture burgeoning freedom, aligning with your liberation path.",
+        "keywords": [
+          "fostering indulgence",
+          "reflection",
+          "nurturing freedom",
+          "alignment"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others see you as someone challenged by temptation or as someone with the potential for deep transformation.",
+        "reversed": "You're perceived as someone on the brink of liberation, admired for your emerging insight and strength.",
+        "keywords": [
+          "temptation challenge",
+          "potential transformation",
+          "brink of liberation",
+          "emerging insight"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Invisible forces may encourage indulgence or disguise true desires. Seek the truth behind these illusions.",
+        "reversed": "Help from hidden sources in your quest for liberation, offering unexpected grace and clarity.",
+        "keywords": [
+          "invisible forces",
+          "indulgence disguise",
+          "truth seeking",
+          "hidden help"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Potential for deeper entrapment unless awareness disrupts patterns. Transformation requires embracing truth.",
+        "reversed": "Successful release and emergent joy from freedom's realization. Life's richness begins to unfold.",
+        "keywords": [
+          "entrapment potential",
+          "pattern disruption",
+          "successful release",
+          "emergent joy"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimate consequence of remaining in denial results in stagnation. Liberation requires truth-facing.",
+        "reversed": "Final outcome offers a life freed from self-imposed limits, aligning with true inner purpose.",
+        "keywords": [
+          "consequence of denial",
+          "stagnation",
+          "life freed",
+          "inner purpose alignment"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "A spiral into greater complexity or confusion awaits without intervention. Time to rechart the journey.",
+        "reversed": "A possible path to thriving on newfound freedom, engaging with life's boundless potential.",
+        "keywords": [
+          "spiral complexity",
+          "confusion",
+          "rechart journey",
+          "thriving path"
+        ]
+      },
+      "best_case": {
+        "upright": "Breakthrough and confronting illusions leading to transformative empowerment.",
+        "reversed": "Best case is revolutionary growth as liberation aligns life to greater freedom and depth.",
+        "keywords": [
+          "breakthrough",
+          "illusion confrontation",
+          "transformative empowerment",
+          "revolutionary growth"
+        ]
+      },
+      "worst_case": {
+        "upright": "Entrapment in self-deceit, inability to break free of fear's embrace, maintaining a cycle of delusion.",
+        "reversed": "As you forge freedom, a slip back into old habits warns against overconfidence.",
+        "keywords": [
+          "self-deceit",
+          "fear's embrace",
+          "cycle of delusion",
+          "overconfidence warning"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves material attachments, temptation, or unhealthy patterns that bind you together. While there may be strong attraction, the connection could involve codependency, addiction to each other, or bonds that limit rather than liberate.",
+        "reversed": "The connection is breaking free from unhealthy patterns or addictions. Liberation from codependent dynamics is possible. The relationship may involve releasing material attachments or power struggles that once bound you in limiting ways.",
+        "keywords": [
+          "attachment",
+          "temptation",
+          "bondage",
+          "materialism"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Potential for a relationship built on illusions or unhealthy dependencies. Need to address underlying addictions.",
+      "reversed": "Release from toxic relationship patterns, finding liberation in self-love and healthy connections.",
+      "keywords": [
+        "relationship illusion",
+        "unhealthy dependency",
+        "self-love",
+        "healthy freedom"
+      ]
+    },
+    "career": {
+      "upright": "Awareness of workaholic tendencies or career goals driven by materialism rather than fulfillment.",
+      "reversed": "Finding freedom from toxic job environments, moving towards purposeful and fulfilling career paths.",
+      "keywords": [
+        "workaholic tendencies",
+        "material-driven",
+        "job freedom",
+        "purposeful career"
+      ]
+    },
+    "spiritual": {
+      "upright": "Engagement with superficial spirituality without deeper connection. Shadow work required.",
+      "reversed": "Setting free from spiritual materialism, embarking on a genuine path of inner growth and enlightenment.",
+      "keywords": [
+        "superficial spirituality",
+        "shadow work",
+        "spiritual materialism",
+        "inner growth"
+      ]
+    },
+    "financial": {
+      "upright": "Caught in the trap of excessive spending or debt accrued through indulgence.",
+      "reversed": "Liberating financial recovery and wiser money management reshaping future prosperity.",
+      "keywords": [
+        "excessive spending",
+        "debt trap",
+        "financial recovery",
+        "wise management"
+      ]
+    },
+    "health": {
+      "upright": "Possible attachment to unhealthy habits impacting wellness. Time for mindful change.",
+      "reversed": "Healing and releasing from detrimental patterns, reconnecting with natural health and vitality.",
+      "keywords": [
+        "unhealthy habits",
+        "wellness impact",
+        "mindful change",
+        "natural healing"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "earth",
+    "zodiac": "capricorn",
+    "hebrew_letter": "ayin",
+    "numerology": 15,
+    "planet": "saturn",
+    "season": "winter",
+    "time_of_day": "midnight",
+    "colors": [
+      "black",
+      "dark green",
+      "red"
+    ],
+    "crystals": [
+      "obsidian",
+      "black tourmaline",
+      "garnet"
+    ],
+    "herbs": [
+      "patchouli",
+      "mugwort",
+      "wormwood"
+    ]
+  },
+  "symbols": {
+    "chains": "voluntary bondage and illusion of entrapment",
+    "upside-down_pentagram": "misdirected energies and shadow forces",
+    "torch": "false light and deceptive allure",
+    "horned_figure": "primordial desires and untamed instincts",
+    "inverted_bell": "disrupted harmony and call to awareness"
+  },
+  "affirmations": [
+    "I acknowledge and transform my shadows into opportunities for growth.",
+    "I am free from illusions, and I choose paths that fulfill my true self.",
+    "My power lies in my awareness, and I embrace change willingly.",
+    "I move beyond fear, welcoming liberation and the strength it brings."
+  ],
+  "journaling_prompts": [
+    "Where am I giving away my power in my life?",
+    "What illusions am I willing to let go of to align with my true path?",
+    "How can I transform my fears into strengths?",
+    "In what ways can I cultivate authentic freedom?"
+  ],
+  "meditation_focus": "Visualizing the release of chains and stepping into light, embracing the path of true freedom and self-awareness.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:25:28.539390",
+    "card_info": {
+      "name": "The Devil",
+      "number": 15,
+      "suit": "major_arcana"
+    },
+    "filename": "m15.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_tower": {
+        "interpretation": "Sudden, transformative breakdown of illusions. Chaos inviting deeper truth.",
+        "keywords": [
+          "sudden",
+          "transformative",
+          "breakdown",
+          "illusions"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Conflict driven by inner demons, sparking powerful personal evolution.",
+        "keywords": [
+          "conflict",
+          "driven",
+          "inner",
+          "demons"
+        ]
+      },
+      "nine_of_cups": {
+        "interpretation": "Desires magnified, making it clear what truly fulfills versus what drains.",
+        "keywords": [
+          "desires",
+          "magnified",
+          "making",
+          "clear"
+        ]
+      }
+    },
+    "challenges": {
+      "the_lovers": {
+        "interpretation": "Struggle between choice, temptation, and genuine connection. Love versus lust.",
+        "keywords": [
+          "struggle",
+          "choice",
+          "temptation",
+          "genuine"
+        ]
+      },
+      "strength": {
+        "interpretation": "Challenge to channel inner strength for higher self over ego-driven allurements.",
+        "keywords": [
+          "challenge",
+          "channel",
+          "inner",
+          "strength"
+        ]
+      },
+      "two_of_pentacles": {
+        "interpretation": "Difficulty maintaining balance as worldly desires complicate choices.",
+        "keywords": [
+          "difficulty",
+          "maintaining",
+          "balance",
+          "worldly"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_moon": {
+        "interpretation": "Illusions and hidden fears contributing to shadow aspects. Secrets seeking light.",
+        "keywords": [
+          "illusions",
+          "hidden",
+          "fears",
+          "contributing"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Discernment in choices that tempt, clearing through delusion to find reality.",
+        "keywords": [
+          "discernment",
+          "choices",
+          "tempt",
+          "clearing"
+        ]
+      },
+      "eight_of_swords": {
+        "interpretation": "Self-imposed limitations clarified through confronting underlying fears.",
+        "keywords": [
+          "self",
+          "imposed",
+          "limitations",
+          "clarified"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_lovers": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "strength": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "the_devil": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

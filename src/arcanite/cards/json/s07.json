@@ -1,0 +1,680 @@
+{
+  "card_id": "seven_of_swords",
+  "card_name": "Seven of Swords",
+  "card_number": 7,
+  "suit": "swords",
+  "archetype": "the_schemer",
+  "core_meanings": {
+    "upright": {
+      "essence": "Cunning strategy, cleverness, or deception. The art of strategic thinking and stealth to achieve one's goals.",
+      "keywords": [
+        "strategy",
+        "deception",
+        "stealth",
+        "cunning",
+        "evasion",
+        "unorthodox methods"
+      ],
+      "psychological": "Represents the mind's ability to navigate complex situations through agility and ingenuity. Sometimes relies too heavily on trickery.",
+      "spiritual": "The need to act with integrity and honesty, even when tempted by shortcuts or easy paths.",
+      "practical": "Consider alternative strategies, but ensure actions align with personal values. Avoid unnecessary risks.",
+      "shadow": "Dishonesty, manipulation, or unscrupulous behavior that might lead to self-sabotage or loss of trust."
+    },
+    "reversed": {
+      "essence": "Unmasking deceit or self-deception. Facing the consequences of trickery or realizing the flaws in one's plans.",
+      "keywords": [
+        "exposure",
+        "consequences",
+        "failed plans",
+        "truth revealed",
+        "regret",
+        "embarrassment"
+      ],
+      "psychological": "Struggles with facing the truth. Overcoming guilt from past manipulations or realizing the limits of deceit.",
+      "spiritual": "The call to return to authenticity and rectify past misdeeds.",
+      "practical": "It's time to be honest and transparent. Address misunderstandings and repair trust. Evaluate strategies.",
+      "shadow": "Clinging to falsehoods or resisting accountability. Risk of losing respect or credibility."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Calculated risks or strategic maneuvers shaped your present. Clever decisions positioned you here.",
+        "reversed": "Past deceit or dishonest actions weigh heavily now, affecting current relationships and opportunities.",
+        "keywords": [
+          "strategic history",
+          "past deception",
+          "clever maneuvers",
+          "dishonest influence"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, you learned the value of stealth and discretion. Early lessons in strategic thinking are rooted here.",
+        "reversed": "Deep-seated patterns of manipulation or self-deception were formed, creating ongoing inner conflicts.",
+        "keywords": [
+          "early lessons",
+          "rooted strategy",
+          "deep-seated patterns",
+          "ancient deceit"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent events required clever tactics or unconventional approaches to overcome obstacles.",
+        "reversed": "Recent actions of deception come to light, leading to repercussions and necessary adjustments.",
+        "keywords": [
+          "recent strategy",
+          "unconventional approach",
+          "deception exposed",
+          "adjustments needed"
+        ]
+      },
+      "present": {
+        "upright": "Current circumstances call for strategic finesse. Navigate complexity with intelligence and discretion.",
+        "reversed": "Truth surfaces, demanding transparency and accountability. Avoid further concealment.",
+        "keywords": [
+          "current strategy",
+          "intelligent navigation",
+          "truth surfacing",
+          "accountability"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, the need for subtlety and cleverness dominates your current situation. Success lies in strategy.",
+        "reversed": "Facing consequences for recent tricks or unwise decisions. It's time to confront and rectify issues.",
+        "keywords": [
+          "subtlety",
+          "cleverness",
+          "facing consequences",
+          "rectification"
+        ]
+      },
+      "future": {
+        "upright": "A future requiring careful planning and cunning approaches awaits. Prepare to act with cleverness.",
+        "reversed": "Future complications arise from past deceptions. Integrity and honesty are necessary to shield from consequences.",
+        "keywords": [
+          "planned future",
+          "cunning",
+          "complications arising",
+          "integrity needed"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, you will be tested in strategic thinking. Surprises can be navigated with adaptable approaches.",
+        "reversed": "Near future brings exposure of hidden truths. Be prepared for revelations and challenges.",
+        "keywords": [
+          "strategic test",
+          "adaptable navigation",
+          "truth exposure",
+          "challenges ahead"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, mastering the art of strategy will lead to long-term success and clever problem-solving.",
+        "reversed": "Failure to address past deceptiveness burdens the future. Facing unresolved issues will be crucial.",
+        "keywords": [
+          "long-term success",
+          "mastered strategy",
+          "unresolved issues",
+          "future burdens"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to use intelligence wisely without slipping into deceit. Balance cunning with integrity.",
+        "reversed": "Challenge lies in facing the truth of past actions and committing to honesty in future endeavors.",
+        "keywords": [
+          "intelligent balance",
+          "cunning vs. integrity",
+          "facing truth",
+          "honesty commitment"
+        ]
+      },
+      "cross": {
+        "upright": "Opposition arises from those who mistrust your cleverness or question your motives. Gain allies through transparency.",
+        "reversed": "Internal conflict stems from trying to maintain a false front. Discard the mask and be genuine.",
+        "keywords": [
+          "mistrust",
+          "questioned motives",
+          "internal conflict",
+          "genuine self"
+        ]
+      },
+      "obstacle": {
+        "upright": "Hidden plans or evasive actions block progress until addressed openly. Secrets hinder success.",
+        "reversed": "Unmet promises and past deceits serve as hurdles. Honesty becomes the key to removing blocks.",
+        "keywords": [
+          "hidden plans",
+          "evasive actions",
+          "hindered success",
+          "removing blocks"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn the art of subtlety without sacrificing truth. Strategic thinking can coexist with ethical boundaries.",
+        "reversed": "The lesson involves unraveling the consequences of past deception and learning the power of sincerity.",
+        "keywords": [
+          "art of subtlety",
+          "ethical strategy",
+          "consequence unraveling",
+          "power of sincerity"
+        ]
+      },
+      "shadow": {
+        "upright": "The shadow conceals deceptive tendencies. Acknowledge and integrate these with honesty to grow.",
+        "reversed": "Resistance to accountability lurks. Embrace vulnerability and sincerity to transcend past shadows.",
+        "keywords": [
+          "deceptive tendencies",
+          "honest growth",
+          "resistance to accountability",
+          "embracing sincerity"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Pride in cleverness may hinder authentic connections. Authenticity must accompany intelligence.",
+        "reversed": "Guilt and regret from past actions block progress. Clearing these energies is vital for forward movement.",
+        "keywords": [
+          "pride in cleverness",
+          "authentic connection",
+          "guilt and regret",
+          "clearing energies"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Employ strategic thinking, but align with your heart's truth. Let integrity guide sophisticated maneuvers.",
+        "reversed": "Reveal truths and seek reconciliation. Commit to honest interactions and repair trust.",
+        "keywords": [
+          "strategic integrity",
+          "heart's truth",
+          "reveal truths",
+          "repair trust"
+        ]
+      },
+      "action": {
+        "upright": "Craft clever strategies while maintaining transparency. Adopt a night-watchman's readiness to adapt.",
+        "reversed": "Correct prior missteps by acknowledging realities and accepting responsibility for past actions.",
+        "keywords": [
+          "clever strategy",
+          "transparent craft",
+          "correcting missteps",
+          "accepting responsibility"
+        ]
+      },
+      "your_approach": {
+        "upright": "Approach situations with cleverness tempered by sincerity, projecting both intelligence and authenticity.",
+        "reversed": "If playing deceptive games, reconsider your actions. Aim for a more truthful and genuine path.",
+        "keywords": [
+          "tempered cleverness",
+          "intelligence with authenticity",
+          "reconsider actions",
+          "truthful path"
+        ]
+      },
+      "what_helps": {
+        "upright": "Resourcefulness and adaptability in strategy empower success. Allies appreciate your intelligence when it's trust-built.",
+        "reversed": "Admitting past mistakes and asking for guidance strengthens bonds and heals wounds.",
+        "keywords": [
+          "resourcefulness",
+          "trust-building",
+          "admitting mistakes",
+          "bond strengthening"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual guidance suggests blending cleverness with universal truth. Be the fox that serves the greater good.",
+        "reversed": "Seek wisdom in facing realities, ensuring your shadow doesn’t obscure your inherent light.",
+        "keywords": [
+          "universal truth",
+          "greater good",
+          "facing realities",
+          "inherent light"
+        ]
+      },
+      "best_course": {
+        "upright": "Aim to succeed with a balance of wit and integrity. A path aligned with both cleverness and heart.",
+        "reversed": "Clear past deceit from your path and walk forward openly, with sincerity as your guide.",
+        "keywords": [
+          "wit and integrity",
+          "aligned path",
+          "clear deceit",
+          "sincere guidance"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for success through ingenuity, yet fear exposure of hidden agendas. Trust in your ability to balance truth and tact.",
+        "reversed": "Fear of consequences from past deceit. Hope to find redemption and regain credibility.",
+        "keywords": [
+          "success through ingenuity",
+          "hidden agendas",
+          "consequence fears",
+          "redemption hope"
+        ]
+      },
+      "hopes": {
+        "upright": "Hopes are pinned on clever strategies bringing rewards. Seek success while staying true to yourself.",
+        "reversed": "Hoping to restore trust and credibility through honesty and rectification of past errors.",
+        "keywords": [
+          "strategic rewards",
+          "truthful success",
+          "restoring trust",
+          "honest rectification"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of being discovered or of others seeing through charades. Concern over losing credibility.",
+        "reversed": "Fear that past dishonesty will define your future or that opportunities for amends will close.",
+        "keywords": [
+          "fear of discovery",
+          "loss of credibility",
+          "defining dishonesty",
+          "closure of opportunities"
+        ]
+      },
+      "subconscious": {
+        "upright": "A subconscious drive to outsmart or excel through cunning methods. Uncover genuine motivations beneath.",
+        "reversed": "Subconsciously haunted by past deceit or unredressed errors. These shadows need healing.",
+        "keywords": [
+          "cunning drive",
+          "genuine motivation",
+          "haunted by deceit",
+          "shadow healing"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously exercising strategic thinking, aware of the fine line between cleverness and trickery.",
+        "reversed": "Acknowledging the conscious awareness of past faults and seeking to address them with integrity.",
+        "keywords": [
+          "strategic awareness",
+          "fine line awareness",
+          "conscious fault acknowledgment",
+          "integrity seeking"
+        ]
+      },
+      "emotional_state": {
+        "upright": "A feeling of tension due to high-stakes maneuvers or hidden plans. The thrill of outwitting combined with the risk of exposure.",
+        "reversed": "Emotional burden from dealing with past dishonesty. Seeking emotional balance by facing truths.",
+        "keywords": [
+          "high-stakes tension",
+          "hidden plans",
+          "emotional burden",
+          "facing truths"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart craves authenticity and recognition for your intelligent navigation, free from deceit.",
+        "reversed": "Heart of hearts knows reconciliation is needed. Yearns for authenticity and restored trust.",
+        "keywords": [
+          "authentic recognition",
+          "intelligent navigation",
+          "reconciliation yearning",
+          "restored trust"
+        ]
+      },
+      "mind": {
+        "upright": "The mind sharpens in cunning scenarios, yet longs to harmonize strategic acumen with ethical principles.",
+        "reversed": "A mind tired of deception, seeking peace and clarity through honesty and acceptance.",
+        "keywords": [
+          "sharp cunning",
+          "harmonized ethics",
+          "true peace",
+          "honest acceptance"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others perceive you as astute but possibly slippery. Your cleverness draws both admiration and skepticism.",
+        "reversed": "Perceptions change as truths unfold. Expectations for honest dealings may rise.",
+        "keywords": [
+          "astute perception",
+          "admiration",
+          "skepticism",
+          "rising expectations"
+        ]
+      },
+      "others": {
+        "upright": "Some admire your strategic input, yet others doubt your intentions. Trust needs to be mended.",
+        "reversed": "Deceptive actions come back through others. Transparency becomes essential for harmony.",
+        "keywords": [
+          "strategic admiration",
+          "doubters",
+          "trust mending",
+          "essential transparency"
+        ]
+      },
+      "environment": {
+        "upright": "A landscape favoring strategic maneuvering. Conditions require you to think on your feet.",
+        "reversed": "An environment longing for disclosure and truth, expecting open communications moving forward.",
+        "keywords": [
+          "strategic landscape",
+          "quick thinking",
+          "truth longing",
+          "open communications"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as someone capable of navigating through complexity with tact. Yet, they caution vigilance.",
+        "reversed": "Viewed as someone finally confronting past deceptions. Others await genuine connections.",
+        "keywords": [
+          "tactful navigation",
+          "vigilance caution",
+          "confronting deceptions",
+          "genuine connections"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Invisible forces reward clever strategists but caution against misuse of wit. Balance is key.",
+        "reversed": "Karma circles back, revealing hidden truths. Transform these into opportunities for growth.",
+        "keywords": [
+          "reward for strategy",
+          "invisible forces",
+          "karmic circle",
+          "growth opportunities"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Achievements through well-planned, intelligent strategies. Success, yet dependent on ethical alignment.",
+        "reversed": "Consequences of past actions arise. Full acceptance and reinvention necessary for a positive outcome.",
+        "keywords": [
+          "intelligent achievements",
+          "ethical alignment",
+          "arising consequences",
+          "positive reinvention"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Clever strategies bring long-term accomplishments, provided they were executed with integrity and foresight.",
+        "reversed": "A final reckoning with past deception. Path clear for transformation into transparency and sincerity.",
+        "keywords": [
+          "long-term accomplishments",
+          "integrity and foresight",
+          "deception reckoning",
+          "clear transformation"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Success through unexpected and clever maneuvering. Navigating the labyrinth with discernment.",
+        "reversed": "An outcome of accountability leading to authentic self-recreation. Embrace the chance for regeneration.",
+        "keywords": [
+          "clever maneuvering",
+          "labyrinth navigation",
+          "accountability outcome",
+          "chance for regeneration"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case sees brilliant strategy yielding rewards, woven with truth and respect for all involved.",
+        "reversed": "The ideal result involves redemption from past deceptions, stepping into a redefined and illuminated path.",
+        "keywords": [
+          "brilliant strategy",
+          "truth and respect",
+          "past redemption",
+          "illuminated path"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves getting ensnared by one's own traps. Strategy without integrity leads to entanglement.",
+        "reversed": "Ignoring past wrongs leads to a mire of consequences. Failing to grow ensures stagnation and loss of respect.",
+        "keywords": [
+          "ensnarement",
+          "integrity lacking",
+          "mire of consequences",
+          "stagnation and loss"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves deception, stealth, or hidden agendas. Between you may exist secrets, manipulation, or the need to be cautious about trust. Actions may be taken independently rather than through honest communication.",
+        "reversed": "Deceptions are being revealed or honesty is being restored. Hidden agendas may be exposed or trust may be rebuilt. The relationship involves moving from secrecy toward transparency and authentic communication.",
+        "keywords": [
+          "deception",
+          "stealth",
+          "secrets",
+          "independence"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Strategic thinking required in relationships. Navigate complexities with honesty and care to preserve trust.",
+      "reversed": "Past deception or misunderstandings threaten harmony. Seek truth, transparency, and repair bonds.",
+      "keywords": [
+        "strategic relationships",
+        "honesty and care",
+        "harmony threat",
+        "bond repair"
+      ]
+    },
+    "career": {
+      "upright": "A time for strategic career moves. Consider unconventional opportunities, but balance ambition with honesty.",
+      "reversed": "Career deception surfaces, affecting your path. Honesty is needed to mend and reestablish reputation.",
+      "keywords": [
+        "strategic moves",
+        "unconventional opportunities",
+        "career deception",
+        "reputation mending"
+      ]
+    },
+    "spiritual": {
+      "upright": "Strategic alignment with spiritual values is vital. Integrate cunning with wisdom for true growth.",
+      "reversed": "Spiritual deceptions are exposed. Return to authenticity and honest engagement with your path.",
+      "keywords": [
+        "spiritual alignment",
+        "wisdom integration",
+        "deception exposure",
+        "authentic engagement"
+      ]
+    },
+    "financial": {
+      "upright": "Strategize finances with caution, seeking clever opportunities for investment. Maintain ethical boundaries.",
+      "reversed": "Financial mismoves revealed. Focus on genuine advisement and transparent transactions.",
+      "keywords": [
+        "financial strategy",
+        "investment opportunities",
+        "mismoves revealed",
+        "transparent transactions"
+      ]
+    },
+    "health": {
+      "upright": "Strive for a balanced and strategic approach to wellness. Avoid shortcuts; cultivate sustainable habits.",
+      "reversed": "Truths about health practices come to light. Embrace genuine care and rectify misguided endeavors.",
+      "keywords": [
+        "balanced wellness",
+        "strategic health",
+        "truth exposure",
+        "genuine care"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "aquarius",
+    "hebrew_letter": "zayin",
+    "numerology": 7,
+    "planet": "moon",
+    "season": "winter",
+    "time_of_day": "dusk",
+    "colors": [
+      "blue",
+      "gray",
+      "silver"
+    ],
+    "crystals": [
+      "lapis lazuli",
+      "sodalite",
+      "blue quartz"
+    ],
+    "herbs": [
+      "sage",
+      "rosemary",
+      "thyme"
+    ]
+  },
+  "symbols": {
+    "swords_in_hand": "strategy and cunning tactics",
+    "two_swords_left_behind": "what's discarded or overlooked",
+    "dark_moon": "hidden motives or secrets",
+    "adviser_commission": "cunning advice or manipulation"
+  },
+  "affirmations": [
+    "I use my intelligence to guide my path with integrity and truth.",
+    "Strategic thinking supports my ethical pursuits.",
+    "I embrace honesty and transparency in all my actions.",
+    "My cleverness is a tool for positive, authentic growth."
+  ],
+  "journaling_prompts": [
+    "Where in my life am I using strategy at the expense of integrity?",
+    "How can I blend cleverness with sincerity?",
+    "What truth do I need to face for authentic growth?",
+    "How do I handle being confronted with past deceptions?"
+  ],
+  "meditation_focus": "Embrace the balance between clever strategy and ethical truth. Breathing in clarity, breathing out deception.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:25:45.161383",
+    "card_info": {
+      "name": "Seven of Swords",
+      "number": 7,
+      "suit": "swords"
+    },
+    "filename": "s07.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_magician": {
+        "interpretation": "Schemes and plans take dynamic shape through empowered will. Potential for great cunning success.",
+        "keywords": [
+          "schemes",
+          "plans",
+          "take",
+          "dynamic"
+        ]
+      },
+      "the_moon": {
+        "interpretation": "Deep intuition and cunning combine. Secrets revealed and dreams hold truth.",
+        "keywords": [
+          "deep",
+          "intuition",
+          "cunning",
+          "combine"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Cunning takes on a sharper edge, creating potential for conflict or betrayal in the pursuit of victory.",
+        "keywords": [
+          "cunning",
+          "takes",
+          "sharper",
+          "edge"
+        ]
+      }
+    },
+    "challenges": {
+      "justice": {
+        "interpretation": "Calls for fairness and truth threaten strategic deceptions. Balance between honesty and cunning must be found.",
+        "keywords": [
+          "calls",
+          "fairness",
+          "truth",
+          "threaten"
+        ]
+      },
+      "the_tower": {
+        "interpretation": "Schemes unravel suddenly and unexpectedly, with potential chaos unless groundwork is strong.",
+        "keywords": [
+          "schemes",
+          "unravel",
+          "suddenly",
+          "unexpectedly"
+        ]
+      },
+      "eight_of_cups": {
+        "interpretation": "Emotional detachment from deceit difficult yet necessary. Walking away finds integrity.",
+        "keywords": [
+          "emotional",
+          "detachment",
+          "deceit",
+          "difficult"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hanged_man": {
+        "interpretation": "Reveals the need to reassess strategies or surrender plans that no longer serve ethical true self.",
+        "keywords": [
+          "reveals",
+          "need",
+          "reassess",
+          "strategies"
+        ]
+      },
+      "nine_of_pentacles": {
+        "interpretation": "The difference between solitary success and isolation due to cunning strategies becomes clear.",
+        "keywords": [
+          "difference",
+          "solitary",
+          "success",
+          "isolation"
+        ]
+      },
+      "the_high_priestess": {
+        "interpretation": "Unveils the connection between strategy and intuition. Inner wisdom guides intelligent maneuvers.",
+        "keywords": [
+          "unveils",
+          "connection",
+          "strategy",
+          "intuition"
+        ]
+      }
+    },
+    "similar_energy": {
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_magician": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

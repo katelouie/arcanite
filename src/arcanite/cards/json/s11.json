@@ -1,0 +1,653 @@
+{
+  "card_id": "page_of_swords",
+  "card_name": "Page of Swords",
+  "card_number": 0,
+  "suit": "swords",
+  "archetype": "the_inquisitor",
+  "core_meanings": {
+    "upright": {
+      "essence": "Curiosity, eager to learn, and new ideas taking shape. The youthful quest for truth and clarity.",
+      "keywords": [
+        "curiosity",
+        "clarity",
+        "intellect",
+        "communication",
+        "vision",
+        "inquisitiveness"
+      ],
+      "psychological": "Represents the unyielding spirit of the mind seeking knowledge and understanding. Embracing new thoughts and perspectives.",
+      "spiritual": "The celebration of mental agility and the pursuit of spiritual truth through intellectual exploration.",
+      "practical": "Engage in open dialogue and be ready to adapt to new information. Act on insights with fresh optimism.",
+      "shadow": "Beware of rushing to conclusions or speaking without considering impact. Restless energy can lead to overthinking."
+    },
+    "reversed": {
+      "essence": "Scattered thoughts, communication issues, or misinformation. A young mind overwhelmed by its own insights.",
+      "keywords": [
+        "gossip",
+        "miscommunication",
+        "haste",
+        "restlessness",
+        "confusion",
+        "misunderstanding"
+      ],
+      "psychological": "Anxiety over truth and fear of misinterpretation. Struggling with mental clutter and impulsive ideas.",
+      "spiritual": "Disconnected from a deeper understanding due to overwhelming mental chatter. The spirit longs for discernment.",
+      "practical": "Pause and gather your thoughts before acting. Avoid assumptions and clarify all communication.",
+      "shadow": "Tendency to manipulate truth or engage in deception. Lack of focus leads to mental chaos."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A time when questioning authority and seeking truth laid the groundwork for your current strength in analysis and perception.",
+        "reversed": "Past experiences of miscommunication or hasty judgments continue to influence present relationships and decisions.",
+        "keywords": [
+          "inquisitive youth",
+          "seeking truth",
+          "past missteps",
+          "quick judgments"
+        ]
+      },
+      "distant_past": {
+        "upright": "An early foundation of curiosity and a thirst for knowledge that shaped your intellectual path and personal insights.",
+        "reversed": "Old patterns of fear or misunderstanding established long ago, still echoing in current mental processes.",
+        "keywords": [
+          "foundational curiosity",
+          "intellectual beginnings",
+          "early misunderstandings",
+          "old fears"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently, a sharp insight or newfound clarity has propelled you forward, opening doors to new ideas or dialogues.",
+        "reversed": "Recent confusion or miscommunication has cast shadows over your current interactions and plans.",
+        "keywords": [
+          "recent clarity",
+          "new dialogue",
+          "communication breakdown",
+          "immediate confusion"
+        ]
+      },
+      "present": {
+        "upright": "A moment ripe for speaking your truth and sharing new ideas courageously. Engage with your intellectual pursuits with vigor.",
+        "reversed": "Currently experiencing a turbulent communication period or confusion. Take time to clarify your thoughts.",
+        "keywords": [
+          "present truth",
+          "intellectual vigor",
+          "communication turmoil",
+          "need for clarity"
+        ]
+      },
+      "present_situation": {
+        "upright": "The essence of your current situation revolves around embracing mental agility and intellectual curiosity.",
+        "reversed": "At the core, you face challenges in articulating thoughts and managing scattered mental energy.",
+        "keywords": [
+          "mental agility",
+          "core curiosity",
+          "communication hurdles",
+          "scattered energy"
+        ]
+      },
+      "future": {
+        "upright": "Expect a wave of mental clarity and insightful dialogue that paves the way for future intellectual growth.",
+        "reversed": "Future misunderstandings or lack of clear communication could hinder progress. Prepare to address these challenges.",
+        "keywords": [
+          "future insights",
+          "mental clarity",
+          "upcoming misunderstanding",
+          "communication preparation"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, you'll encounter a fresh opportunity to learn and express yourself. Embrace this new intellectual journey.",
+        "reversed": "In the near future, potential miscommunication or doubt may arise. Stay grounded and clear-headed.",
+        "keywords": [
+          "imminent learning",
+          "new expression",
+          "near doubt",
+          "communication caution"
+        ]
+      },
+      "distant_future": {
+        "upright": "On the horizon, your dedication to truth will bring profound understanding and a powerful voice in matters of intellect.",
+        "reversed": "Consequences of current misleading information or disarray will manifest, requiring careful navigation.",
+        "keywords": [
+          "profound understanding",
+          "intellectual influence",
+          "future consequences",
+          "careful navigation"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Balancing enthusiasm for new ideas with the patience required to truly understand. Avoid jumping to conclusions.",
+        "reversed": "Challenge lies in overcoming mental chaos and learning to communicate effectively despite internal confusion.",
+        "keywords": [
+          "mental balance",
+          "enthusiastic patience",
+          "overcoming chaos",
+          "effective communication"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures challenge your ability to keep an open mind and explore new ideas. Stay true to your inquisitive nature.",
+        "reversed": "Internal confusion crosses your path, creating barriers to effective communication and clear thinking.",
+        "keywords": [
+          "external pressures",
+          "open-mindedness",
+          "internal confusion",
+          "communication barrier"
+        ]
+      },
+      "obstacle": {
+        "upright": "Cynicism or skepticism from others may undervalue your fresh perspective and impede your intellectual journey.",
+        "reversed": "The obstacle is the internal chatter that clouds judgment, requiring silence and stillness for clarity.",
+        "keywords": [
+          "cynicism",
+          "skepticism",
+          "internal chatter",
+          "clouded judgment"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to harness curiosity as a tool for growth without letting it become unfocused curiosity. Develop wisdom alongside knowledge.",
+        "reversed": "The lesson involves controlling mental chaos and ensuring clear expression of thoughts and ideas.",
+        "keywords": [
+          "curiosity as tool",
+          "controlled focus",
+          "wisdom development",
+          "mental clarity"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow contains unexpressed truths seeking voice – find courage to articulate and embrace them.",
+        "reversed": "Hidden within you is the fear of misunderstanding or being misunderstood, needing temperance and care.",
+        "keywords": [
+          "unexpressed truths",
+          "shadow voice",
+          "fear of misunderstanding",
+          "temperance"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Doubt in your perception or intellect placed by others hinders your natural pursuit of truth and understanding.",
+        "reversed": "Your own impatience with communication hinders true understanding - slow down for clarity.",
+        "keywords": [
+          "doubt",
+          "hindered perception",
+          "impatience",
+          "need for clarity"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Speak your truth with clarity and confidence. Keep exploring ideas and never stop questioning what you know.",
+        "reversed": "Slow down and take your time to gather all facts before making decisions. Ensure you’re understood clearly.",
+        "keywords": [
+          "clear truth",
+          "explore ideas",
+          "gather facts",
+          "ensure clarity"
+        ]
+      },
+      "action": {
+        "upright": "Pursue new ideas with energy, but do so responsibly. Engage in debates or discussions that broaden your mind.",
+        "reversed": "Pause before acting on recent ideas. Reflect to avoid impulsiveness and ensure thorough understanding.",
+        "keywords": [
+          "pursue ideas",
+          "responsible action",
+          "pause",
+          "avoid impulsiveness"
+        ]
+      },
+      "your_approach": {
+        "upright": "You approach situations with freshness and a desire to cut through confusion to reveal truth.",
+        "reversed": "Your approach might be clouded by impatience or misunderstanding. Seek to adopt a calm and probing demeanor.",
+        "keywords": [
+          "fresh perspective",
+          "reveal truth",
+          "impatience",
+          "calm probing"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your inquisitive nature and willingness to explore new perspectives keep your mind sharp and resilient.",
+        "reversed": "Finding a mentor or trusted advisor will help channel your mental energy constructively.",
+        "keywords": [
+          "inquisition",
+          "exploration",
+          "mentorship",
+          "constructive channeling"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust in the clarity of your vision and allow your inner guidance to inform your conversations and insights.",
+        "reversed": "Seek balance between mind and heart to gain insights. Your truth needs emotional grounding.",
+        "keywords": [
+          "trust vision",
+          "inner guidance",
+          "balanced insight",
+          "emotional grounding"
+        ]
+      },
+      "best_course": {
+        "upright": "Proceed with curiosity and uphold ethical engagement in all mental pursuits. Allow knowledge to foster wisdom.",
+        "reversed": "Hold off on major mental pursuits until clarity is achieved. Allow understanding to mature organically.",
+        "keywords": [
+          "ethical engagement",
+          "wisdom through knowledge",
+          "hold off",
+          "mature understanding"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for intellectual mastery and the ability to communicate new ideas effectively. Fear of being misinterpreted.",
+        "reversed": "Fear of chaos and lack of control over thoughts. Hope for peace in mental exploration and understanding.",
+        "keywords": [
+          "intellectual mastery",
+          "effective communication",
+          "fear of chaos",
+          "mental peace"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire for insight and mental clarity. You hope to inspire others with your innovative perspectives and ideas.",
+        "reversed": "Hope to find stability in thoughts and to overcome anxiety. Seeking confidence in your expression.",
+        "keywords": [
+          "insight",
+          "mental clarity",
+          "thought stability",
+          "confident expression"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of failing to articulate ideas clearly. Concern about being misunderstood or dismissed by others.",
+        "reversed": "Fear of losing control over mental processes or being overwhelmed by information and noise.",
+        "keywords": [
+          "failing clarity",
+          "misunderstanding",
+          "losing control",
+          "mental overwhelm"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by a quest for knowledge and understanding. An innate curiosity propels you.",
+        "reversed": "Subconscious fears of confusion or chaos can be paralyzing. Seek to calm the mind for clarity.",
+        "keywords": [
+          "quest for knowledge",
+          "subconscious drive",
+          "fears of confusion",
+          "calm mind"
+        ]
+      },
+      "conscious": {
+        "upright": "On a conscious level, you appreciate the power of intentive exploration and strive to use it constructively.",
+        "reversed": "Consciously battling feelings of being overwhelmed or unsure about the direction of your thoughts.",
+        "keywords": [
+          "constructive exploration",
+          "intentive power",
+          "overwhelm",
+          "uncertainty"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel energized by the pursuit of knowledge and invigorated by new ideas.",
+        "reversed": "Emotionally struggling with overwhelm and communication blocks, creating inner frustration.",
+        "keywords": [
+          "energized pursuit",
+          "invigorated ideas",
+          "overwhelmed",
+          "frustration"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart desires truth and understanding, seeking to illuminate the shadows with clarity and insight.",
+        "reversed": "Heartfelt confusion and unmet desire for understanding generate inner conflict.",
+        "keywords": [
+          "truth",
+          "clarity",
+          "heartfelt confusion",
+          "inner conflict"
+        ]
+      },
+      "mind": {
+        "upright": "Your mind is active and inquisitive, examining all angles and probing for depth and truth.",
+        "reversed": "A mind under siege from clutter and distractions. Clear the space for thoughtful insight.",
+        "keywords": [
+          "active",
+          "inquisitive",
+          "mental siege",
+          "thoughtful insight"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Surroundings are supportive of intellectual pursuits and encourage innovation and creativity.",
+        "reversed": "External environment may contribute to confusion or misinformation. Double-check facts and assumptions.",
+        "keywords": [
+          "supportive environment",
+          "innovation",
+          "confusion",
+          "check assumptions"
+        ]
+      },
+      "others": {
+        "upright": "Others view you as intelligent and insightful, eager to contribute innovative ideas.",
+        "reversed": "Others might see you as impulsive or unclear due to communication barriers or misunderstandings.",
+        "keywords": [
+          "insightful",
+          "intelligent",
+          "impulsive perception",
+          "communication barrier"
+        ]
+      },
+      "environment": {
+        "upright": "The current environment is stimulating and conducive to intellectual debates and discussions.",
+        "reversed": "Chaotic surroundings can mislead and confuse. Strive for clarity amidst the noise.",
+        "keywords": [
+          "stimulating",
+          "intellectual environment",
+          "chaotic surroundings",
+          "misleading noise"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You are seen as a beacon of fresh ideas, inspiring those around with your intellectual dynamism.",
+        "reversed": "Seen as overzealous or unfocused, you may face skepticism and need to clarify intentions.",
+        "keywords": [
+          "beacon",
+          "fresh ideas",
+          "overzealous",
+          "intention clarity"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces encourage growth and foster clarity of thought through spiritual and mental alignment.",
+        "reversed": "Hidden forces may feed mental restlessness or a sense of confusion. Seek grounding practices.",
+        "keywords": [
+          "growth encouragement",
+          "clarity alignment",
+          "restlessness",
+          "grounding"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success rooted in clear communication and mental clarity. Intellectual pursuits lead to growth and understanding.",
+        "reversed": "Potential confusion or missteps due to unclear thinking. The need to re-evaluate for clarity.",
+        "keywords": [
+          "communication success",
+          "mental clarity",
+          "potential missteps",
+          "re-evaluation"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimate achievement comes through intellectual breakthroughs and innovative ideas that inspire action.",
+        "reversed": "Final result may involve revisiting plans due to misunderstanding or lack of thoroughness.",
+        "keywords": [
+          "intellectual achievement",
+          "innovation",
+          "revisiting plans",
+          "lack of thoroughness"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possible delightful discoveries await, sparking inspiration and leading to a new understanding.",
+        "reversed": "Possible outcome includes lost opportunities due to not addressing necessary clarifications.",
+        "keywords": [
+          "delightful discoveries",
+          "inspiration",
+          "lost opportunities",
+          "clarifications needed"
+        ]
+      },
+      "best_case": {
+        "upright": "Best scenario involves intellectual rigor backed by clear communication paving the way for monumental insights.",
+        "reversed": "On the surface, the best case may seem to involve rapid decisions but lacks required adjustments.",
+        "keywords": [
+          "intellectual rigor",
+          "monumental insights",
+          "rapid decisions",
+          "required adjustments"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves miscommunication leading to conflict but also presents a learning opportunity for improvement.",
+        "reversed": "Total overwhelm or confusion could stagnate progress, necessitating a return to basics for clarity.",
+        "keywords": [
+          "miscommunication conflict",
+          "learning opportunity",
+          "overwhelm",
+          "clarity basics"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic embodies sharp thinking, intellectual curiosity, and direct communication. Between you exists mental agility, the courage to ask difficult questions, and the ability to engage in stimulating intellectual discourse.",
+        "reversed": "The sharp thinking may become cutting or cruel. Intellectual curiosity might turn into gossiping or prying. The relationship could involve using intelligence to hurt rather than illuminate, or communication that lacks compassion.",
+        "keywords": [
+          "sharp thinking",
+          "curiosity",
+          "directness",
+          "intellectual discourse"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Engage in open communication to deepen connection. Intellectual compatibility brings joy.",
+      "reversed": "Potential for misunderstanding or hurt feelings due to lack of clarity. Need for honest dialogue.",
+      "keywords": [
+        "open communication",
+        "intellectual compatibility",
+        "misunderstanding",
+        "honest dialogue"
+      ]
+    },
+    "career": {
+      "upright": "Time to explore new ideas and innovate in your work. Your insight is valued and welcome.",
+      "reversed": "Possible misalignments in communication with colleagues. Clarify goals and maintain transparency.",
+      "keywords": [
+        "explore ideas",
+        "innovation",
+        "communication misalignment",
+        "clear goals"
+      ]
+    },
+    "spiritual": {
+      "upright": "Engage with spiritual wisdom and explore intuitive insights intellectually.",
+      "reversed": "Potential disconnection from deeper spiritual insights. Seek grounding to harmonize mind and spirit.",
+      "keywords": [
+        "spiritual wisdom",
+        "intuitive insights",
+        "disconnection",
+        "harmonize"
+      ]
+    },
+    "financial": {
+      "upright": "Your analytical skills are key to managing finances wisely. New learning brings growth.",
+      "reversed": "Risk of misinformed financial decisions. Review all information carefully before committing.",
+      "keywords": [
+        "analytical skills",
+        "financial growth",
+        "misinformed decisions",
+        "review information"
+      ]
+    },
+    "health": {
+      "upright": "Seek clarity about your health situation. Research and inquire with openness.",
+      "reversed": "Avoid hasty decisions about health matters. Misunderstandings could lead to complications.",
+      "keywords": [
+        "health clarity",
+        "research",
+        "hasty decisions",
+        "complications"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "aquarius",
+    "hebrew_letter": "lamed",
+    "numerology": 11,
+    "planet": "mercury",
+    "season": "winter",
+    "time_of_day": "afternoon",
+    "colors": [
+      "light blue",
+      "white",
+      "silver"
+    ],
+    "crystals": [
+      "sodalite",
+      "lapis lazuli",
+      "blue kyanite"
+    ],
+    "herbs": [
+      "mint",
+      "lavender",
+      "eucalyptus"
+    ]
+  },
+  "symbols": {
+    "sword": "truth and clarity",
+    "wind": "movement of ideas",
+    "clouds": "thoughts and imagination",
+    "young_figure": "youthful curiosity and potential"
+  },
+  "affirmations": [
+    "I speak my truth with clarity and insight.",
+    "My mind is a fertile ground for new ideas and understanding.",
+    "I embrace curiosity and acknowledge the power of my voice.",
+    "Clarity and truth are my guiding stars."
+  ],
+  "journaling_prompts": [
+    "What truths am I eager to explore right now?",
+    "How can I strengthen my ability to communicate clearly?",
+    "What steps can I take to embrace my intellectual potential?",
+    "Where might I be jumping to conclusions without enough clarity?"
+  ],
+  "meditation_focus": "Center on your breath, inviting clarity and stillness into the mind. Visualize releasing mental clutter with each exhale.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:31:07.223670",
+    "card_info": {
+      "name": "Page of Swords",
+      "number": 11,
+      "suit": "swords"
+    },
+    "filename": "s11.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_magician": {
+        "interpretation": "Enhanced intellectual abilities and creative manifestation through articulate communication.",
+        "keywords": [
+          "enhanced",
+          "intellectual",
+          "abilities",
+          "creative"
+        ]
+      },
+      "ace_of_wands": {
+        "interpretation": "Igniting mental sparks leading to creative breakthroughs and inspired plans.",
+        "keywords": [
+          "igniting",
+          "mental",
+          "sparks",
+          "leading"
+        ]
+      }
+    },
+    "challenges": {
+      "the_hanged_man": {
+        "interpretation": "Need for patience tests your restless intellect; a lesson in seeing from new perspectives.",
+        "keywords": [
+          "need",
+          "patience",
+          "tests",
+          "restless"
+        ]
+      },
+      "three_of_cups": {
+        "interpretation": "Social dynamics challenge mental clarity, requiring discernment among discord.",
+        "keywords": [
+          "social",
+          "dynamics",
+          "challenge",
+          "mental"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_moon": {
+        "interpretation": "Illuminating hidden truths and unraveling mystery through sharp insight and questioning.",
+        "keywords": [
+          "illuminating",
+          "hidden",
+          "truths",
+          "unraveling"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Bringing clearer decisions to situations of mental uncertainty or conflict.",
+        "keywords": [
+          "bringing",
+          "clearer",
+          "decisions",
+          "situations"
+        ]
+      }
+    },
+    "similar_energy": {
+      "ace_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_magician": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hermit": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_emperor": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hierophant": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "page_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "knight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

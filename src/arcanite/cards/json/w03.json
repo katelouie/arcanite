@@ -1,0 +1,651 @@
+{
+  "card_id": "three_of_wands",
+  "card_name": "Three of Wands",
+  "card_number": 3,
+  "suit": "wands",
+  "archetype": "the_visionary",
+  "core_meanings": {
+    "upright": {
+      "essence": "Expansive vision and foresight. The energy of manifestation through strategic planning and anticipation.",
+      "keywords": [
+        "expansion",
+        "foresight",
+        "planning",
+        "opportunity",
+        "vision",
+        "exploration",
+        "growth"
+      ],
+      "psychological": "The psyche's ability to see beyond current limitations, gathering courage to explore new territories.",
+      "spiritual": "Trust in the unfolding journey and the belief that the universe supports your path of growth and adventure.",
+      "practical": "An opportune moment to set plans in motion and explore new ventures with calculated steps and open eyes.",
+      "shadow": "Overreliance on foresight can lead to missed present opportunities. Distance from present realities."
+    },
+    "reversed": {
+      "essence": "Obstacles in expanding horizons. Delays and unexpected turns challenging carefully laid plans.",
+      "keywords": [
+        "delays",
+        "obstacles",
+        "miscalculations",
+        "frustration",
+        "hesitation",
+        "limited vision"
+      ],
+      "psychological": "Self-doubt blocking future possibilities. Too much focus on potential problems instead of solutions.",
+      "spiritual": "A test of faith in the unseen path. Challenges prompting introspection and reevaluation of direction.",
+      "practical": "Need to adapt and revise plans due to changes or setbacks. Patience required in manifesting goals.",
+      "shadow": "Fear of the unknown breeding hesitation. Resistance to change stifling growth and innovation."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past decisions to expand and explore have laid the foundation for current growth and opportunities.",
+        "reversed": "Previous plans faced obstacles or delays, and lingering effects may still impact your present situation.",
+        "keywords": [
+          "foundation",
+          "past expansion",
+          "lingering effects",
+          "established growth"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-ago innovations or explorations set a pattern that influences your present path with visionary insight.",
+        "reversed": "Old frustrations or plans that went awry. Lessons from those times continue to shape your journey.",
+        "keywords": [
+          "innovations",
+          "visionary past",
+          "old frustrations",
+          "lifelong lessons"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent ventures into new areas have opened doors presently unfolding with potential and promise.",
+        "reversed": "Recent setbacks or delays in plans require immediate attention to realign with your true path.",
+        "keywords": [
+          "recent ventures",
+          "opened doors",
+          "setbacks",
+          "realignment"
+        ]
+      },
+      "present": {
+        "upright": "Standing on the brink of new horizons, ready for strategic growth. The vision is clear and achievable.",
+        "reversed": "Current setbacks require reevaluating your position and adjusting course. Obstacles may feel imposing.",
+        "keywords": [
+          "new horizons",
+          "strategic growth",
+          "imposing obstacles",
+          "course correction"
+        ]
+      },
+      "present_situation": {
+        "upright": "At your core, you are guided by a strong vision for the future. Opportunities are inviting exploration.",
+        "reversed": "Present conflicts or stagnation suggest an internal struggle between vision and hesitation.",
+        "keywords": [
+          "core vision",
+          "inviting opportunities",
+          "internal struggle",
+          "stagnation"
+        ]
+      },
+      "future": {
+        "upright": "Prepare for fruitful expansion and the realization of dreams. New partnerships or projects offer promise.",
+        "reversed": "Potential challenges ahead may slow progress. Flexibility and resilience will be required.",
+        "keywords": [
+          "fruitful expansion",
+          "realization",
+          "challenges",
+          "resilience"
+        ]
+      },
+      "near_future": {
+        "upright": "Upcoming opportunities to extend your reach and impact. Prepare to seize them with confidence.",
+        "reversed": "Anticipate needing to revise plans soon. Adjustments will yield new, perhaps unexpected, pathways.",
+        "keywords": [
+          "upcoming opportunities",
+          "confidence",
+          "need for revision",
+          "unexpected pathways"
+        ]
+      },
+      "distant_future": {
+        "upright": "A future filled with growth and expansion awaits. Long-term visions manifest through perseverance.",
+        "reversed": "The distant future may involve ongoing challenges that require adaptability and patience.",
+        "keywords": [
+          "growth",
+          "manifestation",
+          "ongoing challenges",
+          "adaptability"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to maintain a balance between vision and practical action. Avoid becoming too detached from the present.",
+        "reversed": "Finding faith amidst delays. Challenges in trusting the path and remaining adaptable when plans falter.",
+        "keywords": [
+          "balance",
+          "practical action",
+          "faith",
+          "adaptability"
+        ]
+      },
+      "cross": {
+        "upright": "External demands or opinions may distract from your true path. Stay the course with inner resolve.",
+        "reversed": "Internal fears or self-doubt cross your vision, blocking progress toward expansive goals.",
+        "keywords": [
+          "external distractions",
+          "inner resolve",
+          "self-doubt",
+          "blocking progress"
+        ]
+      },
+      "obstacle": {
+        "upright": "Impatience or desire for immediate results might hinder careful planning and thoughtful growth.",
+        "reversed": "Resistance to change or fear of failure inhibits adaptation and the ability to embrace new directions.",
+        "keywords": [
+          "impatience",
+          "desire for results",
+          "resistance",
+          "fear of failure"
+        ]
+      },
+      "lesson": {
+        "upright": "Embrace the lesson that true expansion requires patience and strategic foresight. Pioneer your path.",
+        "reversed": "Lessons in learning from setbacks and finding strength in flexibility. Growth through adaptation.",
+        "keywords": [
+          "patience",
+          "strategic foresight",
+          "learning from setbacks",
+          "adaptation"
+        ]
+      },
+      "shadow": {
+        "upright": "Avoid ignoring present joys for distant goals. Recognize the beauty in the current journey, not just the destination.",
+        "reversed": "Shadow aspects involve fear of stepping into the unknown. Face hesitations to transform stagnation.",
+        "keywords": [
+          "present joys",
+          "current journey",
+          "fear",
+          "transformation"
+        ]
+      },
+      "what_hinders": {
+        "upright": "A lack of clear roadmap may hinder expanding visions. Define steps and milestones to guide the way.",
+        "reversed": "Hesitation or fear of failure blocks movement forward. Courage needed to embrace change.",
+        "keywords": [
+          "lack of roadmap",
+          "milestones",
+          "hesitation",
+          "courage"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace the vastness of possibility. Firm steps forward aligned with your vision will foster growth.",
+        "reversed": "Reevaluate your plan and adjust with patience. Maintain flexibility to ride the waves of change.",
+        "keywords": [
+          "possibility",
+          "aligned action",
+          "reevaluation",
+          "flexibility"
+        ]
+      },
+      "action": {
+        "upright": "Action rooted in vision and intent brings you toward your destination. Trust the process you’ve set in motion.",
+        "reversed": "Take action to reassess and refine your strategies. Become a navigator of changing tides.",
+        "keywords": [
+          "rooted action",
+          "trust the process",
+          "reassess",
+          "refine strategies"
+        ]
+      },
+      "your_approach": {
+        "upright": "You approach life with an inspiring vision, grounded in realistic strategies to turn dreams into reality.",
+        "reversed": "Your approach might be clouded by doubt or hesitation. Clarify purpose to regain clear direction.",
+        "keywords": [
+          "inspiring vision",
+          "realistic strategies",
+          "doubt",
+          "clarify purpose"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your ability to envision future possibilities helps chart a course of resilience and fulfillment.",
+        "reversed": "Support may come from embracing adaptability, allowing plans to shift and transform graciously.",
+        "keywords": [
+          "envision possibilities",
+          "resilience",
+          "adaptability",
+          "gracious transformation"
+        ]
+      },
+      "guidance": {
+        "upright": "Sacred guidance encourages trust in your vision’s potential and the journey’s unfolding possibilities.",
+        "reversed": "Guidance hints at flexibility and a willingness to pivot. Trust changes as part of your growth.",
+        "keywords": [
+          "trust vision",
+          "journey",
+          "flexibility",
+          "pivot"
+        ]
+      },
+      "best_course": {
+        "upright": "The best path involves continued exploration and faith in possibilities. Embody the visionary within.",
+        "reversed": "An optimal course may require revisiting and revising plans. Openness and resilience are key.",
+        "keywords": [
+          "exploration",
+          "faith",
+          "revisiting",
+          "openness"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Deep-seated hope for growth and abundant potential. Fear of stagnation or missed opportunities may linger.",
+        "reversed": "Fear of failure or delays. Hope that recalibration leads to renewed clarity and direction.",
+        "keywords": [
+          "growth",
+          "abundance",
+          "fear of stagnation",
+          "renewed clarity"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope lies in the vast expanse of possibility and the realization of visionary dreams.",
+        "reversed": "Hopes rest in overcoming obstacles and finding new pathways to fulfill evolving visions.",
+        "keywords": [
+          "expanse",
+          "realization",
+          "overcoming",
+          "evolving visions"
+        ]
+      },
+      "fears": {
+        "upright": "Fears of goals slipping away or the inability to embrace new opportunities due to lingering doubts.",
+        "reversed": "Fear of making mistakes that derail plans. Acknowledging fear as part and parcel of growth.",
+        "keywords": [
+          "slipping away",
+          "lingering doubts",
+          "acknowledging fear",
+          "derailment"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by a longing for exploration and an innate understanding of growth potential.",
+        "reversed": "Beneath the surface lies hesitation disguised as practicality, stemming from self-imposed limitations.",
+        "keywords": [
+          "longing",
+          "growth potential",
+          "hesitation",
+          "limitations"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of your role as a visionary capable of turning thoughts into tangible achievements.",
+        "reversed": "Awareness of overwhelm or frustration requires conscious alignment with true intent.",
+        "keywords": [
+          "visionary",
+          "achievement",
+          "overwhelm",
+          "true intent"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you’re excited by potential and eager to see plans blossom into fruition.",
+        "reversed": "Frustration or anxiety may color emotions due to delays; patience and understanding are needed.",
+        "keywords": [
+          "excitement",
+          "potential",
+          "frustration",
+          "patience"
+        ]
+      },
+      "heart": {
+        "upright": "The heart craves expansion and seeks to explore new vistas, embracing each moment of potential.",
+        "reversed": "Heartfelt desires may feel stifled by setbacks; reminder to nurture passion regardless of pace.",
+        "keywords": [
+          "expansion",
+          "exploration",
+          "stifled desires",
+          "nurture passion"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, you strategize to align vision with practical application, seeing the path unfold with clarity.",
+        "reversed": "Mental conflict as plans falter; need to reassess priorities and align thoughts with action.",
+        "keywords": [
+          "strategy",
+          "alignment",
+          "conflict",
+          "priorities"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Circumstances surrounding you are geared towards growth and expansion. Engage with supportive energies.",
+        "reversed": "Delays and unforeseen complications in the environment demand resilience and adaptive strategies.",
+        "keywords": [
+          "growth",
+          "expansion",
+          "complications",
+          "adaptive"
+        ]
+      },
+      "others": {
+        "upright": "Others perceive your visionary nature and ability to envision the future with clarity and inspiration.",
+        "reversed": "Others may see hesitation as uncertainty; clarify intentions to regain traction and trust.",
+        "keywords": [
+          "visionary",
+          "clarity",
+          "hesitation",
+          "clarify"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment is rich with opportunities for exploration and discovery. The world is your canvas.",
+        "reversed": "Current constraints and delays highlight the need to adapt plans and expectations wisely.",
+        "keywords": [
+          "exploration",
+          "discovery",
+          "constraints",
+          "adaptation"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as someone who is ready to embark on journeys with an eye for what could be, inspiring to others.",
+        "reversed": "Perceived as stuck or indecisive due to challenges; take bold actions to reshape perceptions.",
+        "keywords": [
+          "journeys",
+          "inspiration",
+          "stuck",
+          "bold"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Subtle forces are at play, aligning circumstances to enable expansion and exploration beyond immediate sight.",
+        "reversed": "Hidden roadblocks may arise; reframe challenges as transient phases of the greater journey.",
+        "keywords": [
+          "subtle",
+          "expansion",
+          "roadblocks",
+          "transient"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Successful expansion and growth occur as you align actions with visions. Expect tangible results.",
+        "reversed": "Outcomes may include delays and reevaluation; growth comes through flexibility and perseverance.",
+        "keywords": [
+          "successful",
+          "growth",
+          "delays",
+          "perseverance"
+        ]
+      },
+      "final_outcome": {
+        "upright": "In the end, dreams manifest into reality through strategic foresight and tenacity. Fulfillment on the horizon.",
+        "reversed": "Final outcomes may blend challenges with triumphs. Maintaining a flexible perspective is crucial.",
+        "keywords": [
+          "manifestation",
+          "fulfillment",
+          "challenges",
+          "flexibility"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possibly, expansion leads to new realms of experience and influence, a testimony to vision realized.",
+        "reversed": "Challenges may redirect you, possibly leading to unforeseen but enriching outcomes.",
+        "keywords": [
+          "new realms",
+          "influence",
+          "redirect",
+          "enriching"
+        ]
+      },
+      "best_case": {
+        "upright": "The best scenario involves seamless execution, innovative expansion, and creation of paths beyond the known.",
+        "reversed": "Even in the best case, adaptability proves key. Unexpected turns could yield serendipitous outcomes.",
+        "keywords": [
+          "seamless",
+          "innovative",
+          "adaptability",
+          "serendipitous"
+        ]
+      },
+      "worst_case": {
+        "upright": "At worst, visions remain unmanifested due to lack of action or strategy. Growth stagnates.",
+        "reversed": "Worst case sees plans falter without adaptation, leading to temporary setbacks and frustration.",
+        "keywords": [
+          "unmanifested",
+          "stagnation",
+          "falter",
+          "frustration"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "The relationship dynamic involves expansion, growth, and looking toward broader horizons together. Between you exists an energy that encourages taking your connection to the next level. You support each other's ambitions and shared vision for the future.",
+        "reversed": "The connection may be delayed in growth or expansion. Plans may encounter obstacles or lack the support needed for success. The relationship could involve impatience with progress or unrealistic expectations about timing.",
+        "keywords": [
+          "expansion",
+          "growth",
+          "horizons",
+          "progress"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Expansive phase in relationships, marked by mutual growth and shared visions for the future.",
+      "reversed": "Obstacles in building the desired future with a partner; patience and understanding needed.",
+      "keywords": [
+        "relationship growth",
+        "shared visions",
+        "obstacles",
+        "patience"
+      ]
+    },
+    "career": {
+      "upright": "Professional expansion as opportunities align with your long-term vision. Strategic moves favored.",
+      "reversed": "Career progress may be hindered by unforeseen delays; adaptability and reevaluation required.",
+      "keywords": [
+        "professional expansion",
+        "opportunities",
+        "hindered",
+        "reevaluation"
+      ]
+    },
+    "spiritual": {
+      "upright": "Open yourself to a deeper spiritual journey. Exploration of new practices and beliefs enriches the soul.",
+      "reversed": "Spiritual stagnation due to self-doubt or lack of direction. Seek guidance and reflect inward.",
+      "keywords": [
+        "spiritual journey",
+        "exploration",
+        "stagnation",
+        "guidance"
+      ]
+    },
+    "financial": {
+      "upright": "Positive growth in financial ventures reflects strategic planning and far-sighted investments.",
+      "reversed": "Financial delays or setbacks suggest revisiting strategies and ensuring adaptability.",
+      "keywords": [
+        "financial growth",
+        "investments",
+        "setbacks",
+        "strategies"
+      ]
+    },
+    "health": {
+      "upright": "Encouragement to begin a wellness journey. Anticipate improvements through consistent practices.",
+      "reversed": "Health plans require adjustments as unexpected challenges arise; patience and care advised.",
+      "keywords": [
+        "wellness journey",
+        "improvements",
+        "adjustments",
+        "care"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "aries",
+    "hebrew_letter": "gimmel",
+    "numerology": 3,
+    "planet": "sun",
+    "season": "spring",
+    "time_of_day": "midday",
+    "colors": [
+      "orange",
+      "gold",
+      "red"
+    ],
+    "crystals": [
+      "citrine",
+      "amber",
+      "garnet"
+    ],
+    "herbs": [
+      "bay leaf",
+      "saffron",
+      "ginger"
+    ]
+  },
+  "symbols": {
+    "ships": "ventures and opportunities",
+    "ocean": "unexplored potential and distant horizons",
+    "wand": "personal power and vision"
+  },
+  "affirmations": [
+    "I align my actions with my expansive vision and trust the unfolding journey.",
+    "As I embrace change, I grow and thrive in new ways.",
+    "My vision is a beacon guiding me towards limitless possibilities."
+  ],
+  "journaling_prompts": [
+    "What expansive vision am I ready to embrace?",
+    "How can I adapt to delays in my current plans?",
+    "Where in my life am I ready to take strategic action?"
+  ],
+  "meditation_focus": "Visualize the vast ocean of potential before you, breathing in possibilities and breathing out fear of the unknown.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:01:22.807668",
+    "card_info": {
+      "name": "Three of Wands",
+      "number": 3,
+      "suit": "wands"
+    },
+    "filename": "w03.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_empress": {
+        "interpretation": "Creative abundance and nurturing growth come together, amplifying manifestation and expansion.",
+        "keywords": [
+          "creative",
+          "abundance",
+          "nurturing",
+          "growth"
+        ]
+      },
+      "the_world": {
+        "interpretation": "Expansive vision aligns with completion, unfolding global potential and ultimate success.",
+        "keywords": [
+          "expansive",
+          "vision",
+          "aligns",
+          "completion"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Unexpected disruptions test your plans and vision. Adaptability needed amidst chaos.",
+        "keywords": [
+          "unexpected",
+          "disruptions",
+          "test",
+          "plans"
+        ]
+      },
+      "five_of_cups": {
+        "interpretation": "Regrets anchor progression, requiring release and focus on future prospects.",
+        "keywords": [
+          "regrets",
+          "anchor",
+          "progression",
+          "requiring"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hermit": {
+        "interpretation": "Introspection provides clarity for external expansion, guiding you with inner wisdom.",
+        "keywords": [
+          "introspection",
+          "provides",
+          "clarity",
+          "external"
+        ]
+      },
+      "two_of_wands": {
+        "interpretation": "Each planning phase requires clear foresight - vision becomes the guiding light.",
+        "keywords": [
+          "each",
+          "planning",
+          "phase",
+          "requires"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "two_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

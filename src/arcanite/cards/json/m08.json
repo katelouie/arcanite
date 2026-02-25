@@ -1,0 +1,683 @@
+{
+  "card_id": "strength",
+  "card_name": "Strength",
+  "card_number": 8,
+  "suit": "major_arcana",
+  "archetype": "the_gentle_warrior",
+  "core_meanings": {
+    "upright": {
+      "essence": "Inner strength, courage, and gentle resilience. Mastery of emotions and instincts through compassionate understanding.",
+      "keywords": [
+        "courage",
+        "compassion",
+        "inner strength",
+        "gentleness",
+        "resilience",
+        "patience",
+        "self-confidence"
+      ],
+      "psychological": "Represents the ability to embrace one's primal energy with kindness. Emotional maturity and strength lie not in force, but in understanding.",
+      "spiritual": "A channel of divine power through grace. Connection to the infinite through gentle, persistent spirit.",
+      "practical": "Time to navigate challenges with patience and grace. Strength comes from a quiet confidence rather than aggression.",
+      "shadow": "Dominating force by suppressing emotions, or misusing power and energy to control or manipulate."
+    },
+    "reversed": {
+      "essence": "Self-doubt, vulnerability, and an imbalance between will and action. Either weakness or misuse of power.",
+      "keywords": [
+        "self-doubt",
+        "insecurity",
+        "impatience",
+        "domination",
+        "imbalance",
+        "vulnerability",
+        "weakness"
+      ],
+      "psychological": "Struggling to integrate primal instincts. Insecurity may breed aggression or passivity instead of authentic power.",
+      "spiritual": "Disconnection from source, feeling a lack of spiritual support, or misapplying one's spiritual gifts.",
+      "practical": "Reassess your approach; impatience or misuse of inner resources can lead to burnout or conflict.",
+      "shadow": "Using intimidation to masquerade as strength, or paralyzing self-doubt disguised as deliberate calm."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Your past resilience and ability to face challenges with patience and grace have shaped your current path.",
+        "reversed": "Past self-doubt or misuse of power affected your journey. Patterns of insecurity or aggressive responses began here.",
+        "keywords": [
+          "past resilience",
+          "foundational patience",
+          "historic self-doubt",
+          "early aggression"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a period of cultivating inner strength set the stage for your lifelong approach to challenges.",
+        "reversed": "Old wounds from times when you felt powerless or domineering might still influence current behavior.",
+        "keywords": [
+          "early strength",
+          "foundation of courage",
+          "historical vulnerability",
+          "original misuse"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent trials required patience and composure. You've been developing a deeper strength.",
+        "reversed": "Recent doubts or conflicts arose from forgetting your inner strength. Impatience caused tension.",
+        "keywords": [
+          "recent trials",
+          "patience needed",
+          "current self-doubt",
+          "short-term imbalance"
+        ]
+      },
+      "present": {
+        "upright": "You are called to trust your inner courage and navigate your current situation with empathy and strength.",
+        "reversed": "Facing challenges related to self-confidence or using force over compassion. Find balance.",
+        "keywords": [
+          "inner courage",
+          "empathy",
+          "current strength",
+          "confidence challenge"
+        ]
+      },
+      "present_situation": {
+        "upright": "Core to your experience now is mastering your emotions through love and understanding.",
+        "reversed": "You're either overpowering situations with force or feeling overwhelmed by insecurity.",
+        "keywords": [
+          "emotional mastery",
+          "central strength",
+          "overcoming force",
+          "insecurity issues"
+        ]
+      },
+      "future": {
+        "upright": "Upcoming, you will face situations that require gentle perseverance and the harnessing of your inner power.",
+        "reversed": "Future obstacles may highlight areas where courage falters or force leads to friction.",
+        "keywords": [
+          "gentle perseverance",
+          "harness power",
+          "future obstacles",
+          "courage required"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, an opportunity to showcase your strength through patience and inner harmony will arise.",
+        "reversed": "An impending situation may test your patience, leading to potential conflict if not handled wisely.",
+        "keywords": [
+          "emerging patience",
+          "immediate harmony",
+          "upcoming test",
+          "conflict potential"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, your journey of strength leads to mastery over life's challenges through inner peace.",
+        "reversed": "Continuing along your current path without addressing imbalances may lead to regret or missed opportunities for authentic strength.",
+        "keywords": [
+          "ultimate mastery",
+          "long-term peace",
+          "missed chances",
+          "regret avoidance"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Balancing inner power with gentleness. Avoid overpowering situations due to fear-driven control.",
+        "reversed": "Facing fears of inadequacy or backlash from misusing power. Trust in your innate strength.",
+        "keywords": [
+          "balance power",
+          "gentle strength",
+          "fear of inadequacy",
+          "power misuse"
+        ]
+      },
+      "cross": {
+        "upright": "External forces challenge your ability to remain composed and gentle under pressure.",
+        "reversed": "Self-imposed limitations or fear of confrontation block your power.",
+        "keywords": [
+          "external pressure",
+          "composure test",
+          "self-limitations",
+          "confrontation fears"
+        ]
+      },
+      "obstacle": {
+        "upright": "Impatience and aggression are hurdles to expressing authentic strength and confidence.",
+        "reversed": "Obstacles appear as misperceptions of weakness or over-reliance on forceful tactics.",
+        "keywords": [
+          "impatience",
+          "aggression",
+          "perceived weakness",
+          "forceful tactics"
+        ]
+      },
+      "lesson": {
+        "upright": "Lesson of strength teaches the power of compassion and patience, creating harmony within and without.",
+        "reversed": "Learning to identify when vulnerability masquerades as strength, or when strength is misapplied.",
+        "keywords": [
+          "power of compassion",
+          "patience lesson",
+          "hidden vulnerabilities",
+          "misapplied strength"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow holds untapped patience and compassion - embrace these gifts to transform struggles.",
+        "reversed": "Unacknowledged fears of inadequacy or past aggressive responses drive current behavior.",
+        "keywords": [
+          "untapped gifts",
+          "compassionate shadow",
+          "fear acknowledgment",
+          "aggression past"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Past experiences may hinder current strength expressions by encouraging aggressive defensiveness.",
+        "reversed": "Insecurity and past failures inhibit manifesting your true power with grace.",
+        "keywords": [
+          "past defensiveness",
+          "aggressive past",
+          "inhibited strength",
+          "failure impact"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace your gentle power. Approach conflicts with an open heart and a firm but loving hand.",
+        "reversed": "Reflect on how fear affects your behavior - find ways to bolster your self-confidence authentically.",
+        "keywords": [
+          "gentle power",
+          "loving hand",
+          "reflect on fear",
+          "authentic confidence"
+        ]
+      },
+      "action": {
+        "upright": "Take calm, confident steps. Allow compassion to guide your decisions.",
+        "reversed": "Pause before acting out of fear or impatience. Seek harmony instead of control.",
+        "keywords": [
+          "confident steps",
+          "compassionate decisions",
+          "pause reflexively",
+          "seek harmony"
+        ]
+      },
+      "your_approach": {
+        "upright": "You view yourself as resilient and determined, face life's challenges with steady grace.",
+        "reversed": "Either questioning your ability to act confidently or being overly forceful.",
+        "keywords": [
+          "resilient self-image",
+          "steady grace",
+          "confidence questions",
+          "forceful actions"
+        ]
+      },
+      "what_helps": {
+        "upright": "Your inherent compassion and patience will see you through challenges, enabling genuine power.",
+        "reversed": "Finding mentors or practices that build self-esteem and calm assertiveness will aid you.",
+        "keywords": [
+          "compassion",
+          "inherent patience",
+          "mentors",
+          "self-esteem builders"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual guidance encourages trusting your inner strength and embracing challenges with love.",
+        "reversed": "Wisdom suggests nurturing tender areas with care, recognizing the strength in vulnerability.",
+        "keywords": [
+          "spiritual trust",
+          "embrace challenges",
+          "nurture vulnerability",
+          "careful wisdom"
+        ]
+      },
+      "best_course": {
+        "upright": "Set a course enriched by grace and steadfastness. Let your inner lion guide you gently yet powerfully.",
+        "reversed": "Reevaluate fears and where you've been exerting unnecessary control. Let go to regain balance.",
+        "keywords": [
+          "graceful course",
+          "inner guide",
+          "fear reevaluation",
+          "restore balance"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hopes of mastering life's trials with grace; fear of appearing weak or overrun by emotions.",
+        "reversed": "Afraid of powerlessness; hope for acceptance through forceful control.",
+        "keywords": [
+          "mastery hopes",
+          "fear of weakness",
+          "powerlessness",
+          "forceful acceptance"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to express your power with serenity and to be recognized for your compassionate leadership.",
+        "reversed": "A hope for change through external reinforcement, yet yearning for internal growth.",
+        "keywords": [
+          "serene expression",
+          "compassionate recognition",
+          "external change",
+          "growth desire"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of overwhelming circumstances outpacing your strength, or losing control of emotional instincts.",
+        "reversed": "Fear of inadequacy leading to unconsidered actions or hiding true feelings behind dominance.",
+        "keywords": [
+          "overwhelming fear",
+          "control loss",
+          "inadequacy",
+          "emotional dominance"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously, you harbor an enduring well of patience and courage waiting to be tapped.",
+        "reversed": "Unseen doubts of self-worth make you question your capacity to lead with love.",
+        "keywords": [
+          "enduring patience",
+          "courage well",
+          "doubt of worth",
+          "capacity questions"
+        ]
+      },
+      "conscious": {
+        "upright": "Your mind connects strength with kindness, focusing on a balanced approach to life's demands.",
+        "reversed": "Consciously battling confusion over true strength and attempting to conceal insecurities.",
+        "keywords": [
+          "kindness connection",
+          "balanced approach",
+          "confusion battle",
+          "concealment"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you feel a blend of calm power and serene assurance as challenges arise.",
+        "reversed": "Fluctuating emotions between empowered confidence and unsettling self-doubt.",
+        "keywords": [
+          "calm power",
+          "serene assurance",
+          "emotional fluctuation",
+          "confidence"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart seeks peace through gentle empowerment and the fusion of strength with love.",
+        "reversed": "Misguided focus on authority might obscure your heart's true longing for vulnerability.",
+        "keywords": [
+          "gentle empowerment",
+          "strength fusion",
+          "misguided authority",
+          "vulnerability"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, you strive for harmony where logic meets emotional intelligence, fostering internal peace.",
+        "reversed": "Mind fights between domination and perceived weakness, struggling to find peace.",
+        "keywords": [
+          "harmony",
+          "internal peace",
+          "domination thoughts",
+          "weakness struggle"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Your presence inspires others as a calm and composed leader. People admire your balanced approach.",
+        "reversed": "Perceived as either overpowering or lacking assertion, depending on how you channel your energy.",
+        "keywords": [
+          "inspiring presence",
+          "composed leader",
+          "overpowering",
+          "assertion lack"
+        ]
+      },
+      "others": {
+        "upright": "Those around you offer support and recognition of your silent strength and empathetic power.",
+        "reversed": "Others’ pressures or expectations may lead you to doubt your own path or reactions.",
+        "keywords": [
+          "support",
+          "recognition",
+          "pressure",
+          "expectations"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment promotes harmony and offers opportunities to express compassion as strength.",
+        "reversed": "Current environment may be challenging, eliciting defensive or aggressive reactions.",
+        "keywords": [
+          "promote harmony",
+          "compassion opportunity",
+          "environment challenges",
+          "defensive reactions"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Seen as a pillar of strength who exudes calm power and is a source of comfort to those around you.",
+        "reversed": "Seen as either too meek or too controlling, depending on the fluctuations in your self-assurance.",
+        "keywords": [
+          "pillar of strength",
+          "calm power",
+          "meek perception",
+          "controlling view"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen support empowers your journey; synchronicities guide you towards balanced strength.",
+        "reversed": "Hidden fears or societal conditioning may undermine your confidence and true expression of power.",
+        "keywords": [
+          "unseen support",
+          "synchronicities",
+          "conditioning",
+          "hidden fears"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success in inner harmony and serene navigation of life's challenges. Personal growth achieved through gentle resilience.",
+        "reversed": "Without introspection, there can be continued struggles. Power might be exerted at the cost of personal harmony.",
+        "keywords": [
+          "inner harmony",
+          "serene navigation",
+          "struggles",
+          "cost of harmony"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, mastery of self and circumstances through blending inner strength with compassion leads to profound fulfillment.",
+        "reversed": "Continuing unchecked, power struggles or self-doubt could result in dissatisfaction and misalignment.",
+        "keywords": [
+          "mastery",
+          "compassion blend",
+          "power struggles",
+          "misalignment"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Potential to create peace and inspire others as a model of compassionate leadership in any situation.",
+        "reversed": "Possible unrest or missed opportunities for leadership due to misapplied strength or doubt.",
+        "keywords": [
+          "peace creation",
+          "leadership model",
+          "unrest",
+          "missed opportunities"
+        ]
+      },
+      "best_case": {
+        "upright": "Best-case scenario involves overcoming challenges with grace and leaving an empowering legacy.",
+        "reversed": "What seems like the best course may obscure real needs or lead to unwise dominance.",
+        "keywords": [
+          "graceful overcoming",
+          "empowering legacy",
+          "obscured needs",
+          "unwise dominance"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worse consequences involve pretending strength by suppressing weaknesses, resulting in stunted growth.",
+        "reversed": "Worst-case fears manifest as dominion over others or becoming imprisoned by anxiety and doubt.",
+        "keywords": [
+          "suppression",
+          "stunted growth",
+          "dominion fears",
+          "imprisoned by doubt"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "Between you flows a dynamic of inner strength, courage, and gentle power. This relationship helps both parties find their bravery and face challenges with grace. You bring out each other's nobility and capacity for patient, loving strength.",
+        "reversed": "The connection may involve power struggles, weakness, or cruelty. One party may dominate through force rather than love. Inner strength may be lacking, leading to victim mentalities or aggressive attempts to control the other.",
+        "keywords": [
+          "inner strength",
+          "courage",
+          "gentleness",
+          "nobility"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Fostering a relationship through patience, trust, and understanding leads to deeper, lasting love.",
+      "reversed": "Growing tensions due to control issues or lack of confidence. Seek balance and open communication.",
+      "keywords": [
+        "fostering love",
+        "trust",
+        "control issues",
+        "open communication"
+      ]
+    },
+    "career": {
+      "upright": "Stay composed under pressure. Leading with empathy will bring stability and success in professional endeavors.",
+      "reversed": "Frustrations in career may arise from overly controlling management or lack of confidence in roles.",
+      "keywords": [
+        "composed",
+        "empathy leadership",
+        "career frustration",
+        "management control"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual growth through peaceful strength and embracing vulnerability. A time of inner healing and empowerment.",
+      "reversed": "Spiritual disconnection from doubt or authoritative dogma. Need gentler self-exploration.",
+      "keywords": [
+        "spiritual growth",
+        "inner healing",
+        "disconnection",
+        "self-exploration"
+      ]
+    },
+    "financial": {
+      "upright": "Approaching finances with calm assurance leads to steady growth and opportunities for advancement.",
+      "reversed": "Financial anxieties stem from fear-driven decisions or neglect of wise planning.",
+      "keywords": [
+        "calm assurance",
+        "steady growth",
+        "financial anxieties",
+        "wise planning"
+      ]
+    },
+    "health": {
+      "upright": "Embrace a calm, patient approach to wellness. Strength resides in consistent, gentle practices.",
+      "reversed": "Health struggles may relate to stress or impatience; balance emotional and physical needs.",
+      "keywords": [
+        "patient wellness",
+        "gentle practice",
+        "health struggles",
+        "emotional balance"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "leo",
+    "hebrew_letter": "teth",
+    "numerology": 8,
+    "planet": "sun",
+    "season": "summer",
+    "time_of_day": "noon",
+    "colors": [
+      "gold",
+      "orange",
+      "red"
+    ],
+    "crystals": [
+      "amber",
+      "citrine",
+      "tiger's eye"
+    ],
+    "herbs": [
+      "sunflower",
+      "ginger",
+      "basil"
+    ]
+  },
+  "symbols": {
+    "lion": "primal instincts and internal power",
+    "figure": "compassionate control and mastery",
+    "infinity_symbol": "eternal strength and limitless potential",
+    "mountains": "overcoming obstacles through enduring patience",
+    "flowers": "beauty and grace in harmonious existence"
+  },
+  "affirmations": [
+    "I embody strength through compassion and patience.",
+    "Challenges reveal my inner courage and infinite potential.",
+    "I lead with love, embracing both power and grace.",
+    "My confidence is a gentle force that guides my path."
+  ],
+  "journaling_prompts": [
+    "In what ways can I express my strength with compassion?",
+    "How do I respond to challenges with inner calm?",
+    "Where do I need to trust my resilience and loving power?",
+    "What does gentle strength mean to me personally?"
+  ],
+  "meditation_focus": "Visualize embodying the harmonious balance of strength and compassion, breathing in courage and breathing out peace.",
+  "_metadata": {
+    "generated_at": "2025-08-13T16:56:16.127751",
+    "card_info": {
+      "name": "Strength",
+      "number": 8,
+      "suit": "major_arcana"
+    },
+    "filename": "m08.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_star": {
+        "interpretation": "Hope and serenity magnified. Divine peace and healing energies flow effortlessly.",
+        "keywords": [
+          "hope",
+          "serenity",
+          "magnified",
+          "divine"
+        ]
+      },
+      "the_empress": {
+        "interpretation": "Nurturing strength blossoms into abundant fruition. Deep connection to compassionate growth.",
+        "keywords": [
+          "nurturing",
+          "strength",
+          "blossoms",
+          "abundant"
+        ]
+      },
+      "the_chariot": {
+        "interpretation": "Willpower and perseverance powerfully unite. The disciplined heart drives forward.",
+        "keywords": [
+          "willpower",
+          "perseverance",
+          "powerfully",
+          "unite"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Facing unexpected upheavals with necessary calm. Chaos challenges the calm exterior.",
+        "keywords": [
+          "facing",
+          "unexpected",
+          "upheavals",
+          "necessary"
+        ]
+      },
+      "five_of_wands": {
+        "interpretation": "Conflict vs. control; tests of patience under external pressures.",
+        "keywords": [
+          "conflict",
+          "control",
+          "tests",
+          "patience"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Unseen deceit challenges open heart; calls for discernment and careful awareness.",
+        "keywords": [
+          "unseen",
+          "deceit",
+          "challenges",
+          "open"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hermit": {
+        "interpretation": "Inner reflection reveals hidden strengths. Solitude fosters rejuvenating strength.",
+        "keywords": [
+          "inner",
+          "reflection",
+          "reveals",
+          "hidden"
+        ]
+      },
+      "queen_of_cups": {
+        "interpretation": "Emotional intelligence and intuition blend; heart wisdom guides choices.",
+        "keywords": [
+          "emotional",
+          "intelligence",
+          "intuition",
+          "blend"
+        ]
+      },
+      "justice": {
+        "interpretation": "Moral courage aligns with ethical understanding. Equity and truth form the basis.",
+        "keywords": [
+          "moral",
+          "courage",
+          "aligns",
+          "ethical"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "queen_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "strength": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hermit": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

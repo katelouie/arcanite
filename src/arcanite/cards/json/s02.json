@@ -1,0 +1,639 @@
+{
+  "card_id": "two_of_swords",
+  "card_name": "Two of Swords",
+  "card_number": 2,
+  "suit": "swords",
+  "archetype": "the_balancer_of_ideas",
+  "core_meanings": {
+    "upright": {
+      "essence": "A pause in thought, reflecting upon two equally viable paths. This is a moment of balancing intuition and logic.",
+      "keywords": [
+        "decision",
+        "stalemate",
+        "balance",
+        "choice",
+        "indecision",
+        "inner conflict"
+      ],
+      "psychological": "Represents an internal battle between heart and mind, where clarity is sought through stillness and reflection.",
+      "spiritual": "The wisdom of neutrality, seeking guidance from within to understand the deeper truths before acting.",
+      "practical": "A time to hold off on making decisions until you can see the situation from all angles. External advice may cloud clarity.",
+      "shadow": "Avoidance of truth, being paralyzed by fears of choosing the wrong path, and preferring inaction over potential consequence."
+    },
+    "reversed": {
+      "essence": "Confusion and delay, where indecisiveness and avoidance lead to growing tension or imbalance.",
+      "keywords": [
+        "confusion",
+        "avoidance",
+        "tension",
+        "blocked emotions",
+        "overwhelmed"
+      ],
+      "psychological": "Denotes the inability to trust oneself, where overthinking masks the reality of an intuition ignored.",
+      "spiritual": "Disruption in spiritual flow; the mind overrides the heart, resisting the lessons and insights of inner knowing.",
+      "practical": "You may need to confront procrastinated decisions or realign with your inner values for clarity to emerge.",
+      "shadow": "Allowing fear or self-doubt to immobilize you, ignoring the call to face unresolved inner conflicts."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A past moment where reflection and weighing of choices influenced your current path. Understanding derived through stillness.",
+        "reversed": "Indecision from the past reverberates now, where avoidance then has shaped challenges today.",
+        "keywords": [
+          "reflection",
+          "past choices",
+          "stillness",
+          "avoidance"
+        ]
+      },
+      "distant_past": {
+        "upright": "Early patterns of seeking balance through reflection, setting the tone for handling dilemmas.",
+        "reversed": "Old habits of avoidance and separateness, where early fears of taking sides remain entrenched.",
+        "keywords": [
+          "early balance",
+          "original indecision",
+          "entrenched fears"
+        ]
+      },
+      "recent_past": {
+        "upright": "A recent situation required you to find equilibrium, ask critical questions, and delay rash decisions.",
+        "reversed": "Recent avoidance of critical choices continues to exert pressure on your current circumstances.",
+        "keywords": [
+          "equilibrium sought",
+          "delayed decision",
+          "recent avoidance"
+        ]
+      },
+      "present": {
+        "upright": "You find yourself at a crossroads, challenged to integrate intuition with intellect in decision-making.",
+        "reversed": "Current confusion results from previous avoidance. It's time to embrace clarity and resolve conflict.",
+        "keywords": [
+          "crossroads",
+          "integration",
+          "current confusion",
+          "necessary resolve"
+        ]
+      },
+      "present_situation": {
+        "upright": "Current circumstances call for inward reflection, allowing balanced clarity to dissolve the dilemma.",
+        "reversed": "Presently, tension arises from postponed decisions or conflicts needing immediate resolution.",
+        "keywords": [
+          "balanced clarity",
+          "inward reflection",
+          "postponed tension"
+        ]
+      },
+      "future": {
+        "upright": "Approaching a decisive moment where clarity gained now will lead to empowered action.",
+        "reversed": "Future entanglements from persisting indecision will demand the resolution of today's unresolved conflicts.",
+        "keywords": [
+          "decisive moment",
+          "empowered action",
+          "future entanglements"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, unclouded vision will support an important choice, turning uncertainty into informed decision.",
+        "reversed": "In the near term, unresolved issues will intensify if not addressed, leading to unnecessary complications.",
+        "keywords": [
+          "unclouded vision",
+          "informed decision",
+          "intensified issues"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, the integration of intuition and logic will lead to a harmonious and well-crafted life path.",
+        "reversed": "Long-term resolution lies in overcoming fear and doubt, moving beyond inaction to reclaim potential.",
+        "keywords": [
+          "harmonious path",
+          "crafted life",
+          "reclaim potential"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Maintain center amid choices; discern without external influence. Stay aligned with your true self.",
+        "reversed": "Challenge lies in confronting fears that cause avoidance and undermine decision-making capacity.",
+        "keywords": [
+          "maintain center",
+          "true self",
+          "confront fears"
+        ]
+      },
+      "cross": {
+        "upright": "External pressures seek to disrupt your internal peace, urging you to choose hastily.",
+        "reversed": "Inner turmoil from unresolved anxieties prevents engagement with true or needed decisions.",
+        "keywords": [
+          "external disruptions",
+          "inner turmoil",
+          "true decisions"
+        ]
+      },
+      "obstacle": {
+        "upright": "Fear of making wrong decisions stifles progress, keeping opportunities at bay through stagnation.",
+        "reversed": "Obstacles arise from allowing external noise to undermine your intuitive wisdom.",
+        "keywords": [
+          "fear of choice",
+          "stifled progress",
+          "external noise"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to balance logic and intuition, fostering decisions that reflect a united inner dialogue.",
+        "reversed": "The lesson is in recognizing avoidance patterns and embracing active resolution.",
+        "keywords": [
+          "balance logic",
+          "inner dialogue",
+          "active resolution"
+        ]
+      },
+      "shadow": {
+        "upright": "A shadow aspect of doubt may cloud your discernment, obscuring the truth within clarity.",
+        "reversed": "Repressed fears become barriers, whispering defeat before decisions draw breath.",
+        "keywords": [
+          "doubt shadow",
+          "clouded discernment",
+          "repressed fears"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Past discontent and reluctance to choose hinders present opportunities and smooth progression.",
+        "reversed": "Doubt and fear thwart the path forward, obscuring vision with imagined troubles.",
+        "keywords": [
+          "past discontent",
+          "smooth progression",
+          "imagined troubles"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Seek stillness within, honor both heart and mind. Unity reveals truth amid chaos.",
+        "reversed": "Break through fears that obscure clarity; delaying only breeds greater shadow.",
+        "keywords": [
+          "seek stillness",
+          "honor unity",
+          "break through fears"
+        ]
+      },
+      "action": {
+        "upright": "Engage active reflection; weigh choices calmly, allowing insights to emerge without rush.",
+        "reversed": "Let decisions unfold naturally; avoiding haste will reveal unseen pathways.",
+        "keywords": [
+          "active reflection",
+          "insights emerge",
+          "unseen pathways"
+        ]
+      },
+      "your_approach": {
+        "upright": "Your approach lies in discerning with grace, embracing uncertainty as potential clarity.",
+        "reversed": "How you perceive your indecision impacts others; seek inner alignment for clear reflection.",
+        "keywords": [
+          "discerning grace",
+          "embrace uncertainty",
+          "inner alignment"
+        ]
+      },
+      "what_helps": {
+        "upright": "Listening to inner voice amidst mental whirlwinds restores balance and precise direction.",
+        "reversed": "Gaining confidence in your choices dissipates barriers and aligns action with intent.",
+        "keywords": [
+          "inner voice",
+          "restore balance",
+          "align action"
+        ]
+      },
+      "guidance": {
+        "upright": "Spiritual insight encourages harmonizing dualities, trusting inner compass over external sway.",
+        "reversed": "Listening to unseen forces lays bare paths obscured by intellectual fog and mental mazes.",
+        "keywords": [
+          "spiritual insight",
+          "harmonize dualities",
+          "unseen forces"
+        ]
+      },
+      "best_course": {
+        "upright": "The best course unfolds through measured patience, understanding that clarity requires time.",
+        "reversed": "Facing hesitations with courage clarifies life’s tapestry, weaving intentional steps forward.",
+        "keywords": [
+          "measured patience",
+          "clarifies tapestry",
+          "intentional steps"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Desire for balance and harmony; fear of missing truth hidden in complexity.",
+        "reversed": "Inner conflict arises from fear of choosing wrongly amid conflicting desires.",
+        "keywords": [
+          "balance desire",
+          "hidden truth",
+          "conflicting desires"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope lies in achieving equilibrium, where decisions reflect both emotional and intellectual insight.",
+        "reversed": "Hopes are obscured by clinging to fears of inadequacy and doubt impeding forward movement.",
+        "keywords": [
+          "equilibrium",
+          "insight reflection",
+          "inadequacy fears"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of committing to a path due to perceived loss or misunderstanding of true purpose.",
+        "reversed": "Fear of unknown consequences amplifies self-doubt, clouding visionary expansion.",
+        "keywords": [
+          "path commitment",
+          "loss perception",
+          "unknown consequences"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconscious balance seeks expression, ready to align unspoken fears with conscious clarity.",
+        "reversed": "Inner turmoil whispers dismissal of intuition; mind-bound chains conceal true vision.",
+        "keywords": [
+          "subconscious balance",
+          "unspoken fears",
+          "inner turmoil"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aim for alignment and decision through integration of heart and mind.",
+        "reversed": "Letting logic rule leads to disparate thoughts and unfocused internal landscapes.",
+        "keywords": [
+          "alignment aim",
+          "integration",
+          "disparate thoughts"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Calm amidst the storm of choice; emotional neutrality fuels poised discernment.",
+        "reversed": "Emotional entanglements hinder clear sight, breeding unrest in heart and mind.",
+        "keywords": [
+          "calm in storm",
+          "poised discernment",
+          "emotional unrest"
+        ]
+      },
+      "heart": {
+        "upright": "Heart craves unity and peace, gently calling for truthful expression amidst uncertainty.",
+        "reversed": "Heart’s unease murmurs of neglected truths, silencing authentic movement.",
+        "keywords": [
+          "unity craving",
+          "truthful expression",
+          "neglected truths"
+        ]
+      },
+      "mind": {
+        "upright": "Mind flows with steady precision, welcoming intuitive insights alongside logic's clarity.",
+        "reversed": "Racing thoughts resist natural intuition, creating vortex of indecision and doubt.",
+        "keywords": [
+          "steady precision",
+          "insight welcome",
+          "racing thoughts"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others see your deliberation as a strength, valuing your measured approach to dilemmas.",
+        "reversed": "Perceived as indecisive, plagued by overanalysis. Others may pressure swift conclusions.",
+        "keywords": [
+          "deliberation strength",
+          "measured approach",
+          "perceived indecision"
+        ]
+      },
+      "others": {
+        "upright": "Supportive figures respect your inner process, offering space for reflective decision-making.",
+        "reversed": "External anxiety from others complicates your internal balance, pushing unsolicited opinions.",
+        "keywords": [
+          "supportive space",
+          "respect process",
+          "external anxiety"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment subtly nourishes thoughtful introspection and well-considered choices.",
+        "reversed": "Chaotic surroundings breed inner turmoil, deterring calm and managed resolution.",
+        "keywords": [
+          "nourishing space",
+          "thoughtful introspection",
+          "chaotic surroundings"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Viewed as thoughtful and contemplative, watching with respect how you gracefully weigh decisions.",
+        "reversed": "Others may notice an air of inertia or reluctance despite eloquent internal struggle.",
+        "keywords": [
+          "thoughtful image",
+          "contemplative presence",
+          "air of inertia"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen guides align quiet timing with subtle cues, offering hidden support for decisions made.",
+        "reversed": "Unrecognized patterns amidst your actions thwart intended progress, keeping balance at bay.",
+        "keywords": [
+          "unseen guidance",
+          "hidden support",
+          "unrecognized patterns"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Alignment and clarity unfold, clearing paths through dualities to meaningful resolutions.",
+        "reversed": "Without addressing indecision, stagnancy persists, leading to missed opportunities.",
+        "keywords": [
+          "alignment clarity",
+          "meaningful resolutions",
+          "missed opportunities"
+        ]
+      },
+      "final_outcome": {
+        "upright": "True peace found within leads you to correct course, harmonizing mind’s light with heart’s truth.",
+        "reversed": "Failure to resolve inner conflicts invites ongoing challenges and unmet potential.",
+        "keywords": [
+          "true peace",
+          "correct course",
+          "ongoing challenges"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Decisions eventually blossom into growth, supporting dreams with foundation, harmony, and understanding.",
+        "reversed": "Endless cycles of doubt may linger unless inner fears are confronted with gentle courage.",
+        "keywords": [
+          "growth blossom",
+          "support dreams",
+          "cycles of doubt"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case manifests clarity and strengthened resolve, bridging internal splits with connective wisdom.",
+        "reversed": "Unnecessary haste may limit potential rewards; cautious decisions allow for unexpected clarity.",
+        "keywords": [
+          "clarity manifestation",
+          "strengthened resolve",
+          "unexpected clarity"
+        ]
+      },
+      "worst_case": {
+        "upright": "Avoiding profound choices results in dull repetitions, stifling flow and life’s enriching possibilities.",
+        "reversed": "Worst outcome delays realization, washing away instinctive wisdom beneath fear’s weight.",
+        "keywords": [
+          "dull repetition",
+          "stifled flow",
+          "delayed realization"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship involves blocked communication, difficult decisions, and the need to find balance between opposing viewpoints. The dynamic requires careful consideration and may involve temporary stalemates while working through complex issues.",
+        "reversed": "The blockage is being removed or decisions are finally being made. Communication may be restored or balance may be found. The relationship involves moving beyond stalemate toward resolution and clarity.",
+        "keywords": [
+          "blockage",
+          "indecision",
+          "balance",
+          "stalemate"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "In love, this signifies careful consideration between heart's call and logic's caution. Balance will reveal truth.",
+      "reversed": "Avoidance in relationship leads to growing distance unless emotional truth is faced courageously.",
+      "keywords": [
+        "heart call",
+        "logic caution",
+        "emotional truth"
+      ]
+    },
+    "career": {
+      "upright": "A choice awaits in your career; embrace equilibrium and listen to your deeper insights before moving ahead.",
+      "reversed": "Fear and indecision block career progress; face reality and align with your core professional values.",
+      "keywords": [
+        "career choice",
+        "equilibrium",
+        "core alignment"
+      ]
+    },
+    "spiritual": {
+      "upright": "A time for spiritual discernment; seek inner wisdom and balance dualities to unlock deeper understanding.",
+      "reversed": "Spiritual progress stalls from ignoring inner nudges; reconnection with authentic self is crucial.",
+      "keywords": [
+        "spiritual discernment",
+        "inner wisdom",
+        "reconnection"
+      ]
+    },
+    "financial": {
+      "upright": "Financial decisions should be approached with a balanced perspective, consulting intuition and logic equally.",
+      "reversed": "Financial tension arises from avoiding crucial evaluations and decisions; address them candidly.",
+      "keywords": [
+        "balanced perspective",
+        "financial evaluation",
+        "crucial decisions"
+      ]
+    },
+    "health": {
+      "upright": "Health seeks balance; listen deeply to body and soul, allowing harmony to inform wellness choices.",
+      "reversed": "Fear of facing health realities restricts healing; embrace truths for rejuvenation.",
+      "keywords": [
+        "health balance",
+        "harmony",
+        "healing truths"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "libra",
+    "hebrew_letter": "bet",
+    "numerology": 2,
+    "planet": "moon",
+    "season": "autumn",
+    "time_of_day": "twilight",
+    "colors": [
+      "blue",
+      "gray",
+      "silver"
+    ],
+    "crystals": [
+      "labradorite",
+      "moonstone",
+      "sodalite"
+    ],
+    "herbs": [
+      "lavender",
+      "sage",
+      "chamomile"
+    ]
+  },
+  "symbols": {
+    "blindfold": "inner reflection, hidden knowledge",
+    "crossed_swords": "balanced decision-making, inner conflict",
+    "moon": "intuition, mystery",
+    "water": "emotional depth, intuition",
+    "shoreline": "threshold of decision, boundary"
+  },
+  "affirmations": [
+    "I trust my ability to find balance and clarity within.",
+    "I allow intuition and logic to guide my choices with wisdom.",
+    "I release fear and embrace decisiveness as a path to peace.",
+    "I am open to the insights revealed through stillness and reflection."
+  ],
+  "journaling_prompts": [
+    "What decision am I currently avoiding, and why?",
+    "How can I create space for clarity and balance?",
+    "In what ways do I allow external influences to impact my choices?",
+    "How does my intuition guide me through uncertainty?"
+  ],
+  "meditation_focus": "Centering your heart and mind in harmony. Breathing in balance, breathing out tension.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:18:46.578053",
+    "card_info": {
+      "name": "Two of Swords",
+      "number": 2,
+      "suit": "swords"
+    },
+    "filename": "s02.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_high_priestess": {
+        "interpretation": "Intuition and introspection magnified; inner wisdom emerges with profound clarity.",
+        "keywords": [
+          "intuition",
+          "introspection",
+          "magnified",
+          "inner"
+        ]
+      },
+      "justice": {
+        "interpretation": "Heightened need for balance and fairness; decisions require equitable discernment.",
+        "keywords": [
+          "heightened",
+          "need",
+          "balance",
+          "fairness"
+        ]
+      },
+      "the_hanged_man": {
+        "interpretation": "Depth of reflection and surrender deepens; patience and acceptance illuminate truth.",
+        "keywords": [
+          "depth",
+          "reflection",
+          "surrender",
+          "deepens"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Increased potential for upheaval if choices are avoided; need for rapid adaptation and courage.",
+        "keywords": [
+          "increased",
+          "potential",
+          "upheaval",
+          "choices"
+        ]
+      },
+      "four_of_cups": {
+        "interpretation": "Emotional withdrawal worsens decision-making; revisiting neglected desires fosters progress.",
+        "keywords": [
+          "emotional",
+          "withdrawal",
+          "worsens",
+          "decision"
+        ]
+      },
+      "seven_of_swords": {
+        "interpretation": "Deception hinders clarity; embrace honesty to dissipate confusion and uncover truth.",
+        "keywords": [
+          "deception",
+          "hinders",
+          "clarity",
+          "embrace"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hermit": {
+        "interpretation": "Introspection illuminates decisions; clarity through solitude and inner seeking.",
+        "keywords": [
+          "introspection",
+          "illuminates",
+          "decisions",
+          "clarity"
+        ]
+      },
+      "two_of_pentacles": {
+        "interpretation": "Highlights balance in practice; managing dual responsibilities with grace.",
+        "keywords": [
+          "highlights",
+          "balance",
+          "practice",
+          "managing"
+        ]
+      },
+      "eight_of_cups": {
+        "interpretation": "Highlights the emotional journey; leaving behind what no longer serves for inner peace.",
+        "keywords": [
+          "highlights",
+          "emotional",
+          "journey",
+          "leaving"
+        ]
+      }
+    },
+    "similar_energy": {
+      "justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_high_priestess": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "chariot": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_wands": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "two_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "three_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "card_id": "eight_of_swords",
+  "card_name": "Eight of Swords",
+  "card_number": 8,
+  "suit": "swords",
+  "archetype": "the_prisoner",
+  "core_meanings": {
+    "upright": {
+      "essence": "The illusion of entrapment and self-imposed limitations. A mental prison created by fear and doubt.",
+      "keywords": [
+        "restriction",
+        "confusion",
+        "helplessness",
+        "limitation",
+        "fear",
+        "isolation",
+        "self-doubt"
+      ],
+      "psychological": "Represents the mind's power to enslave itself with negative thoughts and self-imposed barriers. The inner critic keeping you captive.",
+      "spiritual": "The soul's challenge to see beyond illusion and rise above self-created traps. A call to reclaim inner freedom.",
+      "practical": "Time to recognize where you're holding yourself back by believing in limitations that don't truly exist.",
+      "shadow": "Falling into a victim mentality and refusing to see self-sabotage as a choice."
+    },
+    "reversed": {
+      "essence": "The beginnings of liberation from mental constraints. Seeing past illusion and regaining clarity.",
+      "keywords": [
+        "freedom",
+        "release",
+        "awakening",
+        "new perspective",
+        "empowerment",
+        "hope"
+      ],
+      "psychological": "The dawn of a new understanding, where fears and doubts begin to dissolve as clarity emerges.",
+      "spiritual": "A spiritual awakening where true freedom is found by overcoming self-imposed barriers.",
+      "practical": "Take steps to empower yourself, breaking free from the mental chains that have bound you.",
+      "shadow": "Risk of retreating back into familiar fears once the initial excitement of freedom fades."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A period marked by indecision or feeling trapped by circumstances shaped your current situation.",
+        "reversed": "Past efforts to liberate yourself from mental chains are beginning to show results.",
+        "keywords": [
+          "past entrapment",
+          "historical doubt",
+          "previous confusion",
+          "earlier liberation"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long-standing patterns of self-limitation date back to early life influences, setting the stage for current fears.",
+        "reversed": "Early awakening to personal power that has guided your gradual journey toward freedom.",
+        "keywords": [
+          "old constraints",
+          "ancient fears",
+          "initial awakening",
+          "early patterns"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent conflicts or self-doubt have left you feeling restricted and uncertain.",
+        "reversed": "A newfound sense of clarity has recently begun to lift mental fog and open new possibilities.",
+        "keywords": [
+          "recent paralysis",
+          "current release",
+          "new clarity",
+          "unfolding freedom"
+        ]
+      },
+      "present": {
+        "upright": "Currently feeling stuck, with your thoughts acting as a cage. Look beyond apparent limitations.",
+        "reversed": "At this moment, you're beginning to see a path out of confusion and into enlightenment.",
+        "keywords": [
+          "current entrapment",
+          "present clarity",
+          "unfolding liberation",
+          "self-realization"
+        ]
+      },
+      "present_situation": {
+        "upright": "The essence of your current experience is a conflict between your fears and your true desires for freedom.",
+        "reversed": "Your current core involves the unraveling of mental knots that have kept you isolated.",
+        "keywords": [
+          "inner conflict",
+          "core struggle",
+          "mental unraveling",
+          "freedom desire"
+        ]
+      },
+      "future": {
+        "upright": "On the horizon are challenges requiring clarity and inner strength to overcome perceived constraints.",
+        "reversed": "Future promises liberation from illusions and the embracing of true, unbounded potential.",
+        "keywords": [
+          "upcoming challenge",
+          "future freedom",
+          "potential clarity",
+          "liberation promise"
+        ]
+      },
+      "near_future": {
+        "upright": "Imminent situations may deepen feelings of entrapment; prepare to face fears with courage.",
+        "reversed": "Soon, breakthroughs will allow you to see beyond mental fog, leading to freedom and empowerment.",
+        "keywords": [
+          "impending entrapment",
+          "approaching release",
+          "near clarity",
+          "freedom breakthrough"
+        ]
+      },
+      "distant_future": {
+        "upright": "Eventually gaining the wisdom to dissolve mental constraints, leading you to more compassionate self-understanding.",
+        "reversed": "Long-term trajectory favors ongoing liberation and the creation of a life based on conscious choices.",
+        "keywords": [
+          "ultimate wisdom",
+          "gained clarity",
+          "long-term freedom",
+          "conscious life"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Overcome the belief that you are powerless. The barrier is mental, not physical.",
+        "reversed": "Challenge involves sustaining newfound freedom and not slipping back into familiar patterns.",
+        "keywords": [
+          "overcoming powerlessness",
+          "newfound freedom",
+          "sustained liberation",
+          "mental barriers"
+        ]
+      },
+      "cross": {
+        "upright": "External expectations clash with your need for release, creating internal discord.",
+        "reversed": "Internal doubts threaten to cross and darken moments of emerging clarity.",
+        "keywords": [
+          "external expectations",
+          "internal discord",
+          "threatening doubts",
+          "clarity clashes"
+        ]
+      },
+      "obstacle": {
+        "upright": "The biggest obstacle is your inability to see the way out, even when it's open before you.",
+        "reversed": "Obstacle lies in maintaining clear vision and confidence in newfound possibilities.",
+        "keywords": [
+          "vision block",
+          "clear obstacle",
+          "confusion",
+          "confidence barrier"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson is to learn that true freedom comes from within, regardless of external circumstances.",
+        "reversed": "Learn to trust the newfound freedom and ideas as harbingers of lasting change.",
+        "keywords": [
+          "inner freedom",
+          "external release",
+          "trust changes",
+          "lasting insight"
+        ]
+      },
+      "shadow": {
+        "upright": "In your shadow lurks the fear of seeing your power and the responsibility it entails.",
+        "reversed": "Run the risk of the shadow comforting with old chains when freedom feels overwhelming.",
+        "keywords": [
+          "fear of power",
+          "responsibility denial",
+          "shadow comfort",
+          "freedom overwhelm"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Self-doubt and external validations have hindered your own belief in personal strength.",
+        "reversed": "Potential setbacks in maintaining new-found clarity could arise from fear of change.",
+        "keywords": [
+          "self-doubt",
+          "external validation",
+          "setback risk",
+          "fear of change"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Recognize the power of perception; liberation begins with imagination and courage.",
+        "reversed": "Trust the process of liberating thought; allow clarity and faith to guide your steps.",
+        "keywords": [
+          "power of perception",
+          "imagine freedom",
+          "liberation trust",
+          "faith guidance"
+        ]
+      },
+      "action": {
+        "upright": "Actively confront what you fear most; challenge the thoughts that imprison you.",
+        "reversed": "Embrace growing clarity and take deliberate steps towards newfound opportunities.",
+        "keywords": [
+          "challenge fear",
+          "confront thoughts",
+          "embrace clarity",
+          "deliberate steps"
+        ]
+      },
+      "your_approach": {
+        "upright": "Your self-view may be one of feeling trapped; look past reflections of doubt.",
+        "reversed": "You see yourself as awakening from illusion, becoming more empowered each day.",
+        "keywords": [
+          "trapped self-view",
+          "reflections of doubt",
+          "awakening self",
+          "empowered image"
+        ]
+      },
+      "what_helps": {
+        "upright": "Helping resources include self-awareness and trusted allies who reveal other perspectives.",
+        "reversed": "Sudden clarity and support from those who have journeyed a similar path aid your progress.",
+        "keywords": [
+          "self-awareness",
+          "trusted allies",
+          "sudden clarity",
+          "fellow support"
+        ]
+      },
+      "guidance": {
+        "upright": "Universal guidance beckons you to strip away illusions. Truth will set you free.",
+        "reversed": "Divine insight illuminates hidden paths; trust in clarity’s force brings liberating insight.",
+        "keywords": [
+          "strip illusions",
+          "reveal truth",
+          "hidden paths",
+          "divine insight"
+        ]
+      },
+      "best_course": {
+        "upright": "The optimal path involves bravery in facing fears and understanding the power of choice.",
+        "reversed": "Move forward by embracing changes with the insight that every ending unfolds new beginnings.",
+        "keywords": [
+          "face fears",
+          "choice power",
+          "embrace change",
+          "unfold beginnings"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for freedom clashes with fear of inadequacy and consequence of liberation.",
+        "reversed": "Hope for sustainable liberty battles with fear of returning to past restrictions.",
+        "keywords": [
+          "freedom hope",
+          "fear of inadequacy",
+          "sustainable liberty",
+          "past restriction"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope for clarity and the ability to move forward unencumbered by doubt or fear.",
+        "reversed": "Hope rests in securing newfound freedom and continuing evolution towards truth.",
+        "keywords": [
+          "clarity hope",
+          "unencumbered path",
+          "secure freedom",
+          "evolution towards truth"
+        ]
+      },
+      "fears": {
+        "upright": "Fear involves remaining blind to opportunities, trapped by perceptions of inadequacy.",
+        "reversed": "Fear might arise from uncertainty in maintaining freedom without falling back into old patterns.",
+        "keywords": [
+          "remaining blind",
+          "inadequacy perception",
+          "uncertainty fear",
+          "old pattern fear"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously, there is a pervasive belief that you're powerless to change your story.",
+        "reversed": "Undercurrents of your subconscious align with the unfolding of new potential and release.",
+        "keywords": [
+          "powerlessness belief",
+          "story change",
+          "unfolding potential",
+          "release alignment"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously grappling with doubts and a desire for clarity amidst perceived confinement.",
+        "reversed": "Awareness of budding liberation from restraints ignites a journey towards empowerment.",
+        "keywords": [
+          "grappling doubts",
+          "desire for clarity",
+          "budding liberation",
+          "journey empowerment"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, you might feel caged in anxiety with a longing for spiritual rescue.",
+        "reversed": "You feel invigorated by glimpses of light and moments of courage overcoming fear.",
+        "keywords": [
+          "caged anxiety",
+          "spiritual longing",
+          "invigorated glimpse",
+          "courage moments"
+        ]
+      },
+      "heart": {
+        "upright": "The heart yearns for freedom and understanding, despite feeling bound by invisible chains.",
+        "reversed": "Within your heart lies a newly kindled spark of liberation and strength, ready to grow.",
+        "keywords": [
+          "yearning freedom",
+          "invisible chains",
+          "liberation spark",
+          "strength growth"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally trapped in cycles of over-analysis, stuck in a web of doubt and limitations.",
+        "reversed": "The mind is awakening, breaking free from its own constructs, seeing truth unfold.",
+        "keywords": [
+          "mental trap",
+          "over-analysis",
+          "awakening mind",
+          "truth unfold"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Conditions appear limiting, but truth reveals that barriers are largely self-imposed.",
+        "reversed": "External influences support liberation, urging inner transformation and clarity's embrace.",
+        "keywords": [
+          "limiting conditions",
+          "self-imposed barrier",
+          "supportive influences",
+          "clarity embrace"
+        ]
+      },
+      "others": {
+        "upright": "Others may resonate with your restrictive energies, perceiving your trapped state.",
+        "reversed": "People around you are beginning to see your potential, encouraging your liberation journey.",
+        "keywords": [
+          "resonating restrictions",
+          "perceived trap",
+          "potential encouragement",
+          "liberation journey"
+        ]
+      },
+      "environment": {
+        "upright": "Your surroundings currently mirror your internal state of confusion and constraint.",
+        "reversed": "Environmental shifts are fostering an atmosphere of clarity and newfound freedom.",
+        "keywords": [
+          "confused surroundings",
+          "internal mirror",
+          "environmental shift",
+          "clarity atmosphere"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others may view you as restrained and unable to make definitive moves or decisions.",
+        "reversed": "Observers notice your growth, seeing potential transformation as an inspiring story.",
+        "keywords": [
+          "restrained view",
+          "indecisive image",
+          "growth notice",
+          "inspiring transformation"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Hidden forces may perpetuate limitations, feeding off your doubts to obscure potential.",
+        "reversed": "Beneath the surface lie currents of powerful growth eager to guide you to liberation.",
+        "keywords": [
+          "limitation forces",
+          "doubt feeds",
+          "growth currents",
+          "liberation guide"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Emerging understanding that a mental shift can lead to profound liberation and growth.",
+        "reversed": "Full emergence from limitation, embracing a journey finally aligned with true desires.",
+        "keywords": [
+          "understanding emergence",
+          "mental shift",
+          "profound growth",
+          "desire alignment"
+        ]
+      },
+      "final_outcome": {
+        "upright": "A future where clarity allows you to escape past limitations and embrace authentic choices.",
+        "reversed": "Final realization of enduring freedom marks the beginning of a consciously created life.",
+        "keywords": [
+          "clarity future",
+          "escape limitations",
+          "enduring freedom",
+          "conscious life"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Potential outcome involves coming to grips with limitations and creating necessary changes.",
+        "reversed": "Likely result is a period of joy and liberation, resulting in meaningful transformation.",
+        "keywords": [
+          "grip limitations",
+          "necessary change",
+          "joy period",
+          "meaningful transformation"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case involves learning to see clearly, dissolving illusions with insight.",
+        "reversed": "Insightful breakthroughs guide you to live a luminal life, transformed by new realities.",
+        "keywords": [
+          "learning clarity",
+          "illusion dissolve",
+          "insight breakthrough",
+          "luminal transformation"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves remaining stuck in mental patterns, missing paths to freedom.",
+        "reversed": "Risk of clinging to familiar chains, even when the door to freedom stands wide open.",
+        "keywords": [
+          "stuck patterns",
+          "freedom miss",
+          "familiar chains",
+          "open door"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship involves feeling trapped by limiting thoughts, fear of speaking truth, or mental restriction. The dynamic may include self-imposed limitations, victim mentality, or the belief that change is impossible.",
+        "reversed": "The mental restrictions are being removed or self-imposed limitations are being recognized. Freedom of thought may be returning or the victim mentality might be transforming into empowerment.",
+        "keywords": [
+          "restriction",
+          "limitation",
+          "trapped thinking",
+          "victimhood"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Feeling restricted in relationships by doubts or past wounds. Time to see beyond illusions.",
+      "reversed": "Liberation from old fears allows new affection to grow and thrive authentically.",
+      "keywords": [
+        "restricted love",
+        "past wounds",
+        "relationship doubts",
+        "authentic affection"
+      ]
+    },
+    "career": {
+      "upright": "Currently feeling trapped in a job or situation, unable to see opportunities for change.",
+      "reversed": "New career paths and professional freedom are unfolding as clarity dispels confusion.",
+      "keywords": [
+        "career trap",
+        "opportunity blindness",
+        "professional freedom",
+        "clarity unfolding"
+      ]
+    },
+    "spiritual": {
+      "upright": "Spiritual quest blocked by self-imposed dogmas and restraints. Seek deeper truth.",
+      "reversed": "Spiritual insights lift veils, guiding you to liberation and transcendence.",
+      "keywords": [
+        "spiritual block",
+        "self-imposed dogmas",
+        "insight lift",
+        "transcendent journey"
+      ]
+    },
+    "financial": {
+      "upright": "Viewing finances through a lens of lack and constraint; potential for abundance remains unseen.",
+      "reversed": "Financial growth and stability become possible when fear-based thinking is replaced.",
+      "keywords": [
+        "financial constraint",
+        "abundance blindness",
+        "growth potential",
+        "stability path"
+      ]
+    },
+    "health": {
+      "upright": "Sense of limited physical or emotional health possibly created by anxiety and fear.",
+      "reversed": "Positive changes bring health improvement as new habits replace old anxieties.",
+      "keywords": [
+        "limited health",
+        "anxiety influence",
+        "positive change",
+        "habit renewal"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "gemini",
+    "hebrew_letter": "chet",
+    "numerology": 8,
+    "planet": "jupiter",
+    "season": "winter",
+    "time_of_day": "dusk",
+    "colors": [
+      "gray",
+      "silver",
+      "light blue"
+    ],
+    "crystals": [
+      "sodalite",
+      "smoky quartz",
+      "fluorite"
+    ],
+    "herbs": [
+      "lavender",
+      "sage",
+      "mallow"
+    ]
+  },
+  "symbols": {
+    "blindfold": "the refusal or inability to see the truth beyond fears",
+    "swords": "mental constructs, barriers, and challenges that entrap the mind",
+    "bindings": "self-imposed limitations and restrictions",
+    "water in the background": "emotional depth hidden behind intellectual isolation"
+  },
+  "affirmations": [
+    "I am free to make choices that reflect my true self",
+    "I release fears that bind me and embrace courageous clarity",
+    "I see beyond illusions and trust in my inner wisdom",
+    "I am the creator of my own mental liberation"
+  ],
+  "journaling_prompts": [
+    "Where in my life do I feel trapped, and how can I change this?",
+    "What fears are holding me back from seeing my true potential?",
+    "How can I release self-imposed limitations today?",
+    "What will freedom feel like for me, and how can I embody it?"
+  ],
+  "meditation_focus": "Visualizing the release of mental bindings, allowing clarity and truth to illuminate your path.",
+  "_metadata": {
+    "generated_at": "2025-08-13T18:26:49.865116",
+    "card_info": {
+      "name": "Eight of Swords",
+      "number": 8,
+      "suit": "swords"
+    },
+    "filename": "s08.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_hanged_man": {
+        "interpretation": "Deepens the theme of suspension and a need to shift perspective for liberation.",
+        "keywords": [
+          "deepens",
+          "theme",
+          "suspension",
+          "need"
+        ]
+      },
+      "nine_of_swords": {
+        "interpretation": "Heightens anxiety, emphasizing the mental struggle that must be overcome.",
+        "keywords": [
+          "heightens",
+          "anxiety",
+          "emphasizing",
+          "mental"
+        ]
+      },
+      "the_tower": {
+        "interpretation": "Explodes illusions, demanding a reconstruction of beliefs to find true freedom.",
+        "keywords": [
+          "explodes",
+          "illusions",
+          "demanding",
+          "reconstruction"
+        ]
+      }
+    },
+    "challenges": {
+      "the_chariot": {
+        "interpretation": "Confrontation between self-imposed limitations and the drive to move forward with determination.",
+        "keywords": [
+          "confrontation",
+          "self",
+          "imposed",
+          "limitations"
+        ]
+      },
+      "strength": {
+        "interpretation": "Tests resilience and inner strength, challenging the power of self-restraint.",
+        "keywords": [
+          "tests",
+          "resilience",
+          "inner",
+          "strength"
+        ]
+      },
+      "ace_of_wands": {
+        "interpretation": "Initiative may be stalled by self-doubt; creativity needs liberation.",
+        "keywords": [
+          "initiative",
+          "stalled",
+          "self",
+          "doubt"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_moon": {
+        "interpretation": "Illusions surrounding a situation become clearer, inviting truth to guide the way.",
+        "keywords": [
+          "illusions",
+          "surrounding",
+          "situation",
+          "become"
+        ]
+      },
+      "the_devil": {
+        "interpretation": "Examines bonds and attachments that prevent personal freedom and growth.",
+        "keywords": [
+          "examines",
+          "bonds",
+          "attachments",
+          "prevent"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Focus needed to discern viable paths from mere fantasies, escaping delusion.",
+        "keywords": [
+          "focus",
+          "needed",
+          "discern",
+          "viable"
+        ]
+      }
+    },
+    "similar_energy": {
+      "nine_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_devil": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_empress": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "six_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "eight_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

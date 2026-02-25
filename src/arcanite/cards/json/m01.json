@@ -1,0 +1,729 @@
+{
+  "card_id": "the_magician",
+  "card_name": "The Magician",
+  "card_number": 1,
+  "suit": "major_arcana",
+  "archetype": "the_manifestor",
+  "core_meanings": {
+    "upright": {
+      "essence": "The power of transformation, where potential becomes reality. Mastery of self and skill to harness universal energies for creation.",
+      "keywords": [
+        "manifestation",
+        "skill",
+        "potential",
+        "action",
+        "willpower",
+        "resourcefulness",
+        "inspiration",
+        "alchemy"
+      ],
+      "psychological": "Represents the conscious mind's ability to focus, organize, and direct energy towards a desired outcome. The bridge between thought and action.",
+      "spiritual": "The integration of spirit and matter, symbolizing the divine within taking material form through intentional creation.",
+      "practical": "Time to act with confidence, utilize your skills, and bring ideas into tangible form. Focus intentions and resources wisely.",
+      "shadow": "Manipulation of reality, using will for ego-driven desires or personal gain without integrity. Potential for deception."
+    },
+    "reversed": {
+      "essence": "Blocked creativity, resource mismanagement, or scattered focus. A need to reconnect with true purpose and intention.",
+      "keywords": [
+        "blockages",
+        "misalignment",
+        "manipulation",
+        "unrealized potential",
+        "insecurity",
+        "illusions",
+        "trickery"
+      ],
+      "psychological": "Confusion or lack of clarity in vision leads to ineffective action or misuse of talents. Disconnect from authentic desires.",
+      "spiritual": "Detachment from spiritual purpose, or using spirituality for personal validation or superficial ends. A need for inner alignment.",
+      "practical": "Refocus your efforts and clarify goals. Beware of illusions or half-truths that may mislead. Authenticity is needed.",
+      "shadow": "Cunning, deceit, or manipulation. Unethical usage of skills for misleading others or self-serving objectives."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "A past moment of inspired action and skillful execution has significantly shaped your current path.",
+        "reversed": "Missed opportunities or illusions from the past may still influence present challenges. A lesson in discernment.",
+        "keywords": [
+          "past inspiration",
+          "skillful execution",
+          "missed chances",
+          "illusion"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, a foundational mastery was developed, allowing you to turn potential into reality steadily.",
+        "reversed": "Ancient patterns of deception or self-doubt were established, affecting your ability to manifest currently.",
+        "keywords": [
+          "foundational mastery",
+          "early potential",
+          "old deceit",
+          "ancient self-doubt"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently, actions driven by clear intent have propelled you forward, maximizing your strengths.",
+        "reversed": "Recent indecision or confusion about direction has impacted your progress. A realignment is needed.",
+        "keywords": [
+          "recent success",
+          "clear intent",
+          "indecision",
+          "realignment"
+        ]
+      },
+      "present": {
+        "upright": "Now is the moment to harness your skills and align your will with your goals. Action will lead to manifestation.",
+        "reversed": "Scattered focus or misused talents are impeding progress. It's crucial to regain clarity and purpose.",
+        "keywords": [
+          "current potential",
+          "aligned action",
+          "focus needed",
+          "purpose clarity"
+        ]
+      },
+      "present_situation": {
+        "upright": "The core experience revolves around creative empowerment and the ability to transform visions into reality.",
+        "reversed": "At the core, there's a struggle with letting go of illusions or dispelling confusion. Clarity is paramount.",
+        "keywords": [
+          "creative empowerment",
+          "transformation",
+          "confusion",
+          "illusion"
+        ]
+      },
+      "future": {
+        "upright": "A future where your desires and will join, leading to tangible success and new possibilities arising from your potential.",
+        "reversed": "Future challenges may include manipulation or difficulty bringing ideas to fruition due to misaligned energies.",
+        "keywords": [
+          "future manifestation",
+          "potential realized",
+          "manipulation",
+          "alignment needed"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon, an opportunity to use your skills wisely will present itself. Acting decisively will lead to success.",
+        "reversed": "In the near future, watch for misleading opportunities that do not align with your true path.",
+        "keywords": [
+          "imminent opportunity",
+          "wise action",
+          "misleading chances",
+          "alignment"
+        ]
+      },
+      "distant_future": {
+        "upright": "In the long-term, self-mastery and intentional living will lead to continuous creation and fulfillment.",
+        "reversed": "Persisting difficulties in harnessing true potential will limit future growth if not addressed.",
+        "keywords": [
+          "self-mastery",
+          "intentional living",
+          "potential blockage",
+          "fulfillment"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge lies in maintaining focus and channeling energies towards authentic goals without distraction.",
+        "reversed": "Challenge involves overcoming self-doubt or illusions that prevent you from realizing your true potential.",
+        "keywords": [
+          "maintaining focus",
+          "channeling energies",
+          "overcoming illusions",
+          "self-doubt"
+        ]
+      },
+      "cross": {
+        "upright": "External expectations or distractions may cross your path, challenging your ability to manifest effectively.",
+        "reversed": "Internal fears or insecurities are crossing your efforts to use your full capabilities and skills.",
+        "keywords": [
+          "external pressures",
+          "distractions",
+          "internal fears",
+          "capabilities challenged"
+        ]
+      },
+      "obstacle": {
+        "upright": "Misperceptions or scattered focus are obstacles that must be cleared to tap into your full potential.",
+        "reversed": "Obstacles involve deceptive influences or internal misalignment clouding clear insight and action.",
+        "keywords": [
+          "misperceptions",
+          "scattered focus",
+          "deceptive influences",
+          "clarity needed"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson is to learn how to integrate skills with purpose, transforming inspiration into concrete results.",
+        "reversed": "Your lesson involves recognizing when you're being led by illusions rather than authentic desires.",
+        "keywords": [
+          "skill integration",
+          "purpose-driven action",
+          "recognizing illusions",
+          "authenticity"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow may harbor the fear of misusing power or talents, preventing full manifestation of potential.",
+        "reversed": "The shadow involves deception, either towards self or others, stunting real growth and progress.",
+        "keywords": [
+          "fear of power",
+          "talent misuse",
+          "deception",
+          "authentic growth"
+        ]
+      },
+      "what_hinders": {
+        "upright": "What hinders is doubt, either from self or others, inhibiting your ability to act with full confidence.",
+        "reversed": "Hindrances include being led by false hopes or relying on manipulative tactics that lack integrity.",
+        "keywords": [
+          "self-doubt",
+          "external doubt",
+          "false hopes",
+          "manipulative tactics"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Act with conscious intention. Align your thoughts, words, and deeds with your highest vision.",
+        "reversed": "Re-evaluate your motivations and ensure integrity in your actions. Seek true alignment with your goals.",
+        "keywords": [
+          "conscious intention",
+          "align actions",
+          "re-evaluation",
+          "integrity"
+        ]
+      },
+      "action": {
+        "upright": "Take decisive action with confidence. Utilize your talents fully to bring dreams into reality.",
+        "reversed": "Pause to reflect on inconsistencies and focus energies appropriately. Ensure your actions are grounded.",
+        "keywords": [
+          "decisive action",
+          "talents utilized",
+          "reflection needed",
+          "grounded action"
+        ]
+      },
+      "your_approach": {
+        "upright": "Approach life as a conscious creator, believing in your ability to manifest through skillful means.",
+        "reversed": "Approach may be either overly controlling or disconnected from true intentions. Seek balance in your actions.",
+        "keywords": [
+          "conscious creator",
+          "belief in skills",
+          "control issues",
+          "balanced approach"
+        ]
+      },
+      "what_helps": {
+        "upright": "Using your creativity and resourcefulness helps bring your goals from conception to reality efficiently.",
+        "reversed": "Seeking clarity and realigning intentions are valuable resources for cutting through confusion.",
+        "keywords": [
+          "creativity",
+          "resourcefulness",
+          "clarity",
+          "realignment"
+        ]
+      },
+      "guidance": {
+        "upright": "Universal guidance encourages blending intuition with action. Listen to inner wisdom and act accordingly.",
+        "reversed": "Guidance suggests breaking free from illusions and aligning actions with deeper truths.",
+        "keywords": [
+          "intuition and action",
+          "inner wisdom",
+          "break illusions",
+          "deeper truths"
+        ]
+      },
+      "best_course": {
+        "upright": "The optimal path involves decisive yet intuitive action that adapts to challenges with skillful ease.",
+        "reversed": "To find the best course, disentangle from deceit or misdirection, returning to authenticity.",
+        "keywords": [
+          "intuitive action",
+          "adaptability",
+          "disentangle deceit",
+          "authenticity"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Hope for mastery, self-discovery, and transforming dreams into reality. Fear of missed opportunities or misused power.",
+        "reversed": "Fear of failure or being misguided blinds hopes for success and authentic manifestation.",
+        "keywords": [
+          "mastery hope",
+          "dream transformation",
+          "missed chances",
+          "failure fear"
+        ]
+      },
+      "hopes": {
+        "upright": "Hope resides in using potential to achieve significant goals and create a meaningful impact.",
+        "reversed": "Hope revolves around proving your worth or overcoming insecurities that block true expression.",
+        "keywords": [
+          "achieving goals",
+          "impact creation",
+          "proving worth",
+          "overcoming insecurities"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of failing to manifest desires or losing focus on what truly matters amidst distractions.",
+        "reversed": "Fear of deception, both self-imposed and from others, leading to missteps or lost potential.",
+        "keywords": [
+          "manifestation failure",
+          "loss of focus",
+          "deception fear",
+          "missteps"
+        ]
+      },
+      "subconscious": {
+        "upright": "Subconsciously driven by a desire to align with universal forces, creating through mastery and skill.",
+        "reversed": "Subconscious patterns involve illusions or the inability to harness underlying potential effectively.",
+        "keywords": [
+          "universal alignment",
+          "skillful creation",
+          "illusions",
+          "harnessing potential"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you align your actions with your intentions, aware of your ability to influence outcomes.",
+        "reversed": "Conscious mind struggles with clarity, either overestimating abilities or doubting capabilities.",
+        "keywords": [
+          "aligned actions",
+          "influence awareness",
+          "clarity struggles",
+          "capability doubt"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally charged with confidence and a readiness to create and innovate with passion.",
+        "reversed": "Emotionally, there may be insecurity or confusion, leading to scattered energy and lack of focus.",
+        "keywords": [
+          "confident",
+          "innovative passion",
+          "insecurity",
+          "confusion"
+        ]
+      },
+      "heart": {
+        "upright": "The heart desires to express creativity and transform intentions into beautiful, fulfilling realities.",
+        "reversed": "Heart's wisdom is overshadowed by doubts or fears that inhibit true expression and creativity.",
+        "keywords": [
+          "creative expression",
+          "transformation",
+          "doubts",
+          "inhibiting fears"
+        ]
+      },
+      "mind": {
+        "upright": "The mind is sharp, clear, and focused on maximizing potential through strategic thinking.",
+        "reversed": "A scattered or unclear mindset clouds judgment, preventing effective action and manifesting.",
+        "keywords": [
+          "sharp mind",
+          "focused strategy",
+          "scattered mindset",
+          "clouded judgment"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Your natural charisma and ability to manifest inspire those around you, attracting supportive influences.",
+        "reversed": "External factors may include deceptive appearances or unreliable sources, requiring discernment.",
+        "keywords": [
+          "charisma",
+          "supportive influences",
+          "deceptive appearances",
+          "discernment"
+        ]
+      },
+      "others": {
+        "upright": "Others observe and admire your skillful alchemy and innovative approach to life's challenges.",
+        "reversed": "Others might view you as manipulative or untrustworthy if not aligning with integrity.",
+        "keywords": [
+          "admiration",
+          "innovative approach",
+          "manipulative perceptions",
+          "trustworthiness"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment is conducive to creation and supports your goals, nourishing your potential.",
+        "reversed": "Environmental factors may mislead or distract, requiring caution and true alignment with your path.",
+        "keywords": [
+          "supportive environment",
+          "goal nourishment",
+          "misleading factors",
+          "alignment needed"
+        ]
+      },
+      "others_see_you": {
+        "upright": "You're seen as a resourceful creator, masterfully navigating and transforming situations to align with your vision.",
+        "reversed": "Some may perceive you as either overconfident or lacking authenticity in your endeavors.",
+        "keywords": [
+          "resourceful creator",
+          "masterful navigator",
+          "overconfidence",
+          "authenticity questioned"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces are aligning to provide opportunities for manifestation and growth that you may not yet perceive.",
+        "reversed": "Hidden challenges include deceptions or misunderstandings that could veer you off your true course.",
+        "keywords": [
+          "unseen alignment",
+          "opportunities",
+          "hidden challenges",
+          "misunderstandings"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Success through focused intent and mastery. A reality aligned with your visions and creative genius.",
+        "reversed": "Potential outcomes include confusion and dissatisfaction due to misalignment with true purpose.",
+        "keywords": [
+          "focused success",
+          "aligned reality",
+          "confusion",
+          "purpose misalignment"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Your path ultimately leads to becoming a conduit for transformation, creatively realizing desires.",
+        "reversed": "The final outcome risks unfulfilled desires and misdirected efforts without clarity and authenticity.",
+        "keywords": [
+          "transformation",
+          "creative realization",
+          "unfulfilled desires",
+          "misdirection"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possibilities open through inspired action and harmonious alignment with your goals.",
+        "reversed": "A possible result is stagnation due to unrecognized illusions or missing the mark despite efforts.",
+        "keywords": [
+          "inspired action",
+          "goal harmony",
+          "stagnation",
+          "missed marks"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case scenario involves flawless execution and surprise success that exceeds expectations.",
+        "reversed": "What seems ideal may mask hidden costs if clarity and integrity are not maintained.",
+        "keywords": [
+          "flawless execution",
+          "success",
+          "hidden costs",
+          "clarity needed"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves overextending or burnout due to excessive ambition without proper balance.",
+        "reversed": "The worst outcome could be manifesting calamity from self-deception or intentional falsehoods.",
+        "keywords": [
+          "overextension",
+          "burnout",
+          "calamity",
+          "self-deception"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "Between you exists a powerful creative and manifestation energy. You have the tools and skills to build something meaningful together. This is a dynamic where both parties can make their shared visions reality through focused intention and skillful action.",
+        "reversed": "There's untapped potential or misused talents in this connection. Skills and resources may be scattered or used for manipulation. The relationship may involve deception or one party using their abilities to control rather than create together.",
+        "keywords": [
+          "manifestation",
+          "skill",
+          "creation",
+          "potential"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A relationship where both partners bring strengths to transform and enhance their bond. Manifestation of a desired romantic connection.",
+      "reversed": "Manipulation or miscommunications could harm the relationship. Clarity and honesty are required.",
+      "keywords": [
+        "mutual enhancement",
+        "romantic connection",
+        "manipulation",
+        "honesty"
+      ]
+    },
+    "career": {
+      "upright": "Perfect time to leverage skills for career advancement or to begin a new venture. Transformation and growth are highly favored.",
+      "reversed": "Lack of clarity in career goals or identity could hinder progress. Reassess ambitions and alignment.",
+      "keywords": [
+        "career advancement",
+        "new venture",
+        "lack of clarity",
+        "reassessment"
+      ]
+    },
+    "spiritual": {
+      "upright": "Awakening to your capacity to blend spiritual insights with practical application. Align with higher purpose.",
+      "reversed": "Misguided or superficial connections may distract from true spiritual growth. Seek deeper alignment.",
+      "keywords": [
+        "spiritual insights",
+        "practical application",
+        "superficial distractions",
+        "deeper alignment"
+      ]
+    },
+    "financial": {
+      "upright": "Financial opportunities abound through creativity and resourcefulness. Intelligent management leads to prosperity.",
+      "reversed": "Potential financial mismanagement or reliance on risky ventures. Realign with sustainable goals.",
+      "keywords": [
+        "financial opportunities",
+        "resourcefulness",
+        "mismanagement",
+        "sustainability"
+      ]
+    },
+    "health": {
+      "upright": "Harnessing personal power to improve health. Transformative lifestyle changes lead to vitality.",
+      "reversed": "Misguided health choices or lack of consistency may impair well-being. Focus on authentic health practices.",
+      "keywords": [
+        "health transformation",
+        "vitality",
+        "misguided choices",
+        "authenticity"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "air",
+    "zodiac": "mercury",
+    "hebrew_letter": "beth",
+    "numerology": 1,
+    "planet": "mercury",
+    "season": "spring",
+    "time_of_day": "morning",
+    "colors": [
+      "yellow",
+      "white",
+      "indigo"
+    ],
+    "crystals": [
+      "citrine",
+      "clear quartz",
+      "tiger's eye"
+    ],
+    "herbs": [
+      "mint",
+      "sage",
+      "rosemary"
+    ]
+  },
+  "symbols": {
+    "infinity_symbol": "limitless potential and eternal cycles",
+    "wand": "energy and focus",
+    "table": "manifested reality and grounded action",
+    "white lilies": "purity and truth",
+    "red roses": "desire and manifestation"
+  },
+  "affirmations": [
+    "I am a master manifestor, skillfully transforming ideas into reality.",
+    "I align my will and actions with my highest purpose.",
+    "Clarity and integrity guide my thoughts and deeds.",
+    "My potential is limitless, and I utilize it wisely."
+  ],
+  "journaling_prompts": [
+    "What do I wish to manifest, and how can I align my actions with this desire?",
+    "How can I use my skills to create positive change?",
+    "Where might my intentions be misaligned with my actions?",
+    "What illusions do I need to dispel to connect with my true potential?"
+  ],
+  "meditation_focus": "Visualize the seamless flow of energy from thought to form, connecting intention with manifestation and aligning actions with higher purpose.",
+  "_metadata": {
+    "generated_at": "2025-08-13T16:40:53.540757",
+    "card_info": {
+      "name": "The Magician",
+      "number": 1,
+      "suit": "major_arcana"
+    },
+    "filename": "m01.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_hermit": {
+        "interpretation": "Integration of inner wisdom with outer action, leading to profound achievements and deeper understanding.",
+        "keywords": [
+          "integration",
+          "inner",
+          "wisdom",
+          "outer"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "Bringing clarity and joy, a burst of creativity and successful endeavors in alignment with true self.",
+        "keywords": [
+          "bringing",
+          "clarity",
+          "burst",
+          "creativity"
+        ]
+      },
+      "ace_of_swords": {
+        "interpretation": "Focus and mental clarity enhance the ability to achieve success and cut through confusion.",
+        "keywords": [
+          "focus",
+          "mental",
+          "clarity",
+          "enhance"
+        ]
+      }
+    },
+    "challenges": {
+      "the_moon": {
+        "interpretation": "Balancing mystery and intuition with rationality. Avoid deception and seek clear insights.",
+        "keywords": [
+          "balancing",
+          "mystery",
+          "intuition",
+          "rationality"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Decision-making paralysis. Fear or indecision may challenge the ability to act effectively.",
+        "keywords": [
+          "decision",
+          "making",
+          "paralysis",
+          "fear"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Beware of illusions or fantasies distracting from purposeful action and true goals.",
+        "keywords": [
+          "beware",
+          "illusions",
+          "fantasies",
+          "distracting"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_fool": {
+        "interpretation": "Provides direction to spontaneous potential, allowing bold steps with purpose and result.",
+        "keywords": [
+          "provides",
+          "direction",
+          "spontaneous",
+          "potential"
+        ]
+      },
+      "two_of_pentacles": {
+        "interpretation": "Refines ability to balance multiple tasks or challenges, finding clarity in chaos.",
+        "keywords": [
+          "refines",
+          "ability",
+          "balance",
+          "multiple"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Inspires decisive action informed by inner calling and aligned with higher purpose.",
+        "keywords": [
+          "inspires",
+          "decisive",
+          "action",
+          "informed"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_empress": {
+        "interpretation": "Fertile creativity flows when The Magician's focused will meets The Empress's abundant nurturing energy. Ideas become living manifestations through gentle persistence.",
+        "keywords": [
+          "creative manifestation",
+          "fertile ideas",
+          "gentle persistence",
+          "nurturing focus"
+        ]
+      },
+      "the_ace_of_wands": {
+        "interpretation": "Pure creative fire meets skilled direction. The Magician's mastery channels Ace of Wands' raw inspiration into powerful, purposeful action.",
+        "keywords": [
+          "directed creativity",
+          "channeled fire",
+          "purposeful inspiration",
+          "skilled manifestation"
+        ]
+      },
+      "temperance": {
+        "interpretation": "Both cards master the art of blending opposing forces. The Magician's willful creation harmonizes beautifully with Temperance's patient alchemy.",
+        "keywords": [
+          "balanced creation",
+          "patient mastery",
+          "harmonious alchemy",
+          "skillful blending"
+        ]
+      }
+    },
+    "opposite_energy": {
+      "the_hanged_man": {
+        "interpretation": "The Magician's active willpower contrasts with The Hanged Man's passive surrender. This tension teaches the value of knowing when to act and when to wait.",
+        "keywords": [
+          "action vs surrender",
+          "will vs patience",
+          "timing wisdom",
+          "active vs passive"
+        ]
+      },
+      "four_of_cups": {
+        "interpretation": "The Magician's dynamic energy clashes with Four of Cups' emotional withdrawal and apathy. This highlights the need to reignite passion and motivation.",
+        "keywords": [
+          "energy vs apathy",
+          "motivation vs withdrawal",
+          "passion vs stagnation",
+          "action vs inaction"
+        ]
+      },
+      "five_of_pentacles": {
+        "interpretation": "The Magician's abundant potential stands in stark contrast to Five of Pentacles' scarcity mindset. This pairing calls for using skills to transform lack into abundance.",
+        "keywords": [
+          "abundance vs scarcity",
+          "potential vs lack",
+          "transformation skills",
+          "resourcefulness"
+        ]
+      }
+    },
+    "learning_sequence": {
+      "the_magician": {
+        "interpretation": "Multiple Magicians amplify the themes of manifestation and willpower. This emphasizes mastery through practice and the importance of ethical use of personal power.",
+        "keywords": [
+          "amplified manifestation",
+          "mastery practice",
+          "ethical power",
+          "willpower focus"
+        ]
+      },
+      "the_high_priestess": {
+        "interpretation": "Following The Magician, The High Priestess teaches the importance of balancing external action with inner wisdom and intuitive knowing.",
+        "keywords": [
+          "action to reflection",
+          "outer to inner",
+          "wisdom development",
+          "intuitive balance"
+        ]
+      },
+      "the_empress": {
+        "interpretation": "From The Magician's focused will to The Empress's natural abundance - learning to manifest through flow and receptivity rather than force alone.",
+        "keywords": [
+          "will to flow",
+          "force to receptivity",
+          "natural abundance",
+          "gentle manifestation"
+        ]
+      }
+    }
+  }
+}

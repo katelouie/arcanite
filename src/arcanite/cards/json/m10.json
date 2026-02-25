@@ -1,0 +1,681 @@
+{
+  "card_id": "wheel_of_fortune",
+  "card_name": "Wheel of Fortune",
+  "card_number": 10,
+  "suit": "major_arcana",
+  "archetype": "the_cycle",
+  "core_meanings": {
+    "upright": {
+      "essence": "The dance of destiny and cycles, embracing inevitable change, and the mysterious flow of life’s fortune.",
+      "keywords": [
+        "destiny",
+        "cycle of life",
+        "change",
+        "luck",
+        "fortune",
+        "karmic patterns",
+        "timing",
+        "inevitability"
+      ],
+      "psychological": "An invitation to embrace the spontaneity of life's ups and downs with grace, recognizing the influence of both external events and internal responses.",
+      "spiritual": "Alignment with the universe's cycles, understanding the interconnectedness of all things, revealing the spiritual lesson of adaptability.",
+      "practical": "A turn in circumstances can alter the path. Be ready to seize opportunities as they arise while accepting what cannot be changed.",
+      "shadow": "Resistance to change, feeling like a victim of fate, or being caught in repetitive cycles without progress or insight."
+    },
+    "reversed": {
+      "essence": "Being in a rut, feeling stuck, or unlucky. A disruption of the natural flow, creating stagnation or chaos.",
+      "keywords": [
+        "stagnation",
+        "bad luck",
+        "resistance",
+        "setbacks",
+        "interruption",
+        "unforeseen events",
+        "disruption"
+      ],
+      "psychological": "Experiencing frustration and helplessness due to perceived external limitations, struggling to find balance amid challenges.",
+      "spiritual": "A reminder to look at obstacles as lessons, prompting an inward search for meaning beyond current circumstances.",
+      "practical": "Unplanned disruptions and delays require flexibility. Evaluate past decisions for recurring patterns impacting current situation.",
+      "shadow": "Blaming others or circumstances for misfortunes, neglecting personal responsibility, and an inability to adapt."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "There was a moment when fate took a decisive turn, setting you onto a new path that influences the now.",
+        "reversed": "A past cycle of misfortune or complacency continues to echo in your present, affecting momentum and progress.",
+        "keywords": [
+          "fateful turn",
+          "past opportunity",
+          "cycle repeat",
+          "continuing echo"
+        ]
+      },
+      "distant_past": {
+        "upright": "Long ago, an influential chapter shifted the trajectory of your journey, establishing foundational patterns.",
+        "reversed": "Old cycles of stagnation or resistance have their roots in the distant past, now seeking resolution.",
+        "keywords": [
+          "foundational shift",
+          "long-standing cycle",
+          "ancient patterns",
+          "roots of resistance"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recently, a chance event created momentum, lending fresh energy to your life’s narrative.",
+        "reversed": "A recent setback or unforeseen event disrupted your flow, potentially stalling progress temporarily.",
+        "keywords": [
+          "recent event",
+          "momentum gain",
+          "unexpected setback",
+          "stalled flow"
+        ]
+      },
+      "present": {
+        "upright": "You are in the midst of a transformative cycle. Fate is at play, offering opportunities disguised in life’s twists.",
+        "reversed": "Currently facing unexpected delays or setbacks that challenge your patience and flexibility in navigating life.",
+        "keywords": [
+          "transformative cycle",
+          "opportunity",
+          "unexpected delay",
+          "life's twists"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, life’s rhythm demands letting go of control and surrendering to the ebb and flow of cycles.",
+        "reversed": "Struggling against life’s current rhythm results in feelings of being out of sync and disconnected.",
+        "keywords": [
+          "life's rhythm",
+          "surrender",
+          "out of sync",
+          "disconnection"
+        ]
+      },
+      "future": {
+        "upright": "Ahead, fortune promises new horizons and unexpected leaps of progress, reminding you to stay adaptable.",
+        "reversed": "Future complications may arise from resistance to necessary changes, potentially prolonging difficulties.",
+        "keywords": [
+          "new horizons",
+          "future promise",
+          "resistance",
+          "complications"
+        ]
+      },
+      "near_future": {
+        "upright": "Very soon, a pivotal shift will invite you to embrace change with courage and foresight.",
+        "reversed": "Upcoming challenges require you to rethink strategy and adaptability, testing your resilience.",
+        "keywords": [
+          "pivotal shift",
+          "embrace change",
+          "strategy rethink",
+          "upcoming challenge"
+        ]
+      },
+      "distant_future": {
+        "upright": "Ultimately, life’s cycles will lead to profound wisdom, embracing the full spectrum of human experience.",
+        "reversed": "Long-term stagnation may persist if patterns are left unexamined and unaddressed.",
+        "keywords": [
+          "profound wisdom",
+          "human experience",
+          "long-term stagnation",
+          "unexamined patterns"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "The challenge is to adapt fluidly to life's changes, recognizing the impermanence of current conditions.",
+        "reversed": "Challenge lies in overcoming resistance and accepting unpredictable changes as part of the journey.",
+        "keywords": [
+          "fluid adaptation",
+          "impermanence",
+          "overcoming resistance",
+          "acceptance"
+        ]
+      },
+      "cross": {
+        "upright": "A tension between wanting control and the need to flow with life's inherent chaos and unpredictability.",
+        "reversed": "External resistance and internal fears cross your path, obstructing natural progress.",
+        "keywords": [
+          "control",
+          "flow with chaos",
+          "external resistance",
+          "obstruction"
+        ]
+      },
+      "obstacle": {
+        "upright": "Reluctance to accept the impermanent nature of life stands in the way of peace and progress.",
+        "reversed": "Stubbornness or refusal to adapt to changing circumstances hinders potential growth.",
+        "keywords": [
+          "impermanence",
+          "reluctance",
+          "stubbornness",
+          "hindered growth"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to recognize the timing of life’s cycles and the wisdom in embracing change with grace.",
+        "reversed": "The lesson involves identifying repetitive patterns and freeing oneself from limiting cycles.",
+        "keywords": [
+          "timing",
+          "cycle wisdom",
+          "pattern recognition",
+          "freedom from limits"
+        ]
+      },
+      "shadow": {
+        "upright": "Your shadow holds fears of the unknown and a need for control over destiny’s unpredictable hand.",
+        "reversed": "Subtle fears and past disappointments resurface, preventing full engagement with present possibilities.",
+        "keywords": [
+          "fears of unknown",
+          "control need",
+          "past disappointments",
+          "subtle fears"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Expectations and attachment to outcomes hinder your ability to dance with life’s unfolding mysteries.",
+        "reversed": "Inflexibility and defeatist attitudes limit your potential to overcome challenges gracefully.",
+        "keywords": [
+          "expectations",
+          "attachment",
+          "inflexibility",
+          "defeatism"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace change as a natural part of life’s rich tapestry. Trust the process, and allow opportunities to arise.",
+        "reversed": "Adaptability is key; release control and rest in the knowledge that even setbacks hold valuable lessons.",
+        "keywords": [
+          "embrace change",
+          "trust in process",
+          "adaptability",
+          "valuable lessons"
+        ]
+      },
+      "action": {
+        "upright": "Stay open to new experiences and unexpected turns. Harness the momentum to foster growth and opportunity.",
+        "reversed": "React with patience and reflection. Identify areas of resistance and find creative solutions to overcome obstacles.",
+        "keywords": [
+          "new experiences",
+          "momentum",
+          "patience",
+          "creative solutions"
+        ]
+      },
+      "your_approach": {
+        "upright": "Perceive yourself as a part of larger cycles, flowing effortlessly with life’s changing tides.",
+        "reversed": "You might see yourself trapped in cycles or beset by bad luck, necessitating a shift in mindset.",
+        "keywords": [
+          "larger cycles",
+          "effortless flow",
+          "trapped perception",
+          "mindset shift"
+        ]
+      },
+      "what_helps": {
+        "upright": "Trust in the natural flow of life. Deep faith in cycles and change can guide and sustain you through transitions.",
+        "reversed": "Help comes from accepting current limitations and seeking wisdom to navigate through turbulent times.",
+        "keywords": [
+          "natural flow",
+          "faith in cycles",
+          "acceptance",
+          "seeking wisdom"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust the universe's timing and let go of rigidity. Life is a dance of destiny, not a choreographed routine.",
+        "reversed": "Guidance can be found in surrendering to the flow and remaining resilient in the face of unexpected changes.",
+        "keywords": [
+          "universe's timing",
+          "trust flow",
+          "surrender",
+          "resilience"
+        ]
+      },
+      "best_course": {
+        "upright": "Follow the path of least resistance, and trust that what occurs is part of a grander plan.",
+        "reversed": "Analyze patterns and work to break free from self-imposed cycles that hinder growth.",
+        "keywords": [
+          "least resistance",
+          "grander plan",
+          "pattern analysis",
+          "break free"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "A hope for positive change and the arrival of good fortune. Fear of unpredictability and loss of control.",
+        "reversed": "Fear of being stuck in negative cycles. Hope that setbacks are temporary and will eventually lead to growth.",
+        "keywords": [
+          "hope for change",
+          "fear of loss",
+          "temporariness",
+          "growth"
+        ]
+      },
+      "hopes": {
+        "upright": "Hoping for favorable turns in life’s journey, trusting in life's inherent abundance and rhythm.",
+        "reversed": "Hope rests on understanding that current struggles are transient, with brighter days ahead.",
+        "keywords": [
+          "favorable turns",
+          "abundance",
+          "transient struggles",
+          "brighter future"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of unforeseen changes disrupting hard-earned stability and comfort.",
+        "reversed": "Fears of relentless downturns or getting trapped in endless cycles without resolution.",
+        "keywords": [
+          "unforeseen changes",
+          "disruption",
+          "downturns",
+          "endless cycles"
+        ]
+      },
+      "subconscious": {
+        "upright": "A deep intuition recognizes the cyclical nature of life and trusts the unfolding of destiny.",
+        "reversed": "Subconscious resistance to change manifests as anxiety or a feeling of powerlessness.",
+        "keywords": [
+          "intuitive recognition",
+          "trust destiny",
+          "resistance",
+          "powerlessness"
+        ]
+      },
+      "conscious": {
+        "upright": "Conscious awareness of change and transformation fosters growth and acceptance of life’s phases.",
+        "reversed": "Conscious fears of change create tension between present reality and future potential.",
+        "keywords": [
+          "awareness",
+          "transformation",
+          "conscious fear",
+          "tension"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, there’s an openness to life’s ebb and flow, seeing change as thrilling and full of potential.",
+        "reversed": "Emotions may fluctuate between anxiety about uncertainty and hope for serendipitous alignments.",
+        "keywords": [
+          "emotional openness",
+          "thrill of change",
+          "anxiety",
+          "serendipity"
+        ]
+      },
+      "heart": {
+        "upright": "At heart, you long for the joyful dance of synchronicity and the boundless possibilities it brings.",
+        "reversed": "The heart yearns for stability amid chaos and searches for a sense of peace in turbulent times.",
+        "keywords": [
+          "synchronicity",
+          "boundless possibilities",
+          "stability",
+          "peace"
+        ]
+      },
+      "mind": {
+        "upright": "The mind perceives cycles within patterns, recognizing opportunities hidden within each turn of the wheel.",
+        "reversed": "The mind struggles with thinking trapped in repetitive loops, needing clarity to break free.",
+        "keywords": [
+          "perception",
+          "opportunities",
+          "repetitive loops",
+          "clarity"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Circumstances are aligning favorably, bringing synchronistic events and fortuitous opportunities your way.",
+        "reversed": "External challenges may arise, drawing attention to imbalanced areas in need of addressing.",
+        "keywords": [
+          "alignment",
+          "synchronicities",
+          "challenges",
+          "imbalanced areas"
+        ]
+      },
+      "others": {
+        "upright": "Others see you as adaptable and poised to seize opportunities, inspired by your navigational grace through life's changes.",
+        "reversed": "Perceptions of your situation may amplify feelings of being stuck or unlucky, influenced by other people’s perspectives.",
+        "keywords": [
+          "adaptability",
+          "poise",
+          "perception",
+          "influence"
+        ]
+      },
+      "environment": {
+        "upright": "Your environment seems supportive of change, nurturing growth and the unfolding of new phases in life.",
+        "reversed": "Environmental shifts challenge equilibrium and call for resilience to regain momentum.",
+        "keywords": [
+          "supportive environment",
+          "growth",
+          "shifts",
+          "resilience"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others admire your resilience and ability to move with life's unpredictable pulses, seeing you as a catalyst for positive change.",
+        "reversed": "Some may perceive you as overwhelmed by circumstances, doubting your ability to overcome adversity.",
+        "keywords": [
+          "resilience",
+          "catalyst",
+          "overwhelmed",
+          "doubt"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces guide your journey, aligning synchronicities that propel you forward in unexpected ways.",
+        "reversed": "Unnoticed obstacles or dynamics may silently influence your path, requiring keen awareness.",
+        "keywords": [
+          "unseen forces",
+          "guidance",
+          "unnoticed obstacles",
+          "keen awareness"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "Positive cycles bring growth and renewal, unveiling new opportunities and fortuitous developments.",
+        "reversed": "Unexpected disruptions challenge plans, requiring adaptability and a shift in perspective.",
+        "keywords": [
+          "growth",
+          "renewal",
+          "disruptions",
+          "perspective shift"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Ultimately, a harmonious alignment of fate and free will allows for growth and fulfillment of your destiny.",
+        "reversed": "Potential for continuing struggle if resistance to the natural flow remains, inviting introspection.",
+        "keywords": [
+          "alignment",
+          "fate and free will",
+          "struggle",
+          "introspection"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "A fortunate event may shift your life path positively, encouraging optimism and renewed hope.",
+        "reversed": "Challenges could lead to critical insights and a return to the path of clarity and progress.",
+        "keywords": [
+          "fortunate shift",
+          "optimism",
+          "critical insights",
+          "clarity"
+        ]
+      },
+      "best_case": {
+        "upright": "Synchronistic events align perfectly, leading to unexpected success and an opportunity for profound personal growth.",
+        "reversed": "Navigating disruptions wisely transforms challenges into stepping stones, offering depth and understanding.",
+        "keywords": [
+          "synchronistic alignment",
+          "unexpected success",
+          "stepping stones",
+          "understanding"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves temporary chaos that eventually gives way to clarity and realization of life’s continuous ebb and flow.",
+        "reversed": "Unaddressed resistance may prolong stagnation, obscuring insights crucial for growth.",
+        "keywords": [
+          "temporary chaos",
+          "clarity",
+          "stagnation",
+          "obscured insights"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship represents the completion of cycles and karmic fulfillment. The dynamic between you brings a sense of destiny, wholeness, and achievement of long-term goals. You create something complete and meaningful together.",
+        "reversed": "The connection may resist natural endings or beginnings. Cycles remain incomplete due to fear of change or attachment to outcomes. The relationship may feel stuck in patterns that no longer serve or struggle to reach its full potential.",
+        "keywords": [
+          "completion",
+          "fulfillment",
+          "destiny",
+          "wholeness"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "Relationships may enter a new phase, bringing excitement and the joy of shared growth. Chance encounters spark romance.",
+      "reversed": "Unexpected hurdles challenge romantic connections. Old patterns require release for love to flourish.",
+      "keywords": [
+        "new phase",
+        "shared growth",
+        "hurdles",
+        "old patterns"
+      ]
+    },
+    "career": {
+      "upright": "Career changes come full of potential. Seize shifting opportunities as dynamics evolve in the professional landscape.",
+      "reversed": "Instability in career requires reevaluation and adaptive strategies to find renewed direction.",
+      "keywords": [
+        "career changes",
+        "potential",
+        "instability",
+        "renewed direction"
+      ]
+    },
+    "spiritual": {
+      "upright": "A profound spiritual awakening unfolds, connecting you to the cycles and rhythms of universal consciousness.",
+      "reversed": "Spiritual growth is hindered by outdated patterns and resistance to transforming beliefs.",
+      "keywords": [
+        "spiritual awakening",
+        "universal consciousness",
+        "hindered growth",
+        "transforming beliefs"
+      ]
+    },
+    "financial": {
+      "upright": "An unexpected windfall or financial opportunity may present itself, urging wise investment and gratitude.",
+      "reversed": "Financial setbacks prompt a review of spending habits and urge caution in investments.",
+      "keywords": [
+        "windfall",
+        "financial opportunity",
+        "setbacks",
+        "review habits"
+      ]
+    },
+    "health": {
+      "upright": "Health cycles suggest renewal and increased vitality. Embrace routines that honor the body's dynamic nature.",
+      "reversed": "Health may face fluctuations or challenges; embracing change in habits brings balance.",
+      "keywords": [
+        "renewal",
+        "vitality",
+        "fluctuations",
+        "balance"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "fire",
+    "zodiac": "jupiter",
+    "hebrew_letter": "kaph",
+    "numerology": 10,
+    "planet": "jupiter",
+    "season": "autumn",
+    "time_of_day": "noon",
+    "colors": [
+      "blue",
+      "purple",
+      "gold"
+    ],
+    "crystals": [
+      "sapphire",
+      "amethyst",
+      "citrine"
+    ],
+    "herbs": [
+      "sage",
+      "jasmine",
+      "bay leaf"
+    ]
+  },
+  "symbols": {
+    "wheel": "cycle of life and fate",
+    "sphinx": "wisdom and enigma",
+    "snake": "transformation and fate’s inevitability",
+    "jackal": "life’s mysteries and fortune"
+  },
+  "affirmations": [
+    "I trust in the unfolding journey of life and embrace change as growth.",
+    "Cycle and change are my allies in achieving profound wisdom.",
+    "I flow easily with life’s ebbs and flows, finding joy in each turn of the wheel."
+  ],
+  "journaling_prompts": [
+    "How do I respond to change and what can I learn from its patterns?",
+    "What cycles am I currently experiencing, and how do they serve my growth?",
+    "How can I align my actions with the natural rhythms of my life?"
+  ],
+  "meditation_focus": "Centering yourself in the ever-turning wheel of life, embracing its rhythm and finding serenity within the cycles.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:17:51.625700",
+    "card_info": {
+      "name": "Wheel of Fortune",
+      "number": 10,
+      "suit": "major_arcana"
+    },
+    "filename": "m10.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_magician": {
+        "interpretation": "Enhanced manifestation power, seizing opportunities with skillful timing.",
+        "keywords": [
+          "enhanced",
+          "manifestation",
+          "power",
+          "seizing"
+        ]
+      },
+      "the_sun": {
+        "interpretation": "Joy and fortune align, creating a period of optimism and success.",
+        "keywords": [
+          "fortune",
+          "align",
+          "creating",
+          "period"
+        ]
+      },
+      "ace_of_cups": {
+        "interpretation": "Emotionally rewarding cycles bring love and fulfillment into your life.",
+        "keywords": [
+          "emotionally",
+          "rewarding",
+          "cycles",
+          "bring"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Tension between disruption and regenerative change creates transformational growth.",
+        "keywords": [
+          "tension",
+          "disruption",
+          "regenerative",
+          "change"
+        ]
+      },
+      "five_of_pentacles": {
+        "interpretation": "Struggling with cycles of loss and scarcity requires a focus on resilience and resourcefulness.",
+        "keywords": [
+          "struggling",
+          "cycles",
+          "loss",
+          "scarcity"
+        ]
+      },
+      "eight_of_swords": {
+        "interpretation": "Feeling trapped in repetitive patterns needs an awakening to break free.",
+        "keywords": [
+          "feeling",
+          "trapped",
+          "repetitive",
+          "patterns"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hanged_man": {
+        "interpretation": "New perspectives offer deeper understanding of life's cyclical nature.",
+        "keywords": [
+          "perspectives",
+          "offer",
+          "deeper",
+          "understanding"
+        ]
+      },
+      "nine_of_wands": {
+        "interpretation": "Perseverance amid cyclical challenges brings deeper resilience and insight.",
+        "keywords": [
+          "perseverance",
+          "amid",
+          "cyclical",
+          "challenges"
+        ]
+      },
+      "temperance": {
+        "interpretation": "Balance and timing create a harmonious flow in life's experiences.",
+        "keywords": [
+          "balance",
+          "timing",
+          "create",
+          "harmonious"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "judgement": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "temperance": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_fool": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "four_of_pentacles": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "wheel_of_fortune": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "justice": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

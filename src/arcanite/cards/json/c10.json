@@ -1,0 +1,682 @@
+{
+  "card_id": "ten_of_cups",
+  "card_name": "Ten of Cups",
+  "card_number": 10,
+  "suit": "cups",
+  "archetype": "the harmonious family",
+  "core_meanings": {
+    "upright": {
+      "essence": "Complete emotional fulfillment and harmony within relationships. A sense of joyful connection and love that radiates warmth and contentment.",
+      "keywords": [
+        "harmony",
+        "community",
+        "joy",
+        "love",
+        "connection",
+        "peace",
+        "fulfillment",
+        "happy family"
+      ],
+      "psychological": "Represents a deep sense of belonging and emotional safety. Emotional bonds are strong and nurturing, promoting inner joy.",
+      "spiritual": "The experience of spiritual unity grounded in love and compassion. A connection to all life as a resonant community.",
+      "practical": "Enjoy the rewards of emotional relationships and the love that surrounds you. Cherish family gatherings and moments of togetherness.",
+      "shadow": "Overidealization of family or community that leads to ignoring underlying tensions. Emotional dependency disguised as harmony."
+    },
+    "reversed": {
+      "essence": "Disharmony or tension within relationships. The illusion of happiness masks deeper issues needing attention and healing.",
+      "keywords": [
+        "tension",
+        "disconnection",
+        "illusion",
+        "unresolved conflict",
+        "emotional strain",
+        "false facade"
+      ],
+      "psychological": "Hidden fractures within the emotional foundation, perhaps due to unmet needs or unexpressed feelings.",
+      "spiritual": "Spiritual disconnect from community or loved ones, creating a sense of isolation despite apparent closeness.",
+      "practical": "Address underlying conflicts rather than maintaining appearances. Genuine communication can restore emotional health.",
+      "shadow": "Pretending everything is perfect to avoid confrontation, leading to greater disconnection over time."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Past experiences of harmony and joyful connection have shaped your vision of ideal relationships and community.",
+        "reversed": "Unresolved tensions or conflicts from the past continue to echo in current relationship dynamics.",
+        "keywords": [
+          "past harmony",
+          "shaping vision",
+          "unresolved conflict",
+          "family history"
+        ]
+      },
+      "distant_past": {
+        "upright": "A long-ago time of deep familial love or community support that planted seeds of trust and joy in your heart.",
+        "reversed": "Old family patterns of disharmony or neglected needs have become subconscious templates for current issues.",
+        "keywords": [
+          "old love",
+          "distant support",
+          "family patterns",
+          "legacy issues"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent celebrations or connections have infused your life with warmth and harmony, bringing a sense of completion.",
+        "reversed": "Recent disagreements or emotional strains are still fresh, requiring resolution and understanding.",
+        "keywords": [
+          "recent joy",
+          "connection",
+          "fresh tension",
+          "recent strain"
+        ]
+      },
+      "present": {
+        "upright": "Your current reality is blessed with love and emotional satisfaction. Encourage the connections that bring you joy.",
+        "reversed": "Surface harmony masks hidden challenges. Time to address these issues to restore genuine balance.",
+        "keywords": [
+          "current joy",
+          "surface harmony",
+          "emotional satisfaction",
+          "hidden challenges"
+        ]
+      },
+      "present_situation": {
+        "upright": "Experience of heart-level unity and connection with those around you—an oasis of emotional fulfillment.",
+        "reversed": "Underlying unease or dissatisfaction that persists despite outward appearances of togetherness.",
+        "keywords": [
+          "emotional unity",
+          "heart connection",
+          "underlying unease",
+          "togetherness facade"
+        ]
+      },
+      "future": {
+        "upright": "A future filled with nourishing connections and joyful experiences. Anticipate celebrations and shared moments.",
+        "reversed": "Addressing current tensions ensures a future of genuine harmony and fulfillment rather than prolonged discontent.",
+        "keywords": [
+          "future joy",
+          "nourishing connection",
+          "addressing tension",
+          "genuine harmony"
+        ]
+      },
+      "near_future": {
+        "upright": "Opportunities for emotional fulfillment and joyous gatherings on the horizon. Be open to deepening bonds.",
+        "reversed": "Impending issues may arise in relationships unless addressed now. Act with honesty and compassion.",
+        "keywords": [
+          "upcoming joy",
+          "deepening bonds",
+          "impending issues",
+          "honest action"
+        ]
+      },
+      "distant_future": {
+        "upright": "Continued happiness in relationships and family life. Your dedication to love and harmony will bear long-term fruits.",
+        "reversed": "Ignoring underlying issues now may lead to long-lasting disconnection. Work on open communication for future peace.",
+        "keywords": [
+          "long-term happiness",
+          "future peace",
+          "emotional fruits",
+          "lasting disconnection"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Maintaining harmony amidst changing dynamics. Ensure not to neglect individual needs in pursuit of collective happiness.",
+        "reversed": "The challenge is to confront hidden conflicts and foster genuine communication to avoid emotional stagnation.",
+        "keywords": [
+          "maintaining harmony",
+          "changing dynamics",
+          "hidden conflicts",
+          "genuine communication"
+        ]
+      },
+      "cross": {
+        "upright": "A cross of expectations placed by family or community can impede your true sense of self and independent happiness.",
+        "reversed": "Being pulled between the facade of harmony and the need for authentic expression leads to internal conflict.",
+        "keywords": [
+          "family expectations",
+          "community pressure",
+          "facade vs. authenticity",
+          "internal conflict"
+        ]
+      },
+      "obstacle": {
+        "upright": "The perception that all is well can blind you to subtle tensions needing acknowledgment and care.",
+        "reversed": "Pretending everything is perfect creates obstacles to genuine communication and healing.",
+        "keywords": [
+          "perception vs. reality",
+          "subtle tensions",
+          "pretending obstacles",
+          "need for care"
+        ]
+      },
+      "lesson": {
+        "upright": "The lesson is about embracing emotional intimacy and connection while discerning boundaries and personal needs.",
+        "reversed": "Learning to see beyond appearances to the truth of relationships and nurturing authentic emotional bonds.",
+        "keywords": [
+          "emotional intimacy",
+          "discernment",
+          "truth of relationships",
+          "authentic bonds"
+        ]
+      },
+      "shadow": {
+        "upright": "Fearing conflict can lead to superficial harmony. Integrate the shadow by embracing open communication and vulnerability.",
+        "reversed": "In the shadow, unresolved emotions create distance. Healing involves addressing what has been left unsaid.",
+        "keywords": [
+          "fear of conflict",
+          "superficial harmony",
+          "unresolved emotions",
+          "healing distance"
+        ]
+      },
+      "what_hinders": {
+        "upright": "The desire for perfect harmony can hinder dealing with real issues. Acknowledge imperfections for true growth.",
+        "reversed": "Unwillingness to face discomfort leads to prolonged discontent. Address what hinders real happiness.",
+        "keywords": [
+          "desire for perfection",
+          "acknowledging imperfections",
+          "facing discomfort",
+          "true growth"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Cherish the love and connection you have. Foster relationships through gratitude and communication.",
+        "reversed": "Be willing to have difficult conversations. Healing lies in authenticity and openness.",
+        "keywords": [
+          "cherish love",
+          "foster connection",
+          "difficult conversations",
+          "authenticity"
+        ]
+      },
+      "action": {
+        "upright": "Engage in activities that promote shared joy and emotional bonding. Celebrate the harmony you bring to life.",
+        "reversed": "Address issues consciously. Create a safe space for honesty and repair misunderstandings.",
+        "keywords": [
+          "shared joy",
+          "emotional bonding",
+          "safe space",
+          "repair misunderstandings"
+        ]
+      },
+      "your_approach": {
+        "upright": "You see yourself as someone who nurtures family and communal happiness. Embrace your role as a connector.",
+        "reversed": "You may either cling to appearances or distance yourself from unresolved issues. Seek the middle path.",
+        "keywords": [
+          "nurturing happiness",
+          "connector",
+          "appearances vs. reality",
+          "middle path"
+        ]
+      },
+      "what_helps": {
+        "upright": "A supportive community and loving network provide the foundation from which you radiate joy and harmony.",
+        "reversed": "Seeking guidance from empathetic individuals helps navigate through emotional complexities.",
+        "keywords": [
+          "supportive community",
+          "loving network",
+          "empathetic guidance",
+          "emotional navigation"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust in the peace that love provides. Hold onto your vision of harmony while remaining open to necessary change.",
+        "reversed": "Guide your journey with truth and vulnerability. Authenticity heals and rebuilds meaningful connections.",
+        "keywords": [
+          "trustful peace",
+          "vision of harmony",
+          "truth and vulnerability",
+          "rebuilding connections"
+        ]
+      },
+      "best_course": {
+        "upright": "Embrace the joy and love you have. Allow your life to expand through shared experiences and heartfelt celebrations.",
+        "reversed": "Best course involves recognizing and addressing discontent rather than suppressing it for appearance's sake.",
+        "keywords": [
+          "embrace joy",
+          "shared experiences",
+          "address discontent",
+          "heartfelt celebrations"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "A hope for eternal love and unity within relationships, countered by fear of disruption or loss of this harmony.",
+        "reversed": "Fear of ongoing tension and potential disconnection. Yearning for peace and reconciliation.",
+        "keywords": [
+          "eternal love",
+          "unity",
+          "fear of disruption",
+          "yearning for peace"
+        ]
+      },
+      "hopes": {
+        "upright": "You hope to build a haven of love and connection that supports all who enter.",
+        "reversed": "Desire to transform current challenges into deeper, more authentic bonds.",
+        "keywords": [
+          "haven of love",
+          "supportive connection",
+          "transform challenges",
+          "authentic bonds"
+        ]
+      },
+      "fears": {
+        "upright": "Fear of losing the idyllic harmony you cherish. Concerns about underlying disharmonies manifesting.",
+        "reversed": "Fear that unresolved issues will lead to lasting disconnection and emotional estrangement.",
+        "keywords": [
+          "losing harmony",
+          "underlying disharmony",
+          "emotional estrangement",
+          "lasting disconnection"
+        ]
+      },
+      "subconscious": {
+        "upright": "Unconsciously driven by desires for deep connection and emotional security within your networks.",
+        "reversed": "Unacknowledged fears of imperfection or hidden unrest impact your relationships.",
+        "keywords": [
+          "deep connection",
+          "emotional security",
+          "fears of imperfection",
+          "hidden unrest"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously aware of the love and joy that permeates your life, channeling it with gratitude.",
+        "reversed": "Acknowledge awareness of tension as a first step toward reconciliation and healing.",
+        "keywords": [
+          "love and joy",
+          "conscious gratitude",
+          "tension awareness",
+          "path to healing"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Feeling nourished by love and community, your spirit sings with joy and fulfillment.",
+        "reversed": "An undercurrent of dissatisfaction or unrest despite outward contentment. Need for emotional honesty.",
+        "keywords": [
+          "nourished spirit",
+          "joyful energy",
+          "undercurrent of unrest",
+          "need for honesty"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart longs for peace, connection, and shared happiness. A beacon of love that radiates outward.",
+        "reversed": "Deep within, your heart seeks reconciliation and authenticity amidst perceived discord.",
+        "keywords": [
+          "longing for peace",
+          "shared happiness",
+          "heart's beacon",
+          "seeking authenticity"
+        ]
+      },
+      "mind": {
+        "upright": "A mindset focused on harmony and balance, eager to maintain the joy that nurtures your spirit.",
+        "reversed": "Your mind grapples with the disparity between surface harmony and underlying tension, seeking resolution.",
+        "keywords": [
+          "focus on harmony",
+          "balance",
+          "mind grapples",
+          "seeking resolution"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Your environment reflects the love and joy you have cultivated, creating a supportive backdrop for your dreams.",
+        "reversed": "External pressures or expectations may exacerbate underlying tensions, requiring clear boundaries.",
+        "keywords": [
+          "supportive environment",
+          "external pressures",
+          "love cultivated",
+          "clear boundaries needed"
+        ]
+      },
+      "others": {
+        "upright": "Surrounding individuals are influenced by your harmonious energy, finding comfort and inspiration in your presence.",
+        "reversed": "Others may either contribute to disharmony or mirror unresolved conflicts within their own interactions.",
+        "keywords": [
+          "harmonious influence",
+          "inspiration",
+          "contribution to disharmony",
+          "mirrored conflicts"
+        ]
+      },
+      "environment": {
+        "upright": "The environment supports emotional growth and joyful experiences. You feel at home in love and community.",
+        "reversed": "Environmental factors may mask true feelings and prevent honest communication, needing mindful attention.",
+        "keywords": [
+          "emotional growth",
+          "joyful experiences",
+          "environmental mask",
+          "mindful communication"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others perceive you as a source of love and joy, abundantly radiating harmony wherever you go.",
+        "reversed": "You may be perceived as either overly idealistic about relationships or hesitant to confront underlying issues.",
+        "keywords": [
+          "source of love",
+          "radiating harmony",
+          "overly idealistic",
+          "hesitant confrontation"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces of love and unity continue to support and guide your journey, encouraging mutual joy.",
+        "reversed": "Hidden resentments or past wounds subtly influence current dynamics if left unaddressed.",
+        "keywords": [
+          "hidden forces",
+          "guided unity",
+          "resentments",
+          "past wounds"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "The culmination of efforts results in enduring happiness and emotional fulfillment. Relationships thrive.",
+        "reversed": "Unaddressed issues may lead to perpetual dissatisfaction or prolonged tension, even as facade remains intact.",
+        "keywords": [
+          "enduring happiness",
+          "emotional fulfillment",
+          "perpetual dissatisfaction",
+          "facade"
+        ]
+      },
+      "final_outcome": {
+        "upright": "In the end, the love and harmony you cultivate lead to legacy relationships and soul-satisfying joy.",
+        "reversed": "Final outcome involves consequences of neglected tensions and deeper need for authentic connections.",
+        "keywords": [
+          "legacy relationships",
+          "soul joy",
+          "neglected tensions",
+          "authentic need"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possibly finding profound joy in forming close-knit communities or family ties that last a lifetime.",
+        "reversed": "Ongoing strain may culminate in breakdowns that are painful but necessary for real healing and growth.",
+        "keywords": [
+          "profound joy",
+          "close-knit ties",
+          "strain culmination",
+          "healing breakdown"
+        ]
+      },
+      "best_case": {
+        "upright": "Best case scenario involves living in harmony with loved ones, fostering a nurturing and joyful environment.",
+        "reversed": "Best case through honesty and vulnerability, paving the way for deepened connections and mutual understanding.",
+        "keywords": [
+          "living in harmony",
+          "nurturing environment",
+          "vulnerability",
+          "mutual understanding"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst case involves superficial peace without addressing core issues, leading to enduring dissatisfaction.",
+        "reversed": "Discontentment persists, creating ongoing emotional distance unless honesty and healing are prioritized.",
+        "keywords": [
+          "superficial peace",
+          "enduring dissatisfaction",
+          "persistent discontent",
+          "emotional distance"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship creates emotional fulfillment, family harmony, and lasting happiness together. The dynamic between you builds something emotionally complete and satisfying that extends to your broader community and family connections.",
+        "reversed": "Family harmony may be disrupted or emotional fulfillment may be temporary. The connection might involve family conflicts, broken relationships, or inability to create lasting emotional satisfaction together.",
+        "keywords": [
+          "fulfillment",
+          "family",
+          "harmony",
+          "completion"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A loving relationship or family dynamic that blossoms with trust and shared joy. Embrace emotional intimacy.",
+      "reversed": "Unspoken issues can create rifts. Strong foundations require genuine communication and healing conversations.",
+      "keywords": [
+        "loving relationship",
+        "emotional intimacy",
+        "unspoken issues",
+        "healing communication"
+      ]
+    },
+    "career": {
+      "upright": "Work environment that thrives on teamwork and positive relationships. Seek projects that fulfill emotionally.",
+      "reversed": "Lack of support or hidden tensions may impede career growth. Navigating these requires diplomatic communication.",
+      "keywords": [
+        "teamwork",
+        "positive relationships",
+        "support",
+        "diplomatic communication"
+      ]
+    },
+    "spiritual": {
+      "upright": "A sense of spiritual fulfillment and connection within a supportive community. Shared beliefs foster growth.",
+      "reversed": "Spiritual conflicts may arise within community or personal practice. Seek to resolve with openness and kindness.",
+      "keywords": [
+        "spiritual fulfillment",
+        "supportive community",
+        "spiritual conflicts",
+        "resolution"
+      ]
+    },
+    "financial": {
+      "upright": "Financial satisfaction through shared ventures or family contributions. Enjoyment of communal prosperity.",
+      "reversed": "Financial tension or disagreements may underlie cooperative efforts. Address with clear agreements.",
+      "keywords": [
+        "financial satisfaction",
+        "shared ventures",
+        "financial tension",
+        "clear agreements"
+      ]
+    },
+    "health": {
+      "upright": "Emotional fulfillment translating into physical wellness. Support from loved ones nurtures health.",
+      "reversed": "Emotional strain may manifest as health concerns. Healing begins with resolving emotional tensions.",
+      "keywords": [
+        "emotional fulfillment",
+        "physical wellness",
+        "emotional strain",
+        "healing"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "pisces",
+    "hebrew_letter": "",
+    "numerology": 10,
+    "planet": "mars",
+    "season": "summer",
+    "time_of_day": "twilight",
+    "colors": [
+      "rainbow hues",
+      "soft blues",
+      "pastel greens"
+    ],
+    "crystals": [
+      "rose quartz",
+      "aquamarine",
+      "moonstone"
+    ],
+    "herbs": [
+      "chamomile",
+      "lavender",
+      "lemon balm"
+    ]
+  },
+  "symbols": {
+    "rainbow": "Promise of unity and hope",
+    "happy family": "Domestic bliss and community",
+    "water": "Flowing emotions and spiritual renewal",
+    "home": "Security and comfort"
+  },
+  "affirmations": [
+    "I am surrounded by love and harmony.",
+    "My connections are genuine and deeply fulfilling.",
+    "I embrace open communication and emotional sincerity.",
+    "Joy and love are my foundation."
+  ],
+  "journaling_prompts": [
+    "How do I nurture harmony in my relationships?",
+    "What unspoken issues might I need to address?",
+    "How can I create more joy in my family or community?",
+    "Where am I holding onto a facade rather than revealing my true needs?"
+  ],
+  "meditation_focus": "Visualize a harmonious, joyful community where all are valued and loved. Breathe in connection, breathe out tension.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:50:41.151648",
+    "card_info": {
+      "name": "Ten of Cups",
+      "number": 10,
+      "suit": "cups"
+    },
+    "filename": "c10.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_sun": {
+        "interpretation": "Radiates warmth and joy, creating an environment of happiness and celebration.",
+        "keywords": [
+          "radiates",
+          "warmth",
+          "creating",
+          "environment"
+        ]
+      },
+      "the_world": {
+        "interpretation": "Completion and fulfillment are doubly emphasized, the world supports your happiness.",
+        "keywords": [
+          "completion",
+          "fulfillment",
+          "doubly",
+          "emphasized"
+        ]
+      },
+      "ace_of_cups": {
+        "interpretation": "New emotional connections deepen existing harmony and love.",
+        "keywords": [
+          "emotional",
+          "connections",
+          "deepen",
+          "existing"
+        ]
+      }
+    },
+    "challenges": {
+      "the_tower": {
+        "interpretation": "Sudden disruptions challenge the facade of harmony, urging deeper connection and rebuilding.",
+        "keywords": [
+          "sudden",
+          "disruptions",
+          "challenge",
+          "facade"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Conflict and tension disrupt peace. Win-win approaches needed to restore balance.",
+        "keywords": [
+          "conflict",
+          "tension",
+          "disrupt",
+          "peace"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Illusions of perfection may cause confusion or unrealistic expectations.",
+        "keywords": [
+          "illusions",
+          "perfection",
+          "cause",
+          "confusion"
+        ]
+      }
+    },
+    "clarifies": {
+      "temperance": {
+        "interpretation": "Patience and moderation lead to lasting peace and emotional balance in relationships.",
+        "keywords": [
+          "patience",
+          "moderation",
+          "lead",
+          "lasting"
+        ]
+      },
+      "two_of_cups": {
+        "interpretation": "Deepening commitments and partnerships illuminate shared joy and connection.",
+        "keywords": [
+          "deepening",
+          "commitments",
+          "partnerships",
+          "illuminate"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Spiritual awakening and inner truth align with outer harmony, leading to renewed joy.",
+        "keywords": [
+          "spiritual",
+          "awakening",
+          "inner",
+          "truth"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "two_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_tower": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "five_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "nine_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ten_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "page_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}

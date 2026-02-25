@@ -1,0 +1,684 @@
+{
+  "card_id": "the_moon",
+  "card_name": "The Moon",
+  "card_number": 18,
+  "suit": "major_arcana",
+  "archetype": "the_mystic",
+  "core_meanings": {
+    "upright": {
+      "essence": "Mystery and the subconscious beckon you to explore the unseen. Embrace the shadows and illusions of the mind to reveal deeper truths.",
+      "keywords": [
+        "intuition",
+        "illusion",
+        "dreams",
+        "subconscious",
+        "mystery",
+        "deception",
+        "imagination",
+        "reflection"
+      ],
+      "psychological": "Represents the part of psyche connected to intuition and the realm of dreams where subconscious patterns and fears dwell.",
+      "spiritual": "A gateway to spiritual insight through the nebulous realm of mystery and the unseen. An invitation to trust inner guidance.",
+      "practical": "Be cautious of illusions and hidden dangers. Navigate decisions with intuition and discernment rather than just logic.",
+      "shadow": "Fear of uncertainty leading to confusion or being misled by illusions and deception, both from within and from others."
+    },
+    "reversed": {
+      "essence": "Repressed intuition and confusion clear as hidden truths and illusions are revealed. A time to confront fears head-on.",
+      "keywords": [
+        "clarity",
+        "revelation",
+        "truth",
+        "unveiling",
+        "disillusionment",
+        "emotional instability",
+        "blocked intuition"
+      ],
+      "psychological": "Breakthrough times when the fog lifts, allowing suppressed emotions and realizations to surface into conscious awareness.",
+      "spiritual": "The clearing of spiritual shadows, revealing the path ahead with renewed clarity and the breaking of deceptive mirages.",
+      "practical": "Address confusion by confronting the illusions or fears affecting decisions. Time to rely on rationality and truth.",
+      "shadow": "Persistent doubt and fear creating emotional upheaval, refusing to acknowledge what's surfacing within, keeping you in limbo."
+    }
+  },
+  "position_interpretations": {
+    "temporal_positions": {
+      "past": {
+        "upright": "Swam in the depths of mystery, where the illusions of past experiences created complex, cloudy understandings that shape now.",
+        "reversed": "Unraveled deceptions or cleared confusion in the past that now pave the path for your current clarity and resolve.",
+        "keywords": [
+          "past illusions",
+          "hidden truths",
+          "foggy history",
+          "unveiled deception"
+        ]
+      },
+      "distant_past": {
+        "upright": "An ancient encounter with mystery and fear, where subconscious patterns first laid the groundwork for deeply held beliefs.",
+        "reversed": "Long-ago clarity removed shadows that shaped the continuing path of wisdom, bringing profound truths to light.",
+        "keywords": [
+          "deep patterns",
+          "old mysteries",
+          "ancestral shadows",
+          "ancient revelations"
+        ]
+      },
+      "recent_past": {
+        "upright": "Recent brushes with the unknown leave lingering feelings of uncertainty as subconscious fears reawaken.",
+        "reversed": "Lately, you’ve navigated through deceptions or illusions, arriving at a clear understanding of your situation.",
+        "keywords": [
+          "recent mysteries",
+          "subconscious surfacing",
+          "clarity emerging",
+          "truth revealed"
+        ]
+      },
+      "present": {
+        "upright": "The present moment invites you to embrace mystery and uncertainty. Trust your instincts amidst the darkness.",
+        "reversed": "Clarity is beginning to shine through current confusion and mysteries, unveiling the truth that guides you forward.",
+        "keywords": [
+          "current mystery",
+          "hidden clarity",
+          "subconscious process",
+          "illuminating truth"
+        ]
+      },
+      "present_situation": {
+        "upright": "At the core, submerged emotions and intuitions are stirring, inviting discovery and deeper emotional insights.",
+        "reversed": "Current dynamics involve surfacing truth that confronts long-held illusions, fostering emotional equilibrium.",
+        "keywords": [
+          "emotional insights",
+          "subconscious stirrings",
+          "truth surfacing",
+          "depths exposed"
+        ]
+      },
+      "future": {
+        "upright": "Mysteries await that will require trust in your intuition. Prepare for foggy situations and hidden insights emerging.",
+        "reversed": "Upcoming revelations will dissolve present uncertainties, providing clear realities and understanding.",
+        "keywords": [
+          "future mystery",
+          "upcoming revelations",
+          "insight emergence",
+          "unraveling illusions"
+        ]
+      },
+      "near_future": {
+        "upright": "Soon you will encounter hidden knowledge requiring courage and intuition. Guidance will emerge amidst the unknown.",
+        "reversed": "Imminent events bring clarity, resolving currents of doubt and revealing the path through palpable truths.",
+        "keywords": [
+          "immediate insight",
+          "truth revealing",
+          "approaching clarity",
+          "near mysteries"
+        ]
+      },
+      "distant_future": {
+        "upright": "An ongoing journey into mystery, enriching the soul with understanding and revelation through embracing the unseen.",
+        "reversed": "Eventual understanding crystalizes through cleared illusions, ensuring a future founded on discernment.",
+        "keywords": [
+          "eventual clarity",
+          "profound mysteries",
+          "depths unveiled",
+          "revealed insights"
+        ]
+      }
+    },
+    "challenge_and_growth": {
+      "challenge": {
+        "upright": "Navigate the depths of uncertainty without succumbing to fear. Embrace shadow work for deeper understanding.",
+        "reversed": "Challenge lies in facing uncovered truths and maintaining balance amidst disillusionment and emotional shifts.",
+        "keywords": [
+          "navigate mystery",
+          "face fears",
+          "balance",
+          "embrace shadow"
+        ]
+      },
+      "cross": {
+        "upright": "Your fears and imagined anxieties obstruct your journey to deeper understanding and spiritual growth.",
+        "reversed": "Reality confronts formerly held beliefs; past refusals to see truth may now clash with current circumstances.",
+        "keywords": [
+          "fears",
+          "imagined worries",
+          "confronting beliefs",
+          "truth collision"
+        ]
+      },
+      "obstacle": {
+        "upright": "The unseen and subconscious fears create barriers to discovering the path forward. Intuition is obscured by doubt.",
+        "reversed": "Disillusionment and emotional instability cloud judgment, preventing clear insight and rational conclusions.",
+        "keywords": [
+          "subconscious barriers",
+          "doubt",
+          "emotional clouds",
+          "judgment fog"
+        ]
+      },
+      "lesson": {
+        "upright": "Learn to trust your instincts and face the shadowed aspects of self. Every mystery holds a teaching.",
+        "reversed": "Recognize the value of clarity and truth, embracing the security they offer after storms of confusion.",
+        "keywords": [
+          "trust instincts",
+          "face shadow",
+          "teaching",
+          "value of clarity"
+        ]
+      },
+      "shadow": {
+        "upright": "The shadow contains despair and illusions; integrating these allows access to raw intuition and guidance.",
+        "reversed": "Shadows disguise truths; acknowledging them nurtures authenticity and wisdom, inviting hidden strengths.",
+        "keywords": [
+          "despair",
+          "disguised truths",
+          "authenticity",
+          "hidden strengths"
+        ]
+      },
+      "what_hinders": {
+        "upright": "Fear of the unknown and reliance on illusions hold back your progress toward emotional and spiritual growth.",
+        "reversed": "Unwillingness to confront emerging realities keeps you tethered to past deceptions and hindrances.",
+        "keywords": [
+          "fear",
+          "illusions",
+          "past deceptions",
+          "hindrances"
+        ]
+      }
+    },
+    "guidance_and_action": {
+      "advice": {
+        "upright": "Embrace the unknown with open arms, listen to your inner voice, and allow your intuition to illuminate the path.",
+        "reversed": "Face and process concealed fears and emerging truths. Seek equilibrium in the midst of revelations.",
+        "keywords": [
+          "embrace unknown",
+          "intuition",
+          "face fears",
+          "seek balance"
+        ]
+      },
+      "action": {
+        "upright": "Meditate to connect with deeper insights. Journaling dreams or emotions may reveal the truths submerged within.",
+        "reversed": "Seek truth by questioning illusions. Reality will clear foggy paths, grounding decisions with clarity.",
+        "keywords": [
+          "meditate",
+          "journaling",
+          "seek truth",
+          "ground decisions"
+        ]
+      },
+      "your_approach": {
+        "upright": "You perceive yourself as in tune with emotional depths, navigating life's mysteries with subtle awareness.",
+        "reversed": "Self-view may be confusing—caught between clinging to old illusions or embracing new, deeper understandings.",
+        "keywords": [
+          "self-perception",
+          "emotional depths",
+          "confusion",
+          "deeper understanding"
+        ]
+      },
+      "what_helps": {
+        "upright": "A profound connection to intuition and dreams aids in navigating mysteries and understanding subconscious languages.",
+        "reversed": "Communications with trusted allies provide insights that reveal truths and stabilize emotions.",
+        "keywords": [
+          "intuition",
+          "dreams",
+          "trusted allies",
+          "stability"
+        ]
+      },
+      "guidance": {
+        "upright": "Trust the pull of moonlit paths; subtle guidance from intuition will reveal needed insights at every turn.",
+        "reversed": "Consult mentors or guides to gain perspectives that ground your insights in reality, releasing illusions.",
+        "keywords": [
+          "moonlit paths",
+          "intuition",
+          "consultation",
+          "ground insight"
+        ]
+      },
+      "best_course": {
+        "upright": "Engage with the unknown; act by tapping into intuitive insights and respecting the wisdom of dreams.",
+        "reversed": "The most beneficial path is to confront illusions decisively, embracing truths that offer firm footing.",
+        "keywords": [
+          "engage unknown",
+          "tapping insights",
+          "confront illusions",
+          "embrace truths"
+        ]
+      }
+    },
+    "emotional_and_internal": {
+      "hopes_fears": {
+        "upright": "Yearning to explore deeper emotional and psychic realms, but fearing the illusions and deceptions that lurk.",
+        "reversed": "Hope for clarity and truths to emerge, yet apprehensive about facing unsettling realizations.",
+        "keywords": [
+          "psychic exploration",
+          "fear of illusions",
+          "hope for clarity",
+          "apprehension"
+        ]
+      },
+      "hopes": {
+        "upright": "Desire to connect with hidden parts of self, understanding dreams and mysteries with emotional intelligence.",
+        "reversed": "Hope that facing truths and dispelling illusions will illuminate a clear path forward.",
+        "keywords": [
+          "connect with self",
+          "understanding",
+          "facing truths",
+          "illuminate path"
+        ]
+      },
+      "fears": {
+        "upright": "Afraid of becoming lost in a labyrinth of illusions, where deceptions obscure clarity and decision.",
+        "reversed": "Fear of truths shattering old beliefs and emerging clarity challenging established emotional stability.",
+        "keywords": [
+          "lost in illusions",
+          "obscured clarity",
+          "shattered beliefs",
+          "emerging clarity"
+        ]
+      },
+      "subconscious": {
+        "upright": "Deep in your subconscious dwells the mystic's knowledge, symbols from dreams guiding invisible currents.",
+        "reversed": "Subconscious confrontations with truth challenge established illusions, urging emotional processing.",
+        "keywords": [
+          "mystic knowledge",
+          "symbols",
+          "subconscious confrontations",
+          "emotional processing"
+        ]
+      },
+      "conscious": {
+        "upright": "Consciously, you're drawn to explore depths and mysteries, aware of emotional fluctuations and insights arising.",
+        "reversed": "Your focus is increasingly on resolving illusions and unveiling truths that align with conscious understanding.",
+        "keywords": [
+          "explore depths",
+          "emotional fluctuation",
+          "resolving illusions",
+          "unveiling truths"
+        ]
+      },
+      "emotional_state": {
+        "upright": "Emotionally, mysterious energy envelops you, inviting introspection and dream reflection for guidance.",
+        "reversed": "Emotionally, clarity emerges from the mist, confronting fears and aligning with deeper truths.",
+        "keywords": [
+          "mysterious energy",
+          "introspection",
+          "emerging clarity",
+          "truth confrontation"
+        ]
+      },
+      "heart": {
+        "upright": "Your heart seeks to dive deeply into intuition, capturing the whispers of inner truths and uncertainties.",
+        "reversed": "The heart's alignment with renewed clarity encourages uncovering illusions while embracing authenticity.",
+        "keywords": [
+          "intuitive depths",
+          "inner truths",
+          "renewed clarity",
+          "emotional authenticity"
+        ]
+      },
+      "mind": {
+        "upright": "Mentally, the allure of the enigma captivates you, with creativity flourishing amidst intuitive musings.",
+        "reversed": "Logic and rationale aid in discerning truth from illusion, clarifying mental pathways.",
+        "keywords": [
+          "mental allure",
+          "intuition",
+          "logic",
+          "clarified mental pathways"
+        ]
+      }
+    },
+    "external_influences": {
+      "external_influences": {
+        "upright": "Others perceive your aura of mystery and introspection, prompting them to approach with intrigue or caution.",
+        "reversed": "External shifts bring clarity; others sense your transformation and respond to your newfound focus.",
+        "keywords": [
+          "aura of mystery",
+          "introspection",
+          "external clarity",
+          "perceived transformation"
+        ]
+      },
+      "others": {
+        "upright": "Mentors or guides may perceive nuances in your journey, supporting your exploration of subconscious insights.",
+        "reversed": "Others offer clarity and encouragement as you navigate through revealing truths and emotional balance.",
+        "keywords": [
+          "mentor guidance",
+          "support",
+          "clarity",
+          "encouragement"
+        ]
+      },
+      "environment": {
+        "upright": "An atmosphere of uncertainty surrounds you, where the unseen and symbolic weave through your surroundings.",
+        "reversed": "Environmental forces support clarity and direct experience, stabilizing currents of emotional flow.",
+        "keywords": [
+          "uncertain atmosphere",
+          "symbolic weaving",
+          "stability",
+          "direct experience"
+        ]
+      },
+      "others_see_you": {
+        "upright": "Others discern a veil of enigma around you, perceiving your journey through intuitive and emotional depth.",
+        "reversed": "The clearing of your emotional haze prompts others to view you as insightful, wise, and thoughtfully grounded.",
+        "keywords": [
+          "veil of enigma",
+          "perceived depth",
+          "emotional haze cleared",
+          "insightful presence"
+        ]
+      },
+      "hidden_influences": {
+        "upright": "Unseen forces align with your exploration of mystery, fog lifting where intuition blends with complexity.",
+        "reversed": "Concealed truths rise to clarity, triggering environmental shifts that challenge or support your journey.",
+        "keywords": [
+          "unseen forces",
+          "intuition",
+          "concealed truths",
+          "environmental shifts"
+        ]
+      }
+    },
+    "outcome_and_result": {
+      "outcome": {
+        "upright": "A continued journey into depth, finding profound insights in shadow spaces and embracing enlightening mysteries.",
+        "reversed": "Resolution of illusions and clarity of truth lead to emotional liberation and renewed mental stability.",
+        "keywords": [
+          "journey into depth",
+          "profound insights",
+          "emotional liberation",
+          "renewed stability"
+        ]
+      },
+      "final_outcome": {
+        "upright": "Final insights emerge from the complex depths, uncovering mysteries that enrich the psyche and spirit.",
+        "reversed": "Clarity dissolves fear, paving the path to wisdom and understanding, empowering you with resolute insight.",
+        "keywords": [
+          "final insights",
+          "uncovering mysteries",
+          "clarity",
+          "resolute insight"
+        ]
+      },
+      "possible_outcome": {
+        "upright": "Possibilities involve navigating unseen currents with an abiding trust, leading to epiphanies and spiritual growth.",
+        "reversed": "Unveiled truths bring smooth resolutions and close connections with reality, stabilizing life’s journey.",
+        "keywords": [
+          "navigating unseen",
+          "epiphanies",
+          "truth unveiled",
+          "smooth resolution"
+        ]
+      },
+      "best_case": {
+        "upright": "Ideally, intuitive wisdom guides through all mysteries, leading to exciting discoveries and heart-centered enlightenment.",
+        "reversed": "Best case involves revelations dispelling shadows quickly, leading directly to empowered clarity and insight.",
+        "keywords": [
+          "intuitive wisdom",
+          "exciting discoveries",
+          "empowered clarity",
+          "enlightenment"
+        ]
+      },
+      "worst_case": {
+        "upright": "Worst involves becoming lost in illusions, struggling through uncertainty and fear, disconnected from guidance.",
+        "reversed": "Entanglement in emerging truths causes upheaval, instability shaking your foundation before clarity restores balance.",
+        "keywords": [
+          "lost in illusions",
+          "struggling",
+          "entanglement",
+          "upheaval"
+        ]
+      }
+    },
+    "relationships": {
+      "relationship_dynamic": {
+        "upright": "This relationship dynamic involves illusions, hidden fears, and the need to navigate uncertainty together. Between you may exist confusion, secrets, or elements that are not as they appear. The connection requires trusting intuition over surface appearances.",
+        "reversed": "The relationship is moving beyond illusions toward clarity and truth. Deceptions are being revealed or overcome. The connection involves releasing fears, paranoia, or confusion that once clouded your understanding of each other.",
+        "keywords": [
+          "illusion",
+          "confusion",
+          "secrets",
+          "intuition"
+        ]
+      }
+    }
+  },
+  "question_contexts": {
+    "love": {
+      "upright": "A relationship filled with mystery and emotional exploration. Trust your instincts, but be wary of illusions.",
+      "reversed": "Clarifying truths in partnership bring mutual understanding and deeper emotional connection.",
+      "keywords": [
+        "mysterious love",
+        "emotional exploration",
+        "truth clarity",
+        "deep connection"
+      ]
+    },
+    "career": {
+      "upright": "Navigate career paths illuminated by intuition. Steer clear of deceptive offers or unclear job prospects.",
+      "reversed": "Emerging clarity reveals fruitful opportunity, dispelling workplace mysteries or past professional doubts.",
+      "keywords": [
+        "intuition-led career",
+        "steering clear",
+        "clarity",
+        "fruitful opportunity"
+      ]
+    },
+    "spiritual": {
+      "upright": "A period of deep spiritual insight. Dive into mystical experiences and embrace otherworldly guidance.",
+      "reversed": "Revelations of truth cut through spiritual confusion. Grounded understanding after spiritual unrest.",
+      "keywords": [
+        "deep insight",
+        "mystical experience",
+        "truth revelation",
+        "grounded understanding"
+      ]
+    },
+    "financial": {
+      "upright": "Financial matters may involve hidden factors. Trust instincts and approach money concerns with care.",
+      "reversed": "Clear truths about finances emerge, resolving previous uncertainties and stabilizing your outlook.",
+      "keywords": [
+        "hidden factors",
+        "instincts",
+        "financial clarity",
+        "stabilized outlook"
+      ]
+    },
+    "health": {
+      "upright": "Explore underlying causes for health concerns. Active attention to emotional wellbeing aids physical health.",
+      "reversed": "Health clarity arises, allowing for effective remedies. Prioritizing emotional balance supports healing.",
+      "keywords": [
+        "underlying causes",
+        "attention",
+        "health clarity",
+        "healing support"
+      ]
+    }
+  },
+  "elemental_correspondences": {
+    "element": "water",
+    "zodiac": "pisces",
+    "hebrew_letter": "qoph",
+    "numerology": 9,
+    "planet": "neptune",
+    "season": "winter",
+    "time_of_day": "night",
+    "colors": [
+      "silver",
+      "blue",
+      "purple"
+    ],
+    "crystals": [
+      "moonstone",
+      "aquamarine",
+      "sodalite"
+    ],
+    "herbs": [
+      "mugwort",
+      "jasmine",
+      "willow"
+    ]
+  },
+  "symbols": {
+    "moon": "intuition and the subconscious",
+    "wolves": "wild instinct and natural fears",
+    "crayfish": "unknown depths and emerging unconscious",
+    "water": "the flow of emotions and the subconscious",
+    "path": "journey through mystery and self-discovery"
+  },
+  "affirmations": [
+    "I trust my intuition and explore mysteries with an open heart.",
+    "Revelation and clarity light my path through uncertainty.",
+    "My inner wisdom guides me through life's mysteries.",
+    "I embrace both my shadow and light in heart-centered unity."
+  ],
+  "journaling_prompts": [
+    "What mysteries in my life are ready to be explored?",
+    "How do I navigate the balance between illusion and truth?",
+    "Where do I need to trust my intuition more deeply?",
+    "What truths am I afraid to uncover, and why?"
+  ],
+  "meditation_focus": "Embrace the dance of shadow and light within, trusting your intuitive compass to navigate the mysteries of the heart.",
+  "_metadata": {
+    "generated_at": "2025-08-13T17:29:43.070484",
+    "card_info": {
+      "name": "The Moon",
+      "number": 18,
+      "suit": "major_arcana"
+    },
+    "filename": "m18.json"
+  },
+  "card_relationships": {
+    "amplifies": {
+      "the_high_priestess": {
+        "interpretation": "Heightened intuition creates profound synchronicities. Secrets surface to drive deeper introspection.",
+        "keywords": [
+          "heightened",
+          "intuition",
+          "creates",
+          "profound"
+        ]
+      },
+      "the_star": {
+        "interpretation": "Illuminates hopes and dreams with a mystical quality, transforming aspiration into mystical pursuit.",
+        "keywords": [
+          "illuminates",
+          "hopes",
+          "dreams",
+          "mystical"
+        ]
+      },
+      "seven_of_cups": {
+        "interpretation": "Intensified illusions or dreams. Critical discernment needed to navigate multiple deceptive paths.",
+        "keywords": [
+          "intensified",
+          "illusions",
+          "dreams",
+          "critical"
+        ]
+      }
+    },
+    "challenges": {
+      "the_sun": {
+        "interpretation": "Tension between clarity and mystery. Need to find comfort in both light and shadow aspects of personality.",
+        "keywords": [
+          "tension",
+          "clarity",
+          "mystery",
+          "need"
+        ]
+      },
+      "five_of_swords": {
+        "interpretation": "Mistrust or betrayal amidst uncertain realities. Guard against self-deception leading to conflict.",
+        "keywords": [
+          "mistrust",
+          "betrayal",
+          "amidst",
+          "uncertain"
+        ]
+      },
+      "eight_of_swords": {
+        "interpretation": "Self-delusion trapping potential. Development of inner perception necessary for freedom and truth.",
+        "keywords": [
+          "self",
+          "delusion",
+          "trapping",
+          "potential"
+        ]
+      }
+    },
+    "clarifies": {
+      "the_hermit": {
+        "interpretation": "Deep introspection fuels clear insights. Solitude uncovers hidden treasures within the self.",
+        "keywords": [
+          "deep",
+          "introspection",
+          "fuels",
+          "clear"
+        ]
+      },
+      "two_of_swords": {
+        "interpretation": "Decisions guided by intuition and hidden wisdom, resolving inner conflict with clarity.",
+        "keywords": [
+          "decisions",
+          "guided",
+          "intuition",
+          "hidden"
+        ]
+      },
+      "judgement": {
+        "interpretation": "Spiritual calling aligns with manifested purpose. Shadows dissipate under the light of awakening.",
+        "keywords": [
+          "spiritual",
+          "calling",
+          "aligns",
+          "manifested"
+        ]
+      }
+    },
+    "similar_energy": {
+      "the_high_priestess": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_hanged_man": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "seven_of_cups": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "opposite_energy": {
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "ace_of_swords": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_world": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    },
+    "learning_sequence": {
+      "the_star": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_moon": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      },
+      "the_sun": {
+        "interpretation": "[TO BE WRITTEN - relationship interpretation needed]",
+        "keywords": []
+      }
+    }
+  }
+}
