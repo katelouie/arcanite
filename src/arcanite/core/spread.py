@@ -36,13 +36,15 @@ class SpreadRegistry:
         cls,
         config_path: Path | str | None = None,
         package_root: Path | str | None = None,
+        system: str = "tarot",
     ) -> "SpreadRegistry":
         """
         Load spreads from the configuration file.
 
         Args:
-            config_path: Path to spreads-config.json
+            config_path: Path to spreads config file
             package_root: Root path of the arcanite package
+            system: Card system (default: 'tarot') - determines config file name
 
         Returns:
             SpreadRegistry instance
@@ -51,7 +53,7 @@ class SpreadRegistry:
             package_root = Path(__file__).parent.parent
 
         if config_path is None:
-            config_path = package_root / "spreads" / "spreads-config.json"
+            config_path = package_root / "spreads" / f"{system}-spreads.json"
         else:
             config_path = Path(config_path)
 
@@ -174,6 +176,7 @@ _default_registry: SpreadRegistry | None = None
 def get_spread_registry(
     config_path: Path | str | None = None,
     reload: bool = False,
+    system: str = "tarot",
 ) -> SpreadRegistry:
     """
     Get the default spread registry (singleton).
@@ -181,6 +184,7 @@ def get_spread_registry(
     Args:
         config_path: Optional custom config path
         reload: Force reload even if already loaded
+        system: Card system (default: 'tarot')
 
     Returns:
         SpreadRegistry instance
@@ -188,7 +192,7 @@ def get_spread_registry(
     global _default_registry
 
     if _default_registry is None or reload:
-        _default_registry = SpreadRegistry.from_config(config_path)
+        _default_registry = SpreadRegistry.from_config(config_path, system=system)
 
     return _default_registry
 

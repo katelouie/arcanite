@@ -172,6 +172,7 @@ class TarotDeck:
         image_path: Path | str | None = None,
         image_format: str = "jpg",
         package_root: Path | str | None = None,
+        system: str = "tarot",
     ) -> "TarotDeck":
         """
         Load a tarot deck from JSON files.
@@ -181,6 +182,7 @@ class TarotDeck:
             image_path: Path to directory containing card images
             image_format: Image file extension (default: 'jpg')
             package_root: Root path of the arcanite package (for finding bundled data)
+            system: Card system subdirectory (default: 'tarot')
 
         Returns:
             A loaded TarotDeck instance
@@ -191,7 +193,7 @@ class TarotDeck:
             package_root = Path(__file__).parent.parent
 
         if card_data_path is None:
-            card_data_path = package_root / "cards" / "json"
+            card_data_path = package_root / "cards" / "json" / system
         else:
             card_data_path = Path(card_data_path)
 
@@ -313,6 +315,7 @@ def load_tarot_deck(
     card_data_path: Path | str | None = None,
     image_path: Path | str | None = None,
     image_format: str = "jpg",
+    system: str = "tarot",
 ) -> TarotDeck:
     """
     Convenience function to load a tarot deck.
@@ -321,8 +324,9 @@ def load_tarot_deck(
         card_data_path: Path to card JSON files
         image_path: Path to card images
         image_format: Image file extension
+        system: Card system subdirectory (default: 'tarot')
 
     Returns:
         Loaded TarotDeck
     """
-    return TarotDeck.load(card_data_path, image_path, image_format)
+    return TarotDeck.load(card_data_path, image_path, image_format, system=system)

@@ -1,0 +1,108 @@
+{
+  "id": "the_ship",
+  "number": 3,
+  "name": "The Ship",
+  "playing_card": "10 of Spades",
+  "system": "lenormand",
+
+  "core": {
+    "keywords": ["journey", "travel", "departure", "commerce", "foreign", "longing", "distance"],
+    "charge": "positive",
+    "category": "object",
+    "timing": "forward_movement",
+    "topics": ["travel", "business", "distance", "progress", "trade", "exploration"]
+  },
+
+  "line_reading": {
+    "as_first": "The matter concerns travel, distance, commerce, or a journey. Something is in motion, departing, or foreign to the querent's usual sphere.",
+    "as_middle": "Movement, foreign influence, or progress enters the situation. Something is being transported, shifted, or expanded beyond current boundaries.",
+    "as_last": "The outcome involves travel, advancement, or departure from the current situation. Progress is made by moving forward or away."
+  },
+
+  "combinations": [
+    {
+      "with": "the_rider",
+      "category": "person",
+      "as_first": "Travel news arrives, journey announced, foreign visitor coming. A trip is set in motion by incoming information.",
+      "as_second": "News prompts travel, message about departure, quick journey begins. Information drives movement forward."
+    },
+    {
+      "with": "the_clover",
+      "category": "positive",
+      "as_first": "Lucky journey, fortunate travel, commerce brings quick gains. A trip goes smoothly and brings small blessings.",
+      "as_second": "Luck comes from afar, opportunity through travel, fortunate distance. Good fortune arrives from foreign quarters."
+    },
+    {
+      "with": "the_house",
+      "category": "object",
+      "as_first": "Moving house, travel related to home, commerce from home base. The journey concerns domestic matters.",
+      "as_second": "Home is the destination, settling after travel, domestic stability through commerce. The house awaits at journey's end."
+    },
+    {
+      "with": "the_clouds",
+      "category": "negative",
+      "as_first": "Confused journey, unclear travel plans, commerce muddied by uncertainty. The path forward is obscured.",
+      "as_second": "Confusion comes from afar, travel brings uncertainty, foreign troubles arrive. Distance doesn't solve the fog."
+    },
+    {
+      "with": "the_snake",
+      "category": "negative",
+      "as_first": "Complicated journey, travel with hidden agendas, commerce with deceptive elements. The path has twists.",
+      "as_second": "Complications arrive from afar, travel reveals deception, foreign intrigue. Distance brings complexity."
+    },
+    {
+      "with": "the_coffin",
+      "category": "negative",
+      "as_first": "Journey ends, travel cancelled or concluded, commerce stops. Something that was moving has stopped.",
+      "as_second": "Ending comes from afar, travel for funeral/closure, foreign matters conclude. Distance brings finality."
+    },
+    {
+      "with": "the_bouquet",
+      "category": "positive",
+      "as_first": "Pleasant journey, travel brings gifts, commerce in beauty/luxury. The trip is enjoyable and rewarding.",
+      "as_second": "Gifts arrive from afar, beauty through travel, appreciation from foreign quarters. Distance brings pleasantries."
+    },
+    {
+      "with": "the_scythe",
+      "category": "negative",
+      "as_first": "Journey cut short, travel danger, commerce severed suddenly. Something sharp interrupts the movement.",
+      "as_second": "Sudden news from afar, swift travel decision, cutting ties through distance. Separation comes quickly."
+    },
+    {
+      "with": "the_heart",
+      "category": "positive",
+      "as_first": "Romantic journey, travel for love, commerce of the heart, longing. The heart is in motion or reaching across distance.",
+      "as_second": "Love from afar, heart calls for travel, passion drives movement. Distance cannot stop the heart."
+    },
+    {
+      "with": "the_anchor",
+      "category": "positive",
+      "as_first": "Business travel, stable commerce, career involves movement. The journey has steady purpose.",
+      "as_second": "Stability through travel, settling abroad, work that requires distance. The anchor is found after sailing."
+    },
+    {
+      "with": "the_gentleman",
+      "category": "person",
+      "as_first": "Traveling man, foreign man, businessman, man who is leaving or from afar. The man is in motion.",
+      "as_second": "Man prompts travel, journey toward a man, man brings commerce. Movement centers on him."
+    },
+    {
+      "with": "the_lady",
+      "category": "person",
+      "as_first": "Traveling woman, foreign woman, businesswoman, woman who is leaving or from afar. The woman is in motion.",
+      "as_second": "Woman prompts travel, journey toward a woman, woman brings commerce. Movement centers on her."
+    },
+    {
+      "with": "the_letter",
+      "category": "object",
+      "as_first": "Travel documents, passport matters, news about a journey, correspondence from abroad.",
+      "as_second": "A message prompts travel, news leads to departure, written invitation to journey."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Journeys - Cards landing here speak to movement, foreign matters, commerce, or what is departing from the querent's life.",
+    "near_significator": "Travel is imminent or central to the querent's situation. Movement, commerce, or foreign matters are in focus.",
+    "far_from_significator": "Travel is distant, peripheral, delayed, or relates to the past/far future. Foreign matters have less immediate relevance."
+  }
+}

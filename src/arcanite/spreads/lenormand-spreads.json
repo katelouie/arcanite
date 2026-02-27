@@ -1,0 +1,172 @@
+{
+  "system": "lenormand",
+  "reading_mode": "combinatorial",
+  "description": "Lenormand spreads read cards in combination, like words forming sentences",
+
+  "layouts": {
+    "horizontal-3": {
+      "name": "Three Cards Horizontal",
+      "positions": [
+        { "x": 25, "y": 50 },
+        { "x": 50, "y": 50 },
+        { "x": 75, "y": 50 }
+      ]
+    },
+    "horizontal-5": {
+      "name": "Five Cards Horizontal",
+      "positions": [
+        { "x": 10, "y": 50 },
+        { "x": 30, "y": 50 },
+        { "x": 50, "y": 50 },
+        { "x": 70, "y": 50 },
+        { "x": 90, "y": 50 }
+      ]
+    },
+    "horizontal-7": {
+      "name": "Seven Cards Horizontal",
+      "positions": [
+        { "x": 7, "y": 50 },
+        { "x": 21, "y": 50 },
+        { "x": 36, "y": 50 },
+        { "x": 50, "y": 50 },
+        { "x": 64, "y": 50 },
+        { "x": 79, "y": 50 },
+        { "x": 93, "y": 50 }
+      ]
+    },
+    "horizontal-9": {
+      "name": "Nine Cards Horizontal",
+      "positions": [
+        { "x": 6, "y": 50 },
+        { "x": 18, "y": 50 },
+        { "x": 30, "y": 50 },
+        { "x": 42, "y": 50 },
+        { "x": 54, "y": 50 },
+        { "x": 66, "y": 50 },
+        { "x": 78, "y": 50 },
+        { "x": 90, "y": 50 }
+      ]
+    }
+  },
+
+  "spreads": [
+    {
+      "id": "line-3",
+      "name": "Three Card Line",
+      "description": "Simple past-present-future or subject-verb-object reading. Read left to right as a sentence.",
+      "layout": "horizontal-3",
+      "category": "quick",
+      "difficulty": "beginner",
+      "positions": [
+        {
+          "name": "First Card",
+          "role": "first",
+          "short_description": "Subject / Past / Topic",
+          "detailed_description": "The first card sets the subject or topic of the reading. In temporal readings, this represents the past or what came before.",
+          "keywords": ["subject", "topic", "past", "foundation", "beginning"]
+        },
+        {
+          "name": "Middle Card",
+          "role": "middle",
+          "short_description": "Connector / Present / Action",
+          "detailed_description": "The middle card connects and modifies the reading. It represents what is happening now, the action, or how the cards relate.",
+          "keywords": ["action", "connection", "present", "bridge", "modifier"]
+        },
+        {
+          "name": "Last Card",
+          "role": "last",
+          "short_description": "Outcome / Future / Answer",
+          "detailed_description": "The final card provides the outcome, answer, or future direction. It concludes the sentence the cards are forming.",
+          "keywords": ["outcome", "answer", "future", "conclusion", "result"]
+        }
+      ]
+    },
+    {
+      "id": "line-5",
+      "name": "Five Card Line",
+      "description": "Extended reading with more context. The center card is the focus, flanked by modifiers on each side.",
+      "layout": "horizontal-5",
+      "category": "general",
+      "difficulty": "beginner",
+      "positions": [
+        {
+          "name": "Far Past / Deep Context",
+          "role": "first",
+          "short_description": "Distant past or deep background",
+          "detailed_description": "The furthest context - what came long before or underlying influences.",
+          "keywords": ["distant", "background", "root", "origin"]
+        },
+        {
+          "name": "Recent Past / Near Context",
+          "role": "middle",
+          "short_description": "Recent events or immediate context",
+          "detailed_description": "What recently happened or immediate influences on the focus.",
+          "keywords": ["recent", "immediate", "approaching", "influence"]
+        },
+        {
+          "name": "Focus / Present",
+          "role": "middle",
+          "short_description": "Central focus of the reading",
+          "detailed_description": "The heart of the matter - what the reading centers on.",
+          "keywords": ["focus", "center", "present", "core", "heart"]
+        },
+        {
+          "name": "Near Future / Emerging",
+          "role": "middle",
+          "short_description": "What's emerging or near future",
+          "detailed_description": "What is developing or will soon manifest.",
+          "keywords": ["emerging", "developing", "near", "forming"]
+        },
+        {
+          "name": "Outcome / Destination",
+          "role": "last",
+          "short_description": "Final outcome or destination",
+          "detailed_description": "Where things are heading - the culmination of the reading.",
+          "keywords": ["outcome", "destination", "result", "future"]
+        }
+      ]
+    }
+  ],
+
+  "houses": {
+    "description": "In Grand Tableau, each position corresponds to a card's 'house'. When a card lands in a house, the house meaning colors the card's interpretation.",
+    "positions": [
+      { "number": 1, "house_card": "the_rider", "meaning": "News, messages, beginnings, what's arriving" },
+      { "number": 2, "house_card": "the_clover", "meaning": "Luck, quick opportunities, small blessings" },
+      { "number": 3, "house_card": "the_ship", "meaning": "Travel, commerce, foreign matters, journeys" },
+      { "number": 4, "house_card": "the_house", "meaning": "Home, family, domestic matters, stability" },
+      { "number": 5, "house_card": "the_tree", "meaning": "Health, growth, roots, long-term matters" },
+      { "number": 6, "house_card": "the_clouds", "meaning": "Confusion, uncertainty, hidden matters" },
+      { "number": 7, "house_card": "the_snake", "meaning": "Complications, wisdom, detours, another woman" },
+      { "number": 8, "house_card": "the_coffin", "meaning": "Endings, transformation, closure, grief" },
+      { "number": 9, "house_card": "the_bouquet", "meaning": "Gifts, beauty, appreciation, social matters" },
+      { "number": 10, "house_card": "the_scythe", "meaning": "Decisions, cuts, sudden events, harvest" },
+      { "number": 11, "house_card": "the_whip", "meaning": "Conflict, repetition, passion, arguments" },
+      { "number": 12, "house_card": "the_birds", "meaning": "Communication, gossip, conversations, anxiety" },
+      { "number": 13, "house_card": "the_child", "meaning": "New beginnings, innocence, small matters, children" },
+      { "number": 14, "house_card": "the_fox", "meaning": "Work, cunning, self-interest, employment" },
+      { "number": 15, "house_card": "the_bear", "meaning": "Power, authority, finances, mother figure" },
+      { "number": 16, "house_card": "the_stars", "meaning": "Hope, guidance, spirituality, wishes" },
+      { "number": 17, "house_card": "the_stork", "meaning": "Change, improvement, relocation, pregnancy" },
+      { "number": 18, "house_card": "the_dog", "meaning": "Friendship, loyalty, trust, support" },
+      { "number": 19, "house_card": "the_tower", "meaning": "Authority, institutions, isolation, boundaries" },
+      { "number": 20, "house_card": "the_garden", "meaning": "Social life, public matters, gatherings, reputation" },
+      { "number": 21, "house_card": "the_mountain", "meaning": "Obstacles, delays, blockages, challenges" },
+      { "number": 22, "house_card": "the_crossroads", "meaning": "Choices, decisions, options, paths" },
+      { "number": 23, "house_card": "the_mice", "meaning": "Loss, worry, theft, gradual decline" },
+      { "number": 24, "house_card": "the_heart", "meaning": "Love, passion, emotions, the heart's desire" },
+      { "number": 25, "house_card": "the_ring", "meaning": "Commitment, contracts, cycles, partnership" },
+      { "number": 26, "house_card": "the_book", "meaning": "Secrets, knowledge, education, the unknown" },
+      { "number": 27, "house_card": "the_letter", "meaning": "Documents, written communication, news" },
+      { "number": 28, "house_card": "the_gentleman", "meaning": "Male querent, significant man, masculine energy" },
+      { "number": 29, "house_card": "the_lady", "meaning": "Female querent, significant woman, feminine energy" },
+      { "number": 30, "house_card": "the_lily", "meaning": "Wisdom, maturity, sensuality, purity, father figure" },
+      { "number": 31, "house_card": "the_sun", "meaning": "Success, happiness, vitality, clarity" },
+      { "number": 32, "house_card": "the_moon", "meaning": "Emotions, intuition, recognition, cycles" },
+      { "number": 33, "house_card": "the_key", "meaning": "Solutions, certainty, unlocking, significance" },
+      { "number": 34, "house_card": "the_fish", "meaning": "Money, business, abundance, flow" },
+      { "number": 35, "house_card": "the_anchor", "meaning": "Stability, work, perseverance, grounding" },
+      { "number": 36, "house_card": "the_cross", "meaning": "Burden, fate, spirituality, suffering, destiny" }
+    ]
+  }
+}
