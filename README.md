@@ -14,6 +14,26 @@ A Python tarot reading engine with two-layer interpretation: deterministic assem
 - **PDF report generation:** Beautiful reading reports via Typst with spread visualization and card-by-card sections
 - **Extensible design:** Protocol-based architecture ready for Lenormand, Kipper, and other oracle systems
 
+## Examples
+
+See [`examples/cookbook.ipynb`](https://github.com/katelouie/arcanite/blob/main/examples/cookbook.ipynb) for a complete walkthrough of the pipeline, including:
+
+- Loading decks and spreads
+- Creating readings
+- Layer 1 deterministic assembly
+- Layer 2 LLM synthesis with different traditions
+- PDF generation
+- Question classification
+- Using local LLMs (Ollama)
+
+### PDF Report Examples
+
+See the `examples` directory for sample reading PDFs:
+
+- [`reading_deterministic.pdf`](https://github.com/katelouie/arcanite/blob/main/examples/reading_deterministic.pdf): A purely deterministic interpretation (no synthesis)
+- [`reading_synthesized.pdf`](https://github.com/katelouie/arcanite/blob/main/examples/reading_synthesized.pdf): A default "intuitive" LLM-synthesized reading
+- [`reading_synthesized_kate.pdf`](https://github.com/katelouie/arcanite/blob/main/examples/reading_synthesized_kate.pdf): A LLM-synthesized reading in the "house style" (warm, blunt and focused on querent agency)
+
 ## Installation
 
 ```bash
@@ -176,6 +196,7 @@ render_reading_to_pdf(
 ```
 
 The PDF includes:
+
 - Spread visualization with positioned cards
 - Card-by-card interpretations with keywords
 - Card relationships (if present)
@@ -191,17 +212,6 @@ Each card includes:
 - Elemental correspondences (element, zodiac, planet, colors, crystals, herbs)
 - Card relationships (amplifies, challenges, clarifies, similar/opposite energy)
 - Affirmations, journaling prompts, meditation focus
-
-## Examples
-
-See `examples/cookbook.ipynb` for a complete walkthrough of the pipeline, including:
-- Loading decks and spreads
-- Creating readings
-- Layer 1 deterministic assembly
-- Layer 2 LLM synthesis with different traditions
-- PDF generation
-- Question classification
-- Using local LLMs (Ollama)
 
 ## Roadmap
 
