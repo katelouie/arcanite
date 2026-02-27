@@ -11,6 +11,7 @@ A Python tarot reading engine with two-layer interpretation: deterministic assem
   - **Layer 2 (LLM Synthesis):** Weaves assembled context into flowing narrative using tradition-specific prompts
 - **Multiple LLM providers:** Anthropic (Claude), OpenAI, or local models via Ollama
 - **Question classification:** Auto-detect question type (love, career, spiritual, etc.) for context-aware interpretations
+- **PDF report generation:** Beautiful reading reports via Typst with spread visualization and card-by-card sections
 - **Extensible design:** Protocol-based architecture ready for Lenormand, Kipper, and other oracle systems
 
 ## Installation
@@ -20,6 +21,12 @@ pip install arcanite
 
 # For LLM features:
 pip install arcanite[llm]
+
+# For PDF generation:
+pip install arcanite[pdf]
+
+# Everything:
+pip install arcanite[all]
 ```
 
 ## Quick Start
@@ -92,6 +99,7 @@ This means the LLM doesn't generate interpretations from scratch—it synthesize
 Customize the LLM's interpretive style with tradition prompts:
 
 - `intuitive` - Warm, accessible, practical guidance (default)
+- `kate-signature` - Psychologically rich, analytical, "compassionate scalpel" style with macro-analysis of elemental shifts and empowerment through accountability
 - More traditions coming soon (Jungian, Golden Dawn, etc.)
 
 ## Deterministic-Only Mode
@@ -137,6 +145,42 @@ synthesizer = ReadingSynthesizer(provider=provider, tradition="intuitive")
 result = await synthesizer.synthesize(reading, context)
 ```
 
+## PDF Generation
+
+Generate beautiful PDF reports with spread visualization:
+
+```python
+from arcanite.render import render_reading_to_pdf
+
+# Get layout positions from spread
+layout_positions = [
+    (pos.x, pos.y, pos.rotation)
+    for pos in spread.layout.positions
+]
+
+# Render deterministic-only PDF
+render_reading_to_pdf(
+    reading=context,  # AssembledContext
+    output_path="reading.pdf",
+    title="Your Reading",
+    layout_positions=layout_positions,
+)
+
+# Or render with LLM synthesis
+render_reading_to_pdf(
+    reading=synthesized,  # SynthesizedReading
+    output_path="reading_full.pdf",
+    title="Your Reading",
+    layout_positions=layout_positions,
+)
+```
+
+The PDF includes:
+- Spread visualization with positioned cards
+- Card-by-card interpretations with keywords
+- Card relationships (if present)
+- Synthesized reading narrative (if LLM-generated)
+
 ## Card Data Structure
 
 Each card includes:
@@ -148,11 +192,23 @@ Each card includes:
 - Card relationships (amplifies, challenges, clarifies, similar/opposite energy)
 - Affirmations, journaling prompts, meditation focus
 
+## Examples
+
+See `examples/cookbook.ipynb` for a complete walkthrough of the pipeline, including:
+- Loading decks and spreads
+- Creating readings
+- Layer 1 deterministic assembly
+- Layer 2 LLM synthesis with different traditions
+- PDF generation
+- Question classification
+- Using local LLMs (Ollama)
+
 ## Roadmap
 
-- [ ] PDF report generation with Typst
+- [x] PDF report generation with Typst
+- [x] Lenormand support foundation (schema + spreads)
 - [ ] More tradition prompts (Jungian, Golden Dawn, Marseille)
-- [ ] Lenormand deck support
+- [ ] Complete Lenormand deck (36 cards)
 - [ ] Web interface
 
 ## License

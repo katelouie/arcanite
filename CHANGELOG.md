@@ -24,6 +24,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Layouts for horizontal line readings
 - **New tradition prompts**:
   - `kate-signature.yaml`: Psychologically rich, analytical, "compassionate scalpel" style (based off of an LLM evaluation of my own sample reading style)
+- **PDF report generation**: Full Typst-based PDF rendering system
+  - `TypstRenderer` class for generating reading reports
+  - `render_reading_to_pdf()` convenience function
+  - Spread visualization with positioned cards
+  - Card-by-card sections with interpretations and keywords
+  - Conditional synthesis section (only shown for LLM-generated readings)
+  - Card relationship display
+  - Uses Python `typst` package (no CLI required)
+- **Cookbook example**: `examples/cookbook.ipynb` demonstrating the full pipeline
+  - Loading decks and spreads
+  - Creating readings and assembling context
+  - Deterministic and LLM-synthesized PDFs
+  - Question classification
+  - Multiple tradition prompts
+  - Local LLM usage (Ollama)
 
 ### Changed
 
