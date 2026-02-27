@@ -1,0 +1,172 @@
+{
+  "id": "the_lady",
+  "number": 29,
+  "name": "The Lady",
+  "playing_card": "Ace of Spades",
+  "system": "lenormand",
+  "image_file": "29.jpg",
+
+  "image": "A well-dressed woman, standing and facing the viewer. She is the female querent or the primary female figure in the reading. Her identity is defined by the cards around her.",
+
+  "core": {
+    "keywords": ["female querent", "woman", "wife", "girlfriend", "mother", "female significator", "feminine energy"],
+    "charge": "neutral",
+    "category": "person",
+    "topics": ["the querent", "female figure", "primary woman", "significator", "identity"]
+  },
+
+  "timing": {
+    "thematic": "present",
+    "duration": null,
+    "season": null,
+    "speed": null,
+    "direction": null
+  },
+
+  "as_person": "The female querent themselves, or the primary female figure in the reading. If the querent is female, this IS them. If the querent is male, this is typically the most significant woman in their life—partner, love interest, mother, or central female figure in the question.",
+
+  "modifier_behavior": {
+    "type": "pivot",
+    "as_modifier": "Personalizes the card it touches to the female querent or primary female figure. Whatever is next to the Lady belongs to her, describes her, or directly affects her.",
+    "as_modified": "The card's core meaning defines the Lady's current state, situation, or approach. Card A is what's happening TO her or what characterizes her right now."
+  },
+
+  "topic_contexts": {
+    "love": "The female partner, the woman in the romance, the woman you're asking about. Her heart, her feelings, her approach to the relationship. In a love reading, every card near the Lady paints her emotional portrait.",
+    "career": "The woman's professional identity, her career, her work situation. The Lady at work—defined by what surrounds her in the spread.",
+    "health": "The woman's health, her body, her physical condition. Cards near the Lady in a health reading describe her physical state.",
+    "finances": "The woman's financial situation, her money, her material resources. The Lady's finances—defined by proximity.",
+    "spiritual": "The woman's spiritual state, her inner life, her soul journey. The Lady's deepest self—what the cards around her reveal about who she really is."
+  },
+
+  "line_reading": {
+    "as_first": "The matter begins with the woman herself. She is the subject, the actor, the one who sets things in motion. The reading is about her or starts from her perspective.",
+    "as_middle": "The woman is at the center of the situation. She stands between forces, influenced by what comes before and reaching toward what follows.",
+    "as_last": "The outcome centers on the woman. She is the resolution, the destination, or the one who receives the consequences. It comes back to her."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Lady appears BEFORE (left of) another card, she is moving toward, reaching for, or focused on Card B. Whatever Card B represents is what the woman wants, faces, or is heading into.",
+    "as_card_b": "When The Lady appears AFTER (right of) another card, Card A is what's behind her, influencing her, or defining her recent past and current state. Think: '[Card A] shapes the woman' or 'the woman comes from [Card A].'",
+    "with_positive_card": "The woman is in a good state, blessed by this energy, or moving toward something positive.",
+    "with_negative_card": "The woman is challenged, burdened, or facing difficulty. The negative energy defines her current struggle.",
+    "with_person_card": "The woman is in direct relationship with this person—the Gentleman is her partner, the Child is her child or new beginning, etc.",
+    "with_object_card": "The woman is defined by, connected to, or engaged with this object or concept. It's part of her current story."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "The woman looks toward the man, the woman desires the man, the couple with the woman reaching. Her focus is on him.",
+      "as_second": "The man influences the woman, the man is behind the woman, the couple with the man holding ground. He defines her right now."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A woman with a child, a woman beginning something new, a woman who is naive or fresh to something. The woman and the new beginning.",
+      "as_second": "A new beginning defines the woman, a child influences her, something young and fresh shapes her identity."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "A woman in love, a woman reaching for love, a woman focused on romance. Her heart leads.",
+      "as_second": "Love defines the woman, the heart shapes her, emotion characterizes her current state. She is loved—or lovesick."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A committed woman, a woman reaching for partnership, a wife or fiancée. She's ready to bind.",
+      "as_second": "Commitment defines the woman, a contract shapes her, partnership characterizes her identity. She is bound."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "A successful woman, a happy woman, a woman moving toward joy. She shines.",
+      "as_second": "Success defines the woman, joy shapes her, happiness characterizes her current state."
+    },
+    {
+      "with": "the_dog",
+      "with_number": 18,
+      "category": "positive",
+      "as_first": "A loyal woman, a woman reaching for friendship, a trustworthy woman. A woman with her best friend.",
+      "as_second": "Loyalty defines the woman, friendship shapes her, trust characterizes her identity."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "A woman facing complications, a woman reaching into a tangle, a woman deceived or deceiving.",
+      "as_second": "Complications define the woman, deception shapes her, a complicated situation influences her."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A woman facing an ending, a woman moving toward closure, a grieving woman.",
+      "as_second": "An ending defines the woman, loss shapes her, the woman comes from a place of closure or grief."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "A cunning woman, a woman facing deception, a woman who is not what she seems.",
+      "as_second": "Cunning defines the woman, deception shapes her, the fox characterizes her approach."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "A burdened woman, a woman facing her fate, a woman carrying suffering. She walks toward the cross.",
+      "as_second": "Burden defines the woman, fate shapes her, suffering characterizes her current state."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "object",
+      "as_first": "A traveling woman, a woman heading abroad, a woman in commerce. She sails.",
+      "as_second": "Travel defines the woman, distance shapes her, foreign connections characterize her identity."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "A domestic woman, a woman focused on home, a woman heading home. She belongs to the house.",
+      "as_second": "Home defines the woman, family shapes her, domestic stability characterizes her identity."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "An ambitious woman, a woman heading toward authority, a corporate or government woman.",
+      "as_second": "Authority defines the woman, the institution shapes her, power characterizes her identity."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "object",
+      "as_first": "A wealthy woman, a businesswoman, a woman focused on finances.",
+      "as_second": "Money defines the woman, business shapes her, finances characterize her identity."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "object",
+      "as_first": "A hardworking woman, a woman focused on stability, a reliable woman heading toward her purpose.",
+      "as_second": "Work defines the woman, stability shapes her, dedication characterizes her identity."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of the Woman — Cards landing here describe the female querent or primary female figure. This house IS her—whatever falls here paints her portrait.",
+    "near_significator": "If this IS the significator, all nearby cards describe her current situation, environment, and immediate influences. Read the cards closest to her first.",
+    "far_from_significator": "If reading for the Gentleman, a distant Lady suggests she is far from his concerns, physically distant, or emotionally removed.",
+    "diagonal_or_corner": "The woman's influence operates subtly—present but not dominant in the current situation."
+  }
+}

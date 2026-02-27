@@ -1,0 +1,172 @@
+{
+  "id": "the_mountain",
+  "number": 21,
+  "name": "The Mountain",
+  "playing_card": "8 of Clubs",
+  "system": "lenormand",
+  "image_file": "21.jpg",
+
+  "image": "A massive, immovable mountain dominating the landscape. Snow-capped, ancient, impassive. It doesn't care about your plans. It was here before you and will be here after.",
+
+  "core": {
+    "keywords": ["obstacle", "delay", "blockage", "challenge", "stubbornness", "immovable", "endurance", "barrier"],
+    "charge": "negative",
+    "category": "nature",
+    "topics": ["obstacles", "delays", "challenges", "patience", "endurance", "stubbornness", "blockages"]
+  },
+
+  "timing": {
+    "thematic": "delayed",
+    "duration": "months_to_years",
+    "season": "winter",
+    "speed": "glacial",
+    "direction": "static"
+  },
+
+  "as_person": "A stubborn, immovable person. A blocker, an obstacle-maker, someone who won't budge. Can also be someone with incredible endurance and resilience—the person who weathers everything. An enemy or rival who simply won't give ground.",
+
+  "modifier_behavior": {
+    "type": "negator",
+    "as_modifier": "Blocks, delays, or obstructs the card it touches. Whatever is next to the Mountain is stuck, stalled, or facing an immovable barrier. The Mountain doesn't destroy—it simply refuses to move.",
+    "as_modified": "The card's core meaning encounters the Mountain's resistance. What was flowing stops; what was progressing stalls. The obstacle takes on the quality of whatever card precedes it."
+  },
+
+  "topic_contexts": {
+    "love": "Emotional walls, a partner who is emotionally unavailable or stubborn. Obstacles to love—distance, family disapproval, fear of vulnerability. A relationship that feels like pushing against stone.",
+    "career": "Career blocks, stalled promotions, immovable bureaucracy. A professional challenge that requires patience rather than force. The project that won't move forward no matter what you do.",
+    "health": "Chronic conditions, slow recovery, health obstacles that require endurance. Something that won't heal quickly—patience is the only medicine. Physical rigidity, tension, stiffness.",
+    "finances": "Financial obstacles, frozen assets, stalled investments. Money that won't come through, a deal stuck in limbo. Financial patience required—this isn't moving anytime soon.",
+    "spiritual": "Spiritual blockage, feeling stuck on the path, a practice that's hit a wall. The dark night of the soul. But also: the mountain as sacred ground, spiritual endurance, the strength that comes from stillness."
+  },
+
+  "line_reading": {
+    "as_first": "There's an obstacle at the start. The matter faces a significant block, delay, or challenge before it can even begin. Patience will be tested immediately.",
+    "as_middle": "An obstacle enters the situation. Progress stalls, a barrier appears, or stubbornness (yours or someone else's) creates a blockage in the middle of things.",
+    "as_last": "The outcome involves an obstacle or delay. Resolution is blocked or significantly slowed. This doesn't mean failure—it means patience. The mountain doesn't move, but you can climb it or go around."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Mountain appears BEFORE (left of) another card, it blocks or delays Card B. Whatever Card B represents is obstructed, stalled, or requires immense patience to achieve. Think: 'blocked [Card B]' or '[Card B] is delayed / stuck.'",
+    "as_card_b": "When The Mountain appears AFTER (right of) another card, Card A leads to an obstacle or standstill. Think: '[Card A] hits a wall' or '[Card A] creates an immovable situation.' Card A meets the mountain.",
+    "with_positive_card": "The good thing is blocked or delayed—not destroyed, but frustratingly out of reach. The blessing is behind the mountain.",
+    "with_negative_card": "Double difficulty. The problem is entrenched and immovable. Two stubborn forces creating a deadlock. Or: the obstacle blocks the bad thing too.",
+    "with_person_card": "That person is stubborn, blocked, emotionally unavailable, or facing their own obstacles. They are the mountain—or they're stuck behind one.",
+    "with_object_card": "That object or concept is stalled, frozen, or blocked. Progress on this front requires extraordinary patience."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A blocked man, a stubborn man, a man who IS the obstacle. A man who won't budge or who is stuck himself.",
+      "as_second": "A man hits a wall, a man faces an immovable challenge, a man's path is blocked. He can't get through."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A blocked woman, a stubborn woman, a woman who IS the obstacle. A woman who won't budge or who is stuck herself.",
+      "as_second": "A woman hits a wall, a woman faces an immovable challenge, a woman's path is blocked. She can't get through."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A new beginning is blocked, a child faces obstacles, a fresh start delayed. The mountain doesn't care that you're young and eager.",
+      "as_second": "Something new encounters the mountain, a fresh start hits a wall, innocence meets immovability."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Love blocked, emotional walls, a heart behind stone. The feelings are there but can't be reached or expressed.",
+      "as_second": "Love hits a wall, the heart encounters immovable resistance, romance stalls. Emotional patience required."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "A blocked solution, a delayed breakthrough, a challenge to finding the answer. The key exists—but the mountain sits on it.",
+      "as_second": "A breakthrough encounters resistance, the solution hits a wall, the key meets the lock but it won't turn. Yet."
+    },
+    {
+      "with": "the_star",
+      "with_number": 16,
+      "category": "positive",
+      "as_first": "Hope blocked, delayed aspirations, a dream facing obstacles. The star is behind the mountain—you know it's there but can't see it yet.",
+      "as_second": "Hope encounters the mountain, aspirations face delay, faith is tested by immovable reality. Keep looking up."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Success blocked, joy delayed, happiness facing obstacles. The sun can't reach what the mountain shadows.",
+      "as_second": "Success hits a wall, joy encounters resistance, happiness is delayed but not destroyed."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A permanent block, an ending that creates immovable obstacles, total stagnation. The mountain and the coffin: nothing moves, nothing lives, nothing changes.",
+      "as_second": "An ending is blocked (can be positive—the bad thing can't fully end you), or closure is impossibly delayed."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "A complicated obstacle, an obstacle with hidden aspects, a deceptive blockage. The mountain has a snake in its caves.",
+      "as_second": "Complications hit a wall, deception is blocked (or: deception creates an immovable problem)."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "A fated obstacle, a burden that blocks everything, suffering from immovable circumstances. The heaviest combination—a mountain of crosses.",
+      "as_second": "A burden becomes immovable, suffering hits a wall (for better or worse), fate encounters the mountain."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "An obstacle eroded by small worries, a blockage that anxiety makes worse, a mountain that the mice are slowly eating. Erosion of the barrier—or erosion of your patience.",
+      "as_second": "Anxiety hits a wall, worry encounters something immovable, small losses pile up against the mountain."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "object",
+      "as_first": "Travel blocked, journey delayed, a trip that can't happen yet. The mountain blocks the harbor.",
+      "as_second": "A journey encounters an obstacle, travel hits a wall, movement is stalled by something immovable."
+    },
+    {
+      "with": "the_path",
+      "with_number": 22,
+      "category": "object",
+      "as_first": "Choices blocked, a decision delayed, all paths obstructed. The mountain sits at the crossroads.",
+      "as_second": "A choice encounters an obstacle, a decision hits a wall, the path leads to the mountain. You'll need to find a way around."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "object",
+      "as_first": "Work blocked, stability obstructed, career stalled. The anchor is stuck against the mountain—doubly immovable.",
+      "as_second": "Stability encounters an obstacle, work hits a wall, the anchor can't find ground."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "Institutional obstacles, bureaucratic blockage, authority that won't budge. The mountain and the tower: immovable meets immovable.",
+      "as_second": "Authority encounters an obstacle, institutional matters stall, the tower meets something even more unyielding."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Obstacles — Cards landing here speak to where blockages, delays, or challenges exist in the querent's life. This house asks: what's stuck? What won't move?",
+    "near_significator": "Obstacles are front and center. The querent is facing significant blockages or delays. Patience and strategy are needed—force won't work.",
+    "far_from_significator": "Obstacles are distant or minor. The querent's path is relatively clear, or the blockages aren't relevant to their main concerns right now.",
+    "diagonal_or_corner": "Obstacles operate in the background. Something is quietly blocking or delaying progress, but it's not the main drama—yet."
+  }
+}

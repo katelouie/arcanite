@@ -1,0 +1,179 @@
+{
+  "id": "the_heart",
+  "number": 24,
+  "name": "The Heart",
+  "playing_card": "Jack of Hearts",
+  "system": "lenormand",
+  "image_file": "24.jpg",
+
+  "image": "A bright red heart, full and vivid. Not anatomical—symbolic. The universal sign for love, passion, and emotional truth. It doesn't hide what it is.",
+
+  "core": {
+    "keywords": ["love", "passion", "romance", "emotion", "desire", "compassion", "affection", "attraction", "warmth"],
+    "charge": "positive",
+    "category": "abstract",
+    "topics": ["love", "romance", "passion", "emotions", "desire", "relationships", "compassion", "attraction"]
+  },
+
+  "timing": {
+    "thematic": "emotional",
+    "duration": "weeks_to_months",
+    "season": "spring",
+    "speed": "moderate",
+    "direction": "toward"
+  },
+
+  "as_person": "A lover, a romantic partner, a compassionate soul. Someone who leads with their heart. The person you're in love with—or the person in love with you. Warm, generous, emotionally available.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds love, passion, emotional warmth, or romantic quality to the card it touches. Whatever is next to the Heart is loved, desired, or approached with genuine feeling. The Heart ennobles what it touches.",
+    "as_modified": "The card's core meaning becomes the object of love or the context for romance. Card A is what the heart loves, what stirs passion, or the circumstance that opens the heart."
+  },
+
+  "topic_contexts": {
+    "love": "The Heart in a love reading is the whole story: deep romantic love, mutual attraction, passion, emotional honesty. This is the real thing—not infatuation, not convenience. Love that matters.",
+    "career": "Passion for your work, loving what you do, a career driven by heart rather than strategy. The project that lights you up. Professional relationships built on genuine warmth and care.",
+    "health": "Heart health (literally), cardiovascular concerns, but also emotional health—the body responding to love or heartbreak. Healing through compassion and emotional connection.",
+    "finances": "Generous spending, money given with love, financial decisions driven by heart rather than head. Charity, gifts, investing in what you love rather than what's safe.",
+    "spiritual": "Devotional practice, bhakti, the path of love. Compassion as spiritual practice. The heart opening as the central spiritual event. Love as the answer to every question you think is about something else."
+  },
+
+  "line_reading": {
+    "as_first": "The matter is about love. Romance, passion, or deep emotional connection opens the reading. The heart speaks first.",
+    "as_middle": "Love enters the situation. Emotion, passion, or romantic feeling shifts the dynamic. The heart arrives in the middle of the story and changes everything.",
+    "as_last": "The outcome is love. Romance, emotional fulfillment, or heartfelt connection resolves the matter. The heart gets the last word."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Heart appears BEFORE (left of) another card, it loves or desires Card B. Whatever Card B represents is the object of affection, the focus of passion, or approached with genuine emotion. Think: 'love of [Card B]' or 'passion for [Card B].'",
+    "as_card_b": "When The Heart appears AFTER (right of) another card, Card A leads to love or stirs the heart. Think: '[Card A] opens the heart' or '[Card A] leads to romance.' Card A is the path to love.",
+    "with_positive_card": "Love amplified, romance blessed, the heart fully alive. Two good things together—this is the part of the reading that makes you smile.",
+    "with_negative_card": "Love complicated, the heart wounded, passion causing pain. Heartbreak, unrequited love, or love entangled with difficulty. The heart doesn't stop loving just because it hurts.",
+    "with_person_card": "That person is loved, loving, or the focus of romantic desire. The relationship with this person has genuine heart.",
+    "with_object_card": "That object or concept is loved, desired, or approached with emotional warmth. The heart reaches toward it."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A man who is loved, a loving man, the man your heart wants. He is the object of romantic desire.",
+      "as_second": "A man opens the heart, a man leads to love, a man stirs passion. Romance centers on him."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A woman who is loved, a loving woman, the woman your heart wants. She is the object of romantic desire.",
+      "as_second": "A woman opens the heart, a woman leads to love, a woman stirs passion. Romance centers on her."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "New love, love for a child, a young romance. The heart opens to something fresh, innocent, and just beginning.",
+      "as_second": "A new beginning opens the heart, something young stirs love, a fresh start leads to romance."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "Love committed, a romance formalized, the heart's promise. Engagement, marriage, a love that binds. The most romantic combination in the deck.",
+      "as_second": "A commitment leads to love, a contract opens the heart, a bond deepens into genuine romance. The ring holds the heart."
+    },
+    {
+      "with": "the_bouquet",
+      "with_number": 9,
+      "category": "positive",
+      "as_first": "A beautiful romance, love expressed through gifts and charm, gracious passion. The heart in its most lovely form.",
+      "as_second": "Beauty opens the heart, a gift leads to love, charm stirs romance. The bouquet for the beloved."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Radiant love, joyful romance, a heart full of sunshine. The happiest love—warm, visible, glowing. No shadows.",
+      "as_second": "Joy opens the heart, success leads to romance, happiness stirs love. The sun warms the heart."
+    },
+    {
+      "with": "the_star",
+      "with_number": 16,
+      "category": "positive",
+      "as_first": "Hopeful love, love guided by faith, a romance that feels destined. The heart reaching toward a star.",
+      "as_second": "Hope opens the heart, faith leads to love, inspiration stirs romance. The star lights the heart's way."
+    },
+    {
+      "with": "the_dog",
+      "with_number": 18,
+      "category": "positive",
+      "as_first": "Loyal love, a faithful romance, love built on trust. The heart and the dog: devotion without conditions.",
+      "as_second": "Loyalty opens the heart, friendship leads to love, trust stirs romance. The best relationships start as friendships."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "Love ending, heartbreak, a romance that dies. The heart in the coffin—grief, mourning, the end of passion.",
+      "as_second": "An ending opens the heart (grief cracks you open), loss leads to love (loving what you had), closure stirs deep emotion."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Complicated love, a romance with deception, passion with hidden agendas. The heart that loves someone untrustworthy.",
+      "as_second": "Complications open the heart (some people only fall for the complicated ones), deception leads to misplaced love."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "Love as suffering, a romance that is a burden, the heart's fated pain. Loving someone you can't have, or loving someone who brings you to your knees.",
+      "as_second": "Suffering opens the heart, a burden leads to compassion, fate delivers love—and it's heavy."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "Blocked love, a heart facing an immovable obstacle, romance stalled. The love is real—the wall between you is also real.",
+      "as_second": "An obstacle opens the heart (you realize what you love when it's threatened), a blockage leads to longing."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "object",
+      "as_first": "Love across distance, a romantic journey, passion that travels. The heart that yearns for someone far away.",
+      "as_second": "A journey opens the heart, travel leads to romance, distance stirs longing. Love found abroad."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "Domestic love, love of home, romance at home. The heart settled and warm—love in slippers, not heels.",
+      "as_second": "Home opens the heart, family leads to love, domestic life stirs emotion. Coming home to love."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "object",
+      "as_first": "Love as the answer, the heart that unlocks everything, passionate truth. Love IS the key—always was.",
+      "as_second": "A breakthrough opens the heart, a solution leads to love, the key turns in the heart's lock."
+    },
+    {
+      "with": "the_letter",
+      "with_number": 27,
+      "category": "object",
+      "as_first": "A love letter, written declarations of love, romance in correspondence. The heart puts itself on paper.",
+      "as_second": "A message opens the heart, a letter leads to love, written words stir romance. The letter that changes everything."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Love — Cards landing here speak to the heart of the matter: romance, passion, emotional truth, and what the querent truly loves. This house asks: what do you love? What loves you back?",
+    "near_significator": "Love is central. The querent's life is currently defined by romantic feeling, passion, or matters of the heart. Emotion is running the show.",
+    "far_from_significator": "Love is distant or not the focus. Romance is peripheral right now—the heart is quiet, or love simply isn't the main story.",
+    "diagonal_or_corner": "Love subtly influences the situation. Romantic feelings or emotional warmth are present in the background, coloring things the querent may not be consciously aware of."
+  }
+}

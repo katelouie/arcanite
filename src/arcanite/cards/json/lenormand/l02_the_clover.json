@@ -1,0 +1,179 @@
+{
+  "id": "the_clover",
+  "number": 2,
+  "name": "The Clover",
+  "playing_card": "6 of Diamonds",
+  "system": "lenormand",
+  "image_file": "02.jpg",
+
+  "image": "A small, bright green four-leaf clover growing in a sunlit patch. Simple, unassuming, lucky. The kind of thing you'd miss if you weren't looking down at the right moment.",
+
+  "core": {
+    "keywords": ["luck", "chance", "small blessing", "opportunity", "lightness", "quick fortune", "gamble", "serendipity"],
+    "charge": "positive",
+    "category": "nature",
+    "topics": ["luck", "opportunity", "chance", "gambling", "small pleasures", "quick wins"]
+  },
+
+  "timing": {
+    "thematic": "fleeting",
+    "duration": "days",
+    "season": "spring",
+    "speed": "fast",
+    "direction": null
+  },
+
+  "as_person": "A lucky person, a gambler, someone carefree and lighthearted. A person who stumbles into good fortune. The friend who always finds a parking spot. Someone who doesn't take life too seriously.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds luck, lightness, or a small blessing to the card it touches. Softens negative cards slightly—not a cure, but a silver lining. Makes positive cards luckier.",
+    "as_modified": "The card's core meaning becomes fortunate, eased, or serendipitous. What was difficult gets a lucky break; what was good gets a bonus. The effect is real but brief."
+  },
+
+  "topic_contexts": {
+    "love": "A lucky encounter, a chance meeting with romantic potential. A small flirtation, a happy coincidence in love. Light, playful romantic energy—not the great love, but the delightful spark.",
+    "career": "A small professional opportunity, a lucky break at work, being in the right place at the right time. A quick win, a favorable gamble. Don't overthink it—grab it.",
+    "health": "Quick recovery, a small health improvement, good news from a test. A lucky health outcome. The body bouncing back faster than expected.",
+    "finances": "A small financial windfall, a lucky bet, finding money or a deal. Quick gains rather than long-term wealth. A pleasant financial surprise.",
+    "spiritual": "Synchronicities, small signs from the universe, lucky coincidences that feel guided. The spiritual equivalent of finding a four-leaf clover—a wink from something larger."
+  },
+
+  "line_reading": {
+    "as_first": "The situation opens with a stroke of luck or a small opportunity. Something fortunate sets the stage—but it may be fleeting, so pay attention.",
+    "as_middle": "Luck enters the picture. A fortunate turn, a small blessing, or a moment of levity shifts the energy. The middle of the story gets a break.",
+    "as_last": "The outcome is fortunate, if modest. A small blessing, a lucky break, a positive resolution. Not a grand triumph—but a genuine, sweet win."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Clover appears BEFORE (left of) another card, it blesses Card B with luck or ease. Whatever Card B represents arrives fortunately, smoothly, or with serendipity. Think: 'lucky [Card B]' or '[Card B] with ease.'",
+    "as_card_b": "When The Clover appears AFTER (right of) another card, Card A's energy leads to a small blessing or lucky outcome. Think: '[Card A] brings good fortune' or '[Card A] ends well.' Card A lands on a four-leaf clover.",
+    "with_positive_card": "Double luck, amplified blessings, fortune on fortune. The good thing becomes even better. A charmed outcome.",
+    "with_negative_card": "The sting is softened, the blow is cushioned, a silver lining appears. Not a rescue—but the worst case becomes less worst. Lucky escape.",
+    "with_person_card": "That person is lucky, lighthearted, or brings a small blessing. They're the fortunate element in the situation. Lucky connection.",
+    "with_object_card": "That thing or concept is touched by luck, arrives fortunately, or has a serendipitous quality. It's the fortunate detail in the picture."
+  },
+
+  "combinations": [
+    {
+      "with": "the_rider",
+      "with_number": 1,
+      "category": "neutral",
+      "as_first": "Lucky news, a fortunate message arrives, a visitor bringing small blessings. Good news comes quickly.",
+      "as_second": "News brings luck, a message creates opportunity, a visitor triggers a fortunate turn."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "neutral",
+      "as_first": "Lucky journey, fortunate travel, commerce brings quick gains. A trip goes smoothly and brings small blessings.",
+      "as_second": "Luck comes from afar, opportunity through travel, fortunate distance. Good fortune arrives from foreign quarters."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "neutral",
+      "as_first": "Lucky home, fortunate domestic situation, a blessing for family or property. The house is charmed.",
+      "as_second": "Home brings luck, domestic stability creates opportunity, family life delivers a small fortune."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "Luck runs out, a small blessing ends, the window of fortune closes. Fleeting luck that's already passed.",
+      "as_second": "An ending brings unexpected relief, closure is luckier than expected, the death of something opens a fortunate door."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Luck with complications, a fortunate opportunity that comes with strings. The four-leaf clover has a snake underneath.",
+      "as_second": "A complication leads to an unexpected blessing, deception accidentally creates opportunity. Twisted luck."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "Luck being eroded, a small blessing diminished by worry, fortune nibbled away. The clover is wilting.",
+      "as_second": "Anxiety stumbles into fortune, worry accidentally leads somewhere lucky, loss creates unexpected gain."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "A small blessing in suffering, luck within burden, a fortunate aspect to a difficult fate. The silver lining.",
+      "as_second": "A burden leads to unexpected luck, suffering opens a fortunate door, destiny delivers a small grace."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Lucky in love, a fortunate romantic encounter, a small blessing in matters of the heart. Serendipitous romance.",
+      "as_second": "Love leads to luck, following the heart pays off, an emotional risk is rewarded. The heart finds its clover."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Exceptional luck, fortune amplified, a truly blessed outcome. The luckiest combination—grab whatever this touches.",
+      "as_second": "Success brings more luck, joy creates fortunate circumstances, happiness compounds. The sun shines on the clover."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "positive",
+      "as_first": "Financial luck, a lucky investment, a small windfall that leads to abundance. Money falls into your lap.",
+      "as_second": "Money brings a lucky opportunity, finances open a fortunate door, abundance leads to more abundance."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "Lucky breakthrough, a fortunate solution, serendipity unlocks something important. The answer finds you.",
+      "as_second": "A solution brings luck, unlocking something leads to good fortune, the key fits on the first try."
+    },
+    {
+      "with": "the_path",
+      "with_number": 22,
+      "category": "neutral",
+      "as_first": "A lucky choice, the fortunate path, one option is clearly luckier than the other. Trust your gut—it's charmed.",
+      "as_second": "A decision leads to luck, choosing creates fortune, the fork in the road has a four-leaf clover on one side."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "neutral",
+      "as_first": "Luck within institutions, a fortunate official outcome, a bureaucratic win. Lucky with authority.",
+      "as_second": "An institution creates a lucky break, official channels deliver an unexpected blessing, authority works in your favor."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A lucky man, a man who brings good fortune, a fortunate encounter with a man. He's in the right place at the right time.",
+      "as_second": "A man leads to luck, a man creates a fortunate opportunity, a man is your four-leaf clover."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A lucky woman, a woman who brings good fortune, a fortunate encounter with a woman. She's your stroke of luck.",
+      "as_second": "A woman leads to luck, a woman creates a fortunate opportunity, a woman is your good omen."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A lucky new beginning, a fortunate fresh start, a small blessing for something young or new. Beginner's luck.",
+      "as_second": "A new start brings luck, a child brings joy and fortune, innocence leads to serendipity. Happy little accident."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Luck — Cards landing here speak to where fortune, serendipity, or small blessings are operating in the querent's life. This house asks: where is the luck? What's the fortunate break?",
+    "near_significator": "Luck is close. The querent is in a fortunate period—small blessings are available, opportunities are nearby. Grab them; they're fleeting.",
+    "far_from_significator": "Luck is distant or not yet in play. Fortune isn't the main story right now. The four-leaf clover is in someone else's yard—for the moment.",
+    "diagonal_or_corner": "Luck operates as background energy—not the headline, but quietly improving odds. Small fortunate coincidences may go unnoticed unless the querent pays attention."
+  }
+}

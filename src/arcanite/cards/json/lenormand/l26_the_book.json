@@ -1,0 +1,165 @@
+{
+  "id": "the_book",
+  "number": 26,
+  "name": "The Book",
+  "playing_card": "10 of Diamonds",
+  "system": "lenormand",
+  "image_file": "26.jpg",
+
+  "image": "A closed book, leather-bound, with pages full of things not yet revealed. It holds knowledge—but also secrets. You have to open it to know what's inside.",
+
+  "core": {
+    "keywords": ["secrets", "knowledge", "education", "hidden", "unknown", "study", "mystery", "discovery", "private"],
+    "charge": "neutral",
+    "category": "object",
+    "topics": ["secrets", "education", "knowledge", "hidden matters", "study", "research", "privacy", "discovery"]
+  },
+
+  "timing": {
+    "thematic": "hidden_until_revealed",
+    "duration": "weeks_to_months",
+    "season": "autumn",
+    "speed": "moderate",
+    "direction": null
+  },
+
+  "as_person": "A scholar, a student, a teacher, a keeper of secrets. Someone private, intellectual, or mysterious. The person who knows more than they're saying. An academic, a researcher, a quiet expert.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds secrecy, hidden dimensions, educational context, or unknown elements to the card it touches. Whatever is next to the Book has something concealed, something to be learned, or something not yet known.",
+    "as_modified": "The card's core meaning is the secret or the subject of study. Card A is what the Book conceals—or what drives the quest for knowledge."
+  },
+
+  "topic_contexts": {
+    "love": "A secret romance, a hidden attraction, a relationship with an intellectual or academic. Love that hasn't been declared. The partner who has secrets—or the love affair no one knows about.",
+    "career": "Education, professional development, research, intellectual work. A career in academia, writing, or knowledge work. The job opportunity you don't know about yet. Hidden professional dynamics.",
+    "health": "Hidden health conditions, test results not yet received, medical research. The diagnosis that hasn't been made. Something in the body that needs investigation—the book of the body not yet read.",
+    "finances": "Hidden finances, secret accounts, financial knowledge needed. Money you don't know about (inheritance, unknown debt). Financial education. The fine print.",
+    "spiritual": "Esoteric knowledge, mystery traditions, spiritual study. The wisdom that reveals itself only to the seeker. Secret teachings, hidden texts, the spiritual mysteries."
+  },
+
+  "line_reading": {
+    "as_first": "Something hidden opens the matter. A secret, an unknown factor, or a need for knowledge sets the stage. Not everything is visible yet.",
+    "as_middle": "A secret or piece of knowledge enters the situation. Something hidden is revealed, or something needs to be learned. The book opens in the middle of the story.",
+    "as_last": "The outcome involves revelation, education, or continued mystery. Either the secret comes out, the knowledge is gained—or the book stays closed and things remain unknown."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Book appears BEFORE (left of) another card, it hides or intellectualizes Card B. Whatever Card B represents is secret, unknown, or requires study to understand. Think: 'the secret of [Card B]' or 'hidden [Card B].'",
+    "as_card_b": "When The Book appears AFTER (right of) another card, Card A leads to secrets, knowledge, or hidden dimensions. Think: '[Card A] hides something' or '[Card A] leads to study.' Card A writes itself into the book.",
+    "with_positive_card": "A good secret, hidden blessings, knowledge that helps. The book contains good news—when you open it.",
+    "with_negative_card": "A dangerous secret, hidden problems, knowledge that hurts. The book contains what you were afraid to know.",
+    "with_person_card": "That person has secrets, is an intellectual, or is unknown to the querent. They're in the book—but you haven't read that chapter yet.",
+    "with_object_card": "That object or concept has hidden dimensions, requires study, or isn't what it appears. There's more to the story."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A secretive man, an intellectual man, a man with hidden aspects. A man you don't fully know yet.",
+      "as_second": "A man leads to secrets, a man triggers discovery, a man is the subject of the mystery."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A secretive woman, an intellectual woman, a woman with hidden aspects. A woman you don't fully know yet.",
+      "as_second": "A woman leads to secrets, a woman triggers discovery, a woman is the subject of the mystery."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A new secret, a young student, hidden beginnings. Something is just starting and no one knows about it yet.",
+      "as_second": "A new beginning leads to secrets, a fresh start triggers discovery, innocence opens the book."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "An important secret, knowledge that unlocks everything, a hidden answer. The book that holds the key—or the key that opens the book.",
+      "as_second": "A breakthrough reveals a secret, a solution leads to knowledge, the key opens the book. Discovery."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "A secret revealed, knowledge brought to light, hidden success. The book opens in sunlight—everything becomes clear.",
+      "as_second": "Success reveals a secret, joy comes through knowledge, the sun illuminates the book."
+    },
+    {
+      "with": "the_star",
+      "with_number": 16,
+      "category": "positive",
+      "as_first": "Inspired knowledge, a hopeful secret, hidden guidance. The book of stars—spiritual knowledge, destined discovery.",
+      "as_second": "Hope leads to discovery, faith opens the book, inspiration reveals what was hidden."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "A complicated secret, deceptive knowledge, hidden lies. The book is full of half-truths. What you discover may itself be a deception.",
+      "as_second": "Complications hide themselves, deception leads to secrets, the snake writes false pages in the book."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "Cunning secrets, deceptive knowledge, a hidden agenda. The book has been tampered with. Someone is hiding something for selfish reasons.",
+      "as_second": "Cunning leads to secrets, deception hides in knowledge, the fox guards the book."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A dead secret, buried knowledge, hidden endings. The book is closed for good—or the secret dies with someone.",
+      "as_second": "An ending reveals a secret, closure opens the book, death leads to discovery. The posthumous truth."
+    },
+    {
+      "with": "the_clouds",
+      "with_number": 6,
+      "category": "negative",
+      "as_first": "Confused secrets, muddled knowledge, hidden confusion. The book is written in a language you can't read. The secret only creates more questions.",
+      "as_second": "Confusion hides itself, uncertainty leads to secrets, the clouds obscure the book."
+    },
+    {
+      "with": "the_letter",
+      "with_number": 27,
+      "category": "object",
+      "as_first": "A secret document, hidden correspondence, private written knowledge. The book and the letter: information layered on information.",
+      "as_second": "A message reveals a secret, a document leads to knowledge, a letter opens the book."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "Institutional secrets, hidden authority, government classified information. The book in the tower—locked away, official, restricted.",
+      "as_second": "Authority hides something, an institution leads to secrets, the tower writes the book no one is allowed to read."
+    },
+    {
+      "with": "the_garden",
+      "with_number": 20,
+      "category": "object",
+      "as_first": "A public secret, social knowledge, hidden social dynamics. The book is open in the garden—everyone knows except you.",
+      "as_second": "Social life reveals a secret, a gathering leads to knowledge, the community opens the book."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "object",
+      "as_first": "A secret commitment, a hidden contract, knowledge about a bond. The book reveals the true nature of the partnership.",
+      "as_second": "A commitment leads to secrets, a contract reveals hidden knowledge, the ring opens the book."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Secrets — Cards landing here speak to what is hidden, unknown, or yet to be learned in the querent's life. This house asks: what don't you know? What's in the closed book?",
+    "near_significator": "Secrets are central. The querent is surrounded by hidden information, unknown factors, or the need for education. Not everything is as it appears.",
+    "far_from_significator": "Secrets are peripheral. Hidden matters aren't the main story, or the querent already knows what they need to know.",
+    "diagonal_or_corner": "Hidden factors subtly influence the situation. Something unknown is shaping events in the background—the unread chapter affecting the plot."
+  }
+}

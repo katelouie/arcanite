@@ -1,0 +1,179 @@
+{
+  "id": "the_clouds",
+  "number": 6,
+  "name": "The Clouds",
+  "playing_card": "King of Clubs",
+  "system": "lenormand",
+  "image_file": "06.jpg",
+
+  "image": "Dark, heavy clouds rolling across a sky, partially obscuring the sun. One side lighter, one side darker. Visibility is poor—you can't see what's coming or what you've left behind.",
+
+  "core": {
+    "keywords": ["confusion", "uncertainty", "doubt", "obscurity", "fog", "ambiguity", "depression", "muddled thinking"],
+    "charge": "negative",
+    "category": "nature",
+    "topics": ["confusion", "uncertainty", "mental fog", "depression", "unclear situations", "doubt"]
+  },
+
+  "timing": {
+    "thematic": "uncertain",
+    "duration": "days_to_weeks",
+    "season": "autumn",
+    "speed": "variable",
+    "direction": null
+  },
+
+  "as_person": "A confused or confusing person. Someone unreliable, moody, or unclear in their intentions. A person who brings doubt or clouds your judgment. An addict, a depressive, or simply someone who can't make up their mind.",
+
+  "modifier_behavior": {
+    "type": "negator",
+    "as_modifier": "Adds confusion, doubt, or obscurity to the card it touches. Whatever is next to the Clouds becomes unclear, uncertain, or muddied. Dims positive cards, deepens negative ones.",
+    "as_modified": "The card's core meaning becomes the source or context of the confusion. What was clear becomes foggy. The thing itself isn't the problem—the inability to see it clearly is."
+  },
+
+  "topic_contexts": {
+    "love": "Confusion in love, unclear feelings, a relationship muddled by doubt or miscommunication. Not knowing where you stand. A partner who blows hot and cold.",
+    "career": "Professional uncertainty, unclear career direction, a muddled work situation. Office politics creating fog. Not knowing whether to stay or go.",
+    "health": "Unclear diagnosis, mental fog, depression, confusion about symptoms. The health picture is obscured—more information is needed before acting.",
+    "finances": "Financial confusion, unclear money situation, muddled accounts. Not knowing what you actually have or owe. Hidden financial picture.",
+    "spiritual": "Spiritual doubt, dark night of the soul, loss of clarity or faith. The path forward is obscured. But clouds pass—this is temporary."
+  },
+
+  "line_reading": {
+    "as_first": "The situation opens in confusion or uncertainty. The querent can't see clearly—the starting point is muddled, and clarity hasn't arrived yet.",
+    "as_middle": "Confusion enters the situation. Something that was clear becomes muddied, or doubt disrupts the flow. A fog rolls in mid-story.",
+    "as_last": "The outcome is uncertain or unclear. Resolution hasn't crystallized yet. The situation ends in ambiguity—more time or information is needed."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Clouds appear BEFORE (left of) another card, they obscure Card B. Whatever Card B represents is unclear, doubtful, or muddied. Think: 'confusion about [Card B]' or '[Card B] is unclear / hidden in fog.'",
+    "as_card_b": "When The Clouds appear AFTER (right of) another card, Card A's energy leads to confusion, doubt, or obscurity. Think: '[Card A] creates confusion' or '[Card A] dissolves into fog.' Card A loses clarity.",
+    "with_positive_card": "The blessing is obscured, the good thing is hard to see or trust. Positive energy is dimmed but not destroyed. The sun is behind the clouds—it's still there.",
+    "with_negative_card": "Double trouble—confusion compounds the problem. The negative thing is hard to even identify clearly, making it harder to address. Fog on top of darkness.",
+    "with_person_card": "That person is confused, confusing, unreliable, or obscured. Their intentions are unclear. You can't read them—and maybe they can't read themselves.",
+    "with_object_card": "That thing or concept is unclear, uncertain, or hidden. It exists but you can't see it properly yet. More information needed."
+  },
+
+  "combinations": [
+    {
+      "with": "the_rider",
+      "with_number": 1,
+      "category": "neutral",
+      "as_first": "Confusing news, unclear message, a visitor who brings uncertainty. The message is muddled or ambiguous.",
+      "as_second": "News arrives that creates confusion, a message leads to doubt, information makes things less clear, not more."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "neutral",
+      "as_first": "Confused journey, unclear travel plans, commerce muddied by uncertainty. The path forward is obscured.",
+      "as_second": "Travel creates confusion, distance makes things unclear, foreign matters muddy the picture."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "Confusion about an ending, unclear closure, a death or loss that's hard to process. The fog swallows the end.",
+      "as_second": "Something ends in confusion, a matter dies without resolution, closure is denied by ambiguity."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Deeply confusing deception, fog hiding a trap, complications impossible to trace. Can't tell the friend from the foe.",
+      "as_second": "Complications create confusion, deception leads to fog, a tangled situation becomes impossible to read."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "Confusion about a blockage, can't see the obstacle clearly, doubt about whether the wall is real. Lost in fog at the base of a mountain.",
+      "as_second": "An obstacle creates confusion, a blockage leads to doubt, being stuck compounds the fog."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "Confusion used as a weapon, deliberate obscurity, someone muddying the waters on purpose. Fog as camouflage.",
+      "as_second": "Deception creates confusion, cunning leads to doubt, a lie makes everything harder to see."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Confusion lifting, clarity emerging from doubt, the sun burning through the clouds. The fog is temporary.",
+      "as_second": "Success is obscured, joy is dimmed by uncertainty, a happy outcome is hard to trust. The sun is there—but you can't quite see it."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "Confusion about a solution, unclear breakthrough, a key you can't find in the fog. The answer exists but is obscured.",
+      "as_second": "A solution creates new questions, unlocking something reveals more confusion, clarity in one area clouds another."
+    },
+    {
+      "with": "the_star",
+      "with_number": 16,
+      "category": "positive",
+      "as_first": "Doubting hope, confused about direction, spiritual fog. The stars are hidden behind clouds—but they haven't moved.",
+      "as_second": "Hope leads through confusion, faith navigates the fog, the stars guide even when you can't see the path."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Confused love, unclear feelings, romantic fog. Not knowing if you love them or just the idea of them.",
+      "as_second": "Love creates confusion, the heart clouds judgment, emotions make everything harder to see clearly."
+    },
+    {
+      "with": "the_book",
+      "with_number": 26,
+      "category": "neutral",
+      "as_first": "Confusion about a secret, hidden knowledge that creates doubt, education muddied by misinformation.",
+      "as_second": "A secret creates confusion, hidden information clouds the picture, what you don't know is causing the fog."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "neutral",
+      "as_first": "Institutional confusion, bureaucratic fog, unclear authority. The system is opaque and unhelpful.",
+      "as_second": "Authority creates confusion, institutions muddy the waters, official channels obscure rather than clarify."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A confused man, a man with unclear intentions, a man who creates doubt. You can't read him.",
+      "as_second": "A man brings confusion, a man's actions create uncertainty, a man clouds the situation."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A confused woman, a woman with unclear intentions, a woman who creates doubt. You can't read her.",
+      "as_second": "A woman brings confusion, a woman's actions create uncertainty, a woman clouds the situation."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "Confusion about a new beginning, unclear fresh start, a child lost in fog. The new thing can't find its footing.",
+      "as_second": "A new beginning creates confusion, a fresh start leads to uncertainty, innocence clouds judgment."
+    },
+    {
+      "with": "the_clover",
+      "with_number": 2,
+      "category": "positive",
+      "as_first": "Luck is muddled, an unclear opportunity, a blessing in disguise hard to see. Fortune is there but obscured.",
+      "as_second": "A small blessing cuts through the fog, luck arrives despite confusion, serendipity navigates the doubt."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Confusion — Cards landing here speak to what is unclear, uncertain, or muddied in the querent's life. This house asks: where is the fog? What can't the querent see clearly?",
+    "near_significator": "Confusion is central. The querent is in a fog—uncertain, doubtful, unable to see clearly. Decision-making is compromised. Wait for clarity before acting.",
+    "far_from_significator": "Confusion is peripheral or past. The fog has lifted or isn't touching the querent's main concerns. Mental clarity is available.",
+    "diagonal_or_corner": "Confusion operates as background noise—not a crisis, but a low-level muddiness that subtly distorts judgment. Something isn't quite as clear as the querent thinks."
+  }
+}

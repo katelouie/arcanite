@@ -1,0 +1,172 @@
+{
+  "id": "the_sun",
+  "number": 31,
+  "name": "The Sun",
+  "playing_card": "Ace of Diamonds",
+  "system": "lenormand",
+  "image_file": "31.jpg",
+
+  "image": "A brilliant, radiant sun filling the sky with warmth and light. Everything it touches becomes visible, vital, alive. There are no shadows under this sun.",
+
+  "core": {
+    "keywords": ["success", "happiness", "joy", "vitality", "achievement", "warmth", "visibility", "energy", "victory", "positivity"],
+    "charge": "positive",
+    "category": "nature",
+    "topics": ["success", "happiness", "achievement", "energy", "vitality", "visibility", "joy", "victory"]
+  },
+
+  "timing": {
+    "thematic": "peak",
+    "duration": "days_to_weeks",
+    "season": "summer",
+    "speed": "fast",
+    "direction": null
+  },
+
+  "as_person": "A warm, successful, charismatic person. Someone who lights up a room. The leader everyone follows willingly, the friend who makes everything better just by showing up. Generous, vital, impossible to ignore.",
+
+  "modifier_behavior": {
+    "type": "intensifier",
+    "as_modifier": "Amplifies and blesses the card it touches. Whatever is next to the Sun succeeds, thrives, or is illuminated. The Sun is the strongest positive modifier in the deck—it makes good things great and softens bad things significantly.",
+    "as_modified": "The card's core meaning is the source or context for success and joy. Card A is what creates the sunshine—or what gets illuminated by it."
+  },
+
+  "topic_contexts": {
+    "love": "Joyful love, a radiant relationship, a romance that makes both people glow. The love story everyone envies. Warmth, generosity, passion that's visible and unapologetic.",
+    "career": "Professional success, achievement, recognition. The promotion, the award, the project that works brilliantly. Career at its peak. Visibility and leadership.",
+    "health": "Vitality, robust health, energy, recovery. The Sun in health is the best you can get—the body humming, life force strong, recovery swift. Summer health, outdoor wellness.",
+    "finances": "Financial success, abundance, prosperity. Money that flows generously. The investment that pays off, the raise, the windfall. Wealth in the sunshine—visible and warm.",
+    "spiritual": "Illumination, enlightenment, spiritual joy. The moment of clarity where everything makes sense. Solar spirituality—active, radiant, life-affirming. The divine showing its face."
+  },
+
+  "line_reading": {
+    "as_first": "The matter opens with success, joy, or energy. Something positive and radiant sets the stage. The sun rises on this story.",
+    "as_middle": "Success, joy, or vitality enters the situation. A burst of positive energy, a win, or a moment of clarity shifts everything toward the light.",
+    "as_last": "The outcome is success. Joy, achievement, vitality—the matter resolves in the best possible light. The sun sets golden on this story."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Sun appears BEFORE (left of) another card, it illuminates and blesses Card B. Whatever Card B represents succeeds, becomes visible, or is energized. Think: 'successful [Card B]' or '[Card B] thriving.'",
+    "as_card_b": "When The Sun appears AFTER (right of) another card, Card A leads to success, joy, or visibility. Think: '[Card A] leads to happiness' or '[Card A] succeeds.' Card A steps into the sunlight.",
+    "with_positive_card": "Maximum positivity. Two blessings compounding. This is the part of the reading where you put down the cards and smile.",
+    "with_negative_card": "The Sun significantly softens the negative card—doesn't erase it, but illuminates a path through. Even the worst card near the Sun has a silver lining that's actually gold.",
+    "with_person_card": "That person is successful, radiant, warm, or at their best. The sun shines on them.",
+    "with_object_card": "That object or concept is thriving, successful, or brilliantly visible. It's at its peak."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A successful man, a happy man, a man at his peak. The sun shines on him.",
+      "as_second": "A man leads to success, a man creates joy, a man brings warmth and energy."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A successful woman, a happy woman, a woman at her peak. The sun shines on her.",
+      "as_second": "A woman leads to success, a woman creates joy, a woman brings warmth and energy."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A successful new beginning, a joyful child, a blessed fresh start. The sun rises on something new.",
+      "as_second": "A new beginning leads to success, a child brings joy, innocence creates happiness."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Radiant love, joyful romance, a love that shines. The happiest love—warm, visible, generous. No shadows.",
+      "as_second": "Love leads to happiness, the heart brings success, romance creates joy."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "Guaranteed success, a destined victory, the breakthrough that illuminates everything. The sun holds the key.",
+      "as_second": "A breakthrough leads to joy, a solution creates success, the key opens the door to sunlight."
+    },
+    {
+      "with": "the_star",
+      "with_number": 16,
+      "category": "positive",
+      "as_first": "Maximum blessings—sun AND stars. Overwhelming success, spiritual joy, the universe saying yes. The brightest combination in the deck.",
+      "as_second": "Hope leads to success, faith creates joy, inspiration becomes achievement. The star meets the sun."
+    },
+    {
+      "with": "the_moon",
+      "with_number": 32,
+      "category": "positive",
+      "as_first": "Public success with emotional depth, fame and feeling, recognition that touches the soul. The sun and moon in harmony.",
+      "as_second": "Intuition leads to success, emotional intelligence creates joy, the inner world manifests outwardly."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "An ending that leads to joy (the best possible breakup, a necessary closure that frees you), or success ending. The sun sets.",
+      "as_second": "An ending leads to new success, closure creates space for joy, the coffin opens to sunlight."
+    },
+    {
+      "with": "the_clouds",
+      "with_number": 6,
+      "category": "negative",
+      "as_first": "Partially obscured success, joy muddled by confusion, happiness with uncertainty. The sun behind clouds—it's there, but dimmed.",
+      "as_second": "Confusion clears into joy, uncertainty leads to success, the clouds part to reveal the sun."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "Delayed success, joy blocked by obstacles, achievement just out of reach. The sun shines on the mountain—but you still have to climb it.",
+      "as_second": "An obstacle leads to eventual success, the mountain is climbed into sunlight, patience rewarded."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "Joy in suffering, success that carries a burden, happiness with a cost. Even the sun can't fully erase the cross—but it warms the wood.",
+      "as_second": "A burden leads to success, suffering creates joy (the redemptive arc), fate delivers sunshine."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "object",
+      "as_first": "Financial success, abundant wealth, money in the sunshine. The richest combination for finances—everything prospers.",
+      "as_second": "Money leads to joy, abundance creates happiness, finances succeed brilliantly."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "object",
+      "as_first": "Career success, stable achievement, work that brings joy. The sun on the anchor—purpose found, work rewarded.",
+      "as_second": "Stability leads to success, hard work creates joy, the anchor holds in golden waters."
+    },
+    {
+      "with": "the_garden",
+      "with_number": 20,
+      "category": "object",
+      "as_first": "Social success, public joy, a gathering that sparkles. The garden party in full sun—everyone is having the time of their lives.",
+      "as_second": "Social life leads to success, the community creates joy, public life brings happiness."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "A happy home, domestic success, a joyful family. The house flooded with sunlight—warm, bright, alive.",
+      "as_second": "Home leads to happiness, family creates joy, domestic stability brings success."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Success — Cards landing here speak to where triumph, joy, and vitality exist in the querent's life. This house asks: what's thriving? Where is your sunshine?",
+    "near_significator": "Success is at hand. The querent is in a period of joy, achievement, and vitality. Ride this wave—it's real and it's bright.",
+    "far_from_significator": "Success is distant or not the current focus. Joy and achievement aren't absent—they're just not the main story right now.",
+    "diagonal_or_corner": "Success subtly influences the situation. Joy and positive energy are present in the background, warming things even if the querent doesn't fully feel it yet."
+  }
+}

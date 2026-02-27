@@ -1,0 +1,179 @@
+{
+  "id": "the_tree",
+  "number": 5,
+  "name": "The Tree",
+  "playing_card": "7 of Hearts",
+  "system": "lenormand",
+  "image_file": "05.jpg",
+
+  "image": "A tall, deeply rooted oak tree in full leaf. The trunk is thick with age, the canopy broad and sheltering. Growth that took decades—patient, alive, enduring.",
+
+  "core": {
+    "keywords": ["health", "growth", "roots", "patience", "life", "longevity", "ancestry", "vitality", "slow progress"],
+    "charge": "neutral",
+    "category": "nature",
+    "topics": ["health", "growth", "ancestry", "patience", "spirituality", "life force", "long-term development"]
+  },
+
+  "timing": {
+    "thematic": "slow_growth",
+    "duration": "months_to_years",
+    "season": "summer",
+    "speed": "slow",
+    "direction": "upward"
+  },
+
+  "as_person": "A healer, a doctor, a therapist, a spiritual guide. Someone deeply rooted and patient. An ancestor figure. A person connected to nature, wellness, or long-standing traditions.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds health, slow growth, patience, or deep roots to the card it touches. Whatever is next to the Tree takes time, has deep origins, or concerns physical and spiritual wellbeing.",
+    "as_modified": "The card's core meaning becomes a long-term matter, a health concern, or something with deep roots. What was quick becomes slow. What was surface becomes deep."
+  },
+
+  "topic_contexts": {
+    "love": "A deep, slowly growing love. A relationship with roots, with history. Love that endures through seasons. Health of the relationship—is it thriving or ailing?",
+    "career": "Slow career growth, a long-standing profession, work in health or healing. A career that develops like a tree—patiently, with deep roots. Not a quick win.",
+    "health": "The primary health card. Physical vitality, the state of the body, healing processes. Chronic conditions, recovery timelines, the body's wisdom. Pay attention to what the Tree touches.",
+    "finances": "Long-term investments, slow financial growth, generational wealth. Money that grows like compound interest—patient and rooted. Not get-rich-quick.",
+    "spiritual": "Spiritual roots, connection to ancestry and lineage, deep spiritual practice. The world tree, the axis mundi. Growth that happens in the soul's own time."
+  },
+
+  "line_reading": {
+    "as_first": "The matter has deep roots—health, ancestry, or something that's been growing for a long time. The origin is older than the querent may realize.",
+    "as_middle": "Health, patience, or deep roots enter the situation. The timeline extends. Something needs time to grow, or a health matter becomes relevant.",
+    "as_last": "The outcome requires patience and grows slowly. Health improves over time, roots deepen, or the situation resolves through organic, unhurried growth."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Tree appears BEFORE (left of) another card, it roots Card B in health, patience, or deep history. Card B becomes a long-term matter or a health concern. Think: 'the health of [Card B]' or '[Card B] growing slowly.'",
+    "as_card_b": "When The Tree appears AFTER (right of) another card, Card A's energy leads to slow growth, health implications, or deepening roots. Think: '[Card A] takes root' or '[Card A] becomes a long-term matter.' Card A plants itself.",
+    "with_positive_card": "Healthy growth, thriving vitality, a positive long-term trajectory. The good thing grows deep roots and endures. Patient blessings.",
+    "with_negative_card": "Health concerns, chronic problems, deeply rooted issues that resist quick fixes. The negative thing has been growing for a long time. Patience is required—but so is attention.",
+    "with_person_card": "That person is healthy, patient, deeply rooted, or connected to healing. They may be a medical professional or someone with deep ancestral ties.",
+    "with_object_card": "That thing or concept is a long-term matter, has health implications, or has deep roots. It's been developing longer than it appears."
+  },
+
+  "combinations": [
+    {
+      "with": "the_rider",
+      "with_number": 1,
+      "category": "neutral",
+      "as_first": "Health news, a medical message, news about something long-standing. A slow matter suddenly gets an update.",
+      "as_second": "News leads to a health journey, a message triggers slow growth, an arrival plants roots."
+    },
+    {
+      "with": "the_clouds",
+      "with_number": 6,
+      "category": "negative",
+      "as_first": "Unclear health situation, confused diagnosis, growth obscured by uncertainty. The roots are hidden in fog.",
+      "as_second": "Confusion takes root, uncertainty becomes chronic, a clouded matter deepens over time."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "Health ending or crisis, a tree falling, long-standing matter concluding. Something deeply rooted dies.",
+      "as_second": "An ending leads to slow recovery, closure requires patience, something must die for new growth to begin."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Health complications, a chronic condition with twists, deeply rooted deception. The sickness winds through the roots.",
+      "as_second": "Complications take root, a deceptive pattern becomes chronic, complexity grows slowly and deeply."
+    },
+    {
+      "with": "the_scythe",
+      "with_number": 10,
+      "category": "negative",
+      "as_first": "Surgery, a health matter cut short, something deeply rooted severed suddenly. The tree is felled.",
+      "as_second": "A sudden event has health consequences, a sharp decision cuts into something long-standing. The axe meets the trunk."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Excellent health, vibrant growth, a long-standing matter reaching its full flourishing. The tree in full sunlight.",
+      "as_second": "Success takes root, joy grows slowly and deeply, a happy outcome that endures. Sunshine feeds the tree."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Healthy love, a deeply rooted relationship, love that grows patiently. The heart of the tree.",
+      "as_second": "Love takes root, romance deepens over time, the heart grows patient. A relationship becomes an old oak."
+    },
+    {
+      "with": "the_star",
+      "with_number": 16,
+      "category": "positive",
+      "as_first": "Spiritual health, healing through faith, growth guided by hope. The tree reaches toward the stars.",
+      "as_second": "Hope takes root, spiritual aspiration grows slowly, a wish develops into something enduring."
+    },
+    {
+      "with": "the_bouquet",
+      "with_number": 9,
+      "category": "positive",
+      "as_first": "Good health, a flourishing condition, beauty that comes from deep roots. The tree blooms.",
+      "as_second": "A gift or compliment takes root, social grace deepens, beauty grows from patience."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "neutral",
+      "as_first": "Family health, deeply rooted domestic life, a household with long history. The family tree, literally.",
+      "as_second": "Home becomes a long-term concern, domestic stability deepens, the household puts down roots."
+    },
+    {
+      "with": "the_book",
+      "with_number": 26,
+      "category": "neutral",
+      "as_first": "Health research, hidden roots, a secret that's been growing for a long time. The tree hides something in its rings.",
+      "as_second": "A secret takes root, knowledge grows slowly, education becomes a lifelong pursuit."
+    },
+    {
+      "with": "the_path",
+      "with_number": 22,
+      "category": "neutral",
+      "as_first": "A health decision, choosing between growth paths, a long-term crossroads. Which way does the tree lean?",
+      "as_second": "A decision leads to slow growth, a choice takes root, the path becomes a long journey."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A healthy man, a patient man, a man with deep roots. A doctor, healer, or ancestral figure.",
+      "as_second": "A man's influence grows slowly, a man becomes deeply rooted in the situation, a man heals."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A healthy woman, a patient woman, a woman with deep roots. A healer, therapist, or matriarch.",
+      "as_second": "A woman's influence grows slowly, a woman becomes deeply rooted in the situation, a woman heals."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A healthy child, new growth, a young sapling. Something new but destined to grow deep. A child's health.",
+      "as_second": "A new beginning takes root, something young grows slowly, a fresh start develops patience."
+    },
+    {
+      "with": "the_lily",
+      "with_number": 30,
+      "category": "neutral",
+      "as_first": "Elder health, deep wisdom, long-standing peace. The ancient tree in a quiet garden. Spiritual maturity.",
+      "as_second": "Maturity takes root, peace deepens, wisdom grows from long patience. The lily blooms beneath the oak."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Health — Cards landing here speak to the querent's physical and spiritual vitality, patience, and deep roots. This house asks: what is the state of their health? What's been growing beneath the surface?",
+    "near_significator": "Health is central. The querent's vitality, patience, or long-standing patterns are in focus. Something is growing—pay attention to what kind of growth.",
+    "far_from_significator": "Health is peripheral or stable enough to not demand attention. Long-term matters are not the focus right now. The tree stands in the distance.",
+    "diagonal_or_corner": "Health and slow growth operate as background context—not the crisis, but the soil everything grows in. The querent's vitality quietly shapes other outcomes."
+  }
+}

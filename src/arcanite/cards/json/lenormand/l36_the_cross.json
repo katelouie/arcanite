@@ -1,0 +1,172 @@
+{
+  "id": "the_cross",
+  "number": 36,
+  "name": "The Cross",
+  "playing_card": "6 of Clubs",
+  "system": "lenormand",
+  "image_file": "36.jpg",
+
+  "image": "A heavy wooden cross, stark and unavoidable. It casts a long shadow. This is not decoration—this is the weight of existence, the suffering that gives meaning, the burden that cannot be put down because it is yours.",
+
+  "core": {
+    "keywords": ["burden", "suffering", "fate", "karma", "religion", "pain", "trial", "duty", "destiny", "sacrifice"],
+    "charge": "negative",
+    "category": "abstract",
+    "topics": ["suffering", "fate", "karma", "religion", "burdens", "trials", "duty", "sacrifice", "destiny"]
+  },
+
+  "timing": {
+    "thematic": "fated",
+    "duration": "months_to_years",
+    "season": null,
+    "speed": "slow",
+    "direction": "static"
+  },
+
+  "as_person": "A religious figure, a martyr, a person burdened by duty or suffering. Someone carrying more than their share. The priest, the caregiver who never gets a break, the person defined by their sacrifice. Also: someone rigid, dogmatic, or morally heavy-handed.",
+
+  "modifier_behavior": {
+    "type": "negator",
+    "as_modifier": "Adds suffering, burden, fate, or religious weight to the card it touches. Whatever is next to the Cross becomes heavier, more painful, or karmically significant. The Cross is the heaviest modifier in the deck—it burdens everything it touches.",
+    "as_modified": "The card's core meaning is the source or context for suffering. Card A is the cross to bear—the specific burden, the particular fate. The Cross gives it weight; Card A gives it a name."
+  },
+
+  "topic_contexts": {
+    "love": "Love as suffering, a relationship that is a burden, a romance defined by sacrifice. The partner you can't leave even though it hurts. Religious or moral duty within a relationship. Love that asks too much—and you give it anyway.",
+    "career": "A career as duty, work as suffering, professional sacrifice. The vocation you're called to even though it costs you. Burnout as martyrdom. The job that is your cross to bear.",
+    "health": "Chronic illness, pain that defines daily life, health as suffering. The condition you must live with. Also: stigmata, psychosomatic illness, the body carrying the soul's burden.",
+    "finances": "Financial burdens, debts as moral weight, poverty as trial. The money owed, the taxes due, the financial sacrifice required. Money and guilt intertwined.",
+    "spiritual": "THE spiritual card. Religion, faith tested, the dark night of the soul, karmic reckoning. The Cross is where the human meets the divine—and it hurts. Redemption through suffering. The spiritual trial that burns away everything false."
+  },
+
+  "line_reading": {
+    "as_first": "The matter is burdened from the start. Suffering, fate, or duty weighs on the situation before it can even begin. This is heavy. Approach with reverence.",
+    "as_middle": "Suffering or fate enters the situation. A burden falls, a karmic lesson arrives, or duty demands sacrifice. The cross appears in the middle of the story and changes its weight.",
+    "as_last": "The outcome is burden, fate, or trial. The matter resolves through suffering, sacrifice, or acceptance of what cannot be changed. The Cross at the end is the heaviest position—but it is also where redemption lives. What you carry defines who you become."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Cross appears BEFORE (left of) another card, it burdens or fates Card B. Whatever Card B represents becomes heavy, painful, or karmically significant. Think: 'the burden of [Card B]' or 'fated [Card B].' The Cross is not subtle.",
+    "as_card_b": "When The Cross appears AFTER (right of) another card, Card A leads to suffering, fate, or duty. Think: '[Card A] becomes a burden' or '[Card A] is fated.' Card A carries its cross.",
+    "with_positive_card": "A bittersweet blessing—the good thing comes with a cost, or joy is shadowed by duty. The Cross doesn't destroy the positive card, but it makes you earn it.",
+    "with_negative_card": "The heaviest reading. Double suffering, deep burden, karmic weight. But also: the bottom—and from the bottom, the only way is up. The Cross beside a negative card is the valley before the mountain.",
+    "with_person_card": "That person is burdened, suffering, dutiful, or religious. They carry something heavy—visibly or invisibly. Treat them gently.",
+    "with_object_card": "That object or concept is a burden, a trial, or karmically charged. It carries weight beyond its surface meaning."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A burdened man, a man defined by suffering, a religious or dutiful man. He carries his cross.",
+      "as_second": "A man leads to suffering, a man becomes a burden, a man's situation is fated."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A burdened woman, a woman defined by suffering, a religious or dutiful woman. She carries her cross.",
+      "as_second": "A woman leads to suffering, a woman becomes a burden, a woman's situation is fated."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A burdened beginning, suffering from something new, a child carrying weight too heavy for them. The cross on young shoulders.",
+      "as_second": "A new beginning leads to burden, something fresh becomes heavy, innocence encounters suffering."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Love as suffering, a burdened heart, romance as trial. The heart that breaks and keeps beating. Love that costs everything and is worth it anyway.",
+      "as_second": "Love leads to suffering, the heart carries the cross, emotion becomes burden. But also: the suffering that only love can cause—because you have to care deeply to hurt this much."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Joy shadowed by burden, success with a cost, happiness earned through suffering. The cross in sunlight—it still casts a shadow, but the light finds it.",
+      "as_second": "Success leads to burden (heavy is the head), joy carries duty, the sun illuminates the cross—and reveals it can be borne."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "A fated answer, an important burden, the breakthrough that costs you. The cross IS the key—the suffering was the point.",
+      "as_second": "A breakthrough leads to burden, a solution carries weight, the key unlocks the cross. Sometimes the answer is acceptance."
+    },
+    {
+      "with": "the_star",
+      "with_number": 16,
+      "category": "positive",
+      "as_first": "Suffering with hope, a burden lit by faith, fate with a guiding light. The cross beneath the star—the hardest path, but not a dark one.",
+      "as_second": "Hope leads to trial (faith tested), inspiration carries burden, the star guides you through the suffering."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "Suffering ending, a burden laid down, fate concluding. The cross on the coffin—rest at last. Also: death as the ultimate cross, grief as the heaviest burden.",
+      "as_second": "An ending becomes a burden, closure carries suffering, death leads to the cross. Grief."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "An immovable burden, suffering blocked by obstacles, fate compounded by resistance. The heaviest pair—cross and mountain. Nothing moves, everything weighs.",
+      "as_second": "An obstacle becomes a burden, a blockage leads to suffering, the mountain is the cross to climb."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Complicated suffering, a burden woven with deception, fate tangled in complexity. The cross and the snake—suffering you can't even see clearly.",
+      "as_second": "Complications lead to suffering, deception becomes a burden, the snake coils around the cross."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "A burden eroded by anxiety, suffering from persistent small losses, faith gnawed by doubt. The cross the mice eat—even suffering diminishes.",
+      "as_second": "Loss leads to suffering, anxiety becomes a burden, the mice bring their own small cross."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "object",
+      "as_first": "A fated commitment, a binding burden, a contract that is a cross to bear. The marriage vow as sacred duty—for better AND for worse.",
+      "as_second": "A commitment leads to suffering, a bond becomes burdensome, the ring carries the weight of the cross."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "Institutional suffering, a church, religious authority, the burden of power. The cross atop the tower—faith and authority fused.",
+      "as_second": "Authority leads to suffering, the institution becomes a burden, the tower carries the cross."
+    },
+    {
+      "with": "the_lily",
+      "with_number": 30,
+      "category": "object",
+      "as_first": "Suffering borne with dignity, a mature burden, peace through acceptance of pain. The lily at the foot of the cross—beauty in suffering.",
+      "as_second": "Maturity leads to burden, wisdom carries suffering, peace is found through the cross."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "object",
+      "as_first": "Work as suffering, a stable burden, enduring through fate. The cross anchored—this suffering isn't going anywhere. But neither are you. Persevere.",
+      "as_second": "Stability leads to burden, work becomes suffering, the anchor bears the cross. The long haul."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Fate — Cards landing here speak to destiny, burden, karmic weight, and what the querent must endure or accept. This house asks: what is your cross to bear? What has fate placed on your shoulders?",
+    "near_significator": "Suffering or fate is central. The querent is in a period of trial, duty, or karmic reckoning. This is heavy—but it is also meaningful. Nothing near the Cross is trivial.",
+    "far_from_significator": "Burden is distant. Fate isn't pressing right now, or the querent has distance from their heaviest trials. The cross is on the horizon, not on their back.",
+    "diagonal_or_corner": "Fate subtly shapes the situation. Karmic forces, duty, or quiet suffering operate in the background—the weight you carry so habitually you've forgotten it's there."
+  }
+}

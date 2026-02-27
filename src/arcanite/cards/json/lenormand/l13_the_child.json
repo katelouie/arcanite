@@ -1,0 +1,179 @@
+{
+  "id": "the_child",
+  "number": 13,
+  "name": "The Child",
+  "playing_card": "Jack of Spades",
+  "system": "lenormand",
+  "image_file": "13.jpg",
+
+  "image": "A small, fair-haired child, wide-eyed and open. Innocence without armor. Everything is new, everything is possible, nothing has been ruined yet.",
+
+  "core": {
+    "keywords": ["child", "new beginning", "innocence", "small", "fresh start", "naivety", "vulnerability", "playfulness"],
+    "charge": "neutral",
+    "category": "person",
+    "topics": ["children", "new beginnings", "innocence", "small matters", "vulnerability", "freshness", "youth"]
+  },
+
+  "timing": {
+    "thematic": "beginning",
+    "duration": "days_to_weeks",
+    "season": "spring",
+    "speed": "moderate",
+    "direction": "forward"
+  },
+
+  "as_person": "A child, a young person, a beginner. Someone innocent, naive, or inexperienced. A student, a newcomer, or the youngest person in the situation. Can literally indicate a child or pregnancy.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds smallness, newness, innocence, or a fresh-start quality to the card it touches. Whatever is next to the Child becomes new, small, or inexperienced. Reduces scale, increases freshness.",
+    "as_modified": "The card's core meaning becomes the context for a new beginning, a child, or something small and vulnerable. What was large becomes small. What was old becomes fresh."
+  },
+
+  "topic_contexts": {
+    "love": "A new relationship, puppy love, innocent romance. A love that's just beginning. A pregnancy or a child in the relationship. Love with fresh eyes.",
+    "career": "A new job, a fresh start professionally, being the beginner. A small project, an apprenticeship. The career in its infancy—full of potential, short on experience.",
+    "health": "A child's health, a new health regimen, the beginning of recovery. The body in its most resilient state. Small health matters.",
+    "finances": "Small amounts of money, a new financial venture, seed funding. Money that's just starting to grow. A child's savings.",
+    "spiritual": "Beginner's mind, spiritual innocence, the fresh start on the path. Approaching the sacred with wonder rather than knowledge. The fool's holy openness."
+  },
+
+  "line_reading": {
+    "as_first": "The situation begins with something new, small, or innocent. A fresh start sets the stage. The story is just beginning.",
+    "as_middle": "Something new enters the picture. A fresh element, a small shift, or an innocent person changes the dynamic. The middle of the story gets a reset.",
+    "as_last": "The outcome is a new beginning, something small, or a return to innocence. The story ends at the start of something else."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Child appears BEFORE (left of) another card, it miniaturizes or freshens Card B. Whatever Card B represents becomes new, small, or innocent. Think: 'a new [Card B]' or 'a small [Card B].'",
+    "as_card_b": "When The Child appears AFTER (right of) another card, Card A's energy leads to a new beginning or something small. Think: '[Card A] creates a fresh start' or '[Card A] shrinks in scale.' Card A gives birth.",
+    "with_positive_card": "A blessed new beginning, a small but lucky break, innocent joy. The good thing is fresh and full of potential.",
+    "with_negative_card": "A vulnerable beginning, a small problem, danger to the innocent. The new thing is threatened or the problem is small but real.",
+    "with_person_card": "A child is involved, or someone acts childlike—naive, innocent, or immature. The person is young or new to the situation.",
+    "with_object_card": "That thing or concept is new, small, or just beginning. It lacks maturity but has potential."
+  },
+
+  "combinations": [
+    {
+      "with": "the_rider",
+      "with_number": 1,
+      "category": "neutral",
+      "as_first": "News about a child or new beginning, a small message arrives, a young visitor. Something new and small is incoming.",
+      "as_second": "A new beginning brings news, a child delivers a message, a fresh start triggers arrival."
+    },
+    {
+      "with": "the_stork",
+      "with_number": 17,
+      "category": "neutral",
+      "as_first": "Pregnancy, a child bringing change, a new beginning that transforms. The child and the stork—creation.",
+      "as_second": "Change brings a child, transformation creates a new beginning, a shift leads to something young and fresh."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A new beginning ends before it starts, a child's illness, something young dying. Handle with care.",
+      "as_second": "An ending leads to rebirth, a child follows a loss, the coffin gives way to the cradle."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "A small complication, deception targeting the innocent, a new beginning with hidden problems.",
+      "as_second": "A new beginning reveals complications, innocence uncovers deception, a fresh start has a twist."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "Naive deception, a child being manipulated, a new start built on false premises. The fox eyes the child.",
+      "as_second": "Cunning creates a false beginning, deception wears an innocent face, the new thing isn't what it seems."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "A blocked beginning, a child facing obstacles, a small matter hitting a wall. The new thing can't get past.",
+      "as_second": "An obstacle creates a fresh start, being blocked forces a new approach, the mountain redirects the child."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "New love, innocent romance, a child of love. The purest expression of the heart.",
+      "as_second": "Love creates a new beginning, the heart opens fresh, romance returns to innocence."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "A blessed child, a joyful new beginning, happiness in its purest form. The baby in the sunshine.",
+      "as_second": "Success creates a new start, joy births something fresh, happiness returns to its source."
+    },
+    {
+      "with": "the_star",
+      "with_number": 16,
+      "category": "positive",
+      "as_first": "A wished-for child, a hopeful beginning, a new start guided by faith. The child reaches for the stars.",
+      "as_second": "Hope creates a fresh start, spiritual guidance births something new, a wish begins to manifest."
+    },
+    {
+      "with": "the_dog",
+      "with_number": 18,
+      "category": "positive",
+      "as_first": "A new friendship, a child's loyal companion, a fresh start with trust. The puppy and the child.",
+      "as_second": "Loyalty births something new, a friend helps a fresh start, trust creates an innocent beginning."
+    },
+    {
+      "with": "the_bear",
+      "with_number": 15,
+      "category": "neutral",
+      "as_first": "A child with a strong protector, a new beginning with powerful backing. The cub and the bear.",
+      "as_second": "Strength creates a new beginning, a powerful person nurtures something small, authority births fresh potential."
+    },
+    {
+      "with": "the_book",
+      "with_number": 26,
+      "category": "neutral",
+      "as_first": "A child's education, learning something new, a fresh start in knowledge. The beginner opens the book.",
+      "as_second": "A secret births a new beginning, hidden knowledge creates something fresh, education starts small."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A young man, a naive man, a man's child. A man who is new to something or acts childlike.",
+      "as_second": "A man creates a new beginning, a man's fresh start, a man connects with his inner child."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A young woman, a naive woman, a woman's child. A woman who is new to something or acts with innocence.",
+      "as_second": "A woman creates a new beginning, a woman's fresh start, a woman connects with her inner child."
+    },
+    {
+      "with": "the_lily",
+      "with_number": 30,
+      "category": "neutral",
+      "as_first": "A child with an elder, youth meets wisdom, the beginning and the ending of life. Innocence and experience.",
+      "as_second": "Wisdom nurtures a new beginning, maturity gives birth to something fresh, the elder teaches the child."
+    },
+    {
+      "with": "the_bouquet",
+      "with_number": 9,
+      "category": "positive",
+      "as_first": "A sweet new beginning, a charming child, a fresh start that's genuinely pleasant. A small, pretty gift.",
+      "as_second": "A gift creates a new beginning, beauty births something innocent, a compliment sparks fresh potential."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Beginnings — Cards landing here speak to new starts, children, innocence, and fresh potential in the querent's life. This house asks: what's just beginning? Where is the innocence?",
+    "near_significator": "A new beginning is central. The querent is at a fresh start, dealing with a child, or in the early stages of something. Potential is high; experience is low.",
+    "far_from_significator": "New beginnings are distant or not the focus. The querent is in the middle or late stages of their situation, not at the start.",
+    "diagonal_or_corner": "New beginnings operate as quiet potential—something fresh is germinating in the background, a child or new project exists at the periphery."
+  }
+}

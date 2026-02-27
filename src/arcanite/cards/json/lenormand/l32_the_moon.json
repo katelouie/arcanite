@@ -1,0 +1,172 @@
+{
+  "id": "the_moon",
+  "number": 32,
+  "name": "The Moon",
+  "playing_card": "8 of Hearts",
+  "system": "lenormand",
+  "image_file": "32.jpg",
+
+  "image": "A luminous crescent moon hanging in a dark sky, casting silver light over a quiet landscape. It sees what the sun cannot—the inner world, the emotions, the dreams that only emerge at night.",
+
+  "core": {
+    "keywords": ["emotions", "intuition", "recognition", "fame", "subconscious", "dreams", "romance", "creativity", "reputation", "cycles"],
+    "charge": "positive",
+    "category": "nature",
+    "topics": ["emotions", "intuition", "fame", "recognition", "dreams", "creativity", "reputation", "romance", "subconscious"]
+  },
+
+  "timing": {
+    "thematic": "cyclical_emotional",
+    "duration": "weeks_to_months",
+    "season": "autumn",
+    "speed": "moderate",
+    "direction": "cyclical"
+  },
+
+  "as_person": "An intuitive, emotional, creative person. An artist, a psychic, a dreamer. Someone whose reputation precedes them. A person guided by feeling rather than logic—and often right because of it.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds emotional depth, intuitive knowing, reputation, creative energy, or romantic quality to the card it touches. Whatever is next to the Moon gains feeling, recognition, or an element of the subconscious.",
+    "as_modified": "The card's core meaning is the source of emotion, the subject of recognition, or the trigger for intuition. Card A is what the Moon illuminates from within."
+  },
+
+  "topic_contexts": {
+    "love": "Deep romantic emotion, intuitive connection, soulmate energy. A love that operates on feeling rather than logic. The relationship where you just *know*. Also: fame or recognition in love—the public relationship.",
+    "career": "Creative career, work with emotional intelligence, recognition and reputation in your field. The career where intuition is your best tool. Awards, honors, being known for your work.",
+    "health": "Emotional health, hormonal cycles, mental health, the mind-body emotional connection. Health that waxes and wanes. Depression, anxiety, or conversely: emotional resilience and self-awareness.",
+    "finances": "Money from creative work, finances affected by reputation, income that fluctuates. The emotional relationship with money. Financial intuition—gut feelings about investments.",
+    "spiritual": "Deep intuition, psychic ability, lunar spirituality, dream work. The Moon is the most psychically charged card in the deck. Meditation, divination, the inner vision. The soul speaking in images."
+  },
+
+  "line_reading": {
+    "as_first": "The matter opens with emotion, intuition, or reputation. Something felt rather than thought sets the stage. Trust the feeling—it knows things your mind doesn't.",
+    "as_middle": "Emotion, intuition, or recognition enters the situation. Feelings shift the dynamic, reputation becomes relevant, or the subconscious sends a message.",
+    "as_last": "The outcome is emotional, intuitive, or involves recognition. The matter resolves through feeling, creativity, or being seen. The moon rises on this story."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Moon appears BEFORE (left of) another card, it emotionalizes or illuminates Card B from within. Whatever Card B represents gains emotional depth, intuitive significance, or public recognition. Think: 'the emotional truth of [Card B]' or 'recognition for [Card B].'",
+    "as_card_b": "When The Moon appears AFTER (right of) another card, Card A leads to emotional depth, intuitive insight, or recognition. Think: '[Card A] stirs deep feeling' or '[Card A] leads to fame.' Card A is bathed in moonlight.",
+    "with_positive_card": "Emotionally rich blessing, intuitive confirmation of good things, recognized success. The positive card shimmers with feeling.",
+    "with_negative_card": "Emotional pain, intuitive warning, reputation damaged. The negative card cuts deeper because you feel it in your bones.",
+    "with_person_card": "That person is emotional, intuitive, creative, or famous. Their reputation defines them—or their feelings do.",
+    "with_object_card": "That object or concept has emotional significance, intuitive weight, or public recognition attached to it."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "An emotional man, an intuitive man, a famous or recognized man. A man illuminated by moonlight—deep, creative, feeling.",
+      "as_second": "A man stirs deep emotion, a man leads to recognition, a man triggers intuition."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "An emotional woman, an intuitive woman, a famous or recognized woman. A woman illuminated by moonlight—deep, creative, feeling.",
+      "as_second": "A woman stirs deep emotion, a woman leads to recognition, a woman triggers intuition."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "New emotions, a creative new beginning, a child with deep feeling. The moon illuminates something just born.",
+      "as_second": "A new beginning stirs emotion, something young leads to recognition, innocence triggers intuition."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Deep romantic love, soulmate connection, emotionally profound romance. The moon and the heart: love that resonates in the deepest places.",
+      "as_second": "Love stirs the deepest emotions, romance leads to recognition, the heart opens the floodgates of feeling."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Emotional and external success aligned, feeling and achievement in harmony. The inner and outer worlds agree—rare and powerful.",
+      "as_second": "Success stirs deep emotion, achievement leads to recognition, joy resonates in the soul."
+    },
+    {
+      "with": "the_star",
+      "with_number": 16,
+      "category": "positive",
+      "as_first": "Profound intuition, spiritual emotion, psychic insight amplified. The moon and star together: the most psychically charged pairing in the deck.",
+      "as_second": "Hope stirs emotion, faith deepens intuition, inspiration leads to recognition."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "An emotional breakthrough, intuitive truth, the answer found through feeling. The moon unlocks what logic couldn't.",
+      "as_second": "A breakthrough stirs emotion, a solution comes through intuition, the key is found in moonlight."
+    },
+    {
+      "with": "the_clouds",
+      "with_number": 6,
+      "category": "negative",
+      "as_first": "Confused emotions, muddled intuition, reputation obscured. The moon behind clouds—you feel something but can't name it.",
+      "as_second": "Confusion stirs anxiety, uncertainty leads to emotional turbulence, the clouds cover the moon."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Complicated emotions, deceptive feelings, a reputation tangled by intrigue. The moon illuminates the snake—but snake energy is seductive in moonlight.",
+      "as_second": "Complications stir deep emotion, deception triggers intuitive alarm, the snake moves under the moon."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "Emotional erosion, intuition undermined by anxiety, reputation being nibbled away. The moon waning—feelings dimming.",
+      "as_second": "Loss stirs emotion, anxiety disrupts intuition, worry erodes reputation."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "Emotional burden, fated feelings, a reputation as someone who suffers. The moon illuminates the cross—you feel the weight deeply.",
+      "as_second": "A burden stirs emotion, fate triggers intuition, suffering leads to recognition."
+    },
+    {
+      "with": "the_garden",
+      "with_number": 20,
+      "category": "object",
+      "as_first": "Public recognition, fame, social reputation. The moon over the garden—everyone sees you in this light.",
+      "as_second": "Social life stirs emotion, public events trigger feelings, the community shapes your reputation."
+    },
+    {
+      "with": "the_book",
+      "with_number": 26,
+      "category": "object",
+      "as_first": "Hidden emotions, intuitive secrets, creative knowledge. The moon illuminates the book—you feel the answer before you read it.",
+      "as_second": "A secret stirs emotion, hidden knowledge triggers intuition, the book opens in moonlight."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "object",
+      "as_first": "Emotional wealth, money from creative work, financially rewarded intuition. The moon reflected in deep waters.",
+      "as_second": "Money stirs emotion, finances trigger intuition, abundance reflects in the moonlight."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "Institutional recognition, emotional authority, famous institutions. The moon rises over the tower—reputation meets power.",
+      "as_second": "Authority stirs emotion, institutions trigger intuition, the tower is seen in new light."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Emotions — Cards landing here speak to the querent's emotional life, intuitive messages, reputation, and creative spirit. This house asks: what do you feel? What does your intuition say?",
+    "near_significator": "Emotions and intuition are central. The querent is in a deeply feeling period—trust the gut, honor the dreams, pay attention to what the heart knows that the head doesn't.",
+    "far_from_significator": "Emotions or reputation are peripheral. The querent may be in a more logical or practical phase, or recognition isn't the current focus.",
+    "diagonal_or_corner": "Emotions subtly influence the situation. Feelings, intuition, or reputation are shaping things in the background—the moonlight you don't notice until you stop and look."
+  }
+}

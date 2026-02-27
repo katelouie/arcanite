@@ -1,0 +1,172 @@
+{
+  "id": "the_anchor",
+  "number": 35,
+  "name": "The Anchor",
+  "playing_card": "9 of Spades",
+  "system": "lenormand",
+  "image_file": "35.jpg",
+
+  "image": "A heavy iron anchor resting at the bottom of the sea, half-buried in sand. It holds fast. It doesn't drift, doesn't waver. Where the anchor drops, you stay.",
+
+  "core": {
+    "keywords": ["stability", "work", "perseverance", "grounding", "security", "endurance", "career", "dedication", "purpose", "steadfastness"],
+    "charge": "positive",
+    "category": "object",
+    "topics": ["work", "stability", "career", "perseverance", "grounding", "security", "dedication", "long-term goals"]
+  },
+
+  "timing": {
+    "thematic": "sustained",
+    "duration": "months_to_years",
+    "season": null,
+    "speed": "slow",
+    "direction": "static"
+  },
+
+  "as_person": "A reliable, hardworking, steadfast person. Someone you can count on—the colleague who never calls in sick, the friend who shows up every time, the partner who stays. Not flashy, but utterly dependable. The one who holds things together.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds stability, persistence, work ethic, or grounding to the card it touches. Whatever is next to the Anchor becomes steady, long-term, and dependable. The Anchor holds Card B in place—for better or worse.",
+    "as_modified": "The card's core meaning is what the Anchor stabilizes, what requires perseverance, or what the work is about. Card A is the reason for digging in."
+  },
+
+  "topic_contexts": {
+    "love": "A stable, reliable relationship. Love that endures—not through fireworks but through showing up. The long marriage, the partner who stays through everything. Security in love. Sometimes: a relationship that's stable but stagnant.",
+    "career": "THE career card. Work, job, professional life, long-term career goals. The job you've committed to, the vocation that anchors your identity. Hard work, perseverance, professional dedication.",
+    "health": "Physical grounding, stable health routines, the body anchored by discipline. Long-term health habits, consistent exercise, reliable medication. The health that comes from doing the boring things consistently.",
+    "finances": "Financial stability, savings, long-term investments. Money that's anchored—not growing wildly but not going anywhere either. The retirement account, the mortgage, the financial foundation.",
+    "spiritual": "Grounded spiritual practice, discipline in devotion, the anchor of faith. The practice you come back to every day, not because it's exciting but because it holds you. Spiritual endurance."
+  },
+
+  "line_reading": {
+    "as_first": "The matter is grounded in work, stability, or perseverance. Something steady and dependable opens the reading. This has deep roots.",
+    "as_middle": "Stability or work enters the situation. Something becomes anchored, a career matter intervenes, or perseverance shifts the dynamic. The anchor drops mid-story.",
+    "as_last": "The outcome is stability. The matter resolves through persistence, hard work, or finding solid ground. The anchor holds. You're not going anywhere—and that's the point."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Anchor appears BEFORE (left of) another card, it stabilizes or grounds Card B. Whatever Card B represents becomes steady, long-term, or work-related. Think: 'stable [Card B]' or '[Card B] as career / long-term commitment.'",
+    "as_card_b": "When The Anchor appears AFTER (right of) another card, Card A leads to stability, perseverance, or work. Think: '[Card A] finds its footing' or '[Card A] becomes a career.' Card A drops anchor.",
+    "with_positive_card": "Stable blessings, enduring success, good things that last. The positive card is anchored—it's not leaving.",
+    "with_negative_card": "A problem that's entrenched, a negative situation that's stable (and therefore hard to change), or: perseverance through difficulty that eventually pays off.",
+    "with_person_card": "That person is reliable, hardworking, or career-focused. They're the anchor—or they need one.",
+    "with_object_card": "That object or concept is stable, long-term, or connected to work and career. It's not going anywhere."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A hardworking man, a stable man, a man defined by his career. Reliable, grounded, dedicated.",
+      "as_second": "A man leads to stability, a man provides grounding, a man's influence anchors the situation."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A hardworking woman, a stable woman, a woman defined by her career. Reliable, grounded, dedicated.",
+      "as_second": "A woman leads to stability, a woman provides grounding, a woman's influence anchors the situation."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A new job, a stable new beginning, a fresh start with solid ground. The anchor in a new harbor.",
+      "as_second": "A new beginning leads to stability, something fresh finds its footing, a child grounds the situation."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Stable love, a grounded romance, a relationship anchored by genuine feeling. Love that stays because it chooses to, every day.",
+      "as_second": "Love leads to stability, the heart finds its anchor, romance becomes steady ground."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Career success, stable achievement, work that brings joy. The anchor in golden waters—purpose found, work rewarded.",
+      "as_second": "Success finds stability, joy is anchored, happiness has solid ground beneath it."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "An important career development, the key to stability, a guaranteed foundation. The anchor IS the answer.",
+      "as_second": "A breakthrough leads to stability, a solution anchors the situation, the key drops the anchor."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A career commitment, a stable partnership, a long-term professional bond. The anchor and the ring: doubly bound, doubly secure.",
+      "as_second": "A commitment finds stability, a contract anchors the situation, the ring is welded to the anchor."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "Stability eroded, work wearing you down, career burnout. The anchor is rusting—slowly but surely.",
+      "as_second": "Loss leads to instability, worry undermines the foundation, the mice eat the anchor chain."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A career ending, stability lost, a job that dies. The anchor pulled up—you're adrift. Or: the rest that comes after decades of work.",
+      "as_second": "An ending leads to new stability (sometimes you need to lose the old anchor to find the right harbor), closure creates unexpected ground."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "A career blocked, stability obstructed, work hitting an immovable wall. The anchor stuck against the mountain—doubly immovable but going nowhere.",
+      "as_second": "An obstacle leads to digging in, a blockage forces perseverance, the mountain demands the anchor."
+    },
+    {
+      "with": "the_whip",
+      "with_number": 11,
+      "category": "negative",
+      "as_first": "Conflict at work, a stable situation disrupted by argument, career tension. The anchor and the whip—staying in a job that beats you up.",
+      "as_second": "Conflict leads to grinding it out, arguments stabilize into a pattern, the whip becomes routine."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "object",
+      "as_first": "Stable travel, career abroad, grounded commerce. The anchor lets the ship rest—travel that leads to settling down.",
+      "as_second": "Travel leads to stability, a journey finds its destination, the ship drops anchor. You've arrived."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "object",
+      "as_first": "Stable finances, career wealth, money anchored by hard work. The reliable income. The pension.",
+      "as_second": "Money leads to stability, business anchors the situation, finances provide the foundation."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "Institutional career, corporate stability, a job within the hierarchy. The anchor in the tower—career and authority fused.",
+      "as_second": "Authority leads to career stability, institutional involvement anchors the situation, the tower provides the harbor."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "Stable home, a career at home, grounded domestic life. The anchor and the house: this is where you belong, and you know it.",
+      "as_second": "Home leads to stability, family anchors the situation, domestic life provides the foundation."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Work — Cards landing here speak to career, stability, perseverance, and what grounds the querent. This house asks: what is your work? What holds you steady?",
+    "near_significator": "Work and stability are central. The querent's life is currently defined by career, perseverance, or the search for solid ground. The anchor is close—hold on to it.",
+    "far_from_significator": "Work and stability are peripheral. Career isn't the main story, or the querent has distance from their grounding forces.",
+    "diagonal_or_corner": "Stability subtly influences the situation. Work ethic, perseverance, or grounding forces operate in the background—the anchor you don't notice until you try to drift."
+  }
+}

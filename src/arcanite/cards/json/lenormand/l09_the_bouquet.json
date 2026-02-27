@@ -1,0 +1,179 @@
+{
+  "id": "the_bouquet",
+  "number": 9,
+  "name": "The Bouquet",
+  "playing_card": "Queen of Spades",
+  "system": "lenormand",
+  "image_file": "09.jpg",
+
+  "image": "A lush arrangement of fresh flowers, colorful and fragrant. Offered as a gift, a gesture of appreciation, a social grace. Beauty with intention—someone chose these for you.",
+
+  "core": {
+    "keywords": ["gift", "beauty", "invitation", "compliment", "charm", "appreciation", "grace", "social pleasure"],
+    "charge": "positive",
+    "category": "object",
+    "topics": ["gifts", "beauty", "social life", "invitations", "compliments", "grace", "aesthetics"]
+  },
+
+  "timing": {
+    "thematic": "offered",
+    "duration": "days_to_weeks",
+    "season": "spring",
+    "speed": "moderate",
+    "direction": "toward"
+  },
+
+  "as_person": "A charming, beautiful, or gracious person. Someone who gives compliments freely and makes others feel appreciated. A stylist, artist, or socialite. The friend who always brings a gift.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds beauty, social grace, or a gift quality to the card it touches. Whatever is next to the Bouquet becomes pleasant, charming, or offered as a kindness.",
+    "as_modified": "The card's core meaning is beautified, gifted, or made socially appealing. What was neutral becomes charming. What was harsh is softened with grace."
+  },
+
+  "topic_contexts": {
+    "love": "A romantic gesture, flowers and gifts in courtship, being courted or wooed. A beautiful new relationship or a moment of charm in an existing one. Social magnetism.",
+    "career": "A professional compliment, recognition, a favorable review. Being headhunted or invited to something. Career opportunities that come through social connections and charm.",
+    "health": "Beauty treatments, cosmetic concerns, healing through pleasure and aesthetics. A positive health outlook. The body's beauty and the care you give it.",
+    "finances": "A financial gift, a windfall through social connections, money through beauty or aesthetics. Investments in appearance or art that pay off.",
+    "spiritual": "The beauty of the spiritual path, grace as a spiritual practice, gifts from spirit. Finding the sacred in the beautiful. Devotion expressed through aesthetics."
+  },
+
+  "line_reading": {
+    "as_first": "The situation opens with a gift, a compliment, or a pleasant invitation. Something beautiful sets the stage. Social grace is the entry point.",
+    "as_middle": "Beauty, a gift, or social grace enters the picture. Something pleasant shifts the dynamic—a compliment, an invitation, or an act of kindness.",
+    "as_last": "The outcome is pleasant, beautiful, or involves a gift. Things end well socially. Resolution comes with grace, charm, and appreciation."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Bouquet appears BEFORE (left of) another card, it beautifies or gifts Card B. Whatever Card B represents arrives pleasantly, graciously, or as a compliment. Think: 'a beautiful [Card B]' or '[Card B] as a gift.'",
+    "as_card_b": "When The Bouquet appears AFTER (right of) another card, Card A's energy leads to something pleasant, a gift, or social recognition. Think: '[Card A] brings a gift' or '[Card A] is appreciated.' Card A gets flowers.",
+    "with_positive_card": "Double blessing, compounded beauty, a gift on top of a gift. Social life is thriving. Everything is coming up roses—literally.",
+    "with_negative_card": "A gift that softens a blow, beauty hiding ugliness, or a social grace covering a problem. The flowers may be an apology for something painful.",
+    "with_person_card": "That person is charming, beautiful, giving, or socially gifted. They bring pleasure and appreciation. Or they're the one being gifted.",
+    "with_object_card": "That thing or concept is beautiful, appreciated, or given as a gift. It has social value, aesthetic appeal, or comes with a compliment attached."
+  },
+
+  "combinations": [
+    {
+      "with": "the_rider",
+      "with_number": 1,
+      "category": "neutral",
+      "as_first": "A pleasant message, a gift arriving, an invitation delivered. The news is welcome and charming.",
+      "as_second": "A gift triggers a visit, an invitation brings a rider, beauty triggers a message. The arrival is gracious."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "neutral",
+      "as_first": "A pleasant journey, travel brings gifts, commerce in beauty or luxury. The trip is enjoyable and rewarding.",
+      "as_second": "Gifts arrive from afar, beauty through travel, appreciation from foreign quarters. Distance brings pleasantries."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "A charming deception, flattery with ulterior motives, a gift with strings. Beautiful wrapping, complicated contents.",
+      "as_second": "A gift reveals complications, social grace hides an agenda, beauty conceals a bite."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "Flowers at a funeral, a gracious ending, beauty in closure. The farewell is gentle.",
+      "as_second": "A gift ends, social grace is buried, an invitation is withdrawn. But even the farewell is lovely."
+    },
+    {
+      "with": "the_whip",
+      "with_number": 11,
+      "category": "negative",
+      "as_first": "A gift provokes conflict, beauty causes jealousy, social charm meets aggression. The bouquet is thrown—not given.",
+      "as_second": "Conflict is resolved by grace, a fight ends with flowers, aggression is softened by charm."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "A beautiful love, romantic gifts, courtship at its finest. Love expressed through beauty and gesture.",
+      "as_second": "Love brings gifts, the heart creates beauty, romance leads to social pleasure."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A beautiful commitment, an engagement with flowers, a contract that pleases. The prettiest promise.",
+      "as_second": "A commitment is gifted, a contract brings appreciation, the ring comes with roses."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Radiant beauty, the most joyful gift, social life at its peak. Happiness in its most gorgeous form.",
+      "as_second": "Joy brings gifts, success is celebrated, happiness makes everything beautiful."
+    },
+    {
+      "with": "the_star",
+      "with_number": 16,
+      "category": "positive",
+      "as_first": "Inspired beauty, a gift guided by hope, social grace that uplifts. The bouquet reaches toward the stars.",
+      "as_second": "Hope beautifies, spiritual aspiration leads to gifts, faith makes the path pleasant."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "False flattery, a gift with deceptive intent, charm used manipulatively. Don't trust the flowers.",
+      "as_second": "Cunning wears a charming mask, deception is dressed in beauty, the fox brings a bouquet with one hand."
+    },
+    {
+      "with": "the_garden",
+      "with_number": 20,
+      "category": "neutral",
+      "as_first": "Social beauty, a public celebration, gifts at a gathering. The party is gorgeous. Social life flourishes.",
+      "as_second": "A gathering brings gifts, public life becomes pleasant, the community celebrates beauty."
+    },
+    {
+      "with": "the_letter",
+      "with_number": 27,
+      "category": "neutral",
+      "as_first": "A beautiful letter, a written invitation, a compliment in writing. The card you're happy to receive.",
+      "as_second": "A document brings pleasure, paperwork resolves pleasantly, a written message is a gift."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A charming man, a man who brings gifts, a handsome or socially graceful man. He arrives with flowers.",
+      "as_second": "A man receives appreciation, a man is the gift, a man is recognized for his charm."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A charming woman, a woman who brings gifts, a beautiful or socially graceful woman. She arrives with flowers.",
+      "as_second": "A woman receives appreciation, a woman is the gift, a woman is recognized for her beauty."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A sweet new beginning, a charming child, a fresh start that's genuinely pleasant. A small, pretty gift.",
+      "as_second": "A new beginning brings beauty, a child brings joy and charm, something young and lovely arrives."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "neutral",
+      "as_first": "Official recognition, an institutional compliment, a formal invitation. Beauty within the establishment.",
+      "as_second": "Authority offers a gift, an institution provides appreciation, the system works gracefully for once."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Gifts — Cards landing here speak to beauty, appreciation, social grace, and pleasant offerings in the querent's life. This house asks: what gift is being offered? Where is the beauty?",
+    "near_significator": "Gifts, beauty, and social appreciation are central. The querent is being recognized, courted, or gifted. Social life is vibrant and pleasant.",
+    "far_from_significator": "Social pleasantries and gifts are distant or not the focus. The querent may feel unappreciated or disconnected from beauty and charm.",
+    "diagonal_or_corner": "Beauty and social grace operate as background energy—not the headline, but a pleasant undertone that softens other themes. Someone is watching with appreciation."
+  }
+}

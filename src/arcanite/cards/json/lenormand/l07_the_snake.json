@@ -1,0 +1,179 @@
+{
+  "id": "the_snake",
+  "number": 7,
+  "name": "The Snake",
+  "playing_card": "Queen of Clubs",
+  "system": "lenormand",
+  "image_file": "07.jpg",
+
+  "image": "A coiled serpent, poised and watchful. Beautiful and dangerous in equal measure. The path it guards is winding—nothing about this card is straight.",
+
+  "core": {
+    "keywords": ["complication", "deception", "detour", "cunning", "seduction", "wisdom", "rival", "complexity"],
+    "charge": "negative",
+    "category": "nature",
+    "topics": ["deception", "complications", "rivals", "seduction", "indirect paths", "cunning", "betrayal"]
+  },
+
+  "timing": {
+    "thematic": "winding",
+    "duration": "weeks_to_months",
+    "season": null,
+    "speed": "slow",
+    "direction": "indirect"
+  },
+
+  "as_person": "A rival, a deceptive person, a seductress or seducer. A cunning woman (traditionally). Someone who operates through indirect means—charming on the surface, complicated underneath. A wise woman, a healer who uses poison as medicine.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds complication, deception, or an indirect quality to the card it touches. Whatever is next to the Snake has a twist, a hidden agenda, or takes the scenic (and dangerous) route.",
+    "as_modified": "The card's core meaning becomes the target of deception or the context for complications. What was straightforward becomes winding. What was simple gets a hidden layer."
+  },
+
+  "topic_contexts": {
+    "love": "A rival in love, seduction with hidden motives, a complicated affair. The other woman or man. A relationship with twists and power dynamics. Desire that isn't what it appears.",
+    "career": "Office politics, a scheming colleague, a career path with unexpected detours. Professional deception—someone isn't playing straight. Navigate with cunning.",
+    "health": "A complicating health condition, misdiagnosis, a winding path to wellness. The illness that mimics something else. Gut health, intestinal issues, or anything serpentine in the body.",
+    "finances": "Financial deception, hidden debts, money flowing through complicated channels. Tax complications, fraud risk, or investments that aren't as straightforward as they seem.",
+    "spiritual": "Kundalini energy, wisdom through transformation, the serpent as teacher. The complicated path to enlightenment. Shadow work—befriending the snake rather than fleeing it."
+  },
+
+  "line_reading": {
+    "as_first": "The situation opens with a complication, a deception, or an indirect influence. Something or someone is not what they appear. The path is winding from the start.",
+    "as_middle": "Complication enters the picture. A detour, a deception, or a rival shifts the dynamic. The straightforward path bends. Watch who's doing the bending.",
+    "as_last": "The outcome involves complications, indirect resolution, or deception revealed. The situation resolves through a winding path—or doesn't resolve cleanly at all."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Snake appears BEFORE (left of) another card, it complicates Card B. Whatever Card B represents has a twist, a hidden layer, or a deceptive element. Think: 'a complicated [Card B]' or '[Card B] with hidden strings.'",
+    "as_card_b": "When The Snake appears AFTER (right of) another card, Card A's energy leads to complications, detours, or deception. Think: '[Card A] leads to trouble' or '[Card A] reveals hidden complexity.' Card A finds a snake in its path.",
+    "with_positive_card": "The blessing comes with strings attached, the good thing has a complication, or the positive energy must navigate deception. Good, but watch your back.",
+    "with_negative_card": "Compounded trouble—deception on top of difficulty. The problem is more tangled than it appears. Multiple layers of complexity. Treacherous ground.",
+    "with_person_card": "That person is deceptive, complicated, or a rival. They may be charming but untrustworthy. Alternatively, they are the target of someone else's deception.",
+    "with_object_card": "That thing or concept is complicated, has hidden layers, or involves deception. The straightforward reading is wrong—look deeper."
+  },
+
+  "combinations": [
+    {
+      "with": "the_rider",
+      "with_number": 1,
+      "category": "neutral",
+      "as_first": "Deceptive news, a complicated message, a visitor with hidden motives. The news has a twist you don't see yet.",
+      "as_second": "News reveals deception, a message exposes complications, a visitor uncovers what was hidden."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "Deception ends, a complication dies, a rival is removed. The snake is defanged—but check for venom first.",
+      "as_second": "An ending was engineered, closure through manipulation, someone's exit was not voluntary. A complicated death."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "Double deception, extreme cunning, a trap within a trap. Someone is playing a very sophisticated game.",
+      "as_second": "Cunning meets complication, one deceiver outplays another, survival through serpentine intelligence."
+    },
+    {
+      "with": "the_whip",
+      "with_number": 11,
+      "category": "negative",
+      "as_first": "Complicated conflict, arguments with hidden agendas, abuse disguised as love. The fight isn't about what they say it's about.",
+      "as_second": "Conflict reveals deception, a fight uncovers complications, repeated arguments trace back to a hidden source."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "A fated complication, suffering through deception, a karmic tangle. The burden has a snake woven through it.",
+      "as_second": "Deception leads to suffering, complications become a burden, the winding path leads to a cross."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Complicated love, a seductive rival, desire with hidden motives. The affair, the infatuation that isn't what it seems.",
+      "as_second": "Love complicates everything, the heart leads into a tangle, passion creates the problem."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A complicated commitment, a contract with hidden clauses, a binding agreement that's not straightforward.",
+      "as_second": "A commitment reveals complications, a contract leads to entanglement, the ring comes with strings."
+    },
+    {
+      "with": "the_bouquet",
+      "with_number": 9,
+      "category": "positive",
+      "as_first": "A charming deception, flattery with ulterior motives, a gift that comes with strings. Beautiful wrapping, complicated contents.",
+      "as_second": "A gift reveals a complication, social grace hides an agenda, beauty conceals a bite."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "A complicated solution, an important discovery about a deception, the key to the tangle is found.",
+      "as_second": "A breakthrough reveals complications, unlocking something shows hidden complexity, the solution has a twist."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "neutral",
+      "as_first": "Domestic complications, a house with hidden problems, family deception. The home has a snake in the garden.",
+      "as_second": "Complications lead home, deception enters the household, a complicated person disrupts domestic peace."
+    },
+    {
+      "with": "the_book",
+      "with_number": 26,
+      "category": "neutral",
+      "as_first": "Hidden deception, a secret complication, knowledge of a betrayal. The snake is in the book—someone knows something.",
+      "as_second": "A secret creates complications, hidden knowledge leads to entanglement, what's unknown is what's dangerous."
+    },
+    {
+      "with": "the_path",
+      "with_number": 22,
+      "category": "neutral",
+      "as_first": "A complicated choice, both options have hidden downsides, a decision muddied by deception. Neither path is straight.",
+      "as_second": "A decision leads to complications, choosing creates new tangles, the fork in the road has a snake on each branch."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A deceptive man, a complicated man, a male rival. A man who isn't what he seems or who brings complications.",
+      "as_second": "A man encounters deception, a man is the target of complications, a man must navigate treachery."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A deceptive woman, a complicated woman, a female rival. Traditionally the 'other woman.' A woman of power and cunning.",
+      "as_second": "A woman encounters deception, a woman is the target of complications, a woman must navigate treachery."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A small complication, a deception targeting the innocent, a new beginning with hidden problems. The snake eyes the child.",
+      "as_second": "A new beginning reveals complications, innocence uncovers deception, a fresh start has a twist."
+    },
+    {
+      "with": "the_lily",
+      "with_number": 30,
+      "category": "neutral",
+      "as_first": "Complicated wisdom, deception by an elder, a mature situation with hidden layers. The old snake knows all the paths.",
+      "as_second": "Maturity reveals complications, peace is disrupted by deception, the elder knows where the bodies are buried."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Complications — Cards landing here speak to deception, rivalry, indirect paths, and hidden agendas in the querent's life. This house asks: what's the complication? Who isn't being straight?",
+    "near_significator": "Complications are central. The querent is dealing with deception, rivalry, or tangled situations. Someone nearby isn't trustworthy, or the path forward requires cunning navigation.",
+    "far_from_significator": "Complications are distant or resolved. Deception isn't the main story right now. The snake is far from the querent's door—for now.",
+    "diagonal_or_corner": "Complications operate as background influence—a subtle undercurrent of deception or complexity that the querent may not have noticed. Something isn't quite straight."
+  }
+}

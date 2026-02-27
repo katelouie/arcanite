@@ -1,0 +1,172 @@
+{
+  "id": "the_gentleman",
+  "number": 28,
+  "name": "The Gentleman",
+  "playing_card": "Ace of Hearts",
+  "system": "lenormand",
+  "image_file": "28.jpg",
+
+  "image": "A well-dressed man, standing and facing the viewer. He is the male querent or the primary male figure in the reading. His identity is defined by the cards around him.",
+
+  "core": {
+    "keywords": ["male querent", "man", "husband", "boyfriend", "father", "male significator", "masculine energy"],
+    "charge": "neutral",
+    "category": "person",
+    "topics": ["the querent", "male figure", "primary man", "significator", "identity"]
+  },
+
+  "timing": {
+    "thematic": "present",
+    "duration": null,
+    "season": null,
+    "speed": null,
+    "direction": null
+  },
+
+  "as_person": "The male querent themselves, or the primary male figure in the reading. If the querent is male, this IS them. If the querent is female, this is typically the most significant man in their life—partner, love interest, father, or central male figure in the question.",
+
+  "modifier_behavior": {
+    "type": "pivot",
+    "as_modifier": "Personalizes the card it touches to the male querent or primary male figure. Whatever is next to the Gentleman belongs to him, describes him, or directly affects him.",
+    "as_modified": "The card's core meaning defines the Gentleman's current state, situation, or approach. Card A is what's happening TO him or what characterizes him right now."
+  },
+
+  "topic_contexts": {
+    "love": "The male partner, the man in the romance, the man you're asking about. His heart, his feelings, his approach to the relationship. In a love reading, every card near the Gentleman paints his emotional portrait.",
+    "career": "The man's professional identity, his career, his work situation. The Gentleman at work—defined by what surrounds him in the spread.",
+    "health": "The man's health, his body, his physical condition. Cards near the Gentleman in a health reading describe his physical state.",
+    "finances": "The man's financial situation, his money, his material resources. The Gentleman's wallet—defined by proximity.",
+    "spiritual": "The man's spiritual state, his inner life, his soul journey. The Gentleman's deepest self—what the cards around him reveal about who he really is."
+  },
+
+  "line_reading": {
+    "as_first": "The matter begins with the man himself. He is the subject, the actor, the one who sets things in motion. The reading is about him or starts from his perspective.",
+    "as_middle": "The man is at the center of the situation. He stands between forces, influenced by what comes before and reaching toward what follows.",
+    "as_last": "The outcome centers on the man. He is the resolution, the destination, or the one who receives the consequences. It comes back to him."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Gentleman appears BEFORE (left of) another card, he is moving toward, reaching for, or focused on Card B. Whatever Card B represents is what the man wants, faces, or is heading into.",
+    "as_card_b": "When The Gentleman appears AFTER (right of) another card, Card A is what's behind him, influencing him, or defining his recent past and current state. Think: '[Card A] shapes the man' or 'the man comes from [Card A].'",
+    "with_positive_card": "The man is in a good state, blessed by this energy, or moving toward something positive.",
+    "with_negative_card": "The man is challenged, burdened, or facing difficulty. The negative energy defines his current struggle.",
+    "with_person_card": "The man is in direct relationship with this person—the Lady is his partner, the Child is his child or new beginning, etc.",
+    "with_object_card": "The man is defined by, connected to, or engaged with this object or concept. It's part of his current story."
+  },
+
+  "combinations": [
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "The man looks toward the woman, the man desires the woman, the couple with the man reaching. His focus is on her.",
+      "as_second": "The woman influences the man, the woman is behind the man, the couple with the woman holding ground. She defines him right now."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A man with a child, a man beginning something new, a man who is naive or fresh to something. The man and the new beginning.",
+      "as_second": "A new beginning defines the man, a child influences him, something young and fresh shapes his identity."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "A man in love, a man reaching for love, a man focused on romance. His heart leads.",
+      "as_second": "Love defines the man, the heart shapes him, emotion characterizes his current state. He is loved—or lovesick."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A man committed, a man reaching for partnership, a husband or fiancé. He's ready to bind.",
+      "as_second": "Commitment defines the man, a contract shapes him, partnership characterizes his identity. He is bound."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "A successful man, a happy man, a man moving toward joy. He shines.",
+      "as_second": "Success defines the man, joy shapes him, happiness characterizes his current state."
+    },
+    {
+      "with": "the_dog",
+      "with_number": 18,
+      "category": "positive",
+      "as_first": "A loyal man, a man reaching for friendship, a trustworthy man. A man with his best friend.",
+      "as_second": "Loyalty defines the man, friendship shapes him, trust characterizes his identity."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "A man facing complications, a man reaching into a tangle, a man deceived or deceiving.",
+      "as_second": "Complications define the man, deception shapes him, a complicated woman influences him."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A man facing an ending, a man moving toward closure, a grieving man.",
+      "as_second": "An ending defines the man, loss shapes him, the man comes from a place of closure or grief."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "A cunning man, a man facing deception, a man who is not what he seems.",
+      "as_second": "Cunning defines the man, deception shapes him, the fox characterizes his approach."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "A burdened man, a man facing his fate, a man carrying suffering. He walks toward the cross.",
+      "as_second": "Burden defines the man, fate shapes him, suffering characterizes his current state."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "object",
+      "as_first": "A traveling man, a man heading abroad, a man in commerce. He sails.",
+      "as_second": "Travel defines the man, distance shapes him, foreign connections characterize his identity."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "A domestic man, a man focused on home, a man heading home. He belongs to the house.",
+      "as_second": "Home defines the man, family shapes him, domestic stability characterizes his identity."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "An ambitious man, a man heading toward authority, a corporate or government man.",
+      "as_second": "Authority defines the man, the institution shapes him, power characterizes his identity."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "object",
+      "as_first": "A wealthy man, a businessman, a man focused on finances.",
+      "as_second": "Money defines the man, business shapes him, finances characterize his identity."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "object",
+      "as_first": "A hardworking man, a man focused on stability, a reliable man heading toward his purpose.",
+      "as_second": "Work defines the man, stability shapes him, dedication characterizes his identity."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of the Man — Cards landing here describe the male querent or primary male figure. This house IS him—whatever falls here paints his portrait.",
+    "near_significator": "If this IS the significator, all nearby cards describe his current situation, environment, and immediate influences. Read the cards closest to him first.",
+    "far_from_significator": "If reading for the Lady, a distant Gentleman suggests he is far from her concerns, physically distant, or emotionally removed.",
+    "diagonal_or_corner": "The man's influence operates subtly—present but not dominant in the current situation."
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "the_rider",
+  "number": 1,
+  "name": "The Rider",
+  "playing_card": "9 of Hearts",
+  "system": "lenormand",
+  "image_file": "01.jpg",
+
+  "image": "A young man on horseback, arriving at speed. The horse is in motion, the rider carries news or a message. The energy is forward, incoming, urgent.",
+
+  "core": {
+    "keywords": ["news", "message", "arrival", "visitor", "speed", "beginning", "delivery", "update"],
+    "charge": "neutral",
+    "category": "person",
+    "topics": ["communication", "beginnings", "visitors", "speed", "news", "deliveries"]
+  },
+
+  "timing": {
+    "thematic": "incoming",
+    "duration": "days",
+    "season": "spring",
+    "speed": "fast",
+    "direction": "toward"
+  },
+
+  "as_person": "A young man, a messenger, a courier, a lover arriving. Someone who brings news or change. An athletic or active person. Often the querent's younger male interest or a sibling figure.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds speed, news, arrival, or incoming energy to the card it touches. Whatever is next to the Rider is coming quickly or carries a message.",
+    "as_modified": "The card's core meaning is arriving, being announced, or gaining urgency. What was distant or abstract becomes incoming and imminent."
+  },
+
+  "topic_contexts": {
+    "love": "A new lover arriving, romantic news, a message from someone you're interested in. A date, a first meeting, or the return of a past flame. Love is coming to you.",
+    "career": "Job news, a new opportunity arriving, a quick professional development. An interview, offer, or assignment coming in fast. Career momentum.",
+    "health": "Health news arriving, test results, a new diagnosis or treatment option. Quick recovery. A health update—likely positive given the card's forward energy.",
+    "finances": "Financial news, a payment arriving, money coming in quickly. A financial opportunity or update. Short-term gains.",
+    "spiritual": "A message from spirit, a sign arriving, spiritual news or awakening. New spiritual practice or teacher entering your life. The universe is sending a messenger."
+  },
+
+  "line_reading": {
+    "as_first": "News is coming. The reading opens with incoming energy—a message, a visitor, or a new beginning is the catalyst for everything that follows.",
+    "as_middle": "A message or arrival changes the dynamic. News enters the situation, a visitor shifts the energy, or speed picks up in the middle of the matter.",
+    "as_last": "The outcome is an arrival, a message, or a new beginning. Something is coming to you. Resolution comes quickly and with forward momentum."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Rider appears BEFORE (left of) another card, it delivers news ABOUT Card B. The Rider announces, reveals, or brings Card B's energy to the querent. Think: 'news about [Card B]' or '[Card B] is arriving / incoming.'",
+    "as_card_b": "When The Rider appears AFTER (right of) another card, Card A's energy is being delivered or set in motion. Think: '[Card A] brings a message' or '[Card A] arrives quickly.' Card A rides in on horseback.",
+    "with_positive_card": "Good news, a welcome visitor, a fortunate arrival. The message is one you want to hear. Speed works in your favor.",
+    "with_negative_card": "Bad news, an unwelcome visitor, a disruption arriving fast. The message stings or the arrival creates problems. Speed works against you.",
+    "with_person_card": "That person is arriving, sending a message, or is the subject of news. They're on their way or have something to tell you.",
+    "with_object_card": "That thing or concept is arriving, being delivered, or is the subject of a message. It's incoming—expect it soon."
+  },
+
+  "combinations": [
+    {
+      "with": "the_clover",
+      "with_number": 2,
+      "category": "positive",
+      "as_first": "Lucky news arrives, a fortunate message, a visitor bringing small blessings. Good news comes quickly.",
+      "as_second": "Luck triggers a message, a fortunate encounter leads to news, a small stroke of luck arrives on horseback."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "neutral",
+      "as_first": "Travel news arrives, a journey is announced, a foreign visitor is coming. A trip is set in motion by incoming information.",
+      "as_second": "News prompts travel, a message about departure, a quick journey begins. Information drives movement forward."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "neutral",
+      "as_first": "News about home, a domestic visitor, a message about family or property. Someone is coming to the house.",
+      "as_second": "Home triggers a message, family sends a visitor, domestic matters prompt news. The rider arrives at the doorstep."
+    },
+    {
+      "with": "the_clouds",
+      "with_number": 6,
+      "category": "negative",
+      "as_first": "Confusing news, unclear message, a visitor who brings uncertainty. The message is muddled or ambiguous.",
+      "as_second": "Confusion triggers a message, uncertainty sends a rider, unclear circumstances prompt an arrival. The news comes through fog."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "News of an ending, a message about closure, a visitor bringing finality. Something stops arriving.",
+      "as_second": "An ending sends a final message, closure triggers one last visit, finality rides in. The last rider."
+    },
+    {
+      "with": "the_bouquet",
+      "with_number": 9,
+      "category": "positive",
+      "as_first": "A pleasant message, a gift arriving, an invitation delivered. The news is welcome and socially gracious.",
+      "as_second": "A gift prompts a visit, an invitation brings a rider, beauty triggers a message. The arrival is charming."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "Deceptive news, a message with hidden motives, a visitor who isn't what they seem. Don't trust this at face value.",
+      "as_second": "Deception triggers a message, cunning prompts a visit, a fox sends a rider. The news has teeth behind its smile."
+    },
+    {
+      "with": "the_dog",
+      "with_number": 18,
+      "category": "positive",
+      "as_first": "News from a friend, a loyal visitor, a message of friendship or trust. A friend is arriving.",
+      "as_second": "A friend brings news, loyalty delivers a message, trust triggers an arrival. The friend rides in."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Love letter, romantic news, a lover arriving. The message is one of passion or emotional significance.",
+      "as_second": "Love brings a message, the heart sends a rider, romance triggers an arrival. Love is the news."
+    },
+    {
+      "with": "the_letter",
+      "with_number": 27,
+      "category": "neutral",
+      "as_first": "A fast letter, an urgent document, news arriving in written form. The message is official or documented.",
+      "as_second": "A document triggers a visit, paperwork sends a rider, written communication arrives with urgency."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "News about a man, a man is arriving, a message from a specific man. A young man brings word of an older or more established man.",
+      "as_second": "A man brings news, a man is the messenger, a male visitor arrives. The man himself is the delivery."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "News about a woman, a woman is arriving, a message from a specific woman. Word comes regarding her.",
+      "as_second": "A woman brings news, a woman is the messenger, a female visitor arrives. The woman herself is the delivery."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "News about a child or new beginning, a small message arrives, a young visitor. Something new and small is incoming.",
+      "as_second": "A new beginning brings news, a child delivers a message, a fresh start triggers arrival. Innocence rides in."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Wonderful news, joyful message, a visitor who brings happiness and success. The best possible news arrives.",
+      "as_second": "Success brings a message, joy triggers an arrival, happiness rides in. The news is radiant."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "Worrying news, a message that causes anxiety, a visitor who diminishes something. The news erodes confidence.",
+      "as_second": "Anxiety triggers a message, worry sends a rider, small losses prompt an arrival. The news gnaws."
+    },
+    {
+      "with": "the_stork",
+      "with_number": 17,
+      "category": "neutral",
+      "as_first": "News of change, a message about transformation, a visitor who brings transition. Something is shifting and the news confirms it.",
+      "as_second": "Change triggers a message, transformation sends a rider, a shift in circumstances brings news. The change arrives."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of News — Cards landing here speak to what messages, visitors, or new beginnings are coming for the querent. This house asks: what's arriving? What news is on its way?",
+    "near_significator": "News is imminent. A message, visitor, or new beginning is front and center in the querent's life. Something is arriving fast.",
+    "far_from_significator": "News is delayed, distant, or not yet relevant. The message hasn't been sent yet, or the visitor is far away. Patience required.",
+    "diagonal_or_corner": "News or messages operate as background influence—not the main story, but subtly shaping it. A message is in the periphery, waiting to be noticed."
+  }
+}

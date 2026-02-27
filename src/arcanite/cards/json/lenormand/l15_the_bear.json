@@ -1,0 +1,179 @@
+{
+  "id": "the_bear",
+  "number": 15,
+  "name": "The Bear",
+  "playing_card": "10 of Clubs",
+  "system": "lenormand",
+  "image_file": "15.jpg",
+
+  "image": "A large, powerful bear standing upright. Massive, protective, commanding. It can nurture its cubs or tear you apart—depends entirely on your relationship to it.",
+
+  "core": {
+    "keywords": ["strength", "power", "authority", "boss", "mother", "protection", "finances", "dominance", "jealousy"],
+    "charge": "neutral",
+    "category": "nature",
+    "topics": ["authority", "power", "finances", "management", "motherhood", "protection", "strength"]
+  },
+
+  "timing": {
+    "thematic": "powerful",
+    "duration": "weeks_to_months",
+    "season": null,
+    "speed": "moderate",
+    "direction": null
+  },
+
+  "as_person": "A boss, a mother figure, a powerful person. Someone with authority—financial, physical, or emotional. A manager, a wealthy person, an overbearing parent. Protective when you're family, dangerous when you're not.",
+
+  "modifier_behavior": {
+    "type": "intensifier",
+    "as_modifier": "Adds power, authority, financial weight, or protective/dominating energy to the card it touches. Whatever is next to the Bear becomes bigger, stronger, or more financially significant.",
+    "as_modified": "The card's core meaning becomes the domain over which the Bear exerts power. What was ordinary becomes a power dynamic. What was small becomes a big deal."
+  },
+
+  "topic_contexts": {
+    "love": "A powerful partner, a protective love, a dominant dynamic in the relationship. A mother-in-law situation. Love that's more about power than tenderness—or a love so strong it overwhelms.",
+    "career": "The boss card. Management, authority at work, professional power. Being promoted, dealing with a superior, or stepping into leadership. Career strength.",
+    "health": "Physical strength, body mass, metabolic health. Over-eating, weight issues, or conversely: robust vitality. The body's raw power. Immune strength.",
+    "finances": "The primary finance card alongside Fish. Wealth, investments, financial power. A large sum, a financial authority, or someone who controls the money.",
+    "spiritual": "Power in spiritual practice, the divine mother, protective spiritual forces. The bear as shamanic ally. Grounding, earthly power, primal spiritual strength."
+  },
+
+  "line_reading": {
+    "as_first": "The situation is dominated by power, authority, or financial matters. A strong force sets the stage. The bear is already in the room.",
+    "as_middle": "Power or authority enters the picture. A boss, a financial shift, or a dominant force changes the dynamic. The bear wakes up.",
+    "as_last": "The outcome involves power, financial resolution, or authority. The strongest force prevails. The bear decides."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Bear appears BEFORE (left of) another card, it overpowers or financially charges Card B. Whatever Card B represents becomes a matter of authority, money, or raw strength. Think: 'powerful [Card B]' or 'the boss of [Card B].'",
+    "as_card_b": "When The Bear appears AFTER (right of) another card, Card A's energy leads to a power dynamic, financial matter, or authority figure. Think: '[Card A] leads to the boss' or '[Card A] becomes a money matter.' Card A meets the bear.",
+    "with_positive_card": "Amplified blessings, powerful good fortune, financial abundance. The good thing is backed by serious muscle.",
+    "with_negative_card": "Overwhelming problems, a powerful enemy, financial threats. The bad thing is backed by authority. A formidable opponent.",
+    "with_person_card": "That person is powerful, wealthy, authoritative, or a boss/mother figure. They have weight—use it carefully.",
+    "with_object_card": "That thing or concept carries financial or authoritative weight. It's a bigger deal than it looks. Money or power is involved."
+  },
+
+  "combinations": [
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "A powerful deception, a cunning boss, financial fraud at scale. The bear and the fox—dangerous alliance.",
+      "as_second": "Deception targets the powerful, cunning undermines authority, the fox outwits the bear."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "A powerful complication, authority with hidden agendas, financial entanglement. The bear has a snake in its cave.",
+      "as_second": "Complications challenge authority, deception targets the powerful, the snake wraps around the bear."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "Immovable authority, a power blockage, financial obstacles. The bear meets the mountain—and neither gives.",
+      "as_second": "An obstacle challenges authority, blockage requires power to overcome, the mountain tests the bear."
+    },
+    {
+      "with": "the_whip",
+      "with_number": 11,
+      "category": "negative",
+      "as_first": "A power struggle, fighting with a boss, conflict over resources. Two forces clash violently.",
+      "as_second": "Conflict provokes the powerful, arguments with authority, the fight awakens the bear."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "positive",
+      "as_first": "Great wealth, financial power, abundance at scale. The richest combination for money. The bear guards the fish pond.",
+      "as_second": "Money brings power, wealth creates authority, financial success attracts the bear."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Powerful success, authority that brings joy, financial triumph. The bear in full sunlight—magnificent.",
+      "as_second": "Success attracts power, joy comes through authority, the sun shines on the strongest."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "positive",
+      "as_first": "A powerful career, stable authority, financial security. The most solid professional foundation.",
+      "as_second": "Work leads to power, career stability creates authority, the anchor holds the bear."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "An important authority figure, a powerful solution, a financial breakthrough. The bear holds the key.",
+      "as_second": "A solution comes through power, the breakthrough involves authority, the key opens the bear's cave."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A powerful child, the bear cub, a strong new beginning. Protection of something young. The mother bear.",
+      "as_second": "A new beginning meets power, a child encounters authority, something small faces something big."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "neutral",
+      "as_first": "A powerful home, the family authority, property wealth. A dominant household figure. The bear rules the den.",
+      "as_second": "Home grounds authority, family provides power, domestic life creates a power base."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "neutral",
+      "as_first": "Institutional power, corporate authority, government strength. The bear in the tower—formidable.",
+      "as_second": "Institutions serve the powerful, the system amplifies authority, the tower belongs to the bear."
+    },
+    {
+      "with": "the_tree",
+      "with_number": 5,
+      "category": "neutral",
+      "as_first": "Physical strength, powerful health, robust vitality. The bear in the forest—pure primal energy.",
+      "as_second": "Health grounds power, deep roots support authority, slow growth builds strength."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A powerful man, a boss, a wealthy man, a man with authority. He commands the room.",
+      "as_second": "A man encounters power, a man's path leads to authority, a man must deal with the boss."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A powerful woman, a boss, a wealthy woman, a mother figure with authority. She commands the room.",
+      "as_second": "A woman encounters power, a woman's path leads to authority, a woman must deal with the boss."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A powerful commitment, a financial contract, an authoritative agreement. The ring backed by the bear.",
+      "as_second": "A commitment to power, a contract with authority, the ring binds the bear."
+    },
+    {
+      "with": "the_lily",
+      "with_number": 30,
+      "category": "neutral",
+      "as_first": "Wise power, mature authority, an elder with financial weight. The bear in winter—experienced and formidable.",
+      "as_second": "Wisdom comes with power, maturity creates authority, peace requires the bear's permission."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Power — Cards landing here speak to authority, finances, strength, and power dynamics in the querent's life. This house asks: where is the power? Who holds it?",
+    "near_significator": "Power is central. The querent is dealing with authority figures, financial matters, or their own strength. The bear is at the table.",
+    "far_from_significator": "Power dynamics are distant. Financial matters or authority figures aren't the immediate concern. The bear is in its cave.",
+    "diagonal_or_corner": "Power operates as background influence—financial or authority dynamics quietly shaping the situation from the edges."
+  }
+}

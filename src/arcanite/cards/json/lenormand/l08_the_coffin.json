@@ -1,0 +1,179 @@
+{
+  "id": "the_coffin",
+  "number": 8,
+  "name": "The Coffin",
+  "playing_card": "9 of Diamonds",
+  "system": "lenormand",
+  "image_file": "08.jpg",
+
+  "image": "A closed wooden coffin, simple and final. No ornament, no ambiguity. Something has ended. The only question is what comes after the lid closes.",
+
+  "core": {
+    "keywords": ["ending", "closure", "loss", "transformation", "illness", "finality", "rest", "completion"],
+    "charge": "negative",
+    "category": "object",
+    "topics": ["endings", "death", "illness", "closure", "transformation", "grief", "letting go"]
+  },
+
+  "timing": {
+    "thematic": "ending",
+    "duration": "weeks",
+    "season": "winter",
+    "speed": "moderate",
+    "direction": "downward"
+  },
+
+  "as_person": "Someone ill, grieving, or going through a major ending. A mortician, funeral director, or grief counselor. A person who is emotionally shut down or has withdrawn from life. Someone in a period of dormancy.",
+
+  "modifier_behavior": {
+    "type": "negator",
+    "as_modifier": "Ends, stops, or kills what the adjacent card represents. The Coffin shuts the lid on Card B's energy. What was alive becomes dormant; what was active stops.",
+    "as_modified": "The card's core meaning is what has ended, what is being buried, or what must be released. The coffin contains Card A's energy—sealed and done."
+  },
+
+  "topic_contexts": {
+    "love": "A relationship ending, heartbreak, the death of feelings, or a love that must be laid to rest. Grief in love. Can also mean transformation—the old dynamic dies so a new one can emerge.",
+    "career": "Job loss, project ending, career death. A professional chapter closing. Being let go, a business folding, or finally leaving a role that was already dead.",
+    "health": "Illness, a health scare, the end of a health condition (for better or worse). Recovery after a crisis. The body demanding rest. Something in the body needs to stop.",
+    "finances": "Financial loss, a revenue stream dying, bankruptcy, or the end of a financial obligation. Something stops paying. But debts can also end.",
+    "spiritual": "Ego death, spiritual transformation, the end of a belief system. The necessary death before rebirth. Shamanic dismemberment. The dark before the dawn."
+  },
+
+  "line_reading": {
+    "as_first": "The situation begins with an ending or a loss. Something has already died or is in the process of dying. The past is sealed; the reading starts at the grave.",
+    "as_middle": "An ending enters the picture. Something stops, dies, or must be released. The middle of the story is a funeral—but the story isn't over.",
+    "as_last": "The outcome is an ending, closure, or transformation. Something must be laid to rest. This isn't punishment—it's completion. What follows the coffin is resurrection."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Coffin appears BEFORE (left of) another card, it ends or transforms Card B's energy. Whatever Card B represents is dying, stopping, or being buried. Think: 'the death of [Card B]' or '[Card B] ends.'",
+    "as_card_b": "When The Coffin appears AFTER (right of) another card, Card A's energy leads to an ending, loss, or necessary closure. Think: '[Card A] leads to an ending' or '[Card A] must be laid to rest.' Card A finds its coffin.",
+    "with_positive_card": "A good thing ends, a blessing is buried, or a positive transformation requires a death first. The ending makes room for something better—but you have to grieve first.",
+    "with_negative_card": "A problem ends, a difficulty dies, a negative situation is finally buried. The coffin is merciful here—it stops the suffering. But the grief is still real.",
+    "with_person_card": "That person is ill, grieving, going through a major ending, or has withdrawn. They may be literally or emotionally 'dead' to the querent.",
+    "with_object_card": "That thing or concept has ended, is dying, or must be released. It's over—the only question is whether the querent has accepted it."
+  },
+
+  "combinations": [
+    {
+      "with": "the_rider",
+      "with_number": 1,
+      "category": "neutral",
+      "as_first": "News of an ending, a message about closure, a visitor bringing finality. The last message arrives.",
+      "as_second": "An ending triggers a message, closure prompts news, finality rides in. The last rider."
+    },
+    {
+      "with": "the_clover",
+      "with_number": 2,
+      "category": "positive",
+      "as_first": "Luck ends, a fortunate period closes, a small blessing is buried. The lucky streak dies.",
+      "as_second": "An ending brings unexpected relief, closure is luckier than expected, the death opens a fortunate door."
+    },
+    {
+      "with": "the_bouquet",
+      "with_number": 9,
+      "category": "positive",
+      "as_first": "Flowers at a funeral, a gracious ending, beauty in closure. The farewell is gentle and kind.",
+      "as_second": "A gift ends, social grace is buried, an invitation is withdrawn. But even the farewell has elegance."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "A complication ends, deception dies, a rival is removed. The snake is buried.",
+      "as_second": "An ending was engineered, closure through manipulation, someone orchestrated this death."
+    },
+    {
+      "with": "the_scythe",
+      "with_number": 10,
+      "category": "negative",
+      "as_first": "A sudden ending, a death that cuts, a loss that's sharp and final. No gentle goodbye here.",
+      "as_second": "An ending is cut short, closure comes violently, the coffin lid slams."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "A fated ending, a death that was destined, closure that carries the weight of karma. The heaviest of endings.",
+      "as_second": "An ending becomes a burden, grief becomes suffering, the loss feels like punishment."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "An ending eroded by worry, a loss that gnaws, closure undermined by anxiety. The grief won't settle.",
+      "as_second": "Anxiety leads to an ending, small losses accumulate into a death, worry buries the thing."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "An ending that brings light, a death that leads to happiness, closure that opens doors. Dawn after the darkest night.",
+      "as_second": "Joy ends—temporarily. A happy period closes. But the sun also means the grief will lift."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "An important ending, a destined closure, a loss that unlocks something. The death was necessary.",
+      "as_second": "A breakthrough dies or a solution requires letting go first. The key is inside the coffin."
+    },
+    {
+      "with": "the_tree",
+      "with_number": 5,
+      "category": "neutral",
+      "as_first": "A health crisis, a chronic condition ending, the death of vitality. The tree falls. But trees also regenerate.",
+      "as_second": "An ending leads to slow recovery, closure triggers healing, death feeds new growth in the soil."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "neutral",
+      "as_first": "A home ending, selling a house, a family dissolving, domestic stagnation. The foundation crumbles.",
+      "as_second": "An ending at home, loss enters the household, closure in domestic matters. The house empties."
+    },
+    {
+      "with": "the_stork",
+      "with_number": 17,
+      "category": "neutral",
+      "as_first": "An ending leads to transformation, a death enables change, closure makes room for the new. The coffin and the cradle.",
+      "as_second": "Change dies, transformation is halted, a shift is stopped in its tracks. The stork finds a coffin."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A man faces an ending, a man is ill, a man is grieving or withdrawn. The man in the coffin—literally or figuratively.",
+      "as_second": "A man causes an ending, a man brings closure, a man's departure is final."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A woman faces an ending, a woman is ill, a woman is grieving or withdrawn. The woman in the coffin—literally or figuratively.",
+      "as_second": "A woman causes an ending, a woman brings closure, a woman's departure is final."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A new beginning ends before it starts, a child's health concern, something young dying. The saddest combination.",
+      "as_second": "A new beginning follows an ending, a child appears after a loss, innocence returns after grief. Rebirth."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Love ends, heartbreak, the death of feelings. A relationship is laid to rest. Grief in love.",
+      "as_second": "Love triggers an ending, the heart demands closure, feelings force a death that was overdue."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Endings — Cards landing here speak to what is ending, dying, or being laid to rest in the querent's life. This house asks: what must be released? What chapter is closing?",
+    "near_significator": "An ending is central. The querent is facing a significant closure, loss, or transformation. Something in their life is dying. Grief may be present or approaching.",
+    "far_from_significator": "Endings are distant or peripheral. Major loss is not the immediate concern. The coffin is far from the querent—for now.",
+    "diagonal_or_corner": "Endings operate as background influence—something has quietly died or is slowly closing without the querent's full awareness. A slow fade rather than a sharp stop."
+  }
+}

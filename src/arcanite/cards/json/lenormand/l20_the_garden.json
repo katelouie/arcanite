@@ -1,0 +1,172 @@
+{
+  "id": "the_garden",
+  "number": 20,
+  "name": "The Garden",
+  "playing_card": "8 of Spades",
+  "system": "lenormand",
+  "image_file": "20.jpg",
+
+  "image": "A lush, manicured garden with pathways and gathering spaces. People mingle among hedges and flowers. It's public, social, cultivated—nature arranged for human connection.",
+
+  "core": {
+    "keywords": ["society", "public", "gathering", "socializing", "networking", "reputation", "community", "events", "audience"],
+    "charge": "neutral",
+    "category": "place",
+    "topics": ["social life", "public events", "networking", "reputation", "community", "gatherings", "publicity"]
+  },
+
+  "timing": {
+    "thematic": "social_season",
+    "duration": "weeks",
+    "season": "summer",
+    "speed": "moderate",
+    "direction": null
+  },
+
+  "as_person": "A socialite, a networker, a public figure, an event planner. Someone who thrives in groups and whose identity is shaped by community. The host, the connector, the one who knows everyone.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds social dimension, public visibility, group dynamics, or community involvement to the card it touches. Whatever is next to the Garden becomes a public matter or a social event.",
+    "as_modified": "The card's core meaning is socialized, publicized, or experienced in a group setting. What was private becomes public; what was individual becomes communal."
+  },
+
+  "topic_contexts": {
+    "love": "Meeting someone at a social event, public relationships, love that happens in community settings. Dating through mutual friends, social media romance, or a relationship that's very visible to others.",
+    "career": "Networking, professional events, public-facing work, social media presence. Career advancement through who you know. Conferences, team dynamics, office social politics.",
+    "health": "Group fitness, community health, public health matters. Health through social connection—or social anxiety affecting health. Support groups, group therapy.",
+    "finances": "Crowdfunding, group investments, money through networking, public financial matters. Income from events or social enterprises. Financial reputation.",
+    "spiritual": "Community worship, group meditation, spiritual gatherings. The sangha, the coven, the congregation. Spiritual growth through collective practice and shared ritual."
+  },
+
+  "line_reading": {
+    "as_first": "The matter concerns social life, public events, community, or reputation. The situation plays out in a group setting or under public scrutiny.",
+    "as_middle": "Social dynamics enter the picture. The matter becomes public, a group gets involved, or reputation becomes relevant. The audience arrives.",
+    "as_last": "The outcome is social—a gathering, public recognition, community involvement. Resolution comes through group dynamics or public visibility."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Garden appears BEFORE (left of) another card, it socializes or publicizes Card B's energy. Whatever Card B represents becomes a group affair, a public event, or something experienced in community. Think: 'a social [Card B]' or '[Card B] in public.'",
+    "as_card_b": "When The Garden appears AFTER (right of) another card, Card A leads to social situations, public exposure, or community involvement. Think: '[Card A] goes public' or '[Card A] leads to a gathering.' Card A enters the garden.",
+    "with_positive_card": "Social life thrives, public recognition is positive, community supports the good. The garden is in bloom.",
+    "with_negative_card": "Social complications, public embarrassment, gossip, or community turning hostile. The garden has thorns.",
+    "with_person_card": "That person is social, public-facing, or connected to a group or event. They're known in the community.",
+    "with_object_card": "That object or concept becomes public, social, or communal. It's shared, visible, and involves more than one person."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A social man, a man in public, a man at an event. A man defined by his community role or social presence.",
+      "as_second": "A man leads to social situations, a man brings you into the community, a male host or networker."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A social woman, a woman in public, a woman at an event. A woman defined by her community role or social presence.",
+      "as_second": "A woman leads to social situations, a woman brings you into the community, a female host or networker."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A children's event, a new social beginning, a fresh community. A young person in a social setting—school, playground, new friend group.",
+      "as_second": "A new beginning goes public, a child enters the community, fresh energy at a gathering."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Love at a party, social romance, a public relationship. Meeting someone through friends or at an event. Love in the open.",
+      "as_second": "Love goes public, the heart enters community, romance at a social gathering. Everyone knows."
+    },
+    {
+      "with": "the_bouquet",
+      "with_number": 9,
+      "category": "positive",
+      "as_first": "A delightful social event, a beautiful gathering, an invitation to something lovely. The garden is dressed up.",
+      "as_second": "A gift goes public, beauty in the community, charm at a social event. The bouquet is for the whole garden."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "A wonderful social event, public success, community celebration. The garden party of the year.",
+      "as_second": "Success goes public, joy in community, happiness at a gathering. The sun shines on the garden."
+    },
+    {
+      "with": "the_dog",
+      "with_number": 18,
+      "category": "positive",
+      "as_first": "A friendly social circle, loyal community, trusted group. The garden is full of friends.",
+      "as_second": "Friendship leads to social events, loyalty within the community, a trusted group gathers."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Social complications, gossip, a deceptive community, backstabbing at events. The garden has serpents among the roses.",
+      "as_second": "Complications go public, deception within the community, a cunning person at the gathering. The snake slithers through the party."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "Social deception, networking with ulterior motives, a public persona hiding the truth. The garden smiles while the fox hunts.",
+      "as_second": "Cunning leads to social situations, deception goes public, a fox works the room."
+    },
+    {
+      "with": "the_clouds",
+      "with_number": 6,
+      "category": "negative",
+      "as_first": "Confusing social dynamics, unclear public image, a gathering shrouded in uncertainty. The garden is fogged in.",
+      "as_second": "Confusion goes public, uncertainty in the community, muddled social situations."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "Social isolation, blocked from community, public obstacles. The garden gate is locked.",
+      "as_second": "An obstacle becomes public, blockage in social settings, a wall between you and the community."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "A public institution, a social hierarchy, an official event. The garden meets the tower—community organized by authority.",
+      "as_second": "Authority goes social, the institution hosts an event, the tower opens to the public."
+    },
+    {
+      "with": "the_birds",
+      "with_number": 12,
+      "category": "object",
+      "as_first": "Social chatter, gossip at gatherings, conversations at events. The garden is buzzing with talk.",
+      "as_second": "Conversations lead to social events, communications within the community, chatter enters the garden."
+    },
+    {
+      "with": "the_book",
+      "with_number": 26,
+      "category": "object",
+      "as_first": "A public secret, hidden social dynamics, education in a group setting. The garden has secrets under the hedges.",
+      "as_second": "A secret goes public, hidden knowledge enters the community, something concealed is revealed at the gathering."
+    },
+    {
+      "with": "the_letter",
+      "with_number": 27,
+      "category": "object",
+      "as_first": "A public announcement, a social invitation, community correspondence. The garden sends invitations.",
+      "as_second": "A document goes public, a letter reaches the community, written communication at a social event."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Society — Cards landing here speak to public life, social dynamics, community involvement, or reputation. This house asks: what is your public face? How does the community see you?",
+    "near_significator": "Social life is central. The querent is deeply involved in community, public events, or group dynamics. Reputation matters right now.",
+    "far_from_significator": "Social life is peripheral. The querent is removed from community concerns, or public matters aren't the focus. The garden is far away.",
+    "diagonal_or_corner": "Social dynamics subtly influence the situation. Community isn't the main story, but group dynamics and public perception are shaping things in the background."
+  }
+}

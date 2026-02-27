@@ -1,0 +1,179 @@
+{
+  "id": "the_tower",
+  "number": 19,
+  "name": "The Tower",
+  "playing_card": "6 of Spades",
+  "system": "lenormand",
+  "image_file": "19.jpg",
+
+  "image": "A tall, imposing stone tower rising above the surrounding landscape. Institutional, solitary, authoritative. It watches over everything but invites no one in.",
+
+  "core": {
+    "keywords": ["authority", "institution", "government", "corporation", "isolation", "ambition", "structure", "hierarchy", "boundaries", "official"],
+    "charge": "neutral",
+    "category": "place",
+    "topics": ["authority", "institutions", "corporations", "government", "boundaries", "isolation", "ambition", "legal matters"]
+  },
+
+  "timing": {
+    "thematic": "enduring",
+    "duration": "months_to_years",
+    "season": null,
+    "speed": "slow",
+    "direction": "static"
+  },
+
+  "as_person": "An authority figure, a boss, a government official, a lawyer, a corporate executive. Someone who embodies structure, hierarchy, and institutional power. Can be protective or oppressive depending on context. A solitary, ambitious person.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds institutional weight, official status, authority, or isolation to the card it touches. Whatever is next to the Tower becomes an official matter, a corporate concern, or something solitary and structured.",
+    "as_modified": "The card's core meaning is institutionalized, formalized, or isolated. What was personal becomes official; what was communal becomes solitary. Structure is imposed."
+  },
+
+  "topic_contexts": {
+    "love": "A relationship defined by boundaries, hierarchy, or emotional distance. Love within institutional settings (office romance, military spouse). A partner who is emotionally guarded, authoritative, or values independence highly. The ivory tower of the heart.",
+    "career": "Corporate career, government work, institutional advancement. Climbing the hierarchy, ambition within established structures. Promotions, corporate politics, organizational power. The corner office.",
+    "health": "Hospital stays, institutional care, medical bureaucracy. The body's structural systems—bones, spine, posture. Long-term health conditions managed by institutions. Isolation for recovery.",
+    "finances": "Corporate finances, government taxes, institutional investments. Banks, legal financial structures, inheritance through official channels. Money that flows through bureaucracy.",
+    "spiritual": "Solitary spiritual practice, hermitage, spiritual authority. The structure of organized religion vs. personal faith. The tower as the ego that must eventually yield. Spiritual ambition."
+  },
+
+  "line_reading": {
+    "as_first": "The matter concerns an institution, authority figure, or official structure. Something formal, hierarchical, or isolated sets the stage.",
+    "as_middle": "Authority, institutional influence, or isolation enters the situation. The matter becomes official, structured, or encounters bureaucratic forces.",
+    "as_last": "The outcome involves authority, institutional resolution, or solitude. The matter is settled through official channels, or the querent stands alone—elevated but isolated."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Tower appears BEFORE (left of) another card, it institutionalizes or isolates Card B's energy. Whatever Card B represents becomes an official matter, a corporate concern, or something experienced in solitude. Think: 'the authority over [Card B]' or '[Card B] within the institution.'",
+    "as_card_b": "When The Tower appears AFTER (right of) another card, Card A leads to authority, isolation, or institutional involvement. Think: '[Card A] becomes official' or '[Card A] leads to solitude.' Card A enters the tower.",
+    "with_positive_card": "Authority supports the blessing, institutional backing strengthens the good. But there may be loneliness at the top even when things go well.",
+    "with_negative_card": "Institutional power amplifies the problem, or bureaucracy blocks resolution. Authority becomes oppression; isolation becomes imprisonment.",
+    "with_person_card": "That person is an authority figure, works within institutions, or is emotionally isolated. They may be powerful but hard to reach.",
+    "with_object_card": "That object or concept is institutional, official, or experienced in isolation. It carries the weight of authority or the chill of solitude."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A man in authority, a boss, a government official, a corporate man. A man defined by his position in the hierarchy.",
+      "as_second": "A man encounters authority, a man enters an institution, a man becomes isolated or ambitious. The tower rises around him."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A woman in authority, a female boss, a woman in government or corporate power. A woman defined by her institutional role.",
+      "as_second": "A woman encounters authority, a woman enters an institution, a woman becomes isolated or ambitious. The tower rises around her."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A new institution, a young authority, a child in an institution (school, hospital). Fresh structure imposed on something young.",
+      "as_second": "A new beginning encounters authority, a fresh start within an institution, innocence meets the hierarchy."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "A successful institution, authority that brings joy, a corporation thriving. The tower in sunlight—powerful and warm.",
+      "as_second": "Success within the institution, joy through authority, happiness in solitude. The sun shines on the tower."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "An important institution, authority that unlocks something, the key to the hierarchy. Access granted by power.",
+      "as_second": "A breakthrough within the institution, a solution through authority, unlocking the tower's door."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "An institutional commitment, a corporate contract, a binding agreement with authority. Official partnership.",
+      "as_second": "A commitment leads to institutional involvement, a contract with the tower, a binding to authority."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Love within an institution, an authoritative heart, a guarded love. The tower protects what it cares about—by keeping it locked inside.",
+      "as_second": "Love encounters authority, the heart enters the tower, romance meets hierarchy. Love in the corner office."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Institutional corruption, complicated authority, deceptive hierarchy. The tower has serpents in its walls.",
+      "as_second": "Complications with authority, deception within the institution, a cunning person in power."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "An institution being eroded, authority undermined, isolation causing anxiety. The tower's foundations are being nibbled.",
+      "as_second": "Worry about authority, anxiety within the institution, small losses in the hierarchy. Mice in the tower."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "Immovable authority, an institution that blocks everything, impenetrable bureaucracy. The tower behind the mountain—unreachable.",
+      "as_second": "An obstacle becomes institutional, a blockage by authority, bureaucratic barriers. The mountain guards the tower."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "An institution as burden, authority as suffering, the loneliness of power as fate. The tower becomes a prison.",
+      "as_second": "Suffering leads to institutional involvement, a burden takes official form, fate meets authority. The cross atop the tower."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "An institutional home, a family with strict hierarchy, authority over domestic matters. The tower domesticated—or the home made rigid.",
+      "as_second": "Home encounters authority, family matters become official, domestic life meets institutional structure."
+    },
+    {
+      "with": "the_letter",
+      "with_number": 27,
+      "category": "object",
+      "as_first": "Official documents, government correspondence, institutional paperwork. The letter bears a seal.",
+      "as_second": "A document involves authority, a letter from the institution, official correspondence arrives."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "object",
+      "as_first": "Corporate finances, institutional wealth, government money, banking. The tower's treasury.",
+      "as_second": "Money enters the institution, finances become a corporate matter, wealth through authority."
+    },
+    {
+      "with": "the_garden",
+      "with_number": 20,
+      "category": "object",
+      "as_first": "A public institution, authority in social settings, government events. The tower opens its gates to the public.",
+      "as_second": "Social matters become institutional, a gathering involves authority, the public meets the tower."
+    },
+    {
+      "with": "the_lily",
+      "with_number": 30,
+      "category": "object",
+      "as_first": "Wise authority, mature institution, experienced leadership, senority in the hierarchy. The tower stands in peace—earned through age.",
+      "as_second": "Maturity within the institution, peace through authority, wisdom encounters the tower. The elder in power."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Authority — Cards landing here speak to institutional matters, government, corporate concerns, or where the querent stands in relation to power structures. This house asks: what does authority look like in your life?",
+    "near_significator": "Authority is central. The querent is deeply involved with institutions, hierarchy, or official matters. They may be in a position of power—or under someone else's.",
+    "far_from_significator": "Institutional matters are peripheral. Authority isn't the main story, or the querent has distanced themselves from hierarchical structures. The tower is on the horizon.",
+    "diagonal_or_corner": "Authority operates as background influence—not the main drama, but structural forces are subtly shaping the querent's situation."
+  }
+}

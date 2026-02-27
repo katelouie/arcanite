@@ -1,0 +1,172 @@
+{
+  "id": "the_key",
+  "number": 33,
+  "name": "The Key",
+  "playing_card": "8 of Diamonds",
+  "system": "lenormand",
+  "image_file": "33.jpg",
+
+  "image": "A golden skeleton key, ornate and weighty. It opens what was locked. It is the answer, the solution, the turning point. Hold it up and a door appears.",
+
+  "core": {
+    "keywords": ["solution", "answer", "importance", "destiny", "breakthrough", "certainty", "unlocking", "significance", "resolution"],
+    "charge": "positive",
+    "category": "object",
+    "topics": ["solutions", "breakthroughs", "importance", "destiny", "certainty", "resolution", "answers"]
+  },
+
+  "timing": {
+    "thematic": "decisive",
+    "duration": "days_to_weeks",
+    "season": null,
+    "speed": "fast",
+    "direction": null
+  },
+
+  "as_person": "A problem-solver, a locksmith, a person who holds the answer. Someone indispensable—the one without whom nothing works. A fixer, a connector, a person of significance.",
+
+  "modifier_behavior": {
+    "type": "intensifier",
+    "as_modifier": "Confirms, amplifies importance, and guarantees the card it touches. Whatever is next to the Key is significant, certain, or the answer to the question. The Key is Lenormand's 'yes'—it affirms.",
+    "as_modified": "The card's core meaning is the lock that the Key opens, or the context for the breakthrough. Card A is the door—the Key opens it."
+  },
+
+  "topic_contexts": {
+    "love": "The key to the relationship, the answer to the love question, a destined romance. The conversation that unlocks everything. Certainty about feelings—this IS the one, or this IS over. The Key doesn't do ambiguity.",
+    "career": "A career breakthrough, the solution to a work problem, an important professional development. The interview that changes everything, the skill that unlocks the next level. Professional certainty.",
+    "health": "The right diagnosis, the treatment that works, the health breakthrough. The Key in health is the doctor who finally figures it out, the change that makes the difference.",
+    "finances": "A financial solution, the key to wealth, an important financial development. The investment that pays, the deal that unlocks abundance. Financial certainty.",
+    "spiritual": "Spiritual breakthrough, the answer from within, karmic significance. The Key is the moment of knowing—not hoping, not believing, but KNOWING. The spiritual door opens."
+  },
+
+  "line_reading": {
+    "as_first": "Something important opens the matter. A breakthrough, a solution, or a moment of certainty sets the stage. The answer is here before the question is fully asked.",
+    "as_middle": "A breakthrough enters the situation. A solution appears, something unlocks, or certainty arrives. The Key turns in the middle of the story.",
+    "as_last": "The outcome is a breakthrough, a solution, or certainty. The matter resolves definitively. The door opens. Yes."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Key appears BEFORE (left of) another card, it unlocks or affirms Card B. Whatever Card B represents is the answer, is certain, or is about to open up. Think: 'the solution is [Card B]' or '[Card B] is unlocked / guaranteed.'",
+    "as_card_b": "When The Key appears AFTER (right of) another card, Card A leads to a breakthrough or definitive answer. Think: '[Card A] unlocks everything' or '[Card A] is the key.' Card A turns the lock.",
+    "with_positive_card": "Confirmed blessing, guaranteed success, an answer that is clearly positive. The Key says yes—and the positive card says what yes means.",
+    "with_negative_card": "The Key unlocks the problem—for better or worse. Either the breakthrough comes THROUGH the difficulty, or the Key confirms that the negative situation is significant and real. An important challenge.",
+    "with_person_card": "That person is important, holds the answer, or is the key to the situation. They are indispensable right now.",
+    "with_object_card": "That object or concept is the answer, the solution, or critically important. It unlocks the situation."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "An important man, a man who holds the answer, a man who unlocks the situation. He is the key.",
+      "as_second": "A man leads to a breakthrough, a man IS the solution, a man's significance is confirmed."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "An important woman, a woman who holds the answer, a woman who unlocks the situation. She is the key.",
+      "as_second": "A woman leads to a breakthrough, a woman IS the solution, a woman's significance is confirmed."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "An important new beginning, a breakthrough that's just starting, a child who holds the answer. The key is new.",
+      "as_second": "A new beginning leads to a breakthrough, something fresh IS the solution, innocence unlocks the door."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Love is the answer. The key to everything is the heart. Romance unlocks the situation. Yes, this is love.",
+      "as_second": "Love leads to a breakthrough, the heart IS the key, emotion unlocks what logic couldn't."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "An important commitment, a destined partnership, the contract that changes everything. The key and the ring: bound and certain.",
+      "as_second": "A commitment IS the breakthrough, a partnership unlocks the situation, the ring is the key."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Guaranteed success, an important achievement, the solution that brings joy. The key to happiness—found.",
+      "as_second": "Success IS the breakthrough, joy unlocks the situation, achievement is the key."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "positive",
+      "as_first": "An important career development, the key to stability, a breakthrough through hard work. The solution is perseverance.",
+      "as_second": "Hard work IS the breakthrough, stability unlocks the situation, the anchor is the key."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "An important ending, a definitive closure, the breakthrough that requires something to die. The key opens the coffin—what's inside had to be faced.",
+      "as_second": "An ending IS the breakthrough, closure unlocks the situation, something had to end for the door to open."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "An important complication, a breakthrough tangled with difficulty, the answer hidden in complexity. The key is there—but the snake guards it.",
+      "as_second": "Complication IS the breakthrough (the struggle was the point), deception leads to an important truth."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "An important obstacle, a blocked breakthrough, the answer delayed by immovable resistance. The key exists—the lock is behind the mountain.",
+      "as_second": "An obstacle leads to an important realization, the mountain forces a different kind of breakthrough."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "An important burden, a fated breakthrough, the key to suffering—or the key that ends it. Significant karmic moment.",
+      "as_second": "A burden leads to a breakthrough, fate unlocks the situation, the cross IS the key."
+    },
+    {
+      "with": "the_book",
+      "with_number": 26,
+      "category": "object",
+      "as_first": "An important secret, the key to hidden knowledge, a breakthrough through education. The key opens the book.",
+      "as_second": "A secret IS the breakthrough, hidden knowledge unlocks the situation, the book is the key."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "object",
+      "as_first": "An important financial development, the key to wealth, a monetary breakthrough. The key to the treasury.",
+      "as_second": "Money IS the breakthrough, finances unlock the situation, abundance is the key."
+    },
+    {
+      "with": "the_path",
+      "with_number": 22,
+      "category": "object",
+      "as_first": "An important choice, the key decision, a breakthrough at the crossroads. One path is clearly the answer.",
+      "as_second": "A choice leads to a breakthrough, the decision IS the key, choosing unlocks everything."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "An important institution, the key to authority, an official breakthrough. The key to the tower door.",
+      "as_second": "Authority IS the breakthrough, the institution unlocks the situation, official channels provide the key."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Answers — Cards landing here speak to what is critically important, what the solution is, and where breakthroughs are happening. This house asks: what's the key? What unlocks your situation?",
+    "near_significator": "A breakthrough is imminent. The answer is close, the solution is within reach, and certainty is available. Pay attention—the key is right there.",
+    "far_from_significator": "Solutions are distant. The breakthrough hasn't arrived yet, or the answer isn't clear. The key exists—but you haven't found it yet.",
+    "diagonal_or_corner": "An answer subtly shapes the situation. A solution or important development is forming in the background—the key is being forged even if you can't see it."
+  }
+}

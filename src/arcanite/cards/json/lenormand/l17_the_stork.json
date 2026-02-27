@@ -1,0 +1,83 @@
+{
+  "id": "the_stork",
+  "number": 17,
+  "name": "The Stork",
+  "playing_card": "Queen of Hearts",
+  "system": "lenormand",
+  "image_file": "17.jpg",
+
+  "image": "A white stork in flight, long legs trailing, carrying change on its wings. Migration, delivery, transformation. Something is arriving—or something is leaving to make room.",
+
+  "core": {
+    "keywords": ["change", "transformation", "move", "relocation", "improvement", "pregnancy", "cycle", "migration"],
+    "charge": "neutral",
+    "category": "nature",
+    "topics": ["change", "transformation", "relocation", "pregnancy", "improvement", "cycles", "progress"]
+  },
+
+  "timing": {
+    "thematic": "transitional",
+    "duration": "weeks_to_months",
+    "season": "spring",
+    "speed": "moderate",
+    "direction": "forward"
+  },
+
+  "as_person": "A woman who brings change, a midwife, someone in transition. A person who transforms situations by arriving or leaving. A tall, graceful person. Someone associated with birth or new phases.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds change, transformation, or movement to the card it touches. Whatever is next to the Stork is shifting, improving, or being relocated. The winds of change blow on Card B.",
+    "as_modified": "The card's core meaning becomes the thing changing, the area of transformation, or the context for a move. What was static begins to shift."
+  },
+
+  "topic_contexts": {
+    "love": "A relationship changing, a new phase in love, moving in together or apart. Pregnancy. The love is transforming—for better or worse depends on surrounding cards.",
+    "career": "Job change, career transformation, professional relocation. A promotion that changes everything. Moving to a new role or industry. The career is evolving.",
+    "health": "Health improving, a change in condition, recovery. The body in transition. Pregnancy. A health transformation—new diet, new treatment, new body.",
+    "finances": "Financial change, money moving, a shift in income. Relocation expenses. Financial transformation—upgrading or restructuring.",
+    "spiritual": "Spiritual transformation, changing practices, a new phase on the path. Migration of the soul. The spiritual life is evolving."
+  },
+
+  "line_reading": {
+    "as_first": "The situation begins with change or transformation. Something is already shifting. The stork has arrived—the old arrangement is over.",
+    "as_middle": "Change enters the picture. A shift, a move, or a transformation disrupts the status quo. The stork lands in the middle and everything reorganizes.",
+    "as_last": "The outcome involves change, improvement, or transformation. The situation doesn't stay as it is—it evolves. The stork delivers something new."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed.",
+    "as_card_a": "When The Stork appears BEFORE (left of) another card, it transforms or relocates Card B. Whatever Card B represents is changing, moving, or improving. Think: '[Card B] is changing' or 'a transformation of [Card B].'",
+    "as_card_b": "When The Stork appears AFTER (right of) another card, Card A's energy leads to change, transformation, or relocation. Think: '[Card A] triggers change' or '[Card A] is evolving.' Card A takes flight.",
+    "with_positive_card": "Positive change, welcome transformation, improvement in the good thing. Change for the better. The upgrade.",
+    "with_negative_card": "Difficult change, unwelcome transformation, a negative shift. Change that hurts. But sometimes difficult changes are necessary.",
+    "with_person_card": "That person is changing, in transition, or causes transformation. They're the catalyst. Or they're pregnant.",
+    "with_object_card": "That thing or concept is transforming, being relocated, or improving. Nothing about it will stay the same."
+  },
+
+  "combinations": [
+    {"with": "the_child", "with_number": 13, "category": "person", "as_first": "Pregnancy, birth, a new beginning through transformation. The stork delivers the child. Creation.", "as_second": "A new beginning triggers change, something young catalyzes transformation. The child summons the stork."},
+    {"with": "the_coffin", "with_number": 8, "category": "negative", "as_first": "Change dies, transformation halted, a move cancelled. The stork drops its bundle.", "as_second": "An ending triggers transformation, loss catalyzes change, death makes room for the stork."},
+    {"with": "the_mountain", "with_number": 21, "category": "negative", "as_first": "Blocked change, transformation obstructed, a move delayed. The stork can't land.", "as_second": "An obstacle forces change, being blocked triggers transformation, the mountain redirects the stork."},
+    {"with": "the_mice", "with_number": 23, "category": "negative", "as_first": "Anxious change, transformation eroded by worry, a move that causes stress. The stork's wings are frayed.", "as_second": "Anxiety triggers change, small losses force transformation, worry moves the stork."},
+    {"with": "the_sun", "with_number": 31, "category": "positive", "as_first": "Joyful change, the best transformation, a move that brings happiness. The stork flies into the light.", "as_second": "Success triggers positive change, joy catalyzes transformation, happiness evolves."},
+    {"with": "the_heart", "with_number": 24, "category": "positive", "as_first": "A change in love, romantic transformation, the relationship evolves. The stork visits the heart.", "as_second": "Love triggers change, the heart catalyzes transformation, romance demands evolution."},
+    {"with": "the_ring", "with_number": 25, "category": "positive", "as_first": "A commitment changes, a contract transforms, an engagement evolves. The stork lands on the ring.", "as_second": "A commitment triggers change, a contract catalyzes transformation, the ring evolves."},
+    {"with": "the_anchor", "with_number": 35, "category": "positive", "as_first": "A career change, work transformation, professional relocation. The stork meets the anchor—change at work.", "as_second": "Work stability triggers change, career demands transformation, the anchor releases the stork."},
+    {"with": "the_house", "with_number": 4, "category": "neutral", "as_first": "Moving house, domestic transformation, home renovation. The stork lands on the roof—the household is changing.", "as_second": "Home triggers change, domestic life catalyzes transformation, the house evolves."},
+    {"with": "the_ship", "with_number": 3, "category": "neutral", "as_first": "A journey that changes everything, transformative travel, relocation abroad. The stork and the ship—ultimate movement.", "as_second": "Travel triggers transformation, distance catalyzes change, the journey evolves the traveler."},
+    {"with": "the_tower", "with_number": 19, "category": "neutral", "as_first": "Institutional change, organizational transformation, moving within a system. The tower restructures.", "as_second": "Authority triggers change, the system catalyzes transformation, the institution evolves."},
+    {"with": "the_path", "with_number": 22, "category": "neutral", "as_first": "A choice that transforms, a decision about change, multiple options for the move. Which transformation?", "as_second": "A decision triggers change, choosing catalyzes transformation, the fork sends you flying."},
+    {"with": "the_gentleman", "with_number": 28, "category": "person", "as_first": "A man in transition, a man who brings change, a man's situation transforms. The stork visits him.", "as_second": "A man triggers change, a man catalyzes transformation, a man causes the move."},
+    {"with": "the_lady", "with_number": 29, "category": "person", "as_first": "A woman in transition, a woman who brings change, a pregnant woman. The stork visits her.", "as_second": "A woman triggers change, a woman catalyzes transformation, a woman causes the move."},
+    {"with": "the_rider", "with_number": 1, "category": "neutral", "as_first": "News of change, a message about transformation, a visitor who brings transition. Change is announced.", "as_second": "News triggers change, a message catalyzes transformation, an arrival starts the shift."},
+    {"with": "the_bouquet", "with_number": 9, "category": "positive", "as_first": "A pleasant change, a welcome transformation, a move that brings beauty. Change is a gift.", "as_second": "A gift triggers change, beauty catalyzes transformation, social grace eases the transition."}
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Change — Cards landing here speak to transformation, relocation, and evolution in the querent's life. This house asks: what's changing? What's in transition?",
+    "near_significator": "Change is central. The querent is in the middle of a transformation, a move, or a significant shift. Nothing is staying the same.",
+    "far_from_significator": "Change is distant. The querent's situation is stable for now. The stork hasn't arrived yet.",
+    "diagonal_or_corner": "Change operates as background energy—a subtle shift the querent hasn't fully recognized, or a transformation approaching from the periphery."
+  }
+}

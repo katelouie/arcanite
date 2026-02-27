@@ -1,0 +1,179 @@
+{
+  "id": "the_fox",
+  "number": 14,
+  "name": "The Fox",
+  "playing_card": "9 of Clubs",
+  "system": "lenormand",
+  "image_file": "14.jpg",
+
+  "image": "A red fox, alert and watchful, moving through the edge of a forest. Smart, self-serving, and beautiful. It survives because it trusts nothing—and neither should you.",
+
+  "core": {
+    "keywords": ["deception", "cunning", "self-interest", "work", "suspicion", "strategy", "survival", "cleverness"],
+    "charge": "negative",
+    "category": "nature",
+    "topics": ["deception", "employment", "self-interest", "cunning", "strategy", "suspicion", "survival"]
+  },
+
+  "timing": {
+    "thematic": "calculating",
+    "duration": "weeks",
+    "season": null,
+    "speed": "moderate",
+    "direction": "indirect"
+  },
+
+  "as_person": "A deceptive person, a cunning colleague, a self-serving individual. The coworker who takes credit, the friend who's always angling. Also: a clever strategist, a self-employed person, or someone who survives by their wits.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds deception, self-interest, cunning, or a work/employment context to the card it touches. Whatever is next to the Fox should be questioned—it may not be what it seems.",
+    "as_modified": "The card's core meaning becomes the target of deception, the subject of suspicion, or the context for self-interested maneuvering. Trust nothing at face value."
+  },
+
+  "topic_contexts": {
+    "love": "Deception in love, a partner who isn't being honest, self-serving romantic behavior. The affair, the hidden agenda. Or: being smart about love, protecting your heart strategically.",
+    "career": "The primary employment card. Your job, your daily work, your livelihood. Also: office politics, a deceptive colleague, self-interested maneuvering at work.",
+    "health": "A wrong diagnosis, deceptive symptoms, a health condition that mimics something else. Also: being strategic about health, clever self-care routines.",
+    "finances": "Financial deception, fraud, someone skimming. Also: clever financial strategy, self-interested but smart money moves. Check the fine print.",
+    "spiritual": "Spiritual bypassing, a teacher with hidden motives, ego masquerading as enlightenment. Or: spiritual discernment, the wisdom to question everything."
+  },
+
+  "line_reading": {
+    "as_first": "The situation opens with deception, suspicion, or self-interest. Something isn't what it seems. The Fox is already in the henhouse when the story begins.",
+    "as_middle": "Deception or cunning enters the picture. Someone's motives aren't pure, or the situation requires strategic thinking. The Fox slips in mid-story.",
+    "as_last": "The outcome involves deception, strategy, or self-interest. Either someone's being dishonest, or the resolution requires cunning. Trust your instincts—and verify."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Fox appears BEFORE (left of) another card, it deceives or manipulates Card B. Whatever Card B represents is being lied about, stolen, or approached with self-interest. Think: 'deception about [Card B]' or '[Card B] isn't real.'",
+    "as_card_b": "When The Fox appears AFTER (right of) another card, Card A's energy leads to deception, suspicion, or strategic self-interest. Think: '[Card A] triggers suspicion' or '[Card A] leads to cunning.' Card A awakens the Fox.",
+    "with_positive_card": "The good thing is fake, the blessing has a hidden cost, or a positive outcome requires cunning to secure. Beautiful bait.",
+    "with_negative_card": "Deception compounds trouble, lies make problems worse, or the problem itself is a deception. The Fox among wolves.",
+    "with_person_card": "That person is deceptive, self-interested, or cunning. They may be a colleague or someone connected to work. Don't take them at face value.",
+    "with_object_card": "That thing or concept is suspicious, possibly fake, or connected to employment and strategy. Question it before you trust it."
+  },
+
+  "combinations": [
+    {
+      "with": "the_rider",
+      "with_number": 1,
+      "category": "neutral",
+      "as_first": "Deceptive news, false message, a visitor with hidden motives. Don't believe this at face value.",
+      "as_second": "News reveals deception, a message exposes lies, the truth rides in and the fox is caught."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Double deception, extreme cunning, a trap within a trap. Two predators working the same prey.",
+      "as_second": "Complications trigger cunning, a tangle requires strategy, deception meets deception."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "Deception ends, the liar is caught, a fraudulent situation dies. The fox is trapped.",
+      "as_second": "An ending was engineered through cunning, someone's exit was strategic, closure is a manipulation."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "A cunning obstacle, deception blocking progress, a self-interested person creating barriers. The fox guards the pass.",
+      "as_second": "An obstacle requires cunning to overcome, being blocked triggers strategic thinking, the mountain trains the fox."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "Deception eroding trust, cunning that gnaws away at stability, self-interested behavior slowly destroying something.",
+      "as_second": "Small losses expose deception, anxiety reveals the fox, worry unmasks the lie."
+    },
+    {
+      "with": "the_dog",
+      "with_number": 18,
+      "category": "positive",
+      "as_first": "A deceptive friend, a false loyalty, trust that's not earned. The fox in dog's clothing.",
+      "as_second": "Friendship exposes deception, loyalty tests cunning, a true friend recognizes the fox."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "The deception is important, the lie is the key to understanding, cunning unlocks something. The fox finds the door.",
+      "as_second": "A breakthrough exposes deception, the solution reveals who's lying, the key identifies the fox."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Deception exposed by light, cunning that leads to success, strategic thinking that pays off. The fox in sunlight.",
+      "as_second": "Success exposes the deception, joy reveals the lie, the truth shines."
+    },
+    {
+      "with": "the_bear",
+      "with_number": 15,
+      "category": "neutral",
+      "as_first": "Deception by a powerful person, a cunning boss, self-interested authority. The fox plays the bear.",
+      "as_second": "Power triggers cunning, a strong person creates a need for strategy, authority breeds deception."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "neutral",
+      "as_first": "Institutional deception, corporate fraud, a self-interested system. The fox runs the tower.",
+      "as_second": "Authority triggers cunning, the system creates a need for strategy, institutions breed foxes."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "positive",
+      "as_first": "Financial deception, fraud, embezzlement. Money that isn't real or isn't yours. The fox raids the fish pond.",
+      "as_second": "Money triggers cunning, finances require strategy, wealth attracts the fox."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "positive",
+      "as_first": "Deception at work, a false sense of job security, cunning employment strategy. The fox in the workplace.",
+      "as_second": "Work reveals deception, job stability triggers cunning, professional life unmasks the lie."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A deceptive man, a cunning man, a male colleague with hidden motives. The fox wears his face.",
+      "as_second": "A man triggers suspicion, a man's actions are cunning, a man is the one you can't trust."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A deceptive woman, a cunning woman, a female colleague with hidden motives. The fox wears her face.",
+      "as_second": "A woman triggers suspicion, a woman's actions are cunning, a woman is the one you can't trust."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "Manipulating the innocent, a small deception, cunning that targets the new. The fox eyes the child.",
+      "as_second": "A new beginning reveals deception, innocence unmasks cunning, the beginner sees what the expert missed."
+    },
+    {
+      "with": "the_birds",
+      "with_number": 12,
+      "category": "neutral",
+      "as_first": "Lying gossip, deceptive conversations, phone calls with hidden agendas. The fox whispers.",
+      "as_second": "Talk reveals deception, conversations expose the fox, gossip unmasks the liar."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Cunning — Cards landing here speak to deception, strategy, self-interest, and employment in the querent's life. This house asks: where is the deception? What requires cunning?",
+    "near_significator": "Deception is close. The querent is dealing with cunning, dishonesty, or must be strategic. Someone nearby isn't trustworthy—or the querent needs to be cleverer.",
+    "far_from_significator": "Deception is distant. Cunning isn't the main issue. The fox is in another forest.",
+    "diagonal_or_corner": "Deception operates subtly—a low-level dishonesty or self-interested maneuvering the querent hasn't fully noticed. The fox is watching from the tree line."
+  }
+}

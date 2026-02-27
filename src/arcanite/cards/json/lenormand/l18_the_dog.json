@@ -1,0 +1,77 @@
+{
+  "id": "the_dog",
+  "number": 18,
+  "name": "The Dog",
+  "playing_card": "10 of Hearts",
+  "system": "lenormand",
+  "image_file": "18.jpg",
+
+  "image": "A faithful dog sitting attentively, eyes on its person. Loyal, trusting, waiting. It doesn't question—it stays. The most reliable creature in the deck.",
+
+  "core": {
+    "keywords": ["loyalty", "friendship", "trust", "devotion", "faithfulness", "support", "companion", "reliability"],
+    "charge": "positive",
+    "category": "nature",
+    "topics": ["friendship", "loyalty", "trust", "devotion", "support", "companionship", "reliability"]
+  },
+
+  "timing": {"thematic": "steadfast", "duration": "months", "season": null, "speed": "moderate", "direction": "toward"},
+
+  "as_person": "A loyal friend, a devoted companion, a trustworthy person. Someone who shows up. A counselor, a therapist, or someone who provides unconditional support. The friend you call at 3 AM.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds loyalty, friendship, trust, or devoted support to the card it touches. Whatever is next to the Dog becomes reliable, friendly, or backed by someone faithful.",
+    "as_modified": "The card's core meaning becomes the context for friendship, loyalty, or trust. What was uncertain becomes reliable. What was alone gains a companion."
+  },
+
+  "topic_contexts": {
+    "love": "Faithful love, a devoted partner, loyalty in relationship. The love that stays. Friendship turning to romance. A relationship built on trust more than passion.",
+    "career": "A loyal colleague, a supportive work environment, a trusted professional ally. The coworker who has your back. Team loyalty.",
+    "health": "Support in healing, therapy, a faithful health companion (therapy dog, support group). Emotional health through friendship. The healing power of being believed.",
+    "finances": "Financial loyalty, a trusted advisor, money between friends. Loans to friends (careful). Reliable financial support.",
+    "spiritual": "Spiritual companionship, a faithful practice, devotion as a path. The divine as friend rather than judge. Unconditional spiritual support."
+  },
+
+  "line_reading": {
+    "as_first": "The situation opens with friendship, loyalty, or trust. A devoted person or reliable energy sets the stage. Someone has your back.",
+    "as_middle": "Friendship or loyalty enters the picture. A trusted ally appears, or trust becomes the central issue. The dog arrives when needed.",
+    "as_last": "The outcome involves loyalty, friendship, or trustworthy support. Resolution comes through devotion. Someone stays."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed.",
+    "as_card_a": "When The Dog appears BEFORE (left of) another card, it adds loyalty, friendship, or trust to Card B. Whatever Card B represents has a faithful ally. Think: 'a loyal [Card B]' or 'a friend in [Card B].'",
+    "as_card_b": "When The Dog appears AFTER (right of) another card, Card A's energy leads to friendship, trust, or loyalty. Think: '[Card A] leads to trust' or '[Card A] creates friendship.' Card A finds a friend.",
+    "with_positive_card": "Loyal blessings, trusted joy, friendship amplified. The good thing has a faithful companion. Double warmth.",
+    "with_negative_card": "Loyalty tested, friendship under strain, trust in a difficult context. The dog stays even in the storm—but at what cost?",
+    "with_person_card": "That person is a friend, is loyal, or relates to the querent through trust and devotion. They're the one who stays.",
+    "with_object_card": "That thing or concept is reliable, trustworthy, or connected to friendship. It's the thing you can count on."
+  },
+
+  "combinations": [
+    {"with": "the_fox", "with_number": 14, "category": "negative", "as_first": "False friend, loyalty that's fake, trust misplaced. The fox wearing the dog's collar.", "as_second": "Deception tests friendship, cunning targets the loyal, the fox exploits the dog's trust."},
+    {"with": "the_snake", "with_number": 7, "category": "negative", "as_first": "A complicated friendship, a friend with hidden motives, loyalty with strings attached.", "as_second": "Complications test friendship, a tangled situation reveals who's truly loyal."},
+    {"with": "the_coffin", "with_number": 8, "category": "negative", "as_first": "A friendship ending, loss of trust, a loyal person departing. The dog at the graveside.", "as_second": "An ending reveals true friends, loss tests loyalty, grief brings companions closer."},
+    {"with": "the_whip", "with_number": 11, "category": "negative", "as_first": "Fighting with a friend, loyalty tested by conflict, friendship under strain.", "as_second": "Conflict tests loyalty, arguments reveal true friends, the fight shows who stays."},
+    {"with": "the_heart", "with_number": 24, "category": "positive", "as_first": "A loving friendship, loyalty in romance, a devoted partner. The dog loves the heart.", "as_second": "Love creates loyalty, the heart builds trust, romance deepens into friendship."},
+    {"with": "the_ring", "with_number": 25, "category": "positive", "as_first": "A loyal commitment, a faithful contract, a friendship formalized. The dog gets a collar.", "as_second": "A commitment builds trust, a contract creates loyalty, the ring seals the friendship."},
+    {"with": "the_sun", "with_number": 31, "category": "positive", "as_first": "A happy friendship, joyful loyalty, trust that brings light. The faithful dog in sunshine.", "as_second": "Success strengthens friendship, joy deepens loyalty, the sun warms the bond."},
+    {"with": "the_key", "with_number": 33, "category": "positive", "as_first": "An important friend, trust as the solution, a loyal person holds the key. Friendship unlocks the door.", "as_second": "A breakthrough through friendship, the solution involves trust, the key is given by a friend."},
+    {"with": "the_house", "with_number": 4, "category": "neutral", "as_first": "A loyal household, a trusted home, a friend at home. The dog by the hearth.", "as_second": "Home creates loyalty, family builds trust, domestic life needs a faithful companion."},
+    {"with": "the_tower", "with_number": 19, "category": "neutral", "as_first": "Institutional loyalty, a trusted authority, a friend in the system. The dog guards the tower.", "as_second": "Authority earns trust, the system creates loyalty, the tower needs the dog."},
+    {"with": "the_bear", "with_number": 15, "category": "neutral", "as_first": "A loyal boss, a trusted authority figure, a powerful friend. The dog serves the bear.", "as_second": "Power earns loyalty, authority creates trust, strength needs faithful companions."},
+    {"with": "the_garden", "with_number": 20, "category": "neutral", "as_first": "Social loyalty, trusted community, friendship in groups. The dog in the garden—everyone's friend.", "as_second": "Community builds friendship, social life creates trust, the garden needs loyal members."},
+    {"with": "the_gentleman", "with_number": 28, "category": "person", "as_first": "A loyal man, a man who is a true friend, a trustworthy male companion.", "as_second": "A man earns trust, a man's path leads to friendship, a man becomes the loyal one."},
+    {"with": "the_lady", "with_number": 29, "category": "person", "as_first": "A loyal woman, a woman who is a true friend, a trustworthy female companion.", "as_second": "A woman earns trust, a woman's path leads to friendship, a woman becomes the loyal one."},
+    {"with": "the_child", "with_number": 13, "category": "person", "as_first": "A new friendship, a child's loyal companion, a fresh bond of trust. The puppy.", "as_second": "A new beginning builds trust, something young earns loyalty, innocence creates friendship."},
+    {"with": "the_letter", "with_number": 27, "category": "neutral", "as_first": "A friendly letter, a message from a trusted person, correspondence built on loyalty.", "as_second": "A document creates trust, paperwork involves a friend, the letter comes from someone loyal."}
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Friendship — Cards landing here speak to loyalty, trust, friendship, and devoted companionship in the querent's life. This house asks: who is loyal? Where is the trust?",
+    "near_significator": "Friendship is central. The querent is surrounded by loyal companions or trust is the key issue. A faithful person is close.",
+    "far_from_significator": "Friendship is distant. Trust isn't the focus, or loyal companions are far. The dog waits in another yard.",
+    "diagonal_or_corner": "Loyalty operates quietly—a friend in the background, trust building slowly, or faithful support the querent hasn't fully acknowledged."
+  }
+}

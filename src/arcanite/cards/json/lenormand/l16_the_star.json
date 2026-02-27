@@ -1,0 +1,83 @@
+{
+  "id": "the_star",
+  "number": 16,
+  "name": "The Star",
+  "playing_card": "6 of Hearts",
+  "system": "lenormand",
+  "image_file": "16.jpg",
+
+  "image": "A cluster of bright stars in a clear night sky, one larger than the rest. A guiding light, a wish, a direction when everything else is dark. Hope made visible.",
+
+  "core": {
+    "keywords": ["hope", "guidance", "inspiration", "spirituality", "technology", "clarity", "fame", "wish", "direction"],
+    "charge": "positive",
+    "category": "nature",
+    "topics": ["hope", "guidance", "spirituality", "technology", "fame", "inspiration", "navigation", "wishes"]
+  },
+
+  "timing": {
+    "thematic": "guiding",
+    "duration": "weeks_to_months",
+    "season": "winter",
+    "speed": "moderate",
+    "direction": "upward"
+  },
+
+  "as_person": "A spiritual guide, an inspirational person, someone famous or well-known. A person who provides direction and hope. A tech-savvy person. Someone you look up to—your North Star.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds hope, guidance, spiritual dimension, or clarity to the card it touches. Whatever is next to the Star becomes illuminated, guided, or connected to higher purpose.",
+    "as_modified": "The card's core meaning becomes the thing being hoped for, guided toward, or spiritually illuminated. What was lost finds direction. What was dark finds light."
+  },
+
+  "topic_contexts": {
+    "love": "Hopeful love, a soulmate connection, love guided by something larger. The wish for love. A relationship that feels destined or spiritually connected.",
+    "career": "Career guidance, professional inspiration, fame or recognition. Technology careers. A calling rather than just a job. The career you wished for.",
+    "health": "Hope for healing, guided treatment, spiritual approaches to health. The body finding its way back. Alternative or holistic healing. The prognosis is hopeful.",
+    "finances": "Financial hope, guided investments, money through technology or spiritual work. The wish for abundance. Financial clarity after confusion.",
+    "spiritual": "The primary spirituality card. Faith, connection to the divine, spiritual guidance, psychic ability. Following your inner light. The universe has a plan."
+  },
+
+  "line_reading": {
+    "as_first": "The situation opens with hope, guidance, or spiritual connection. A wish or aspiration sets the stage. The star is out—follow it.",
+    "as_middle": "Hope or clarity enters the picture. After difficulty, a guiding light appears. Spiritual insight shifts the dynamic. The star rises mid-story.",
+    "as_last": "The outcome is hopeful, guided, or spiritually significant. The wish is granted, or the path becomes clear. The star shines at the end."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Star appears BEFORE (left of) another card, it illuminates or guides Card B. Whatever Card B represents is blessed by hope, clarity, or spiritual purpose. Think: 'hope for [Card B]' or '[Card B] is guided.'",
+    "as_card_b": "When The Star appears AFTER (right of) another card, Card A's energy leads toward hope, clarity, or spiritual fulfillment. Think: '[Card A] leads to hope' or '[Card A] finds its guiding star.' Card A looks up.",
+    "with_positive_card": "Amplified hope, divinely blessed outcomes, wishes coming true. The most positive energy available. Stars aligning.",
+    "with_negative_card": "Hope despite difficulty, a guiding light in darkness, the star that shines brightest when things are worst. The negative card is softened by faith.",
+    "with_person_card": "That person is hopeful, spiritual, famous, or acts as a guide. They illuminate the situation.",
+    "with_object_card": "That thing or concept is illuminated, hoped for, or carries spiritual significance. It's the wish or the direction."
+  },
+
+  "combinations": [
+    {"with": "the_clouds", "with_number": 6, "category": "negative", "as_first": "Hope obscured, confused faith, spiritual doubt. The stars are hidden but haven't moved.", "as_second": "Confusion finds guidance, doubt leads to spiritual seeking, the fog drives you to look for stars."},
+    {"with": "the_coffin", "with_number": 8, "category": "negative", "as_first": "Hope dies—or an ending is guided. The star sets. A spiritual transformation through loss.", "as_second": "An ending leads to spiritual awakening, loss creates hope, the coffin opens to starlight."},
+    {"with": "the_snake", "with_number": 7, "category": "negative", "as_first": "Complicated hopes, spiritual deception, a false guide. Not every light is a star—some are lures.", "as_second": "Complications lead to spiritual seeking, deception triggers the need for true guidance."},
+    {"with": "the_cross", "with_number": 36, "category": "negative", "as_first": "A destined hope, faith through suffering, the star above the cross. Spiritual purpose in the burden.", "as_second": "Suffering leads to spiritual awakening, the burden creates the need for a guiding star."},
+    {"with": "the_sun", "with_number": 31, "category": "positive", "as_first": "Ultimate hope fulfilled, wishes granted, spiritual joy. Stars and sunlight together—maximum illumination.", "as_second": "Success fulfills the wish, joy validates the faith, the sun meets the star."},
+    {"with": "the_heart", "with_number": 24, "category": "positive", "as_first": "Love wished for, a soulmate guided by the stars, spiritual love. The heart's deepest wish illuminated.", "as_second": "Love leads to spiritual connection, the heart follows the star, romance fulfills a wish."},
+    {"with": "the_moon", "with_number": 32, "category": "positive", "as_first": "Psychic clarity, fame and recognition, creative inspiration guided by intuition. Star and moon—the mystic combination.", "as_second": "Intuition follows guidance, emotional depth finds spiritual purpose, the moon reflects the star."},
+    {"with": "the_key", "with_number": 33, "category": "positive", "as_first": "A destined breakthrough, an important wish, the solution is spiritually guided. The star unlocks the door.", "as_second": "A breakthrough leads to hope, the solution illuminates the path, the key reveals the star."},
+    {"with": "the_tree", "with_number": 5, "category": "neutral", "as_first": "Spiritual health, guided healing, hope for slow growth. The tree reaches for the stars.", "as_second": "Health leads to spiritual growth, deep roots support hope, the tree becomes the path to the star."},
+    {"with": "the_tower", "with_number": 19, "category": "neutral", "as_first": "An institution guided by purpose, spiritual authority, fame and power. The star atop the tower.", "as_second": "Authority serves hope, the system illuminates, the tower reaches for the star."},
+    {"with": "the_path", "with_number": 22, "category": "neutral", "as_first": "A guided choice, the hopeful path, a decision illuminated by faith. The star shows which way.", "as_second": "A choice leads to hope, the decision reveals the guiding star, picking the right path."},
+    {"with": "the_book", "with_number": 26, "category": "neutral", "as_first": "Spiritual knowledge, hidden guidance, a secret wish. The star in the book—occult wisdom.", "as_second": "A secret leads to hope, hidden knowledge illuminates, the book contains the star map."},
+    {"with": "the_gentleman", "with_number": 28, "category": "person", "as_first": "A hopeful man, a spiritual man, a famous man. A man guided by purpose.", "as_second": "A man finds guidance, a man's path leads to hope, a man follows his star."},
+    {"with": "the_lady", "with_number": 29, "category": "person", "as_first": "A hopeful woman, a spiritual woman, a famous woman. A woman guided by purpose.", "as_second": "A woman finds guidance, a woman's path leads to hope, a woman follows her star."},
+    {"with": "the_child", "with_number": 13, "category": "person", "as_first": "A wished-for child, a hopeful new beginning, a fresh start guided by the stars.", "as_second": "A new beginning leads to hope, innocence finds its guiding star, the child looks up."},
+    {"with": "the_ring", "with_number": 25, "category": "positive", "as_first": "A destined commitment, a wished-for partnership, a spiritually guided contract.", "as_second": "A commitment leads to hope, the ring follows the star, the bond is blessed."}
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Hope — Cards landing here speak to wishes, guidance, spirituality, and clarity in the querent's life. This house asks: what is the wish? Where is the guiding light?",
+    "near_significator": "Hope is central. The querent is guided, hopeful, or in a spiritual phase. Wishes are active. The stars are close.",
+    "far_from_significator": "Hope is distant. Guidance isn't reaching the querent right now. The stars are there but feel far away.",
+    "diagonal_or_corner": "Hope operates as background faith—a quiet guiding light the querent may not consciously notice but is subtly steering them."
+  }
+}

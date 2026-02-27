@@ -1,0 +1,179 @@
+{
+  "id": "the_house",
+  "number": 4,
+  "name": "The House",
+  "playing_card": "King of Hearts",
+  "system": "lenormand",
+  "image_file": "04.jpg",
+
+  "image": "A solid, well-kept family home with a welcoming entrance. Smoke rises from the chimney, the garden is tended. Stability incarnate—this is where you come back to.",
+
+  "core": {
+    "keywords": ["home", "family", "stability", "domestic", "foundation", "property", "security", "tradition", "roots"],
+    "charge": "neutral",
+    "category": "place",
+    "topics": ["home", "family", "real estate", "domestic life", "tradition", "stability", "foundation"]
+  },
+
+  "timing": {
+    "thematic": "established",
+    "duration": "months_to_years",
+    "season": null,
+    "speed": "slow",
+    "direction": "static"
+  },
+
+  "as_person": "A family member, a landlord, a homemaker, a traditional person. Someone grounded and domestic. The parent figure, the one who keeps the home fires burning. Conservative, reliable, rooted.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds domesticity, stability, family connection, or a sense of home to the card it touches. Whatever is next to the House becomes a household matter or something rooted and secure.",
+    "as_modified": "The card's core meaning becomes domestic, family-oriented, or grounded. What was abstract becomes tangible and rooted in the home. What was mobile settles."
+  },
+
+  "topic_contexts": {
+    "love": "A domestic partnership, moving in together, family-oriented love. The relationship that becomes a home. Love expressed through stability and daily care rather than grand gestures.",
+    "career": "Working from home, a family business, real estate career. Job stability and security. The kind of work that feels like a foundation rather than an adventure.",
+    "health": "Home recovery, rest and domestic healing, family health patterns. The body as a house—what's the foundation like? What needs structural repair?",
+    "finances": "Real estate, property investments, household finances. Mortgage, rent, home equity. Money tied to the physical space you inhabit.",
+    "spiritual": "Ancestral connections, family traditions, the spirituality of place. Where is your spiritual home? The sacred within the domestic. Hearth and altar as one."
+  },
+
+  "line_reading": {
+    "as_first": "The matter concerns home, family, or domestic stability. The foundation of the situation is rooted in where or with whom the querent lives.",
+    "as_middle": "Home or family enters the equation. The situation becomes a domestic matter, or stability and security become the central concern.",
+    "as_last": "The outcome involves coming home—literally or figuratively. Stability, security, family resolution. The situation settles into something solid."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The House appears BEFORE (left of) another card, it domesticates Card B. Whatever Card B represents becomes a household matter, a family concern, or something rooted and stable. Think: '[Card B] at home' or 'the family's [Card B].'",
+    "as_card_b": "When The House appears AFTER (right of) another card, Card A's energy leads toward home, stability, or family. Think: '[Card A] comes home' or '[Card A] creates stability.' Card A finds its foundation.",
+    "with_positive_card": "A happy home, domestic blessings, stability that nourishes. The household is thriving. Good things are rooted and secure.",
+    "with_negative_card": "Domestic trouble, family conflict, instability at home. The foundation is shaky or the household is stressed. Problems come home to roost.",
+    "with_person_card": "That person is a family member, a housemate, or someone connected to the home. They're part of the domestic picture—for better or worse.",
+    "with_object_card": "That thing or concept is domestic, home-based, or connected to property. It's a household matter or something that belongs to the family structure."
+  },
+
+  "combinations": [
+    {
+      "with": "the_rider",
+      "with_number": 1,
+      "category": "neutral",
+      "as_first": "News about home, a domestic visitor, a message about family or property. Someone is coming to the house.",
+      "as_second": "Home triggers a message, family sends a visitor, domestic matters prompt news. The rider arrives at the doorstep."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "neutral",
+      "as_first": "Moving house, travel related to home, commerce from home base. The journey concerns domestic matters.",
+      "as_second": "Home is the destination, settling after travel, domestic stability through commerce. The house awaits at journey's end."
+    },
+    {
+      "with": "the_tree",
+      "with_number": 5,
+      "category": "neutral",
+      "as_first": "A healthy home, long-standing family, deep domestic roots. The household has been growing for generations.",
+      "as_second": "Health rooted in the home, family health patterns, slow domestic growth. The tree grows in the garden."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Domestic complications, a house with hidden problems, family deception. The home has a snake in the garden.",
+      "as_second": "Complications lead home, deception enters the household, a complicated person disrupts domestic peace."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A home ending, selling a house, a family dissolving, domestic stagnation. The foundation crumbles.",
+      "as_second": "An ending comes home, loss enters the household, closure in domestic matters. The house empties."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "A home under stress, household worries, property being nibbled away by small problems. Domestic erosion.",
+      "as_second": "Anxiety about home, worry enters the household, small losses undermining the foundation. Mice in the walls."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "A blocked home situation, property obstacles, family stubbornness. The house can't be moved or changed.",
+      "as_second": "An obstacle at home, something blocks domestic progress, an immovable family problem. The mountain sits in the yard."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "A loving home, family love, domestic romance. The house is full of warmth and emotional connection.",
+      "as_second": "Love leads to a home, romance creates a household, the heart builds a foundation. Love moves in."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A family commitment, a household contract, marriage in the home. A binding domestic agreement. The house has a ring on it.",
+      "as_second": "A commitment creates a home, a contract leads to property, a marriage builds a household."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "positive",
+      "as_first": "A deeply stable home, a permanent residence, a household that endures. The most grounded of foundations.",
+      "as_second": "Work provides the home, career creates domestic stability, professional dedication builds the household."
+    },
+    {
+      "with": "the_dog",
+      "with_number": 18,
+      "category": "positive",
+      "as_first": "A loyal household, a trusted home environment, a friend in the family. The home is safe and faithful.",
+      "as_second": "Loyalty builds the home, a friend becomes family, trust creates domestic security."
+    },
+    {
+      "with": "the_letter",
+      "with_number": 27,
+      "category": "neutral",
+      "as_first": "A document about the home, property paperwork, a family letter. The household has something in writing.",
+      "as_second": "Paperwork leads to a home, a document secures the property, written communication about domestic matters."
+    },
+    {
+      "with": "the_garden",
+      "with_number": 20,
+      "category": "neutral",
+      "as_first": "A social household, a home that entertains, family in public. The house opens its doors to the community.",
+      "as_second": "Social life leads home, public matters become domestic, a gathering creates a sense of family."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A man at home, a family man, a male householder or landlord. A man defined by his domesticity.",
+      "as_second": "A man provides the home, a man is the foundation, a man creates domestic stability. He is the house."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A woman at home, a family woman, a female householder or homemaker. A woman defined by her domestic role.",
+      "as_second": "A woman provides the home, a woman is the foundation, a woman creates domestic stability. She is the house."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A child in the home, a new family member, a young household. A fresh start in domestic matters.",
+      "as_second": "A new beginning at home, a child transforms the household, something young enters the foundation."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Home — Cards landing here speak to the querent's domestic life, family, property, and sense of security. This house asks: what's happening at home? What's the state of the foundation?",
+    "near_significator": "Home and family are central to the querent's situation. Domestic matters demand attention. The querent is nesting, settling, or dealing with household concerns.",
+    "far_from_significator": "Home and family are peripheral or distant. The querent may be away from home, disconnected from family, or focused on matters beyond the domestic sphere.",
+    "diagonal_or_corner": "Domestic matters operate as background influence—not the main event, but the foundation everything else rests on. Home is the quiet context beneath louder themes."
+  }
+}

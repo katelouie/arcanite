@@ -1,0 +1,172 @@
+{
+  "id": "the_mice",
+  "number": 23,
+  "name": "The Mice",
+  "playing_card": "7 of Clubs",
+  "system": "lenormand",
+  "image_file": "23.jpg",
+
+  "image": "Small mice gnawing at grain stores, nibbling at the edges of things. Not dramatic destruction—slow, persistent erosion. The damage is done before you notice it.",
+
+  "core": {
+    "keywords": ["loss", "worry", "anxiety", "theft", "erosion", "diminishment", "stress", "decay", "depletion"],
+    "charge": "negative",
+    "category": "nature",
+    "topics": ["loss", "anxiety", "theft", "erosion", "stress", "depletion", "worry", "gradual decline"]
+  },
+
+  "timing": {
+    "thematic": "eroding",
+    "duration": "weeks_to_months",
+    "season": null,
+    "speed": "slow",
+    "direction": null
+  },
+
+  "as_person": "An anxious person, a thief, someone who drains you. The person who picks at everything, who erodes your confidence or resources through constant small demands. The worrier. The energy vampire—not dramatic, just persistent.",
+
+  "modifier_behavior": {
+    "type": "negator",
+    "as_modifier": "Diminishes, erodes, or steals from the card it touches. Whatever is next to the Mice is being slowly eaten away—not destroyed dramatically, but persistently worn down. The loss is gradual and insidious.",
+    "as_modified": "The card's core meaning is the thing being eroded. Card A names what the Mice are eating. The Mice don't choose their target—they eat whatever is closest."
+  },
+
+  "topic_contexts": {
+    "love": "Love being eroded by worry, small resentments eating at a relationship, trust being nibbled away. The relationship isn't in crisis—it's in slow decline. Anxiety about the partner, jealousy that gnaws.",
+    "career": "Professional burnout through small stresses, workplace politics eroding job satisfaction, resources being drained. The career that dies of a thousand paper cuts. Theft of ideas or credit.",
+    "health": "Stress-related illness, anxiety disorders, health being eroded by worry. The body under chronic low-level stress. Immune system wearing down. Not a crisis—a slow depletion.",
+    "finances": "Money leaking out, small financial losses adding up, theft, fraud at small scale. The subscription you forgot about, the fees that accumulate, the savings that shrink. Financial anxiety.",
+    "spiritual": "Spiritual practice eroded by doubt, faith nibbled away by anxiety, energy being drained. The spiritual equivalent of a slow leak—you don't notice until you're empty."
+  },
+
+  "line_reading": {
+    "as_first": "The matter begins with loss, worry, or erosion. Something has already been nibbled away before the question was even asked. The damage is underway.",
+    "as_middle": "Anxiety, loss, or erosion enters the situation. Something in the middle is being diminished—resources, confidence, trust, health. The mice are in the walls.",
+    "as_last": "The outcome involves gradual loss or persistent worry. Things wind down rather than end dramatically. Erosion is the resolution—unless action is taken to stop the gnawing."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Mice appear BEFORE (left of) another card, they diminish or erode Card B's energy. Whatever Card B represents is being slowly eaten away, stolen, or worn down by anxiety. Think: 'losing [Card B]' or '[Card B] is being eroded.'",
+    "as_card_b": "When The Mice appear AFTER (right of) another card, Card A leads to loss, anxiety, or erosion. Think: '[Card A] causes worry' or '[Card A] is slowly lost.' Card A feeds the mice.",
+    "with_positive_card": "The good thing is being eroded. A blessing diminished by worry, a gift stolen, joy eaten by anxiety. The mice don't care that it was beautiful.",
+    "with_negative_card": "Compounding loss—the bad thing is also being eroded, which can paradoxically be helpful. The mice eat the obstacle too. Or: anxiety about an already negative situation.",
+    "with_person_card": "That person is anxious, draining, or being drained. They may be the thief or the victim of theft. They worry constantly or cause others to worry.",
+    "with_object_card": "That object or concept is being diminished, stolen, or eroded by worry. It's shrinking, not growing."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A man being eroded, a man who drains, an anxious man. A man who steals or is being stolen from. Worry defines him.",
+      "as_second": "A man leads to loss, a man causes anxiety, a man's influence erodes something. He is what the mice are eating—or he brought them."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A woman being eroded, a woman who drains, an anxious woman. A woman who steals or is being stolen from. Worry defines her.",
+      "as_second": "A woman leads to loss, a woman causes anxiety, a woman's influence erodes something. She is what the mice are eating—or she brought them."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A new beginning eroded, a child causing worry, something young being diminished. The fresh start is already losing steam.",
+      "as_second": "Something new leads to anxiety, a fresh start causes loss, innocence brings worry. The child opened the grain store."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Love eroded, emotional loss, heartache through slow decline. The relationship isn't ending—it's withering. Anxiety eating at love.",
+      "as_second": "Love leads to worry, the heart causes anxiety, emotional investment drains resources. Loving too hard depletes you."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Joy eroded, success diminished by worry, happiness nibbled away. The sun is dimming—not setting, just losing brightness.",
+      "as_second": "Success leads to anxiety (imposter syndrome, fear of losing what you've gained), joy brings unexpected loss."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A commitment eroded, a contract losing value, a partnership being nibbled away. The ring is tarnishing.",
+      "as_second": "A commitment leads to loss, a contract causes anxiety, a bond drains resources."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "positive",
+      "as_first": "Stability eroded, work wearing you down, security being eaten away. The anchor is rusting.",
+      "as_second": "Work leads to burnout, stability causes complacency that the mice exploit, the anchor drags through mud."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "Loss upon ending, an ending that drains everything, anxiety about death or closure. The mice eat the coffin—even endings aren't final.",
+      "as_second": "An ending leads to erosion, closure doesn't stop the loss, the dead thing still drains. Or positively: the ending stops the mice."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Erosion through deception, a complicated loss, theft with cunning. The mice and the snake work together—small losses masking bigger treachery.",
+      "as_second": "Complications lead to loss, deception erodes, a snake's influence drains slowly."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "An obstacle eroded (potentially positive—the mice eat the mountain), blockage worn down by persistent effort. Or: loss from an immovable situation.",
+      "as_second": "An obstacle causes erosion, a blockage leads to slow loss, being stuck drains you."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "A burden eroded by worry, suffering from persistent small losses, fated anxiety. The mice gnaw at the cross—even destiny wears down.",
+      "as_second": "A burden leads to erosion, suffering causes slow loss, fate delivers the mice."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "Home being eroded, domestic worry, household losses. The house has mice—literally or figuratively. Something at home is slowly falling apart.",
+      "as_second": "Home causes anxiety, domestic life drains, family leads to worry. The house feeds the mice."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "object",
+      "as_first": "Financial loss, money being drained, wealth eroded by small expenses. The fish are being eaten by the mice—your resources are shrinking.",
+      "as_second": "Money causes anxiety, finances lead to worry, abundance attracts thieves. The more you have, the more the mice eat."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "An institution being eroded, authority undermined, official matters causing anxiety. The mice are in the tower walls.",
+      "as_second": "Authority leads to erosion, institutional involvement causes worry, the tower's bureaucracy drains you."
+    },
+    {
+      "with": "the_tree",
+      "with_number": 5,
+      "category": "object",
+      "as_first": "Health eroded, vitality drained, long-term wellness being nibbled away. The tree's roots are being eaten. Chronic stress affecting the body.",
+      "as_second": "Health leads to worry, a long-standing condition causes anxiety, the body's slow decline feeds fear."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Loss — Cards landing here speak to what is being eroded, stolen, or diminished in the querent's life. This house asks: what's shrinking? Where are the mice?",
+    "near_significator": "Loss and anxiety are central. The querent is actively experiencing erosion—something important is being nibbled away. Address the source before it's gone.",
+    "far_from_significator": "Loss is peripheral or minor. The mice are far from the querent's main concerns—the erosion isn't critical right now.",
+    "diagonal_or_corner": "Quiet erosion in the background. Something is slowly being lost that the querent may not notice yet. The mice work best when you're not watching."
+  }
+}

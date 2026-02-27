@@ -1,0 +1,179 @@
+{
+  "id": "the_birds",
+  "number": 12,
+  "name": "The Birds",
+  "playing_card": "7 of Diamonds",
+  "system": "lenormand",
+  "image_file": "12.jpg",
+
+  "image": "Two birds perched together, chattering. The air is full of their calls—nervous, social, constant. Communication in its most restless form.",
+
+  "core": {
+    "keywords": ["communication", "conversation", "anxiety", "gossip", "couple", "nervousness", "chatter", "phone calls"],
+    "charge": "neutral",
+    "category": "nature",
+    "topics": ["communication", "conversations", "anxiety", "gossip", "couples", "nervousness", "social media"]
+  },
+
+  "timing": {
+    "thematic": "restless",
+    "duration": "days",
+    "season": null,
+    "speed": "fast",
+    "direction": null
+  },
+
+  "as_person": "An anxious person, a chatterbox, a couple. An older couple or a pair of siblings. Someone who talks a lot, gossips, or is perpetually nervous. A communicator, a mediator, or a gossipmonger.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds communication, anxiety, or a social/verbal quality to the card it touches. Whatever is next to the Birds is being discussed, worried about, or involves a pair of people.",
+    "as_modified": "The card's core meaning becomes the topic of conversation, the source of anxiety, or involves two people. What was private becomes discussed. What was calm becomes restless."
+  },
+
+  "topic_contexts": {
+    "love": "A couple, nervous conversations about the relationship, romantic anxiety. The talk-about-us conversation. Two people who can't stop chattering—or two who need to start.",
+    "career": "Work conversations, meetings, phone calls, professional networking. Office gossip. Anxiety about work performance. The job that's all talk and meetings.",
+    "health": "Anxiety, nervousness, stress-related symptoms. The mind that won't quiet down. Respiratory issues, throat problems. The body expressing what the mouth can't say.",
+    "finances": "Financial discussions, negotiating, money gossip. Anxiety about finances. Two income sources. Talking about money—budgets, deals, debts.",
+    "spiritual": "Meditation struggles, the chattering mind, spiritual anxiety. The practice of listening versus the compulsion to speak. Finding stillness amid the noise."
+  },
+
+  "line_reading": {
+    "as_first": "The situation opens with a conversation, a phone call, or anxiety. Communication is the catalyst. Someone is talking—or worrying.",
+    "as_middle": "Communication or anxiety enters the picture. A conversation shifts the dynamic, gossip complicates things, or nervousness disrupts the flow.",
+    "as_last": "The outcome involves a conversation, a meeting, or ongoing anxiety. Resolution comes through talking—or gets stuck in nervous chatter."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Birds appear BEFORE (left of) another card, they add conversation, anxiety, or a verbal element to Card B. Whatever Card B represents is being discussed, worried about, or involves communication. Think: 'talking about [Card B]' or 'anxious about [Card B].'",
+    "as_card_b": "When The Birds appear AFTER (right of) another card, Card A's energy leads to conversation, gossip, or anxiety. Think: '[Card A] triggers a discussion' or '[Card A] causes nervousness.' Card A starts people talking.",
+    "with_positive_card": "Happy conversations, good news discussed, joyful chatter. The talk is pleasant and uplifting. A positive pair.",
+    "with_negative_card": "Anxious talk, worried conversations, gossip about problems. The chatter is nervous and the discussions are stressful.",
+    "with_person_card": "That person is talkative, anxious, or part of a couple. They communicate frequently or gossip. They may be nervous or hard to pin down.",
+    "with_object_card": "That thing or concept is being discussed, is the subject of gossip, or causes anxiety. It's in the air—people are talking about it."
+  },
+
+  "combinations": [
+    {
+      "with": "the_rider",
+      "with_number": 1,
+      "category": "neutral",
+      "as_first": "A phone call bringing news, a conversation delivering information, anxious messages. The talk is urgent.",
+      "as_second": "News triggers conversations, a message starts people talking, information creates buzz."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Gossip with malicious intent, deceptive conversations, talking behind someone's back. The birds are hissing.",
+      "as_second": "Complications trigger anxious talk, deception is discussed, a tangled situation becomes gossip."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A conversation about endings, discussing a loss, anxious silence. The birds go quiet.",
+      "as_second": "An ending triggers conversations, a loss creates gossip, closure is discussed."
+    },
+    {
+      "with": "the_whip",
+      "with_number": 11,
+      "category": "negative",
+      "as_first": "Heated conversation, verbal conflict, a debate that won't end. The talk becomes a fight.",
+      "as_second": "Conflict triggers gossip, fighting leads to anxious conversations, arguments become the topic."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "Deceptive conversations, lying gossip, a phone call with hidden motives. Don't believe what you hear.",
+      "as_second": "Cunning triggers talk, deception creates buzz, a fox among the birds. Careful who you chat with."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Love talk, romantic conversation, a couple whispering sweet nothings. The language of love. Pillow talk.",
+      "as_second": "Love triggers conversations, the heart speaks, emotions become words."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Joyful conversations, happy news discussed, a celebration in words. The talk is bright and warm.",
+      "as_second": "Success triggers excited chatter, joy creates conversations, happiness spreads through talk."
+    },
+    {
+      "with": "the_star",
+      "with_number": 16,
+      "category": "positive",
+      "as_first": "Hopeful conversations, inspired talk, discussing dreams and plans. The chat looks upward.",
+      "as_second": "Hope triggers conversations, inspiration creates buzz, spiritual guidance comes through words."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "An important conversation, a talk that unlocks something, the words that matter. The discussion is the key.",
+      "as_second": "A breakthrough triggers conversation, a solution comes through talking, the key insight is spoken aloud."
+    },
+    {
+      "with": "the_letter",
+      "with_number": 27,
+      "category": "neutral",
+      "as_first": "A verbal message about a document, discussing a letter, talking about paperwork. The conversation concerns something written.",
+      "as_second": "A document triggers conversation, written communication leads to discussion, the letter starts people talking."
+    },
+    {
+      "with": "the_garden",
+      "with_number": 20,
+      "category": "neutral",
+      "as_first": "Public conversation, social chatter, a group discussion. The birds are in the garden—everyone's talking.",
+      "as_second": "A social event triggers talk, a gathering creates gossip, the public becomes a conversation."
+    },
+    {
+      "with": "the_book",
+      "with_number": 26,
+      "category": "neutral",
+      "as_first": "A conversation about a secret, discussing hidden knowledge, anxious talk about something unknown. The birds whisper.",
+      "as_second": "A secret triggers gossip, hidden knowledge becomes conversation, education sparks discussion."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A talkative man, a man on the phone, an anxious man. A man who gossips or communicates frequently.",
+      "as_second": "A man triggers conversations, a man is the subject of gossip, a man creates nervous chatter."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A talkative woman, a woman on the phone, an anxious woman. A woman who gossips or communicates frequently.",
+      "as_second": "A woman triggers conversations, a woman is the subject of gossip, a woman creates nervous chatter."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A small conversation, childlike chatter, anxiety about something new. A young couple. Little voices.",
+      "as_second": "A new beginning triggers conversation, something young is discussed, a fresh start creates talk."
+    },
+    {
+      "with": "the_clouds",
+      "with_number": 6,
+      "category": "negative",
+      "as_first": "Confused conversation, anxious talk that goes in circles, miscommunication. The birds are lost in fog.",
+      "as_second": "Confusion triggers nervous talk, uncertainty creates gossip, the fog makes everyone anxious and chatty."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Communication — Cards landing here speak to conversations, anxiety, gossip, and verbal exchanges in the querent's life. This house asks: what's being discussed? What's the source of the chatter?",
+    "near_significator": "Communication is central. The querent is in the middle of conversations, phone calls, meetings, or anxiety. Talk is everywhere—some productive, some not.",
+    "far_from_significator": "Communication is peripheral. The querent is not in a talkative phase, or the conversations that matter are happening far from them.",
+    "diagonal_or_corner": "Communication operates as background noise—conversations are happening that the querent may not be part of, or low-level anxiety hums beneath the surface."
+  }
+}

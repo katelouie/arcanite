@@ -1,0 +1,172 @@
+{
+  "id": "the_fish",
+  "number": 34,
+  "name": "The Fish",
+  "playing_card": "King of Diamonds",
+  "system": "lenormand",
+  "image_file": "34.jpg",
+
+  "image": "Fish swimming in deep water—abundant, fluid, multiplying. Where there is one, there are many. The water is rich and the fish are thriving. Abundance in motion.",
+
+  "core": {
+    "keywords": ["money", "abundance", "business", "finances", "wealth", "enterprise", "flow", "independence", "resources", "entrepreneurship"],
+    "charge": "positive",
+    "category": "object",
+    "topics": ["money", "business", "finances", "abundance", "entrepreneurship", "independence", "resources", "wealth"]
+  },
+
+  "timing": {
+    "thematic": "flowing",
+    "duration": "weeks_to_months",
+    "season": null,
+    "speed": "moderate",
+    "direction": null
+  },
+
+  "as_person": "A businessman, an entrepreneur, a wealthy person, a self-made individual. Someone whose identity is tied to their financial independence. The person who always has a deal cooking, who thinks in terms of value and exchange.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds financial, abundant, or entrepreneurial quality to the card it touches. Whatever is next to the Fish involves money, business, resources, or material abundance. The Fish monetize what they touch.",
+    "as_modified": "The card's core meaning is the source, context, or trigger for financial activity. Card A is what brings the money—or what the money is for."
+  },
+
+  "topic_contexts": {
+    "love": "A wealthy partner, a relationship with financial security, love and money intertwined. The romance where financial independence matters. Also: emotional abundance, a deep well of feeling. Love that flows like water.",
+    "career": "Business success, entrepreneurship, a career focused on money and commerce. Self-employment, side hustles, multiple income streams. The career that swims in deep waters.",
+    "health": "The financial aspect of health—affording treatment, health insurance, investing in wellness. Also: the body's fluid systems, hydration, circulation. Health as a resource to be managed.",
+    "finances": "The Fish in finances IS the answer: money, wealth, abundance, business success. Cash flow, investments, multiple income sources. The richest card in the deck for financial questions.",
+    "spiritual": "Abundance consciousness, spiritual prosperity, the flow of the universe. The spiritual lesson that giving and receiving are the same current. Trusting the flow."
+  },
+
+  "line_reading": {
+    "as_first": "The matter concerns money, business, or abundance. Finances set the stage—this is about resources, commerce, or material wealth.",
+    "as_middle": "Money or business enters the situation. Finances become relevant, abundance shifts the dynamic, or commercial forces intervene.",
+    "as_last": "The outcome involves money or abundance. The matter resolves through financial means, business success, or material gain. The fish are running."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Fish appear BEFORE (left of) another card, they fund, enrich, or commercialize Card B. Whatever Card B represents now involves money, business, or abundance. Think: 'money for [Card B]' or 'the business of [Card B].'",
+    "as_card_b": "When The Fish appear AFTER (right of) another card, Card A leads to money, business, or abundance. Think: '[Card A] brings wealth' or '[Card A] leads to business.' Card A catches the fish.",
+    "with_positive_card": "Financial blessing, abundant success, money flowing freely. Prosperity compounded.",
+    "with_negative_card": "Financial problems, money tangled with difficulty, abundance threatened. The fish are in troubled waters.",
+    "with_person_card": "That person is wealthy, business-oriented, or financially significant. Money defines their role in the story.",
+    "with_object_card": "That object or concept is monetized, commercially relevant, or associated with abundance."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A wealthy man, a businessman, a financially independent man. A man defined by his resources.",
+      "as_second": "A man leads to money, a man brings business, a man's influence is financial."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A wealthy woman, a businesswoman, a financially independent woman. A woman defined by her resources.",
+      "as_second": "A woman leads to money, a woman brings business, a woman's influence is financial."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A new business, a small financial gain, a fresh start with money. Seed capital. The startup.",
+      "as_second": "A new beginning leads to money, something small grows into abundance, a fresh start funds itself."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Enormous financial success, abundant wealth, money and happiness together. The richest combination in the deck—the fish are golden.",
+      "as_second": "Success brings money, joy funds itself, achievement leads to abundance."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "Important money, a financial breakthrough, the key to wealth. The deal that changes your financial life.",
+      "as_second": "A breakthrough brings money, a solution leads to abundance, the key opens the vault."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "positive",
+      "as_first": "Stable finances, business security, a well-anchored financial life. Money that stays. The retirement fund that's actually funded.",
+      "as_second": "Hard work brings money, stability leads to abundance, the anchor holds the wealth in place."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A financial contract, a business partnership, a committed investment. Money bound by agreement.",
+      "as_second": "A commitment brings money, a partnership leads to abundance, the ring seals the deal."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "Money being eroded, financial losses, wealth nibbled away. The fish are being eaten. Check the accounts.",
+      "as_second": "Loss leads to financial concern, worry about money, anxiety erodes abundance."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "Financial deception, fraudulent business, money with hidden motives. Someone is stealing the fish. Trust but verify.",
+      "as_second": "Cunning leads to money (for better or worse), deception targets finances, a fox in the fish market."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A business ending, financial loss, money drying up. The fish are dead in the water. Or: inheritance money, wealth from an ending.",
+      "as_second": "An ending leads to money (insurance, inheritance, selling off), closure brings unexpected funds."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "Blocked finances, stalled business, money that won't move. The fish are dammed. Financial patience required.",
+      "as_second": "An obstacle leads to financial rethinking, a blockage redirects money, the mountain forces a new business strategy."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "object",
+      "as_first": "International business, profitable travel, money from abroad. Commerce across distance—import/export, overseas investments.",
+      "as_second": "Travel brings money, a journey leads to business, distance creates financial opportunity."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "Corporate finances, banking, institutional wealth. The fish in the tower vault. Big money, official money.",
+      "as_second": "Authority leads to money, institutional involvement brings finances, the tower manages the wealth."
+    },
+    {
+      "with": "the_letter",
+      "with_number": 27,
+      "category": "object",
+      "as_first": "A financial document, a check, an invoice, a business message. Money on paper.",
+      "as_second": "A message leads to money, a document triggers financial activity, a letter about business."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "Real estate, home finances, a family business. The fish at home—domestic wealth, household budget, property investment.",
+      "as_second": "Home leads to money, family brings business, domestic life generates wealth."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Wealth — Cards landing here speak to finances, business, and material abundance. This house asks: where is the money? What is your financial situation?",
+    "near_significator": "Finances are front and center. Money, business, or material abundance is a major factor in the querent's current situation. Pay attention to the cash flow.",
+    "far_from_significator": "Finances are peripheral. Money isn't the main story, or financial matters are distant from the querent's primary concerns.",
+    "diagonal_or_corner": "Financial forces subtly influence the situation. Money is shaping things in the background—the budget constraint nobody mentions, the deal forming behind the scenes."
+  }
+}

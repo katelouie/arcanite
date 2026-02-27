@@ -1,0 +1,165 @@
+{
+  "id": "the_lily",
+  "number": 30,
+  "name": "The Lily",
+  "playing_card": "King of Spades",
+  "system": "lenormand",
+  "image_file": "30.jpg",
+
+  "image": "A tall white lily in full bloom, serene and elegant. It speaks of purity, maturity, and the quiet dignity that comes with age. There is also something sensual beneath the surface—the lily's perfume is intoxicating.",
+
+  "core": {
+    "keywords": ["maturity", "wisdom", "peace", "sensuality", "purity", "experience", "elder", "harmony", "retirement", "intimacy"],
+    "charge": "neutral",
+    "category": "nature",
+    "topics": ["maturity", "wisdom", "peace", "sensuality", "aging", "retirement", "intimacy", "experience"]
+  },
+
+  "timing": {
+    "thematic": "mature",
+    "duration": "months_to_years",
+    "season": "winter",
+    "speed": "slow",
+    "direction": "static"
+  },
+
+  "as_person": "An elder, a wise mentor, a grandfather figure, a mature and experienced person. Someone who has earned their peace through years of living. Can also represent a sensual older lover—the Lily doesn't forget the body just because the mind has grown wise.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds maturity, wisdom, peacefulness, sensuality, or the quality of long experience to the card it touches. Whatever is next to the Lily gains age, depth, and the quiet confidence that comes from having been through it all before.",
+    "as_modified": "The card's core meaning is the context for maturity, peace, or sensuality. Card A is what the Lily has grown wise about—or what stirs its deeper, more intimate nature."
+  },
+
+  "topic_contexts": {
+    "love": "Mature love, deep intimacy, sensuality, an older lover. The relationship that has earned its peace through years of work. Also: sexual chemistry, physical intimacy, the kind of desire that knows what it wants.",
+    "career": "Retirement, mentorship, senior roles, a career defined by experience. The professional who has nothing left to prove. Wisdom at work. The elder statesman of the office.",
+    "health": "Aging, geriatric health, the body in its later chapters. But also: holistic health, the body at peace, sexual health. The Lily doesn't fear the body—it honors it.",
+    "finances": "Retirement funds, pension, long-term investments maturing. Wealth accumulated over decades. Financial wisdom—money managed with the patience of someone who's seen markets rise and fall.",
+    "spiritual": "Elder wisdom, spiritual maturity, the peace that comes from deep practice. The Lily has meditated enough to know that enlightenment isn't an event—it's a slow bloom."
+  },
+
+  "line_reading": {
+    "as_first": "The matter has deep roots. Something mature, long-established, or wise opens the reading. This isn't new—it's been growing for a long time.",
+    "as_middle": "Maturity, wisdom, or peace enters the situation. An elder influence, a moment of serenity, or a deepening of intimacy shifts the dynamic.",
+    "as_last": "The outcome is peace, maturity, or wisdom. The matter resolves through patience, experience, or the quiet dignity of acceptance. The lily blooms at the end."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Lily appears BEFORE (left of) another card, it matures or pacifies Card B. Whatever Card B represents gains wisdom, age, peacefulness, or sensual depth. Think: 'mature [Card B]' or 'peaceful [Card B].'",
+    "as_card_b": "When The Lily appears AFTER (right of) another card, Card A leads to maturity, peace, or wisdom. Think: '[Card A] finds peace' or '[Card A] matures.' Card A grows into the lily.",
+    "with_positive_card": "Profound peace, wise blessings, mature joy. The good thing has been seasoned by experience and is all the richer for it.",
+    "with_negative_card": "Old problems, entrenched patterns, suffering borne with dignity. The negative thing has been around for a long time—but the Lily also suggests it can be borne with grace.",
+    "with_person_card": "That person is mature, wise, elderly, or sexually significant. They bring experience and depth—or they need the respect owed to age.",
+    "with_object_card": "That object or concept is mature, long-established, or connected to wisdom. It has history."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A wise man, an older man, a mature man, a sexually significant man. A man of peace and experience.",
+      "as_second": "A man leads to peace, a man matures, a man inspires wisdom or desire."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A wise woman, an older woman, a mature woman, a sexually significant woman. A woman of peace and experience.",
+      "as_second": "A woman leads to peace, a woman matures, a woman inspires wisdom or desire."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "Wisdom meeting innocence, an elder with a child, maturity nurturing new growth. The grandfather and the grandchild.",
+      "as_second": "A new beginning leads to wisdom, innocence matures, the child grows into peace."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Mature love, deep sensuality, a love that has aged like wine. Intimacy born from knowing someone fully.",
+      "as_second": "Love leads to peace, the heart matures, passion deepens into wisdom."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Peaceful joy, mature happiness, wisdom rewarded with warmth. The golden years—literally golden.",
+      "as_second": "Joy brings peace, success matures, happiness deepens into serenity."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A mature commitment, a long-standing partnership, a bond deepened by years. The ring worn smooth by time.",
+      "as_second": "A commitment matures, a partnership finds peace, a contract deepens with experience."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "Peace in death, a dignified ending, mature acceptance of mortality. The lily on the coffin—funeral, yes, but also grace.",
+      "as_second": "An ending brings peace, closure leads to wisdom, the coffin teaches the lily its final lesson."
+    },
+    {
+      "with": "the_whip",
+      "with_number": 11,
+      "category": "negative",
+      "as_first": "Sexual aggression, a mature conflict, an old argument that won't die. Or: BDSM, sexual power dynamics, passion with an edge.",
+      "as_second": "Conflict matures (hardens), an argument finds an old rhythm, repetitive problems in mature relationships."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Mature complications, old deceptions, a wise manipulator. The snake is old—and old snakes are the most dangerous.",
+      "as_second": "Complications lead to weary wisdom, deception ages into something accepted, the snake curls around the lily."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "Suffering borne with dignity, a fated maturity, the weight of a long life. The lily bows under the cross but doesn't break.",
+      "as_second": "A burden leads to wisdom, suffering matures into acceptance, fate teaches peace."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "A mature household, an elder at home, a long-established family home. The house that generations have lived in.",
+      "as_second": "Home brings peace, family leads to wisdom, domestic life matures."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "Wise authority, mature leadership, a senior position. The lily in the tower—the elder with power.",
+      "as_second": "Authority leads to wisdom, institutional experience brings peace, power matures."
+    },
+    {
+      "with": "the_book",
+      "with_number": 26,
+      "category": "object",
+      "as_first": "Ancient wisdom, mature secrets, deep knowledge. The lily's book—what you learn only after living long enough.",
+      "as_second": "A secret matures, knowledge leads to peace, hidden wisdom surfaces with age."
+    },
+    {
+      "with": "the_tree",
+      "with_number": 5,
+      "category": "object",
+      "as_first": "Deep health, mature vitality, the body honored with age. The lily and the tree—both grow slowly, both endure.",
+      "as_second": "Health leads to peace, long life brings wisdom, the body teaches what the mind can't."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Maturity — Cards landing here speak to wisdom, peace, aging, and sensuality in the querent's life. This house asks: where is your wisdom? What has matured?",
+    "near_significator": "Maturity and peace are central. The querent is in a phase of life defined by experience, wisdom, or deep intimacy. The pace has slowed—and that's a gift.",
+    "far_from_significator": "Maturity is distant. Wisdom or peace isn't the main story, or the querent hasn't yet reached the stage where the Lily speaks most clearly.",
+    "diagonal_or_corner": "Wisdom subtly influences the situation. Mature energy or sensual undercurrents are present in the background, coloring things beneath the surface."
+  }
+}

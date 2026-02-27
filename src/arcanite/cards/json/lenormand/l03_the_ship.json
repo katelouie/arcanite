@@ -4,13 +4,39 @@
   "name": "The Ship",
   "playing_card": "10 of Spades",
   "system": "lenormand",
+  "image_file": "03.jpg",
+
+  "image": "A large three-masted sailing ship on open water, moving away from shore toward a distant horizon. The sails are full, the sea is calm but vast.",
 
   "core": {
     "keywords": ["journey", "travel", "departure", "commerce", "foreign", "longing", "distance"],
     "charge": "positive",
     "category": "object",
-    "timing": "forward_movement",
     "topics": ["travel", "business", "distance", "progress", "trade", "exploration"]
+  },
+
+  "timing": {
+    "thematic": "forward_movement",
+    "duration": "weeks_to_months",
+    "season": null,
+    "speed": "moderate",
+    "direction": "away_or_forward"
+  },
+
+  "as_person": "A foreigner, traveler, merchant, or someone from abroad. A person who is always in motion, emotionally distant, or worldly. Someone with international ties or a restless spirit.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds distance, movement, foreignness, or commercial quality to the card it touches.",
+    "as_modified": "The card's core meaning is set in motion, given scope, or projected across distance. What was local becomes international; what was still begins to move."
+  },
+
+  "topic_contexts": {
+    "love": "Longing across distance, a foreign romance, a partner who travels or is emotionally distant. Love that requires a journey—either physical or emotional. Can indicate a relationship with someone from another culture or a love that hasn't yet arrived.",
+    "career": "Business travel, international commerce, career mobility. Advancement through expanding scope, import/export, freelance or consulting work that involves movement. A career that won't stay in one place.",
+    "health": "Recovery through change of environment, seeking treatment elsewhere, a health journey that takes time. Movement is medicine—stagnation is the enemy. May indicate travel for medical reasons.",
+    "finances": "Money in transit, international investments, income from foreign sources or trade. Commerce, import/export profits, financial opportunities that require reaching beyond the local. Wealth that moves.",
+    "spiritual": "The soul's journey, spiritual seeking that takes you beyond familiar ground. Pilgrimage, exploration of foreign spiritual traditions, the longing that drives spiritual growth. Expansion beyond the known."
   },
 
   "line_reading": {
@@ -19,90 +45,135 @@
     "as_last": "The outcome involves travel, advancement, or departure from the current situation. Progress is made by moving forward or away."
   },
 
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Ship appears BEFORE (left of) another card, it sends that card on a journey. The Ship launches, expands, or distances whatever follows. It adds movement, foreignness, or commercial intent to Card B's meaning. Think: 'a journey toward [Card B]' or '[Card B] is departing / in transit.'",
+    "as_card_b": "When The Ship appears AFTER (right of) another card, Card A is the cause or context for movement. Something about Card A triggers travel, departure, or expansion. Think: '[Card A] causes a journey' or '[Card A]'s influence comes from afar / is moving away.'",
+    "with_positive_card": "Travel is blessed, commerce thrives, the journey brings the good thing Card B represents. Movement is rewarded.",
+    "with_negative_card": "The journey is troubled, delayed, or brings the difficulty Card B represents from afar. Distance complicates rather than resolves.",
+    "with_person_card": "That person is foreign, traveling, departing, or connected to commerce. They may be physically distant or emotionally unreachable.",
+    "with_object_card": "That object or concept is in transit, has foreign origins, or is connected to trade and movement. It's not local—it's coming from or going somewhere."
+  },
+
   "combinations": [
     {
       "with": "the_rider",
+      "with_number": 1,
       "category": "person",
       "as_first": "Travel news arrives, journey announced, foreign visitor coming. A trip is set in motion by incoming information.",
       "as_second": "News prompts travel, message about departure, quick journey begins. Information drives movement forward."
     },
     {
-      "with": "the_clover",
-      "category": "positive",
-      "as_first": "Lucky journey, fortunate travel, commerce brings quick gains. A trip goes smoothly and brings small blessings.",
-      "as_second": "Luck comes from afar, opportunity through travel, fortunate distance. Good fortune arrives from foreign quarters."
-    },
-    {
-      "with": "the_house",
-      "category": "object",
-      "as_first": "Moving house, travel related to home, commerce from home base. The journey concerns domestic matters.",
-      "as_second": "Home is the destination, settling after travel, domestic stability through commerce. The house awaits at journey's end."
-    },
-    {
-      "with": "the_clouds",
-      "category": "negative",
-      "as_first": "Confused journey, unclear travel plans, commerce muddied by uncertainty. The path forward is obscured.",
-      "as_second": "Confusion comes from afar, travel brings uncertainty, foreign troubles arrive. Distance doesn't solve the fog."
-    },
-    {
-      "with": "the_snake",
-      "category": "negative",
-      "as_first": "Complicated journey, travel with hidden agendas, commerce with deceptive elements. The path has twists.",
-      "as_second": "Complications arrive from afar, travel reveals deception, foreign intrigue. Distance brings complexity."
-    },
-    {
-      "with": "the_coffin",
-      "category": "negative",
-      "as_first": "Journey ends, travel cancelled or concluded, commerce stops. Something that was moving has stopped.",
-      "as_second": "Ending comes from afar, travel for funeral/closure, foreign matters conclude. Distance brings finality."
-    },
-    {
-      "with": "the_bouquet",
-      "category": "positive",
-      "as_first": "Pleasant journey, travel brings gifts, commerce in beauty/luxury. The trip is enjoyable and rewarding.",
-      "as_second": "Gifts arrive from afar, beauty through travel, appreciation from foreign quarters. Distance brings pleasantries."
-    },
-    {
-      "with": "the_scythe",
-      "category": "negative",
-      "as_first": "Journey cut short, travel danger, commerce severed suddenly. Something sharp interrupts the movement.",
-      "as_second": "Sudden news from afar, swift travel decision, cutting ties through distance. Separation comes quickly."
-    },
-    {
-      "with": "the_heart",
-      "category": "positive",
-      "as_first": "Romantic journey, travel for love, commerce of the heart, longing. The heart is in motion or reaching across distance.",
-      "as_second": "Love from afar, heart calls for travel, passion drives movement. Distance cannot stop the heart."
-    },
-    {
-      "with": "the_anchor",
-      "category": "positive",
-      "as_first": "Business travel, stable commerce, career involves movement. The journey has steady purpose.",
-      "as_second": "Stability through travel, settling abroad, work that requires distance. The anchor is found after sailing."
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A new journey begins, travel with a child, fresh start abroad. The voyage is young, innocent, just beginning.",
+      "as_second": "A new beginning prompts travel, childlike wonder drives exploration. Something small and new sets the ship sailing."
     },
     {
       "with": "the_gentleman",
+      "with_number": 28,
       "category": "person",
       "as_first": "Traveling man, foreign man, businessman, man who is leaving or from afar. The man is in motion.",
       "as_second": "Man prompts travel, journey toward a man, man brings commerce. Movement centers on him."
     },
     {
       "with": "the_lady",
+      "with_number": 29,
       "category": "person",
       "as_first": "Traveling woman, foreign woman, businesswoman, woman who is leaving or from afar. The woman is in motion.",
       "as_second": "Woman prompts travel, journey toward a woman, woman brings commerce. Movement centers on her."
     },
     {
+      "with": "the_clover",
+      "with_number": 2,
+      "category": "positive",
+      "as_first": "Lucky journey, fortunate travel, commerce brings quick gains. A trip goes smoothly and brings small blessings.",
+      "as_second": "Luck comes from afar, opportunity through travel, fortunate distance. Good fortune arrives from foreign quarters."
+    },
+    {
+      "with": "the_bouquet",
+      "with_number": 9,
+      "category": "positive",
+      "as_first": "Pleasant journey, travel brings gifts, commerce in beauty or luxury. The trip is enjoyable and rewarding.",
+      "as_second": "Gifts arrive from afar, beauty through travel, appreciation from foreign quarters. Distance brings pleasantries."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Romantic journey, travel for love, commerce of the heart, longing. The heart is in motion or reaching across distance.",
+      "as_second": "Love from afar, heart calls for travel, passion drives movement. Distance cannot stop the heart."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "positive",
+      "as_first": "Business travel, stable commerce, career involves movement. The journey has steady purpose.",
+      "as_second": "Stability through travel, settling abroad, work that requires distance. The anchor is found after sailing."
+    },
+    {
+      "with": "the_clouds",
+      "with_number": 6,
+      "category": "negative",
+      "as_first": "Confused journey, unclear travel plans, commerce muddied by uncertainty. The path forward is obscured.",
+      "as_second": "Confusion comes from afar, travel brings uncertainty, foreign troubles arrive. Distance doesn't solve the fog."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "Journey ends, travel cancelled or concluded, commerce stops. Something that was moving has stopped.",
+      "as_second": "Ending comes from afar, travel for funeral or closure, foreign matters conclude. Distance brings finality."
+    },
+    {
+      "with": "the_scythe",
+      "with_number": 10,
+      "category": "negative",
+      "as_first": "Journey cut short, travel danger, commerce severed suddenly. Something sharp interrupts the movement.",
+      "as_second": "Sudden news from afar, swift travel decision, cutting ties through distance. Separation comes quickly."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "Blocked journey, travel delayed by obstacles, commerce stalled. The ship cannot pass—something immovable is in the way.",
+      "as_second": "An obstacle prompts departure, blockage drives the need to travel, leaving because staying is impossible. The mountain pushes the ship out to sea."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "Moving house, travel related to home, commerce from home base. The journey concerns domestic matters.",
+      "as_second": "Home is the destination, settling after travel, domestic stability through commerce. The house awaits at journey's end."
+    },
+    {
       "with": "the_letter",
+      "with_number": 27,
       "category": "object",
       "as_first": "Travel documents, passport matters, news about a journey, correspondence from abroad.",
       "as_second": "A message prompts travel, news leads to departure, written invitation to journey."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "object",
+      "as_first": "Profitable journey, international trade, commerce at scale. Money flows across distance—business travel that pays.",
+      "as_second": "Finances drive travel, wealth comes from abroad, abundance through commerce. The money is overseas."
+    },
+    {
+      "with": "the_crossroads",
+      "with_number": 22,
+      "category": "object",
+      "as_first": "Multiple travel options, choosing between journeys, commerce at a crossroads. Which voyage do you take?",
+      "as_second": "A decision prompts travel, choosing to leave, the fork in the road leads to departure. Freedom of movement opens up."
     }
   ],
 
   "grand_tableau": {
-    "as_house": "The House of Journeys - Cards landing here speak to movement, foreign matters, commerce, or what is departing from the querent's life.",
-    "near_significator": "Travel is imminent or central to the querent's situation. Movement, commerce, or foreign matters are in focus.",
-    "far_from_significator": "Travel is distant, peripheral, delayed, or relates to the past/far future. Foreign matters have less immediate relevance."
+    "as_house": "The House of Journeys — Cards landing here speak to movement, foreign matters, commerce, or what is departing from the querent's life. Whatever card falls here is 'in transit' or connected to distance.",
+    "near_significator": "Travel is imminent or central to the querent's situation. Movement, commerce, or foreign matters are in sharp focus. The querent is going somewhere—literally or figuratively.",
+    "far_from_significator": "Travel is distant, peripheral, delayed, or relates to the past or far future. Foreign matters have less immediate relevance but haven't disappeared entirely.",
+    "diagonal_or_corner": "Travel or commerce operates as background influence—not the main story, but subtly shaping it. Foreign connections exist but aren't front of mind."
   }
 }

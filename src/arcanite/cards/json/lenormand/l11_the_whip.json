@@ -1,0 +1,179 @@
+{
+  "id": "the_whip",
+  "number": 11,
+  "name": "The Whip",
+  "playing_card": "Jack of Clubs",
+  "system": "lenormand",
+  "image_file": "11.jpg",
+
+  "image": "A birch whip or bundle of rods, used for discipline and punishment. The marks it leaves are repetitive—line after line. Conflict that keeps coming back.",
+
+  "core": {
+    "keywords": ["conflict", "argument", "repetition", "discipline", "punishment", "debate", "passion", "aggression", "sport"],
+    "charge": "negative",
+    "category": "object",
+    "topics": ["conflict", "arguments", "repetition", "discipline", "physical activity", "punishment", "passion"]
+  },
+
+  "timing": {
+    "thematic": "repetitive",
+    "duration": "days_to_weeks",
+    "season": null,
+    "speed": "fast",
+    "direction": "cyclical"
+  },
+
+  "as_person": "An aggressive person, an athlete, a disciplinarian. Someone who argues frequently or is physically intense. A personal trainer, a debate partner, or an abuser. The person you keep fighting with.",
+
+  "modifier_behavior": {
+    "type": "intensifier",
+    "as_modifier": "Adds conflict, repetition, physical intensity, or punishment to the card it touches. Whatever is next to the Whip becomes contentious, recurring, or physically charged.",
+    "as_modified": "The card's core meaning becomes the subject of conflict, the thing being punished, or the pattern being repeated. What was singular becomes cyclical."
+  },
+
+  "topic_contexts": {
+    "love": "Arguments in a relationship, passionate but volatile love, the fight-make up cycle. Physical passion that borders on aggression. A relationship that can't stop arguing.",
+    "career": "Workplace conflict, competitive environment, repetitive work. Being disciplined or punished professionally. A job that's physically demanding or combative.",
+    "health": "Repetitive strain, physical exertion, injury from overuse. The body being pushed too hard. Self-punishment through exercise or neglect. Chronic pain that recurs.",
+    "finances": "Repeated financial arguments, money lost through conflict, expenses that keep recurring. Fines, penalties, or the cost of fighting.",
+    "spiritual": "Self-flagellation, spiritual discipline taken too far, the inner critic. Karmic patterns that repeat until the lesson is learned. Asceticism as punishment versus growth."
+  },
+
+  "line_reading": {
+    "as_first": "The situation opens with conflict, repetition, or physical intensity. An argument sets the stage, or a recurring pattern is the foundation.",
+    "as_middle": "Conflict enters the picture. An argument erupts, a pattern repeats, or physical intensity disrupts the flow. The whip cracks in the middle.",
+    "as_last": "The outcome involves conflict, discipline, or repetition. The pattern continues, the argument isn't resolved, or physical intensity defines the ending."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Whip appears BEFORE (left of) another card, it strikes or agitates Card B. Whatever Card B represents becomes contentious, punished, or repeated. Think: 'conflict about [Card B]' or '[Card B] keeps repeating.'",
+    "as_card_b": "When The Whip appears AFTER (right of) another card, Card A's energy leads to conflict, discipline, or repetition. Think: '[Card A] causes a fight' or '[Card A] creates a pattern.' Card A picks up the whip.",
+    "with_positive_card": "A good thing is fought over, a blessing becomes contentious, or positive energy is expressed through physical intensity. Passionate but combative.",
+    "with_negative_card": "Escalated conflict, punishment on top of problems, repeated suffering. The beating continues. The cycle deepens.",
+    "with_person_card": "That person is argumentative, physically intense, or caught in a repetitive pattern. They're either wielding the whip or receiving it.",
+    "with_object_card": "That thing or concept is contentious, repeated, or physically charged. It's the subject of an argument or a pattern that won't break."
+  },
+
+  "combinations": [
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Passionate conflict, lovers' quarrel, the fight-and-makeup cycle. Love that hurts. Desire expressed through friction.",
+      "as_second": "Love causes conflict, the heart provokes arguments, passion becomes aggression."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A contentious commitment, arguing about a contract, a relationship defined by conflict. The ring chafes.",
+      "as_second": "A commitment leads to fights, a contract creates recurring conflict, the bond is tested by friction."
+    },
+    {
+      "with": "the_dog",
+      "with_number": 18,
+      "category": "positive",
+      "as_first": "A fight with a friend, loyalty tested by conflict, friendship under strain. Even the dog gets kicked.",
+      "as_second": "A friend causes conflict, loyalty provokes arguments, a trusted person becomes combative."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "Complicated conflict, arguments with hidden agendas, abuse disguised as love. The fight isn't about what they say it's about.",
+      "as_second": "Complications lead to fighting, deception provokes conflict, a tangled situation becomes violent."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A fight ends, conflict dies, the cycle of abuse stops. The whip is buried.",
+      "as_second": "An ending causes conflict, closure triggers a fight, the death of something provokes anger."
+    },
+    {
+      "with": "the_cross",
+      "with_number": 36,
+      "category": "negative",
+      "as_first": "Fated conflict, suffering through punishment, karmic fighting. The burden of endless arguments.",
+      "as_second": "Conflict becomes destiny, fighting becomes a cross to bear, the cycle becomes a sentence."
+    },
+    {
+      "with": "the_scythe",
+      "with_number": 10,
+      "category": "negative",
+      "as_first": "A cutting argument, sharp conflict, words or actions that wound. Violence. The fight draws blood.",
+      "as_second": "A sudden event triggers a fight, something sharp provokes conflict, the cut starts the cycle."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "Healthy competition, passionate sport, conflict that leads to joy. The good fight. Energy well spent.",
+      "as_second": "Success provokes jealousy, joy leads to arguments, winning creates conflict. The trophy is contested."
+    },
+    {
+      "with": "the_bouquet",
+      "with_number": 9,
+      "category": "positive",
+      "as_first": "A fight softened by grace, conflict resolved with beauty, arguing that leads to making up.",
+      "as_second": "A gift provokes an argument, beauty causes jealousy, social charm hides aggression."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "neutral",
+      "as_first": "Domestic conflict, family arguments, household fighting. The fight happens at home.",
+      "as_second": "Home causes arguments, family provokes conflict, domestic pressure creates friction."
+    },
+    {
+      "with": "the_birds",
+      "with_number": 12,
+      "category": "neutral",
+      "as_first": "Heated conversation, verbal conflict, a debate that won't end. Words as weapons, flying back and forth.",
+      "as_second": "Communication leads to fighting, a conversation escalates, what was talk becomes war."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "neutral",
+      "as_first": "Institutional conflict, fighting with authority, legal disputes. Battling the system.",
+      "as_second": "Authority provokes conflict, institutions create friction, the system punishes."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "An aggressive man, a man in conflict, a male athlete or fighter. A man who punishes or disciplines.",
+      "as_second": "A man provokes arguments, a man's energy is combative, a man brings physical intensity."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "An aggressive woman, a woman in conflict, a female athlete or fighter. A woman who punishes or disciplines.",
+      "as_second": "A woman provokes arguments, a woman's energy is combative, a woman brings physical intensity."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "Conflict with a child, punishing the young, a new fight starting. Discipline of innocence. Handle gently.",
+      "as_second": "A new beginning triggers conflict, something young provokes arguments, a fresh start meets friction."
+    },
+    {
+      "with": "the_bear",
+      "with_number": 15,
+      "category": "neutral",
+      "as_first": "A power struggle, fighting with a strong person, conflict over resources. Two forces clash.",
+      "as_second": "Strength provokes conflict, power creates arguments, a boss or authority figure triggers the fight."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Conflict — Cards landing here speak to arguments, physical intensity, repetitive patterns, and discipline in the querent's life. This house asks: what's the fight? What pattern keeps repeating?",
+    "near_significator": "Conflict is central. The querent is in the middle of arguments, physical intensity, or repetitive patterns. The whip is cracking close to home.",
+    "far_from_significator": "Conflict is distant or peripheral. Arguments aren't the main story. The whip is hung up—for now.",
+    "diagonal_or_corner": "Conflict operates as background tension—a recurring argument that hasn't surfaced yet, or a physical pattern quietly building."
+  }
+}

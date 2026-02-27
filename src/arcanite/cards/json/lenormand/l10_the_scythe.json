@@ -1,0 +1,179 @@
+{
+  "id": "the_scythe",
+  "number": 10,
+  "name": "The Scythe",
+  "playing_card": "Jack of Diamonds",
+  "system": "lenormand",
+  "image_file": "10.jpg",
+
+  "image": "A sharp scythe, blade gleaming, ready to cut. A harvest tool and a weapon. Whatever it touches, it separates—quickly, cleanly, without negotiation.",
+
+  "core": {
+    "keywords": ["sudden", "cut", "danger", "harvest", "separation", "decision", "surgery", "sharp", "accident"],
+    "charge": "negative",
+    "category": "object",
+    "topics": ["sudden events", "danger", "separation", "harvest", "surgery", "accidents", "sharp decisions"]
+  },
+
+  "timing": {
+    "thematic": "sudden",
+    "duration": "days",
+    "season": "autumn",
+    "speed": "instant",
+    "direction": null
+  },
+
+  "as_person": "A surgeon, a dentist, a decisive person. Someone sharp—in wit, tongue, or action. A person who cuts through situations without sentiment. The ex who left without warning.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds suddenness, sharpness, or a cutting quality to the card it touches. Whatever is next to the Scythe happens abruptly, is severed, or is harvested. No gradual transitions here.",
+    "as_modified": "The card's core meaning is what gets cut, harvested, or struck suddenly. The Scythe acts on Card A—Card A is the thing being separated or reaped."
+  },
+
+  "topic_contexts": {
+    "love": "A sudden breakup, a sharp word that cuts, the decisive end of a relationship. Or: cutting away what doesn't serve the relationship. Surgical honesty in love.",
+    "career": "Layoffs, sudden job changes, a career cut short. Or: decisively cutting dead-weight projects. Harvest time—reaping what you've sown, for good or ill.",
+    "health": "Surgery, dental work, accidents, sudden health events. A sharp medical intervention. The body being cut to heal. Take care around sharp objects.",
+    "finances": "Sudden financial loss, a budget cut, expenses slashed. Or: harvesting investments, collecting debts, cutting financial ties. The bill comes due—suddenly.",
+    "spiritual": "Cutting karmic ties, sudden spiritual insight, the sword of discernment. The moment of clarity that severs illusion from truth. Not gentle—but necessary."
+  },
+
+  "line_reading": {
+    "as_first": "The situation begins with a sudden event, a cut, or a sharp decision. Something was severed before the story even starts. The blade has already fallen.",
+    "as_middle": "A sudden event disrupts the flow. Something is cut, severed, or decided abruptly. The middle of the story gets a sharp interruption.",
+    "as_last": "The outcome is sudden, sharp, and decisive. Something is cut away, harvested, or resolved abruptly. Clean break. No lingering."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for combinations not explicitly listed. Use these to synthesize meaning when a specific pairing isn't in the combinations array.",
+    "as_card_a": "When The Scythe appears BEFORE (left of) another card, it cuts INTO Card B. Whatever Card B represents is struck, severed, or harvested. Think: 'a sudden [Card B]' or '[Card B] is cut.' The blade falls on Card B.",
+    "as_card_b": "When The Scythe appears AFTER (right of) another card, Card A's energy is suddenly ended, severed, or harvested. Think: '[Card A] is cut short' or '[Card A] ends abruptly.' Card A meets the blade.",
+    "with_positive_card": "A good thing is cut short, a blessing is severed, or a sharp decision harvests something positive. The harvest is rich but the cutting is sudden.",
+    "with_negative_card": "A problem is cut away, a negative situation is severed, or danger is sharp and immediate. The blade can be merciful—cutting away what hurts.",
+    "with_person_card": "That person is sharp, decisive, dangerous, or the target of a sudden event. They cut through or are cut. Surgeons and executioners alike.",
+    "with_object_card": "That thing or concept is cut, harvested, or struck suddenly. The event is abrupt and the separation is clean."
+  },
+
+  "combinations": [
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "neutral",
+      "as_first": "A journey cut short, travel danger, commerce severed suddenly. Something sharp interrupts the movement.",
+      "as_second": "Sudden departure, swift travel decision, cutting ties through distance. Separation comes quickly."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A sudden ending, a death that cuts, a loss that's sharp and final. No gentle goodbye here.",
+      "as_second": "An ending is cut short, closure comes violently, the coffin lid slams."
+    },
+    {
+      "with": "the_whip",
+      "with_number": 11,
+      "category": "negative",
+      "as_first": "A cutting argument, sharp conflict, verbal or physical violence. Words that wound permanently.",
+      "as_second": "Repeated conflict meets a decisive end, aggression is cut off, the cycle of abuse is severed."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "A sudden blockage, a sharp obstacle, danger hitting a wall. The blade strikes rock.",
+      "as_second": "An obstacle is cut through, a blockage is severed decisively, the mountain is split."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "Sudden loss, anxiety cut to the bone, worry that strikes fast. The small losses become a sharp wound.",
+      "as_second": "Erosion leads to a sudden break, small worries accumulate into a crisis, the gnawing finally snaps."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "Heartbreak, love cut short, a sudden romantic severance. The sharpest pain is the one in the chest.",
+      "as_second": "Love demands a cut, the heart forces a decision, passion requires severing something else."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "A sudden success, a breakthrough that cuts through, decisive joy. The harvest is golden.",
+      "as_second": "Success is cut short—or joy arrives suddenly. The blade can bring light when it clears what was blocking the sun."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A broken contract, a severed commitment, an engagement cut short. The ring is returned.",
+      "as_second": "A commitment demands a sharp decision, a contract requires cutting ties elsewhere. The ring meets the blade."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "A decisive breakthrough, an important cut, a sharp solution. The Gordian knot meets the blade.",
+      "as_second": "An important solution is cut short, or the key insight arrives suddenly. The door opens with a slash."
+    },
+    {
+      "with": "the_tree",
+      "with_number": 5,
+      "category": "neutral",
+      "as_first": "Surgery, a health event, something deeply rooted is cut. The tree is pruned—or felled.",
+      "as_second": "A health condition triggers a sharp intervention, slow growth meets a sudden cut. The surgeon's scalpel."
+    },
+    {
+      "with": "the_letter",
+      "with_number": 27,
+      "category": "neutral",
+      "as_first": "A sharp document, a letter that cuts, legal notice that severs. The papers arrive and everything changes.",
+      "as_second": "A document triggers a sudden decision, paperwork leads to severance, the letter carries a blade."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "positive",
+      "as_first": "Financial cut, sudden expense, money severed. Or: harvesting investments, collecting a debt sharply.",
+      "as_second": "Finances demand a sharp decision, money triggers a cut, abundance is harvested—or lost—abruptly."
+    },
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A man is cut, a man faces sudden danger, a decisive man. A surgeon or someone who wields sharp authority.",
+      "as_second": "A man triggers a sudden event, a man cuts ties, a man's decision is final and sharp."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A woman is cut, a woman faces sudden danger, a decisive woman. A surgeon or someone who doesn't hesitate.",
+      "as_second": "A woman triggers a sudden event, a woman cuts ties, a woman's decision is final and sharp."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A new beginning cut short, danger to something young, a child's accident. Handle with extreme care.",
+      "as_second": "A new start triggers a sharp change, innocence demands a clean cut, something fresh requires pruning."
+    },
+    {
+      "with": "the_bouquet",
+      "with_number": 9,
+      "category": "positive",
+      "as_first": "A gift cut off, beauty severed, social ties cut. The flowers are trampled. Or: cutting away what's merely pretty to find what's real.",
+      "as_second": "A pleasant situation demands a sharp decision, beauty requires a sacrifice, the bouquet meets the blade."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Sharpness — Cards landing here speak to sudden events, cuts, decisions, and harvests in the querent's life. This house asks: what's being cut? What needs a decisive stroke?",
+    "near_significator": "A sudden event is imminent. The querent faces a sharp decision, a cut, or an abrupt change. Speed and decisiveness are required—this won't wait.",
+    "far_from_significator": "Sudden events are distant or not the immediate concern. The blade is sheathed. No sharp surprises on the horizon.",
+    "diagonal_or_corner": "Sharpness operates in the background—a subtle edge to the situation, a decision approaching, or a harvest quietly becoming due."
+  }
+}

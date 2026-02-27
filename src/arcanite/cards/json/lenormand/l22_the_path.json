@@ -1,0 +1,165 @@
+{
+  "id": "the_path",
+  "number": 22,
+  "name": "The Path",
+  "playing_card": "Queen of Diamonds",
+  "system": "lenormand",
+  "image_file": "22.jpg",
+
+  "image": "A path that splits into two directions, each leading into different terrain. The fork is clear, the choice unavoidable. You cannot take both roads.",
+
+  "core": {
+    "keywords": ["choice", "decision", "options", "crossroads", "alternatives", "freedom", "divergence", "multiple paths"],
+    "charge": "neutral",
+    "category": "object",
+    "topics": ["decisions", "choices", "alternatives", "freedom", "options", "divergence"]
+  },
+
+  "timing": {
+    "thematic": "decision_point",
+    "duration": "days_to_weeks",
+    "season": null,
+    "speed": "moderate",
+    "direction": "divergent"
+  },
+
+  "as_person": "An indecisive person, a free spirit, someone who keeps their options open. A person with multiple lives or identities. The one who always has a backup plan—or who can never commit to one path.",
+
+  "modifier_behavior": {
+    "type": "pivot",
+    "as_modifier": "Splits Card B's energy into options. Whatever Card B represents now has alternatives, choices, or a fork in the road. The matter is no longer singular—there are at least two versions of it.",
+    "as_modified": "The card's core meaning forces a choice. What was a single path now branches. Card A presents you with the decision—the Path shows you that you have to choose."
+  },
+
+  "topic_contexts": {
+    "love": "A choice between lovers, a fork in a relationship, deciding whether to stay or go. Multiple romantic options. The conversation where you define the relationship—or don't.",
+    "career": "A career fork, choosing between job offers, deciding on a professional direction. Multiple opportunities, but you can't take them all. The pivot point in your career arc.",
+    "health": "Treatment options, choosing between health approaches, a fork in a health journey. Second opinions, alternative medicine vs. conventional. The body at a crossroads.",
+    "finances": "Financial decisions, choosing between investments, spending options. Multiple financial paths forward. The budget fork—save or spend, risk or safety.",
+    "spiritual": "A spiritual crossroads, choosing between traditions or practices. The point where you must decide what you actually believe—not what you were told to believe. Spiritual agency."
+  },
+
+  "line_reading": {
+    "as_first": "A choice opens the matter. The situation begins with a decision, a fork, or multiple options. The querent is at a crossroads before anything else happens.",
+    "as_middle": "A decision point enters the situation. Options appear, the path splits, and a choice must be made. The middle of the matter is defined by this fork.",
+    "as_last": "The outcome is a choice—not a resolution but a divergence. The matter ends with options on the table. Freedom, but also the weight of choosing."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Path appears BEFORE (left of) another card, it offers Card B as one of the options—or splits Card B's meaning into alternatives. Think: 'a choice about [Card B]' or 'multiple [Card B]s to choose from.'",
+    "as_card_b": "When The Path appears AFTER (right of) another card, Card A leads to a crossroads or decision. Think: '[Card A] creates options' or '[Card A] leads to a fork in the road.' Card A brings you to the crossroads.",
+    "with_positive_card": "The choices are good—potentially both options are blessings. The difficulty is choosing between two good things.",
+    "with_negative_card": "The choices are difficult, or one path leads to trouble. Be careful which fork you take. Or: multiple problems, compounding difficulties.",
+    "with_person_card": "That person is indecisive, offers alternatives, or is one of the options you're choosing between. They stand at the crossroads.",
+    "with_object_card": "That object or concept presents options, splits into alternatives, or requires a decision. It's not one thing—it's a choice between things."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A choice involving a man, multiple men to choose from, an indecisive man. A man at a crossroads.",
+      "as_second": "A man creates options, a man leads to a decision, a man brings you to a fork. The man is the crossroads."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A choice involving a woman, multiple women to choose from, an indecisive woman. A woman at a crossroads.",
+      "as_second": "A woman creates options, a woman leads to a decision, a woman brings you to a fork. The woman is the crossroads."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A choice about a new beginning, options for a fresh start, multiple new paths opening. Beginner's fork.",
+      "as_second": "A new beginning leads to choices, a fresh start creates options, something new brings you to a crossroads."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "A choice in love, romantic options, deciding between lovers or relationship paths. The heart at the crossroads.",
+      "as_second": "Love leads to a decision, the heart creates a fork, romance brings you to a crossroads. Follow the heart—but which direction is it pulling?"
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A choice about commitment, options for a contract, deciding whether to bind. Multiple partnership possibilities.",
+      "as_second": "A commitment leads to new options, a contract creates a fork, a partnership brings you to a crossroads."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "An important choice, the decision that unlocks everything, a destined fork. This crossroads matters more than most.",
+      "as_second": "A solution leads to choices, a breakthrough creates options, the key opens two doors. Which do you walk through?"
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "A complicated choice, options with hidden dangers, a fork where one path has a snake. Choose carefully—deception lurks.",
+      "as_second": "Complications lead to a fork, deception creates false options, a complex situation forces a choice."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A choice about an ending, options for closure, deciding which thing to let die. The crossroads of finality.",
+      "as_second": "An ending creates options, closure opens new paths, something dying forces a decision. One door closes, two open."
+    },
+    {
+      "with": "the_mountain",
+      "with_number": 21,
+      "category": "negative",
+      "as_first": "Blocked choices, options obstructed, a crossroads where every path has a mountain. Decision paralysis through impossibility.",
+      "as_second": "An obstacle creates a forced choice, a blockage forces you to choose a new path, the mountain redirects you to the crossroads."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "A deceptive choice, options that aren't what they seem, a crossroads with a trickster. One path is a trap.",
+      "as_second": "Cunning leads to options, deception creates false choices, a fox at the crossroads. Don't trust the obvious path."
+    },
+    {
+      "with": "the_ship",
+      "with_number": 3,
+      "category": "object",
+      "as_first": "A choice about travel, multiple journey options, deciding between destinations. Which voyage do you take?",
+      "as_second": "Travel leads to choices, a journey creates a fork, distance brings you to a crossroads."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "A choice about home, multiple domestic options, deciding where to live or how to handle family matters. The domestic crossroads.",
+      "as_second": "Home creates options, family leads to a decision, domestic matters bring you to a fork."
+    },
+    {
+      "with": "the_book",
+      "with_number": 26,
+      "category": "object",
+      "as_first": "A choice about secrets, options involving hidden knowledge, deciding what to reveal. The crossroads of disclosure.",
+      "as_second": "A secret leads to choices, hidden knowledge creates a fork, something concealed forces a decision."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "A choice about authority, institutional options, deciding between official paths. The bureaucratic crossroads.",
+      "as_second": "Authority creates options, an institution forces a choice, official channels branch into alternatives."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Choices — Cards landing here speak to where decisions, options, and crossroads exist in the querent's life. This house asks: what choices are you facing? Where do you have freedom?",
+    "near_significator": "A decision is imminent. The querent is at a crossroads—choices must be made, options weighed. Freedom and responsibility are intertwined.",
+    "far_from_significator": "Choices are distant or already made. The querent isn't at a decision point right now, or the crossroads has already been passed.",
+    "diagonal_or_corner": "Options subtly shape the situation. The querent may not realize they have more choices than they think—or that a fork is approaching."
+  }
+}

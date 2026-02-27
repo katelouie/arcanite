@@ -1,0 +1,172 @@
+{
+  "id": "the_letter",
+  "number": 27,
+  "name": "The Letter",
+  "playing_card": "7 of Spades",
+  "system": "lenormand",
+  "image_file": "27.jpg",
+
+  "image": "A sealed letter or envelope, crisp and waiting to be opened. Written communication—formal, deliberate, recorded. Someone took the time to write this down.",
+
+  "core": {
+    "keywords": ["message", "document", "communication", "written", "email", "news", "paperwork", "correspondence", "official"],
+    "charge": "neutral",
+    "category": "object",
+    "topics": ["communication", "documents", "paperwork", "messages", "correspondence", "media", "written records"]
+  },
+
+  "timing": {
+    "thematic": "documented",
+    "duration": "days_to_weeks",
+    "season": null,
+    "speed": "moderate",
+    "direction": null
+  },
+
+  "as_person": "A writer, a journalist, a messenger, a bureaucrat. Someone who communicates through written channels. The person who sends the email, drafts the contract, writes the article. Communication is their identity.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds written communication, documentation, or formal messaging to the card it touches. Whatever is next to the Letter is being documented, communicated, or made official through writing.",
+    "as_modified": "The card's core meaning is the content of the message or the trigger for correspondence. Card A is what the letter is about—or what prompts someone to write."
+  },
+
+  "topic_contexts": {
+    "love": "A love letter, a text from a romantic interest, written declarations of feeling. Communication as the bridge in a relationship. The DTR text. The email you're afraid to send.",
+    "career": "Professional correspondence, job offers in writing, contracts, emails, reports. The paper trail. Career news that arrives in written form. Professional communication skills.",
+    "health": "Medical records, test results on paper, prescriptions. Health news in written form. The diagnosis letter, the lab report, the insurance claim.",
+    "finances": "Financial documents, bills, invoices, tax forms. Written financial news—the statement, the audit, the offer letter with the salary. Money on paper.",
+    "spiritual": "Sacred texts, written prayers, journaling as practice. The message from the universe that arrives in readable form—synchronistic signs, meaningful texts, divination results."
+  },
+
+  "line_reading": {
+    "as_first": "A message opens the matter. Written communication—a letter, email, document, or text—sets everything in motion.",
+    "as_middle": "A message enters the situation. Written communication shifts the dynamic, documents become relevant, or news arrives on paper.",
+    "as_last": "The outcome is a message. The matter resolves through written communication—a document, a text, an official letter. Put it in writing."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Letter appears BEFORE (left of) another card, it writes or documents Card B. Whatever Card B represents is communicated, recorded, or arrives in written form. Think: 'a message about [Card B]' or 'documentation of [Card B].'",
+    "as_card_b": "When The Letter appears AFTER (right of) another card, Card A prompts written communication or becomes documented. Think: '[Card A] is written down' or '[Card A] leads to a message.' Card A is put on paper.",
+    "with_positive_card": "Good news in writing, a positive document, a welcome message. The letter you want to receive.",
+    "with_negative_card": "Bad news in writing, an unwelcome document, a message that stings. The letter you dread opening.",
+    "with_person_card": "That person sends a message, writes something important, or is the subject of a document. Communication centers on them.",
+    "with_object_card": "That object or concept is documented, communicated, or arrives in written form. It's on the record."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A message about a man, a man who writes, written communication from a man. His words are on paper.",
+      "as_second": "A man prompts a letter, a man is the reason for the message, a male writer or communicator."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A message about a woman, a woman who writes, written communication from a woman. Her words are on paper.",
+      "as_second": "A woman prompts a letter, a woman is the reason for the message, a female writer or communicator."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A new message, a small letter, written news about a beginning. The first draft.",
+      "as_second": "A new beginning prompts a message, something fresh is documented, a child writes or is written about."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "A love letter, a romantic message, written declarations of the heart. Words that make the heart race.",
+      "as_second": "Love prompts a letter, the heart writes, emotion is put on paper. The message that says everything."
+    },
+    {
+      "with": "the_bouquet",
+      "with_number": 9,
+      "category": "positive",
+      "as_first": "A pleasant message, a gracious letter, a beautiful invitation. The letter that makes you smile.",
+      "as_second": "A gift prompts a thank-you note, beauty inspires writing, charm is communicated on paper."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "An important message, a letter that unlocks something, a critical document. The letter that changes everything.",
+      "as_second": "A breakthrough is documented, a solution arrives in writing, the key is in the envelope."
+    },
+    {
+      "with": "the_ring",
+      "with_number": 25,
+      "category": "positive",
+      "as_first": "A contract, a written commitment, a formal agreement on paper. The letter and the ring: the promise documented.",
+      "as_second": "A commitment is written down, a partnership produces documents, the contract is signed."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A message of ending, a termination letter, written closure. The letter that ends things.",
+      "as_second": "An ending is documented, closure arrives in writing, the final message."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "A deceptive message, a letter with hidden meaning, complicated written communication. Read the fine print—there's a snake in it.",
+      "as_second": "Complications prompt a message, deception is documented (accidentally), a cunning letter."
+    },
+    {
+      "with": "the_fox",
+      "with_number": 14,
+      "category": "negative",
+      "as_first": "A false message, a forged document, a cunning letter. The communication is not what it appears to be.",
+      "as_second": "Cunning prompts a letter, deception is put in writing, a false document is created."
+    },
+    {
+      "with": "the_whip",
+      "with_number": 11,
+      "category": "negative",
+      "as_first": "An angry message, a harsh letter, argumentative correspondence. The text you send when you're furious.",
+      "as_second": "Conflict prompts a letter, an argument is documented, harsh words are put on paper. The paper trail of a fight."
+    },
+    {
+      "with": "the_rider",
+      "with_number": 1,
+      "category": "object",
+      "as_first": "Written news delivered quickly, an urgent letter, documented news arriving. The fast letter.",
+      "as_second": "News prompts a letter, a visitor brings a document, a message is written in response to new information."
+    },
+    {
+      "with": "the_book",
+      "with_number": 26,
+      "category": "object",
+      "as_first": "A secret message, a hidden document, a letter containing unknown information. The letter in the closed book.",
+      "as_second": "A secret is written down, hidden knowledge prompts a message, the book opens in letter form."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "An official letter, government correspondence, institutional documents. The letter bearing an official seal.",
+      "as_second": "Authority prompts a letter, an institution communicates in writing, the tower sends its message."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "object",
+      "as_first": "A financial document, a bill, an invoice, a financial message. Money in writing—the check, the statement, the tax form.",
+      "as_second": "Finances prompt a letter, money matters are documented, a financial message arrives."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Messages — Cards landing here speak to written communication, documents, and correspondence in the querent's life. This house asks: what message is waiting? What needs to be put in writing?",
+    "near_significator": "Written communication is central. Messages, documents, or correspondence are a major factor. Check your inbox—something important is there.",
+    "far_from_significator": "Written communication is peripheral. Messages aren't the main story right now, or important correspondence is delayed.",
+    "diagonal_or_corner": "Messages subtly influence the situation. Something written is shaping events in the background—the email you forgot about, the document you haven't read."
+  }
+}

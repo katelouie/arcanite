@@ -1,0 +1,172 @@
+{
+  "id": "the_ring",
+  "number": 25,
+  "name": "The Ring",
+  "playing_card": "Ace of Clubs",
+  "system": "lenormand",
+  "image_file": "25.jpg",
+
+  "image": "A golden ring, simple and complete. A perfect circle—no beginning, no end. It binds, it promises, it endures. The weight of it means something.",
+
+  "core": {
+    "keywords": ["commitment", "contract", "partnership", "cycle", "agreement", "marriage", "bond", "promise", "loyalty", "repetition"],
+    "charge": "positive",
+    "category": "object",
+    "topics": ["commitment", "contracts", "marriage", "partnerships", "agreements", "cycles", "repetition", "bonds"]
+  },
+
+  "timing": {
+    "thematic": "cyclical",
+    "duration": "months_to_years",
+    "season": null,
+    "speed": "moderate",
+    "direction": "cyclical"
+  },
+
+  "as_person": "A spouse, a business partner, a committed ally. Someone bound to you by agreement, promise, or shared history. The person you've chosen—and who has chosen you back.",
+
+  "modifier_behavior": {
+    "type": "descriptor",
+    "as_modifier": "Adds commitment, contractual weight, cyclical nature, or binding quality to the card it touches. Whatever is next to the Ring becomes a promise, a partnership, or a repeating pattern.",
+    "as_modified": "The card's core meaning is what the commitment is about, or what triggers the bond. Card A is the reason the ring is offered—or the thing the ring binds you to."
+  },
+
+  "topic_contexts": {
+    "love": "Marriage, engagement, long-term committed partnership. The love that says 'I choose you, again and again.' Fidelity, devotion, the relationship that has been formalized or needs to be.",
+    "career": "Business partnerships, contracts, professional commitments. Signing on the dotted line. The job you've committed to, the client you're bound to, the professional alliance that defines your career.",
+    "health": "Chronic or cyclical health patterns, ongoing treatment commitments, health routines. The medication you take every day, the condition that comes and goes, the cycle your body follows.",
+    "finances": "Financial contracts, recurring payments, subscriptions, loans. Money bound by agreement. The mortgage, the lease, the financial partnership. Wealth through committed investment.",
+    "spiritual": "Vows, spiritual commitments, devotional practice. The discipline of returning to practice daily. Karma—the spiritual ring of cause and effect. What you are bound to, lifetime after lifetime."
+  },
+
+  "line_reading": {
+    "as_first": "The matter concerns a commitment, contract, or cycle. Something binding opens the reading—a promise made, a partnership formed, or a pattern repeating.",
+    "as_middle": "A commitment enters the situation. A contract, promise, or binding agreement changes the dynamic. What was loose becomes tied.",
+    "as_last": "The outcome is a commitment. The matter resolves in a contract, partnership, or promise. Something is bound—for better or for worse."
+  },
+
+  "combination_grammar": {
+    "description": "Fallback rules for unlisted combinations.",
+    "as_card_a": "When The Ring appears BEFORE (left of) another card, it commits to or binds Card B. Whatever Card B represents is now promised, contracted, or locked into a cycle. Think: 'committed to [Card B]' or 'a contract about [Card B].'",
+    "as_card_b": "When The Ring appears AFTER (right of) another card, Card A leads to a commitment or cycle. Think: '[Card A] creates a bond' or '[Card A] leads to a contract.' Card A puts on the ring.",
+    "with_positive_card": "A blessed commitment, a joyful partnership, a cycle of good things. The ring shines.",
+    "with_negative_card": "A binding problem, a commitment you can't escape, a negative cycle repeating. The ring tightens.",
+    "with_person_card": "That person is committed, a partner, a spouse, or someone you're contractually bound to. The ring belongs to them—or binds them to you.",
+    "with_object_card": "That object or concept is bound by agreement, part of a cycle, or a commitment. It's not casual—it's contracted."
+  },
+
+  "combinations": [
+    {
+      "with": "the_gentleman",
+      "with_number": 28,
+      "category": "person",
+      "as_first": "A committed man, a husband, a male business partner. A man bound by contract or promise. He wears the ring.",
+      "as_second": "A man leads to commitment, a man offers the ring, a man is the reason for the contract."
+    },
+    {
+      "with": "the_lady",
+      "with_number": 29,
+      "category": "person",
+      "as_first": "A committed woman, a wife, a female business partner. A woman bound by contract or promise. She wears the ring.",
+      "as_second": "A woman leads to commitment, a woman offers the ring, a woman is the reason for the contract."
+    },
+    {
+      "with": "the_child",
+      "with_number": 13,
+      "category": "person",
+      "as_first": "A new commitment, a young partnership, a fresh contract. The ring is new on the finger—shiny and untested.",
+      "as_second": "A new beginning leads to commitment, something young triggers a bond, a fresh start becomes a promise."
+    },
+    {
+      "with": "the_heart",
+      "with_number": 24,
+      "category": "positive",
+      "as_first": "A love commitment, engagement, marriage for love. The ring given with a full heart. The most romantic pairing in the deck.",
+      "as_second": "Love leads to commitment, the heart demands a promise, romance becomes a contract. Love puts on the ring."
+    },
+    {
+      "with": "the_key",
+      "with_number": 33,
+      "category": "positive",
+      "as_first": "An important commitment, a destined partnership, the contract that changes everything. The ring IS the key.",
+      "as_second": "A breakthrough leads to commitment, a solution becomes a contract, the key unlocks the partnership."
+    },
+    {
+      "with": "the_sun",
+      "with_number": 31,
+      "category": "positive",
+      "as_first": "A joyful commitment, a successful partnership, a contract that brings happiness. The ring in sunlight—golden and warm.",
+      "as_second": "Success leads to commitment, joy creates a bond, happiness becomes a promise."
+    },
+    {
+      "with": "the_anchor",
+      "with_number": 35,
+      "category": "positive",
+      "as_first": "A committed career, a stable partnership, a contract with deep roots. The ring and the anchor—doubly bound, doubly stable.",
+      "as_second": "Stability leads to commitment, work creates a contract, the anchor demands a ring."
+    },
+    {
+      "with": "the_coffin",
+      "with_number": 8,
+      "category": "negative",
+      "as_first": "A commitment ending, a contract cancelled, a partnership dying. Divorce, dissolution, the ring coming off.",
+      "as_second": "An ending leads to a commitment (sometimes death binds harder than life), closure triggers a contract, finality creates a cycle."
+    },
+    {
+      "with": "the_snake",
+      "with_number": 7,
+      "category": "negative",
+      "as_first": "A complicated commitment, a deceptive contract, a partnership with hidden agendas. The ring hides a serpent.",
+      "as_second": "Complications lead to binding, deception creates a trap disguised as a partnership."
+    },
+    {
+      "with": "the_mice",
+      "with_number": 23,
+      "category": "negative",
+      "as_first": "A commitment being eroded, a contract losing value, a partnership gnawed by worry. The ring is tarnishing.",
+      "as_second": "Loss leads to binding (sometimes you commit harder when things are failing), anxiety about the partnership."
+    },
+    {
+      "with": "the_scythe",
+      "with_number": 10,
+      "category": "negative",
+      "as_first": "A commitment cut, a contract severed, a partnership ended suddenly. The ring is broken—cleanly, sharply.",
+      "as_second": "A sudden event leads to commitment (shotgun wedding, emergency contract), a cut creates an unexpected bond."
+    },
+    {
+      "with": "the_house",
+      "with_number": 4,
+      "category": "object",
+      "as_first": "A domestic commitment, a household contract, a family bond. The ring at home—marriage, mortgage, family promise.",
+      "as_second": "Home leads to commitment, family creates a bond, domestic life demands a contract."
+    },
+    {
+      "with": "the_letter",
+      "with_number": 27,
+      "category": "object",
+      "as_first": "A written contract, a commitment on paper, a signed agreement. The ring and the letter: formally bound.",
+      "as_second": "A document leads to commitment, a letter triggers a contract, written words become binding."
+    },
+    {
+      "with": "the_fish",
+      "with_number": 34,
+      "category": "object",
+      "as_first": "A financial commitment, a business contract, a partnership about money. The ring is gold—literally.",
+      "as_second": "Money leads to commitment, finances create a bond, wealth demands a contract."
+    },
+    {
+      "with": "the_tower",
+      "with_number": 19,
+      "category": "object",
+      "as_first": "An institutional commitment, an official contract, a corporate partnership. The ring stamped with authority.",
+      "as_second": "Authority leads to commitment, an institution demands a contract, official channels formalize the bond."
+    }
+  ],
+
+  "grand_tableau": {
+    "as_house": "The House of Commitment — Cards landing here speak to what bonds, contracts, cycles, and partnerships are active in the querent's life. This house asks: what are you bound to? What promises define you?",
+    "near_significator": "Commitment is central. The querent is deeply involved in partnerships, contracts, or cycles. Bonds define their current situation—whether chosen or inherited.",
+    "far_from_significator": "Commitment is peripheral. Contracts and partnerships aren't the main focus, or the querent has distance from binding obligations.",
+    "diagonal_or_corner": "Commitments subtly shape things. Contracts, cycles, or partnerships operate in the background—binding forces the querent may not be fully aware of."
+  }
+}
