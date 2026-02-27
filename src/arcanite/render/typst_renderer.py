@@ -258,7 +258,8 @@ class TypstRenderer:
 
         try:
             # Use the Python typst package to compile
-            pdf_bytes = typst.compile(input_path)
+            # Set root to filesystem root so absolute paths work
+            pdf_bytes = typst.compile(input_path, root="/")
             output_path.write_bytes(pdf_bytes)
         except Exception as e:
             raise RuntimeError(f"Typst compilation failed:\n{e}")

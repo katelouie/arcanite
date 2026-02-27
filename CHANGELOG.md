@@ -13,12 +13,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Cards now organized by system: `cards/json/tarot/`, `cards/json/lenormand/`
   - Spreads now organized by system: `tarot-spreads.json`, `lenormand-spreads.json`
   - Deck and spread loaders accept `system` parameter (defaults to `"tarot"`)
-- **Lenormand card schema**: Template card (`l03_the_ship.json`) with Lenormand-specific structure
+- **Complete Lenormand deck**: All 36 cards with rich schema
   - Directional combinations (`as_first` / `as_second`) for reading cards in sequence
-  - Few-shot combination examples by category (person, positive, negative, object)
+  - Stratified combination sampling by category (person, positive, negative, neutral)
+  - `combination_grammar` fallback rules for LLM synthesis of unlisted pairs
+  - `modifier_behavior` describing how each card modifies adjacent cards
+  - `topic_contexts` for love, career, health, finances, spiritual
+  - `timing` data (duration, speed, direction) for predictive readings
+  - `as_person` archetypes for person-focused readings
   - Line reading positions (`as_first`, `as_middle`, `as_last`)
-  - Grand Tableau house meanings
-- **Lenormand spreads config**: Initial spread definitions
+  - Grand Tableau house meanings with near/far significator interpretations
+  - Schema reference documentation (`lenormand_schema_reference.md`)
+- **Lenormand spreads config**: Spread definitions for line readings
   - 3-card and 5-card line spreads with positional roles
   - Full 36-card house definitions for Grand Tableau
   - Layouts for horizontal line readings
@@ -27,8 +33,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **PDF report generation**: Full Typst-based PDF rendering system
   - `TypstRenderer` class for generating reading reports
   - `render_reading_to_pdf()` convenience function
-  - Spread visualization with positioned cards
-  - Card-by-card sections with interpretations and keywords
+  - Spread visualization with positioned card images and position labels
+  - Card-by-card sections with card images, interpretations, and keywords
+  - Reversed cards displayed upside-down in both sections
   - Conditional synthesis section (only shown for LLM-generated readings)
   - Card relationship display
   - Uses Python `typst` package (no CLI required)

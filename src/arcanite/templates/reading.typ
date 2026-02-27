@@ -128,7 +128,7 @@
 
   // Container dimensions
   #let container-width = 450pt
-  #let container-height = 160pt
+  #let container-height = 175pt
   #let card-width = 55pt
   #let card-height = 77pt
 
@@ -151,20 +151,46 @@
       )[
         #let card = cards.at(i, default: none)
         #if card != none [
-          #box(
-            width: card-width,
-            height: card-height,
-            radius: 3pt,
-            fill: white,
-            stroke: 1pt + accent-color,
-            inset: 4pt,
-          )[
-            #set text(hyphenate: true)
-            #set par(justify: false, leading: 0.4em)
-            #align(center + horizon)[
-              #text(size: 7pt, weight: "bold")[#card.at(1)]
-              #v(3pt)
-              #text(size: 6pt)[#card.at(0)]
+          #let card-image-path = card.at(3)
+          #let card-orientation = card.at(2)
+
+          // Show card image if available, otherwise text fallback
+          #if show_card_images and card-image-path != none and card-image-path != "none" [
+            #stack(
+              dir: ttb,
+              spacing: 2pt,
+              box(
+                width: card-width,
+                height: card-height,
+                radius: 3pt,
+                clip: true,
+                stroke: 1pt + accent-color,
+              )[
+                #if card-orientation == "reversed" [
+                  #rotate(180deg)[#image(card-image-path, width: 100%, height: 100%, fit: "cover")]
+                ] else [
+                  #image(card-image-path, width: 100%, height: 100%, fit: "cover")
+                ]
+              ],
+              align(center)[#text(size: 6pt, fill: accent-color)[#card.at(1)]]
+            )
+          ] else [
+            // Text fallback when no image
+            #box(
+              width: card-width,
+              height: card-height,
+              radius: 3pt,
+              fill: white,
+              stroke: 1pt + accent-color,
+              inset: 4pt,
+            )[
+              #set text(hyphenate: true)
+              #set par(justify: false, leading: 0.4em)
+              #align(center + horizon)[
+                #text(size: 7pt, weight: "bold")[#card.at(1)]
+                #v(3pt)
+                #text(size: 6pt)[#card.at(0)]
+              ]
             ]
           ]
         ]
@@ -192,26 +218,51 @@
   #let orient-color = if orientation == "reversed" { reversed-color } else { upright-color }
 
   #card-frame[
-    #text(size: 14pt, weight: "bold")[#name]
-    #h(8pt)
-    #text(size: 11pt, fill: orient-color)[(#orientation)]
-    #v(4pt)
+    #grid(
+      columns: if show_card_images and image_path != none and image_path != "none" { (85pt, 1fr) } else { (1fr,) },
+      gutter: 16pt,
 
-    #text(size: 10pt, weight: "semibold", fill: accent-color)[#position]
-    #if position_desc != none [
-      #text(size: 10pt, fill: gray)[ — #position_desc]
-    ]
-    #v(8pt)
+      // Card image column (if enabled)
+      if show_card_images and image_path != none and image_path != "none" [
+        #box(
+          width: 75pt,
+          height: 110pt,
+          radius: 4pt,
+          clip: true,
+          stroke: 0.5pt + card-border,
+        )[
+          #if orientation == "reversed" [
+            #rotate(180deg)[#image(image_path, width: 100%, height: 100%, fit: "cover")]
+          ] else [
+            #image(image_path, width: 100%, height: 100%, fit: "cover")
+          ]
+        ]
+      ],
 
-    #text(size: 11pt)[#interpretation]
+      // Text content column
+      [
+        #text(size: 14pt, weight: "bold")[#name]
+        #h(8pt)
+        #text(size: 11pt, fill: orient-color)[(#orientation)]
+        #v(4pt)
 
-    #if keywords.len() > 0 [
-      #v(8pt)
-      #for word in keywords [
-        #keyword-tag(word)
-        #h(4pt)
+        #text(size: 10pt, weight: "semibold", fill: accent-color)[#position]
+        #if position_desc != none [
+          #text(size: 10pt, fill: gray)[ — #position_desc]
+        ]
+        #v(8pt)
+
+        #text(size: 11pt)[#interpretation]
+
+        #if keywords.len() > 0 [
+          #v(8pt)
+          #for word in keywords [
+            #keyword-tag(word)
+            #h(4pt)
+          ]
+        ]
       ]
-    ]
+    )
   ]
   #v(12pt)
 ]
