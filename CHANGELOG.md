@@ -79,7 +79,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Question classifier**: Auto-detect question type for context-aware interpretations
 - **Tradition prompts**: YAML-based prompt templates with Jinja2
   - `intuitive.yaml`: Warm, accessible, practical guidance
-  - `kate-signature.yaml`: Psychologically rich, analytical, "compassionate scalpel" style
 - **Reading engine**: Card drawing with reversals toggle, spread assignment
 - **Documentation**: Comprehensive README with usage examples
 
