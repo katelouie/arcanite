@@ -24,13 +24,26 @@ user: |
   {% for card in cards %}
   ### Position {{ loop.index }}: {{ card.position_name }}
   **{{ card.card_name }}** ({{ card.orientation }})
+  {% if card.archetype %}*Archetype:* {{ card.archetype | replace('_', ' ') | title }}{% endif %}
+  {% if card.element or card.zodiac %}*Elemental:* {% if card.element %}{{ card.element | title }}{% endif %}{% if card.element and card.zodiac %} / {% endif %}{% if card.zodiac %}{{ card.zodiac | title }}{% endif %}{% endif %}
 
   *What this position represents:* {{ card.position_description }}
 
-  *Card interpretation for this position:*
+  *Card essence:* {{ card.core_essence }}
+
+  *Position-specific interpretation:*
   {{ card.position_interpretation }}
 
   *Keywords:* {{ card.position_keywords | join(', ') }}
+
+  *Psychological dimension:* {{ card.psychological }}
+
+  *Shadow aspect:* {{ card.shadow }}
+  {% if card.symbols %}
+
+  *Card symbols:*
+  {% for symbol, meaning in card.symbols.items() %}- {{ symbol | replace('_', ' ') | title }}: {{ meaning }}
+  {% endfor %}{% endif %}
   {% if card.question_context %}
 
   *{{ question_type | title }} context:* {{ card.question_context }}
@@ -49,7 +62,7 @@ user: |
 
   Structure your response as:
   1. **Opening** - Set the overall tone/theme (1-2 sentences)
-  2. **The Journey** - Weave through each card position naturally, showing how they connect
+  2. **The Journey** - Weave through each card position naturally, showing how they connect. Draw on the archetypes, symbols, and psychological dimensions to add depth.
   3. **Key Insights** - 2-3 main takeaways
   4. **Closing Guidance** - Empowering advice for moving forward
 

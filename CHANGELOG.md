@@ -5,6 +5,32 @@ All notable changes to Arcanite will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+
+- **Rich card identity data**: Full psychological depth now flows through the interpretation pipeline
+  - `CardInterpretation` model includes: `archetype`, `psychological`, `spiritual`, `practical`, `shadow`, `symbols`, `affirmations`, `element`, `zodiac`
+  - `DeterministicAssembler` automatically populates all rich fields from card JSON
+  - Both LLM prompts and PDF output now display the full card identity
+- **Prompt appendix for PDF reports**: Debug/examination feature for prompt refinement
+  - `PDFConfig.include_prompt_appendix` option (default: `False`)
+  - When enabled, appends full system and user prompts to PDF
+  - `SynthesizedReading` now stores `system_prompt` and `user_prompt` for reproducibility
+- **Enhanced tradition templates**: Both templates now leverage rich card data
+  - `intuitive.yaml`: Includes archetype, element/zodiac, core essence, psychological, shadow, and symbols
+  - `kate-signature.yaml`: Full psychological depth for "compassionate scalpel" readings
+
+### Changed
+
+- PDF card-by-card sections now display:
+  - Archetype (italic, inline with card name)
+  - Element/zodiac correspondences
+  - Core essence
+  - Psychological dimension (light box)
+  - Shadow aspect (warm warning box)
+- Tightened vertical spacing in PDF card boxes for more compact layout
+
 ## [0.2.0]
 
 ### Added

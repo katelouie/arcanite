@@ -23,7 +23,7 @@
 #let question = none
 #let question_type = none
 
-// Cards array: ((name, position, orientation, image_path, interpretation, keywords, position_desc), ...)
+// Cards array: ((name, position, orientation, image_path, interpretation, keywords, position_desc, archetype, core_essence, psychological, shadow, element, zodiac), ...)
 #let cards = ()
 
 // Relationships array: ((card1, card2, type, interpretation), ...)
@@ -40,6 +40,11 @@
 #let show_card_images = true
 #let show_relationships = true
 #let show_synthesis = true  // Only show Reading section for LLM-synthesized readings
+#let show_prompt_appendix = false  // Debug: show full LLM prompt
+
+// Prompt content for appendix (when enabled)
+#let system_prompt = none
+#let user_prompt = none
 
 // =============================================================================
 // Colors
@@ -214,6 +219,12 @@
   #let interpretation = card.at(4)
   #let keywords = card.at(5)
   #let position_desc = card.at(6)
+  #let archetype = card.at(7, default: none)
+  #let core_essence = card.at(8, default: none)
+  #let psychological = card.at(9, default: none)
+  #let shadow = card.at(10, default: none)
+  #let element = card.at(11, default: none)
+  #let zodiac = card.at(12, default: none)
 
   #let orient-color = if orientation == "reversed" { reversed-color } else { upright-color }
 
@@ -242,23 +253,71 @@
       // Text content column
       [
         #text(size: 14pt, weight: "bold")[#name]
-        #h(8pt)
+        #h(6pt)
         #text(size: 11pt, fill: orient-color)[(#orientation)]
-        #v(4pt)
+        #if archetype != none and archetype != "" [
+          #h(6pt)
+          #text(size: 9pt, fill: gray, style: "italic")[#archetype]
+        ]
+        // Elemental correspondences (inline)
+        #if element != none or zodiac != none [
+          #h(6pt)
+          #text(size: 9pt, fill: accent-color)[
+            #if element != none [#element]
+            #if element != none and zodiac != none [·]
+            #if zodiac != none [#zodiac]
+          ]
+        ]
+        #v(3pt)
 
         #text(size: 10pt, weight: "semibold", fill: accent-color)[#position]
         #if position_desc != none [
           #text(size: 10pt, fill: gray)[ — #position_desc]
         ]
-        #v(8pt)
+        #v(5pt)
+
+        // Core essence
+        #if core_essence != none and core_essence != "" [
+          #text(size: 10pt, style: "italic", fill: rgb(100, 100, 100))[#core_essence]
+          #v(5pt)
+        ]
 
         #text(size: 11pt)[#interpretation]
 
         #if keywords.len() > 0 [
-          #v(8pt)
+          #v(5pt)
           #for word in keywords [
             #keyword-tag(word)
-            #h(4pt)
+            #h(3pt)
+          ]
+        ]
+
+        // Psychological dimension
+        #if psychological != none and psychological != "" [
+          #v(6pt)
+          #block(
+            width: 100%,
+            inset: 6pt,
+            radius: 3pt,
+            fill: rgb(248, 250, 252),
+          )[
+            #text(size: 9pt, weight: "semibold", fill: accent-color)[Psychological:]
+            #text(size: 9pt)[ #psychological]
+          ]
+        ]
+
+        // Shadow aspect
+        #if shadow != none and shadow != "" [
+          #v(4pt)
+          #block(
+            width: 100%,
+            inset: 6pt,
+            radius: 3pt,
+            fill: rgb(254, 249, 243),
+            stroke: 0.5pt + rgb(234, 179, 133),
+          )[
+            #text(size: 9pt, weight: "semibold", fill: rgb(180, 100, 50))[Shadow:]
+            #text(size: 9pt)[ #shadow]
           ]
         ]
       ]
@@ -312,6 +371,52 @@
   )[
     #set par(leading: 0.8em)
     #synthesis
+  ]
+]
+
+// =============================================================================
+// Prompt Appendix (Debug/Examination)
+// =============================================================================
+
+#if show_prompt_appendix [
+  #pagebreak()
+
+  #align(center)[
+    #text(size: 18pt, weight: "bold", fill: accent-color)[Appendix: LLM Prompt]
+    #v(0.5em)
+    #text(size: 10pt, fill: gray)[For examination and prompt refinement]
+  ]
+  #v(1em)
+
+  #if system_prompt != none [
+    #section-heading("System Prompt")
+    #block(
+      width: 100%,
+      inset: 12pt,
+      radius: 4pt,
+      fill: rgb(248, 250, 252),
+      stroke: 0.5pt + card-border,
+    )[
+      #set text(font: "Menlo", size: 9pt)
+      #set par(leading: 0.6em)
+      #system_prompt
+    ]
+    #v(1em)
+  ]
+
+  #if user_prompt != none [
+    #section-heading("User Prompt")
+    #block(
+      width: 100%,
+      inset: 12pt,
+      radius: 4pt,
+      fill: rgb(248, 250, 252),
+      stroke: 0.5pt + card-border,
+    )[
+      #set text(font: "Menlo", size: 9pt)
+      #set par(leading: 0.6em)
+      #user_prompt
+    ]
   ]
 ]
 

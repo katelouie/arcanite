@@ -103,9 +103,13 @@ class TypstRenderer:
         if is_synthesized:
             context = reading.assembled_context
             synthesis = reading.synthesis
+            system_prompt = reading.system_prompt
+            user_prompt = reading.user_prompt
         else:
             context = reading
             synthesis = ""  # No synthesis for deterministic-only
+            system_prompt = None
+            user_prompt = None
 
         # Build cards array
         cards_typst = self._build_cards_array(context)
@@ -137,6 +141,10 @@ class TypstRenderer:
 #let show_card_images = {str(self._config.include_card_images).lower()}
 #let show_relationships = {str(self._config.include_relationships).lower()}
 #let show_synthesis = {str(is_synthesized).lower()}
+#let show_prompt_appendix = {str(self._config.include_prompt_appendix and is_synthesized).lower()}
+
+#let system_prompt = {self._typst_content_block(system_prompt) if system_prompt else "none"}
+#let user_prompt = {self._typst_content_block(user_prompt) if user_prompt else "none"}
 '''
 
         # Read the template and inject variables
@@ -166,7 +174,12 @@ class TypstRenderer:
             # Build keywords array (no limit)
             keywords = ", ".join(f'"{self._escape(k)}"' for k in card.position_keywords)
 
+            # Format archetype nicely (replace underscores, title case)
+            archetype = card.archetype.replace("_", " ").title() if card.archetype else ""
+
             # No truncation - include full text
+            # Order: name, position, orientation, image_path, interpretation, keywords, position_desc,
+            #        archetype, core_essence, psychological, shadow, element, zodiac
             cards.append(
                 f'("{self._escape(card.card_name)}", '
                 f'"{self._escape(card.position_name)}", '
@@ -174,7 +187,13 @@ class TypstRenderer:
                 f'{image_path}, '
                 f'"{self._escape(card.position_interpretation)}", '
                 f'({keywords}), '
-                f'"{self._escape(card.position_description)}")'
+                f'"{self._escape(card.position_description)}", '
+                f'"{self._escape(archetype)}", '
+                f'"{self._escape(card.core_essence)}", '
+                f'"{self._escape(card.psychological)}", '
+                f'"{self._escape(card.shadow)}", '
+                f'"{self._escape(card.element or "")}", '
+                f'"{self._escape(card.zodiac or "")}")'
             )
 
         return "(\n  " + ",\n  ".join(cards) + "\n)"

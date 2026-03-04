@@ -82,6 +82,9 @@ class DeterministicAssembler:
             # Get core meaning for additional context
             core_meaning = card.get_core_meaning(is_reversed)
 
+            # Get rich card identity data
+            elemental = card.get_elemental_correspondences()
+
             card_interpretations.append(
                 CardInterpretation(
                     card_id=drawn_card.card_id,
@@ -96,6 +99,16 @@ class DeterministicAssembler:
                     question_keywords=question_keywords,
                     core_essence=core_meaning.get("essence", ""),
                     core_keywords=core_meaning.get("keywords", []),
+                    # Rich card identity data
+                    archetype=card.archetype,
+                    psychological=core_meaning.get("psychological", ""),
+                    spiritual=core_meaning.get("spiritual", ""),
+                    practical=core_meaning.get("practical", ""),
+                    shadow=core_meaning.get("shadow", ""),
+                    symbols=card.get_symbols(),
+                    affirmations=card.get_affirmations(),
+                    element=elemental.get("element"),
+                    zodiac=elemental.get("zodiac"),
                     image_path=drawn_card.image_path,
                 )
             )
@@ -114,6 +127,16 @@ class DeterministicAssembler:
                 "question_keywords": question_keywords,
                 "core_essence": core_meaning.get("essence", ""),
                 "core_keywords": core_meaning.get("keywords", []),
+                # Rich card identity data
+                "archetype": card.archetype,
+                "psychological": core_meaning.get("psychological", ""),
+                "spiritual": core_meaning.get("spiritual", ""),
+                "practical": core_meaning.get("practical", ""),
+                "shadow": core_meaning.get("shadow", ""),
+                "symbols": card.get_symbols(),
+                "affirmations": card.get_affirmations(),
+                "element": elemental.get("element"),
+                "zodiac": elemental.get("zodiac"),
                 "image_path": str(drawn_card.image_path) if drawn_card.image_path else None,
                 "raw_card_data": card.raw_data,
             })

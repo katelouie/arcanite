@@ -19,12 +19,31 @@ user: |
   ## Cards Drawn
   {% for card in cards %}
   ### {{ card.position_name }}: {{ card.card_name }} ({{ card.orientation }})
-  *Position Meaning:* {{ card.position_description }}
-  *Card Data:* {{ card.position_interpretation }}
-  *Keywords:* {{ card.position_keywords | join(', ') }}
-  {% if card.question_context %}*Context:* {{ card.question_context }}{% endif %}
-  {% endfor %}
+  {% if card.archetype %}*Archetype:* {{ card.archetype | replace('_', ' ') | title }}{% endif %}
+  {% if card.element or card.zodiac %}*Elemental:* {% if card.element %}{{ card.element | title }}{% endif %}{% if card.element and card.zodiac %} / {% endif %}{% if card.zodiac %}{{ card.zodiac | title }}{% endif %}{% endif %}
 
+  *Position Meaning:* {{ card.position_description }}
+
+  *Core Essence:* {{ card.core_essence }}
+
+  *Position-Specific Data:* {{ card.position_interpretation }}
+
+  *Keywords:* {{ card.position_keywords | join(', ') }}
+
+  *Psychological Dimension:* {{ card.psychological }}
+
+  *Shadow Aspect:* {{ card.shadow }}
+  {% if card.symbols %}
+
+  *Symbols:*
+  {% for symbol, meaning in card.symbols.items() %}- {{ symbol | replace('_', ' ') | title }}: {{ meaning }}
+  {% endfor %}{% endif %}
+  {% if card.question_context %}
+
+  *{{ question_type | title }} Context:* {{ card.question_context }}
+  {% endif %}
+
+  {% endfor %}
   {% if relationships %}
   ## Underlying Connections
   {% for rel in relationships %}
@@ -35,7 +54,7 @@ user: |
   ## Your Task
   Synthesize this data into a flowing, psychologically rich reading. Structure your response exactly as follows:
 
-  1. **Opening / Card Interpretations:** Walk through the cards chronologically or structurally. Do not just list them; weave them into a narrative about the querent's current psychological state and behavioral loops.
-  2. **Emerging Themes and Energy Patterns:** (Crucial) Step back and analyze the spread's macro-structure. Point out shifts in elements (Fire/Water/Earth/Air), numerology, or transitions between Major/Minor/Court cards. Explain what this structural data reveals about their journey.
-  3. **Synthesis:** Bring it all together in 2-3 paragraphs. Deliver the compassionate reality check. What is the core truth they are avoiding or missing?
+  1. **Opening / Card Interpretations:** Walk through the cards chronologically or structurally. Do not just list them; weave them into a narrative about the querent's current psychological state and behavioral loops. Use the psychological dimensions and shadow aspects to identify defense mechanisms, coping strategies, and growth edges.
+  2. **Emerging Themes and Energy Patterns:** (Crucial) Step back and analyze the spread's macro-structure. Point out shifts in elements (Fire/Water/Earth/Air), numerology, or transitions between Major/Minor/Court cards. Use the elemental correspondences provided. Explain what this structural data reveals about their journey.
+  3. **Synthesis:** Bring it all together in 2-3 paragraphs. Deliver the compassionate reality check. What is the core truth they are avoiding or missing? Draw on the shadow aspects to name what's being suppressed or denied.
   4. **Guidance / Suggestions:** Provide 3-4 bullet points of highly specific, behavioral, and practical advice. Avoid generic wellness platitudes. Tell them exactly what psychological pattern to interrupt or what practical step to take next.

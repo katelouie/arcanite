@@ -214,6 +214,19 @@ class CardInterpretation(BaseModel):
     core_essence: str = ""
     core_keywords: list[str] = Field(default_factory=list)
 
+    # Rich card identity data
+    archetype: str = ""
+    psychological: str = ""
+    spiritual: str = ""
+    practical: str = ""
+    shadow: str = ""
+    symbols: dict[str, str] = Field(default_factory=dict)
+    affirmations: list[str] = Field(default_factory=list)
+
+    # Elemental correspondences
+    element: str | None = None
+    zodiac: str | None = None
+
     # Image path for rendering
     image_path: Path | None = None
 
@@ -321,6 +334,10 @@ class SynthesizedReading(BaseModel):
     # Original assembled context (for reference/fallback)
     assembled_context: AssembledContext
 
+    # Rendered prompts (for debugging/examination)
+    system_prompt: str | None = None
+    user_prompt: str | None = None
+
     # Metadata
     model_used: str = ""
     tokens_used: int = 0
@@ -370,6 +387,7 @@ class PDFConfig(BaseModel):
     include_card_sections: bool = True
     include_card_images: bool = True
     include_relationships: bool = True
+    include_prompt_appendix: bool = False  # Debug: show full LLM prompt in appendix
     page_size: str = "letter"  # letter, a4
 
     model_config = ConfigDict(arbitrary_types_allowed=True)

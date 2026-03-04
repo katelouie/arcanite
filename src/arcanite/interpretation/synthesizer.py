@@ -58,6 +58,16 @@ class TraditionPrompt:
                     "position_keywords": c.position_keywords,
                     "question_context": c.question_context,
                     "core_essence": c.core_essence,
+                    # Rich card identity data
+                    "archetype": c.archetype,
+                    "psychological": c.psychological,
+                    "spiritual": c.spiritual,
+                    "practical": c.practical,
+                    "shadow": c.shadow,
+                    "symbols": c.symbols,
+                    "affirmations": c.affirmations,
+                    "element": c.element,
+                    "zodiac": c.zodiac,
                 }
                 for c in context.card_interpretations
             ],
@@ -123,6 +133,8 @@ class ReadingSynthesizer:
             tradition=self._tradition_name,
             synthesis=response.content,
             assembled_context=context,
+            system_prompt=system,
+            user_prompt=user,
             model_used=self._provider.model_name,
             tokens_used=response.total_tokens,
         )
