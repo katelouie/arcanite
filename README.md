@@ -198,9 +198,14 @@ render_reading_to_pdf(
 The PDF includes:
 
 - Spread visualization with positioned cards
-- Card-by-card interpretations with keywords
+- Card-by-card interpretations with:
+  - Archetype and elemental correspondences
+  - Core essence and position-specific meaning
+  - Psychological dimension and shadow aspect
+  - Keywords
 - Card relationships (if present)
 - Synthesized reading narrative (if LLM-generated)
+- Optional prompt appendix for debugging/refinement (set `PDFConfig(include_prompt_appendix=True)`)
 
 ## Card Data Structure
 
@@ -217,8 +222,10 @@ Each card includes:
 
 - [x] PDF report generation with Typst
 - [x] Lenormand support foundation (schema + spreads)
+- [x] Complete Lenormand deck (36 cards with rich schema)
+- [x] Rich card identity data in LLM prompts and PDFs
 - [ ] More tradition prompts (Jungian, Golden Dawn, Marseille)
-- [ ] Complete Lenormand deck (36 cards)
+- [ ] Lenormand interpretation engine
 - [ ] Web interface
 
 ## License
